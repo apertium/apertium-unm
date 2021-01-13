@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-unm
+
+Name: apertium-unm
+Description: Finite-state morphological transducer and constraint grammar for Unami
+Version: @VERSION@
+
