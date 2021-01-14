@@ -27,23 +27,80 @@
 ###############################################################################
 
 PATTERNS
-NounRoot RegNounInfl
+
+NounRoot-Anim NounInfl-Anim
+NounRoot-Inan NounInfl-Inan
+
 Punctuation
 
 
-LEXICON RegNounInfl
+LEXICON NounInfl-Anim
 
-<n><sg>:
-<n><pl>:>s
+<n><aa><sg>:
+<n><aa><pl>:>{y}{A}k
+
+
+LEXICON NounInfl-Inan
+
+<n><nn><sg>:
+<n><nn><pl>:>{y}{A}
+
+
 
 
 ###############################################################################
 ###                          L E X I C O N                                  ###
 ###############################################################################
 
-LEXICON NounRoot
+LEXICON NounRoot-Anim
 
-house:house   # A noun
+ahas:ahas					# "crow" pl - ahasak
+teme:teme					# "wolf" pl - temeyok
+maxkw:maxkw					# "bear" pl - maxkok
+aiham:aiham					# "golden eagle" pl - aihamuk
+ketukw:ket{u}kw			# "knee" pl - ketkuk
+
+
+LEXICON NounRoot-Inan
+
+hempes:hemp{e}s			# "shirt, clothes" pl - hempsa
+ahkwiyan:ahkwiyan			# "blanket"
+chipakw:chipakw			# "shoe" pl - chipako
+shope:shope					# "shore" pl - shopeyo
+milaxk:milaxk				# "human hair"
+mixeken:mixeken			# "body hair, fur"
+mamon:mamon					# "eyebrow"
+xkwekankan:xkewkankan	# "neck"
+wananu:wananu				# "cheek" pl - wananuwa
+hwikwi:hwikwi				# "chin"
+shetun:shetun				# "lip"
+wipit:wipit					# "tooth"
+kwitsit:kwitsit			# "toe"
+wiskon:wiskon				# "elbow"
+hwikash:hwikash			# "nail, hoof, claw"
+welench:welench			# "finger"
+ahshilunkon:ahshilunkon	# "armpit"
+tukwelench:tukwelench	# "fish"
+xkelixen:xkelixen			# "rib"
+xkan:xkan					# "bone"
+mutay:mutay					# "stomach"
+weshkinkw:weshkinkw		# "eye; face" pl - weshkinko
+teh:teh						# "heart"
+pom:pom						# "thigh; ham"
+hwikxkon:hwikxkon			# "shin"
+tankat:tankat				# "ankle"
+tuhwepi:tuhwepi			# "body"
+wil:wil						# "head"
+hopikon:hopikon			# "shoulder"
+hwitaok:hwitaok			# "ear"
+tun:tun						# "mouth"
+wikiyon:wikiyon			# "nose"
+naolk:naolk					# "arm"
+naxk:naxk					# "hand"
+hwikat:hwikat				# "leg"
+wsit:wsit					# "foot"
+
+
 
 
 LEXICON Punctuation
