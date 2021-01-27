@@ -31,6 +31,8 @@ PATTERNS
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
+:VerbInfl(1) VerbRoot [<v>:] :VerbInfl(2) VerbInfl(3):
+
 Punctuation
 
 
@@ -45,7 +47,15 @@ LEXICON NounInfl-Inan
 <n><nn><sg>:
 <n><nn><pl>:>{y}{A}
 
+LEXICON VerbInfl(3)
 
+:{N}>   >{½}          <p1><sg>
+:{k}>   >{½}          <p2><sg>
+:       >{³}          <p3><sg>
+:{N}>   >{½}>hena     <p1><incl><pl>
+:{k}>   >{½}>hena     <p1><excl><pl>
+:{k}>   >{½}>hemo     <p2><pl>
+:       >{³}>{y}{A}k  <p3><sg>
 
 
 ###############################################################################
@@ -100,6 +110,14 @@ naxk:naxk					# "hand"
 hwikat:hwikat				# "leg"
 wsit:wsit					# "foot"
 
+LEXICON VerbRoot
+
+palsu:pals{IU}				# "be sick"
+wikwihel:wikwihel{Æ}		# "be tired"
+kes:kes{IU}					# "be hot"
+akohch:{T}akohch{IU}		# "be cold"
+alemsk:{T}alemsk{Æ}		# "leave/go away"
+mach:mach{I}				# "go home"
 
 
 
