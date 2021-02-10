@@ -114,12 +114,24 @@ wsit:wsit					# "foot"
 
 LEXICON VerbRoot(2)
 
+lamals:{w}lamals{IU}    <iv><aa> # "feel well"
+tixam:tixam{w}{IU}      <iv><aa> # "bathe"
+alam:{t}alam{IU}        <iv><aa> # "be frightened/scared" "корк"
+wishas:wishas{IU}       <iv><aa> # "be frightened/startled" "чочуЭ
+mikentam:mikentam       <iv><aa> # "do something"
+pils:pils{IU}           <iv><aa> # "be clean"
+
 pals:pals{IU}				<iv><aa>	# "be sick"
 wikwihel:wikwihel{Æ}		<iv><aa>	# "be tired"
 kes:kes{IU}					<iv><aa>	# "be hot"
 akohch:{t}akohch{IU}		<iv><aa>	# "be cold"
 alemsk:{t}alemsk{Æ}		<iv><aa>	# "leave/go away"
 machi:mach{I}				<iv><aa>	# "go home"
+
+asu:{t}asu{w}{IU}       <iv><aa> # "sing"
+puhenema:puhenema       <iv><aa> # "drum"
+kentk:kentk{Æ}          <iv><aa> # "dance"
+lashim:lashim{w}{IU}    <iv><aa> # "dream"
 
 
 
