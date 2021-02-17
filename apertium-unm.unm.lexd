@@ -31,9 +31,14 @@ PATTERNS
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
-:VerbInfl(1) VerbRoot(1) [<v>:] VerbRoot(2): :VerbInfl(2) VerbInfl(3):
+:VerbInfl(1) Preverbs? VerbRoot(1) [<v>:] VerbRoot(2): :VerbInfl(2) VerbInfl(3):
 
 Punctuation
+
+
+LEXICON Preverbs
+
+kati<adv>+:kati\       # "almost"
 
 
 LEXICON NounInfl-Anim
@@ -71,6 +76,8 @@ teme:teme					# "wolf" pl - temeyok
 maxkw:maxkw					# "bear" pl - maxkok
 aiham:aiham					# "golden eagle" pl - aihamuk
 ketukw:ket{u}kw			# "knee" pl - ketkuk
+chahkol:chahkol         # "frog"
+chulens:chulens         # "bird"
 
 
 LEXICON NounRoot-Inan
@@ -117,7 +124,7 @@ LEXICON VerbRoot(2)
 lamals:{w}lamals{IU}    <iv><aa> # "feel well"
 tixam:tixam{w}{IU}      <iv><aa> # "bathe"
 alam:{t}alam{IU}        <iv><aa> # "be frightened/scared" "корк"
-wishas:wishas{IU}       <iv><aa> # "be frightened/startled" "чочуЭ
+wishas:wishas{IU}       <iv><aa> # "be frightened/startled" "чочу"
 mikentam:mikentam       <iv><aa> # "do something"
 pils:pils{IU}           <iv><aa> # "be clean"
 
@@ -133,7 +140,15 @@ puhenema:puhenema       <iv><aa> # "drum"
 kentk:kentk{Æ}          <iv><aa> # "dance"
 lashim:lashim{w}{IU}    <iv><aa> # "dream"
 
+LEXICON AdjRoot
 
+seks:seks              # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
+wisaw:wisaw            # be yellow    wisawsu|wisawsuwak / wisae|wisaeyo
+op:op                  # be white     opsu|opsuwak / ope|opeyoá
+askaskw:askaskw        # be green
+aon:aon                # be blue      aonsu / aone
+wipunkw:wipunkw        # be grey
+maxk:maxk              # be red
 
 LEXICON Punctuation
 
