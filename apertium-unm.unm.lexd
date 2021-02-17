@@ -19,6 +19,10 @@
 # <pl>  # Plural
 # <sg>  # Singular
 
+# Animacy
+# <aa>  # Animate
+# <nn>  # Inanimate
+
 # Other symbols
 # >      # Morpheme boundary
 
@@ -34,6 +38,21 @@ NounRoot-Inan NounInfl-Inan
 :VerbInfl(1) Preverbs? VerbRoot(1) [<v>:] VerbRoot(2): :VerbInfl(2) VerbInfl(3):
 
 Punctuation
+
+AdjRoot
+
+
+PATTERN AdjRoot
+
+AdjLex [<adj>:] AdjMorph
+
+
+LEXICON AdjMorph
+
+<aa><sg>:su
+<nn><sg>:e
+<aa><pl>:su>{y}{A}k
+<nn><pl>:e>{y}{A}
 
 
 LEXICON Preverbs
@@ -140,7 +159,7 @@ puhenema:puhenema       <iv><aa> # "drum"
 kentk:kentk{Æ}          <iv><aa> # "dance"
 lashim:lashim{w}{IU}    <iv><aa> # "dream"
 
-LEXICON AdjRoot
+LEXICON AdjLex
 
 seks:seks              # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
 wisaw:wisaw            # be yellow    wisawsu|wisawsuwak / wisae|wisaeyo
