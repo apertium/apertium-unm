@@ -1,0 +1,13 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../unm.autogen.hfst
+    Morph: ../unm.automorf.hfst
+
+Tests:
+
+  "[lexc/twol] p1.sg":
+    katup<v><iv><aa><p1><sg> : nkatupwi
+    ite<v><iv><aa><p1><sg> : ntite
+    mits<v><iv><aa><p1><sg> : nemitsi
+    mene<v><iv><aa><p1><sg> : nemene

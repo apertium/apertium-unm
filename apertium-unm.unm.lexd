@@ -159,6 +159,11 @@ puhenema:puhenema       <iv><aa> # "drum"
 kentk:kentk{Æ}          <iv><aa> # "dance"
 lashim:lashim{w}{IU}    <iv><aa> # "dream"
 
+katup:katup{w}{IU}      <iv><aa> # "be hungry"
+ite:{l}ite{h}e          <iv><aa> # "think"
+mits:mits{IU}           <iv><aa> # "eat"
+mene:mene               <iv><aa> # "drink"
+
 LEXICON AdjLex
 
 seks:seks              # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
