@@ -57,7 +57,9 @@ LEXICON AdjMorph
 
 LEXICON Preverbs
 
-kati<adv>+:kati\       # "almost"
+kati<adv>+:kati\       # "almost do"
+kata<adv>+:kata\       # "want to do"       FIXME: p3 is kota/kahta
+shinki<adv>+:shinki\   # "dislike/hate to"
 
 
 LEXICON NounInfl-Anim
