@@ -49,10 +49,15 @@ AdjLex [<adj>:] AdjMorph
 
 LEXICON AdjMorph
 
-<aa><sg>:su
-<nn><sg>:e
-<aa><pl>:su>{y}{A}k
-<nn><pl>:e>{y}{A}
+<aa><pred><sg>:>su
+<aa><pred><pl>:>su>{y}{A}k
+
+<aa><sg>:>sit
+<aa><pl>:>chik
+
+<nn><sg>:>e
+<nn><pl>:>e>{y}{A}
+
 
 
 LEXICON Preverbs
@@ -175,6 +180,14 @@ askaskw:askaskw        # be green
 aon:aon                # be blue      aonsu / aone
 wipunkw:wipunkw        # be grey
 maxk:maxk              # be red
+
+LEXICON Determiners
+
+në:në				<dem><inan><sg>
+nà:nà				<dem><anim><sg>
+nel:nel			<dem><inan><pl>
+nek:nek			<dem><anim><pl>
+nek:neki			<dem><anim><pl>   # Dir/LR
 
 LEXICON Punctuation
 
