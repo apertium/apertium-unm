@@ -41,6 +41,8 @@ Punctuation
 
 AdjRoot
 
+DetRoot
+
 
 PATTERN AdjRoot
 
@@ -52,11 +54,17 @@ LEXICON AdjMorph
 <aa><pred><sg>:>su
 <aa><pred><pl>:>su>{y}{A}k
 
-<aa><sg>:>sit
-<aa><pl>:>chik
+<aa><attr><sg>:>sit
+<aa><attr><pl>:>sit>chik
 
-<nn><sg>:>e
-<nn><pl>:>e>{y}{A}
+<nn><pred><sg>:>e
+<nn><pred><pl>:>e>{y}{A}
+
+<nn><attr><sg>:>e
+<nn><attr><sg>:>ek        # Dir/LR
+<nn><attr><pl>:>e>{y}{A}
+<nn><attr><pl>:>e>{y}{A}k # Dir/LR  FIXME: CHECK
+
 
 
 
@@ -91,6 +99,11 @@ LEXICON VerbInfl(3)
 :          >tam          <opt><p1><pl>
 
 
+PATTERN DetRoot
+
+Determiners(1) [ <det>: ] Determiners(2):
+
+
 ###############################################################################
 ###                          L E X I C O N                                  ###
 ###############################################################################
@@ -104,6 +117,7 @@ aiham:aiham					# "golden eagle" pl - aihamuk
 ketukw:ket{u}kw			# "knee" pl - ketkuk
 chahkol:chahkol         # "frog"
 chulens:chulens         # "bird"
+mwekane:mwekane         # "dog"
 
 
 LEXICON NounRoot-Inan
@@ -171,6 +185,23 @@ ite:{l}ite{h}e          <iv><aa> # "think"
 mits:mits{IU}           <iv><aa> # "eat"
 mene:mene               <iv><aa> # "drink"
 
+këlëks:këlëks{IU}       <iv><aa> # "laugh"
+melimu:melimu           <iv><aa> # "cry"
+hakihe:{TH}akihe        <iv><aa> # "plant"
+alakihel:{t}alakihel{Æ} <iv><aa> # "jump around"
+winewe:winewe           <iv><aa> # "beg/ask"
+
+
+
+LEXICON VerbRoot-Trans(2)
+
+
+tankhitu:t{A}nkhitu     <tv><nn> # "lose"
+maxkam:m{A}xkam         <tv><nn> # "find"
+kaxksem:k{A}xksem       <tv><nn> # "dry"
+
+
+
 LEXICON AdjLex
 
 seks:seks              # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
@@ -180,14 +211,25 @@ askaskw:askaskw        # be green
 aon:aon                # be blue      aonsu / aone
 wipunkw:wipunkw        # be grey
 maxk:maxk              # be red
+likt:likt              # be a/its colour  liksu / likte
+siskwinakw:siskwinakw  # be brown
 
-LEXICON Determiners
+LEXICON Determiners(2)
 
-në:në				<dem><inan><sg>
-nà:nà				<dem><anim><sg>
-nel:nel			<dem><inan><pl>
-nek:nek			<dem><anim><pl>
-nek:neki			<dem><anim><pl>   # Dir/LR
+në:në				 <dem><dist><nn><sg>
+nà:nà				 <dem><dist><aa><sg>
+nel:nel			 <dem><dist><nn><pl>
+nek:nek         <dem><dist><aa><pl>
+nek:neki        <dem><dist><aa><pl>   # Dir/LR
+yu:yu           <dem><prox><nn><sg>  # "this (inan)"
+wa:wa           <dem><prox><aa><sg>  # "this (anim
+yuli:yuli       <dem><prox><nn><pl>
+yuki:yuki       <dem><prox><aa><pl>
+
+LEXICON Pronouns(2)
+
+nën:nën         <dem><dist><nn><sg>
+nàn:nàn         <dem><dist><aa><sg>
 
 LEXICON Punctuation
 

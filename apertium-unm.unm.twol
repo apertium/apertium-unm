@@ -8,6 +8,7 @@ Alphabet
  %{k%}:k %{k%}:0
  %{N%}:n %{n%}:m
  %{t%}:t %{t%}:0
+ %{TH%}:t %{TH%}:h
  %{IU%}:i %{IU%}:u
  %{Æ%}:a %{Æ%}:e
  %{I%}:i
@@ -79,6 +80,9 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{t} deletes when word initial"
 %{t%}:0 <=> .#. _ ;
+
+"{TH} as h when word initial"
+%{TH%}:h <=> .#. _ ;
 
 "{k} deletes before k"
 %{k%}:0 <=> _ :0* k: ;
