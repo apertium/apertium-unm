@@ -41,6 +41,10 @@ Punctuation
 
 AdjRoot
 
+AdvRoot
+
+IjRoot
+
 DetRoot
 
 
@@ -48,17 +52,28 @@ PATTERN AdjRoot
 
 AdjLex [<adj>:] AdjMorph
 
+PATTERN AdvRoot
+
+AdvLex [<adv>:]
+
+PATTERN IjRoot
+
+IjLex [<ij>:]
+
+
+
+
 
 LEXICON AdjMorph
 
 <aa><pred><sg>:>su
 <aa><pred><pl>:>su>{y}{A}k
 
-<aa><attr><sg>:>sit
-<aa><attr><pl>:>sit>chik
-
 <nn><pred><sg>:>e
 <nn><pred><pl>:>e>{y}{A}
+
+<aa><attr><sg>:>sit
+<aa><attr><pl>:>sit>chik
 
 <nn><attr><sg>:>e
 <nn><attr><sg>:>ek        # Dir/LR
@@ -123,7 +138,7 @@ mwekane:mwekane         # "dog"
 LEXICON NounRoot-Inan
 
 hempes:hemp{e}s			# "shirt, clothes" pl - hempsa
-ahkwiyan:ahkwiyan			# "blanket"
+ahkwiyàn:ahkwiyàn			# "blanket"
 chipakw:chipakw			# "shoe" pl - chipako
 shope:shope					# "shore" pl - shopeyo
 milaxk:milaxk				# "human hair"
@@ -158,6 +173,9 @@ naolk:naolk					# "arm"
 naxk:naxk					# "hand"
 hwikat:hwikat				# "leg"
 wsit:wsit					# "foot"
+mehemichink:mehemichink # "food"
+shakukwiyan:shakukwiyan # "coat"
+lenhaksen:lenhaksen     # "moccasin"
 
 LEXICON VerbRoot(2)
 
@@ -230,6 +248,14 @@ LEXICON Pronouns(2)
 
 nën:nën         <dem><dist><nn><sg>
 nàn:nàn         <dem><dist><aa><sg>
+
+LEXICON AdvLex
+
+yukwe:yukwe     # "now"
+
+LEXICON IjLex
+
+yuh:yuh         # "alright, okay"
 
 LEXICON Punctuation
 
