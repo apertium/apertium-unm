@@ -125,11 +125,11 @@ Determiners(1) [ <det>: ] Determiners(2):
 
 LEXICON NounRoot-Anim
 
-ahas:ahas					# "crow" pl - ahasak
-teme:teme					# "wolf" pl - temeyok
-maxkw:maxkw					# "bear" pl - maxkok
-aiham:aiham					# "golden eagle" pl - aihamuk
-ketukw:ket{u}kw			# "knee" pl - ketkuk
+ahas:ahas               # "crow" pl - ahasak
+tëme:tëme               # "wolf" pl - temeyok
+maxkw:maxkw             # "bear" pl - maxkok
+aiham:aiham             # "golden eagle" pl - aihamuk
+ketukw:ket{u}kw         # "knee" pl - ketkuk
 chahkol:chahkol         # "frog"
 chulens:chulens         # "bird"
 mwekane:mwekane         # "dog"
@@ -252,6 +252,7 @@ nàn:nàn         <dem><dist><aa><sg>
 LEXICON AdvLex
 
 yukwe:yukwe     # "now"
+lòkëwe:lòkëwe   # "yesterday"
 
 LEXICON IjLex
 
