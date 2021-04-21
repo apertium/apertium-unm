@@ -6,8 +6,62 @@ Config:
 
 Tests:
 
-  "[lexc/twol] p1.sg":
+  "[lexc/twol] (Ch4) iv.aa p1.sg":
     katup<v><iv><aa><p1><sg> : nkatupwi
     ite<v><iv><aa><p1><sg> : ntite
     mits<v><iv><aa><p1><sg> : nemitsi
     mene<v><iv><aa><p1><sg> : nemene
+
+  "[lexc/twol] (Ch3) iv.aa p1.sg":
+    asu<v><iv><aa><p1><sg> : ntasuwi
+    puhenema<v><iv><aa><p1><sg> : mpuhenema
+    kentk<v><iv><aa><p1><sg> : nkentka
+    lashim<v><iv><aa><p1><sg> : ntelashimwi
+
+  "[lexc/twol] (Ch4) iv.aa p2.sg":
+    katup<v><iv><aa><p2><sg> : katupwi
+    ite<v><iv><aa><p2><sg> : ktite
+    mits<v><iv><aa><p2><sg> : kemitsi
+    mene<v><iv><aa><p2><sg> : kemene
+
+  "[lexc/twol] (Ch3) iv.aa p2.sg":
+    asu<v><iv><aa><p2><sg> : ktasuwi
+    puhenema<v><iv><aa><p2><sg> : kepuhenema
+    kentk<v><iv><aa><p2><sg> : kentka
+    lashim<v><iv><aa><p2><sg> : kelashimwi
+
+  "[lexc/twol] (Ch4) iv.aa p3.sg":
+    katup<v><iv><aa><p3><sg> : katupu
+    ite<v><iv><aa><p3><sg> : litehe
+    mits<v><iv><aa><p3><sg> : mitsu
+    mene<v><iv><aa><p3><sg> : mene
+
+  "[lexc/twol] (Ch3) iv.aa p3.sg":
+    asu<v><iv><aa><p3><sg> : asuu
+    puhenema<v><iv><aa><p3><sg> : puhenema
+    kentk<v><iv><aa><p3><sg> : kentke
+    lashim<v><iv><aa><p3><sg> : lashimu
+
+  "[lexc/twol] iv.aa p1.incl.pl":
+    asu<v><iv><aa><p1><incl><pl> : ntasuwihena
+    puhenema<v><iv><aa><p1><incl><pl> : mpuhenemahena
+    kentk<v><iv><aa><p1><incl><pl> : nkentkahena
+    lashim<v><iv><aa><p1><incl><pl> : ntelashimwihena
+
+  "[lexc/twol] iv.aa p1.excl.pl":
+    asu<v><iv><aa><p1><excl><pl> : ktasuwihena
+    puhenema<v><iv><aa><p1><excl><pl> : kepuhenemahena
+    kentk<v><iv><aa><p1><excl><pl> : kentkahena
+    lashim<v><iv><aa><p1><excl><pl> : kelashimwihena
+
+  "[lexc/twol] iv.aa p2.pl":
+    asu<v><iv><aa><p2><pl> : ktasuwihemo
+    puhenema<v><iv><aa><p2><pl> : kepuhenemahemo
+    kentk<v><iv><aa><p2><pl> : kentkahemo
+    lashim<v><iv><aa><p2><pl> : kelashimwihemo
+
+  "[lexc/twol] iv.aa p3.pl":
+    asu<v><iv><aa><p3><pl> : asuwak
+    puhenema<v><iv><aa><p3><pl> : puhenemaok
+    kentk<v><iv><aa><p3><pl> : kentkeyok
+    lashim<v><iv><aa><p3><pl> : lashimuwak

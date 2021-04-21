@@ -11,6 +11,7 @@ Alphabet
  %{TH%}:t %{TH%}:h
  %{IU%}:i %{IU%}:u
  %{Æ%}:a %{Æ%}:e
+ %{w%}:w %{w%}:0
  %{I%}:i
  %{½%}:0 %{³%}:0
  %>:0  ;
@@ -31,10 +32,11 @@ Pers = %{½%} %{³%} ;
 Rules
 
 "Epenthetic vowels surface"
-Vx:Vy <=> _ [ :Cons :Cons ]/:0* ;
-          _ :Cons/:0* .#. ;
-          [ %{N%}: | %{k%}: ] _ >: m: ;
-          %{N%}: _ >: w: ;
+Vx:Vy <=> _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
+          _ :Cons/[ :0 - [ %{e%}: | %{u%}:] ]* .#. ;
+          [ %{N%}: | %{k%}: ] _ %>: m: ;
+          %{N%}: _ %>: w: ;
+          %{e%}: %>: %{t%}: _ :Cons ;
       except
             _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;
       where Vx in ( %{e%} %{u%} )
@@ -54,9 +56,10 @@ Vx:Vy <=> _ [ :Cons :Cons ]/:0* ;
 !             Vx in ( o o u )
 !         matched ;
 
-"{A} as o after kw or eC|iC"
+"{A} as o after kw or eC|iC or a"
 %{A%}:o <=> [ [ :e | :i ] %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             [ k: w: %{y%}: ]/[ :0 - %{y%}: ]* _ ;
+            :a/[ :0 ]* _ ;
 
 "{A} as u after m"
 %{A%}:u <=> m:/[ :0 - %{y%}: ]* _ ;
@@ -66,10 +69,15 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{IU} as i in p1 and p2, u in p3"
 %{IU%}:Vx <=> _ [ :0 - Pers: ]* Px: ;
+          except
+              :u %{w%}: _ [ :0 - %{y%}: ]* %{y%}: ;
           where
               Vx in (   i     u   )
               Px in ( %{½%} %{³%} )
           matched ;
+
+"{IU} deletes if between u{w} and {y}"
+%{IU%}:0 <=> :u %{w%}: _ [ :0 - %{y%}: ]* %{y%}: ;
 
 "{Æ} as a in p1 and p2, e in p3"
 %{Æ%}:Vx <=> _ [ :0 - Pers: ]* Px: ;
@@ -78,8 +86,9 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
               Px in ( %{½%} %{³%} )
           matched ;
 
-"{t} deletes when word initial"
+"{t} deletes when word initial etc."
 %{t%}:0 <=> .#. _ ;
+            %{k%}: %{e%}: %>: _ %{e%}: ;
 
 "{TH} as h when word initial"
 %{TH%}:h <=> .#. _ ;
@@ -89,6 +98,10 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{N} as m before p"
 %{N%}:m <=> _ :0* p: ;
+
+"{w} as 0 if followed by u"
+%{w%}:0 <=> _ :0* %{IU%}:u ;
+
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol

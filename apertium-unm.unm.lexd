@@ -196,7 +196,7 @@ machi:mach{I}				<iv><aa>	# "go home"
 asu:{t}asu{w}{IU}       <iv><aa> # "sing"
 puhenema:puhenema       <iv><aa> # "drum"
 kentk:kentk{Æ}          <iv><aa> # "dance"
-lashim:lashim{w}{IU}    <iv><aa> # "dream"
+lashim:{t}{e}lashim{w}{IU} <iv><aa> # "dream"
 
 katup:katup{w}{IU}      <iv><aa> # "be hungry"
 ite:{l}ite{h}e          <iv><aa> # "think"
