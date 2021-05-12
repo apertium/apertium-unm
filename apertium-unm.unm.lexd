@@ -47,6 +47,8 @@ IjRoot
 
 DetRoot
 
+NumberRoot
+
 
 PATTERN AdjRoot
 
@@ -60,7 +62,9 @@ PATTERN IjRoot
 
 IjLex [<ij>:]
 
+PATTERN NumberRoot
 
+NumberLex [<num>:]
 
 
 
@@ -133,6 +137,7 @@ ketukw:ket{u}kw         # "knee" pl - ketkuk
 chahkol:chahkol         # "frog"
 chulens:chulens         # "bird"
 mwekane:mwekane         # "dog"
+xanikw:xanikw           # "squirrel"
 
 
 LEXICON NounRoot-Inan
@@ -176,6 +181,7 @@ wsit:wsit					# "foot"
 mehemichink:mehemichink # "food"
 shakukwiyan:shakukwiyan # "coat"
 lenhaksen:lenhaksen     # "moccasin"
+mayakhwikan:mayakhwikan # "rake"
 
 LEXICON VerbRoot(2)
 
@@ -231,6 +237,7 @@ wipunkw:wipunkw        # be grey
 maxk:maxk              # be red
 likt:likt              # be a/its colour  liksu / likte
 siskwinakw:siskwinakw  # be brown
+wipunkw:wipunkw        # be grey
 
 LEXICON Determiners(2)
 
@@ -253,6 +260,38 @@ LEXICON AdvLex
 
 yukwe:yukwe     # "now"
 lòkëwe:lòkëwe   # "yesterday"
+
+LEXICON NumberLex
+
+kwëti:kwëti           # "one"
+nisha:nisha           # "two"
+naxa:naxa             # "three"
+newa:newa             # "four"
+palenaxk:palenaxk     # "five"
+kwetash:kwetash       # "six"
+nishash:nishash       # "seven"
+xash:xash             # "eight"
+peshkunk:peshkunk     # "nine"
+telen:telen           # "ten"
+nishinxke:nishinxke   # "twenty"
+xinxke:xinxke         # "thirty"
+neinxke:neinxke       # "forty"
+palenaxk\ txintxke:palenaxk\ txintxke  # "fifty"  FIXME: CHECK
+kwetash\ txinxke:kwetash\ txinxke      # "sixty"
+nishash\ txinxke:nishash\ txinxke      # "seventy"
+xash\ txinxke:xash\ txinxke            # "eighty"
+peshkunk\ txinxke:peshkunk\ txinxke    # "ninety"
+kwetapxki:kwetapxki                    # "one hundred"
+nishapxki:nishapxki                    # "two hundred"
+naxapxki:naxapxki                      # "three hundred"
+neopxki:neopxki                        # "four hundred"
+palenaxk\ txapxki:palenaxk\ txapxki    # "five hundred"
+kwetash\ txapxki:kwetash\ txapxki      # "six hundred"
+nishash\ txapxki:nishash\ txapxki      # "seven hundred"
+xash\ txapxki:xash\ txapxki            # "eight hundred"
+peshkunk\ txapxki:peshkunk\ txapxki    # "nine hundred"
+telen\ txen\ kwetapxki:telen\ txen\ kwetapxki    # "one thousand"
+
 
 LEXICON IjLex
 
