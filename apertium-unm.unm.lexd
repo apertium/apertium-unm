@@ -138,6 +138,8 @@ chahkol:chahkol         # "frog"
 chulens:chulens         # "bird"
 mwekane:mwekane         # "dog"
 xanikw:xanikw           # "squirrel"
+chinkwe:chinkwe         # "bobcat"
+shkakw:shkakw           # "skunk"
 
 
 LEXICON NounRoot-Inan
@@ -238,6 +240,8 @@ maxk:maxk              # be red
 likt:likt              # be a/its colour  liksu / likte
 siskwinakw:siskwinakw  # be brown
 wipunkw:wipunkw        # be grey
+mamal:mamal            # be striped
+sësàp:sësàp            # be spotted
 
 LEXICON Determiners(2)
 
@@ -247,7 +251,7 @@ nel:nel			 <dem><dist><nn><pl>
 nek:nek         <dem><dist><aa><pl>
 nek:neki        <dem><dist><aa><pl>   # Dir/LR
 yu:yu           <dem><prox><nn><sg>  # "this (inan)"
-wa:wa           <dem><prox><aa><sg>  # "this (anim
+wa:wa           <dem><prox><aa><sg>  # "this (anim)"
 yuli:yuli       <dem><prox><nn><pl>
 yuki:yuki       <dem><prox><aa><pl>
 
@@ -260,6 +264,8 @@ LEXICON AdvLex
 
 yukwe:yukwe     # "now"
 lòkëwe:lòkëwe   # "yesterday"
+she:she         # "here"
+ika:ika         # "there"
 
 LEXICON NumberLex
 
