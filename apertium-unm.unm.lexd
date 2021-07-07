@@ -35,7 +35,8 @@ PATTERNS
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
-:VerbInfl(1) Preverbs? VerbRoot(1) [<v>:] VerbRoot(2): :VerbInfl(2) VerbInfl(3):
+:VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInfl(2) VerbInflAI(3):
+:VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInfl(2) VerbInflTI(3):
 
 Punctuation
 
@@ -92,6 +93,7 @@ LEXICON Preverbs
 kati<adv>+:kati\       # "almost do"
 kata<adv>+:kata\       # "want to do"       FIXME: p3 is kota/kahta
 shinki<adv>+:shinki\   # "dislike/hate to"
+alemi<adv>+:{t}{w}alemi\  # "begin"
 
 
 LEXICON NounInfl-Anim
@@ -105,7 +107,7 @@ LEXICON NounInfl-Inan
 <n><nn><sg>:
 <n><nn><pl>:>{y}{A}
 
-LEXICON VerbInfl(3)
+LEXICON VerbInflAI(3)
 
 :{N}{e}>   >{½}          <p1><sg>
 :{k}{e}>   >{½}          <p2><sg>
@@ -117,6 +119,24 @@ LEXICON VerbInfl(3)
 
 :          >tam          <opt><p1><pl>
 
+LEXICON VerbInflTI(3)
+
+:{N}{e}>   >{e}n          <p1><sg><o_sg>
+:{N}{e}>   >{e}n>a        <p1><sg><o_pl>
+:{k}{e}>   >{e}n          <p2><sg><o_sg>
+:{k}{e}>   >{e}n>a        <p2><sg><o_pl>
+:{w}       >{e}n>a        <p3><sg><o_sg>
+:{w}       >{e}n>a        <p3><sg><o_pl>
+:{N}{e}>   >{e}nen        <p1><incl><pl><o_sg>
+:{N}{e}>   >{e}nen>a      <p1><incl><pl><o_pl>
+:{k}{e}>   >{e}nen        <p1><excl><pl><o_sg>
+:{k}{e}>   >{e}nen>a      <p1><excl><pl><o_pl>
+:{k}{e}>   >{e}n>eyo      <p2><pl>
+:{w}       >{e}n>eyo      <p3><pl>
+#:{k}{e}>   >en>eyo        <p2><pl><o_sg>
+#:{k}{e}>   >en>eyo        <p2><pl><o_pl>
+#:{w}       >en>eyo        <p3><pl><o_sg>
+#:{w}       >en>eyo        <p3><pl><o_pl>
 
 PATTERN DetRoot
 
@@ -184,8 +204,9 @@ mehemichink:mehemichink # "food"
 shakukwiyan:shakukwiyan # "coat"
 lenhaksen:lenhaksen     # "moccasin"
 mayakhwikan:mayakhwikan # "rake"
+hòkes:hokes             # "bark; box"
 
-LEXICON VerbRoot(2)
+LEXICON VerbRootAI(2)
 
 lamals:{w}lamals{IU}    <iv><aa> # "feel well"
 tixam:tixam{w}{IU}      <iv><aa> # "bathe"
@@ -218,13 +239,14 @@ alakihel:{t}alakihel{Æ} <iv><aa> # "jump around"
 winewe:winewe           <iv><aa> # "beg/ask"
 
 
-
-LEXICON VerbRoot-Trans(2)
-
+LEXICON VerbRootTI(2)
 
 tankhitu:t{A}nkhitu     <tv><nn> # "lose"
 maxkam:m{A}xkam         <tv><nn> # "find"
 kaxksem:k{A}xksem       <tv><nn> # "dry"
+
+kwetkenem:kwetkenem     <tv><nn> # "return it"
+kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
 
 
 
@@ -266,6 +288,7 @@ yukwe:yukwe     # "now"
 lòkëwe:lòkëwe   # "yesterday"
 she:she         # "here"
 ika:ika         # "there"
+konaet:konaet   # "maybe"
 
 LEXICON NumberLex
 
