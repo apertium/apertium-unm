@@ -35,8 +35,8 @@ PATTERNS
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
-:VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInfl(2) VerbInflAI(3):
-:VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInfl(2) VerbInflTI(3):
+:VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
+:VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTI(2) VerbInflTI(3):
 
 Punctuation
 
