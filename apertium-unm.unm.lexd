@@ -110,10 +110,18 @@ LEXICON NounInfl-Inan
 LEXICON VerbInflAI(3)
 
 :{N}{e}>   >{½}          <p1><sg>
+:ni\ >     >{½}          <p1><sg>        # Dir/LR
+:n'>       >{½}          <p1><sg>        # Dir/LR
 :{k}{e}>   >{½}          <p2><sg>
+:ki\ >     >{½}          <p2><sg>        # Dir/LR
+:k'>       >{½}          <p2><sg>        # Dir/LR
 :          >{³}          <p3><sg>
 :{N}{e}>   >{½}>hena     <p1><incl><pl>
+:ni\ >     >{½}>hena     <p1><incl><pl>  # Dir/LR
+:n'>       >{½}>hena     <p1><incl><pl>  # Dir/LR
 :{k}{e}>   >{½}>hena     <p1><excl><pl>
+:ki\ >     >{½}>hena     <p1><excl><pl>  # Dir/LR
+:ki\ >     >{½}>hena     <p1><excl><pl>  # Dir/LR
 :{k}{e}>   >{½}>hemo     <p2><pl>
 :          >{³}>{y}{A}k  <p3><pl>
 
@@ -138,6 +146,43 @@ LEXICON VerbInflTI(3)
 #:{w}       >en>eyo        <p3><pl><o_sg>
 #:{w}       >en>eyo        <p3><pl><o_pl>
 
+LEXICON VerbInflTA(3)
+
+:{N}{e}>   >a               <dir><p1><sg><o_sg>
+:{N}{e}>   >a>o>k           <dir><p1><sg><o_pl>
+:{k}{e}>   >a               <dir><p2><sg><o_sg>
+:{k}{e}>   >a>o>k           <dir><p2><sg><o_pl>
+:{w}       >a>o             <dir><p3><sg><o_sg>
+:{w}       >a>o             <dir><p3><sg><o_pl>           # Dir/LR
+:{w}       >a>o>k           <dir><p3><sg><o_pl>
+:{N}{e}>   >a>w>ena         <dir><p1><incl><pl><o_sg>
+:{N}{e}>   >a>w>na          <dir><p1><incl><pl><o_sg>     # Dir/LR
+:{N}{e}>   >a>w>enanak      <dir><p1><incl><pl><o_pl>
+:{k}{e}>   >a>w>ena         <dir><p1><excl><pl><o_sg>
+:{k}{e}>   >a>w>na          <dir><p1><excl><pl><o_sg>     # Dir/LR
+:{k}{e}>   >a>w>enanak      <dir><p1><excl><pl><o_pl>
+:{k}{e}>   >a>w>a           <dir><p2><pl><o_sg>
+:{k}{e}>   >a>w>a           <dir><p2><pl><o_pl>
+:{w}       >a>w>oo          <dir><p3><pl>
+:{w}       >a>w>ao          <dir><p3><pl>                # Dir/LR
+
+
+:{N}{e}>   >uk>w            <inv><p1><sg><s_sg>
+:{N}{e}>   >kuk>w           <inv><p1><sg><s_pl>
+:{k}{e}>   >uk>w            <inv><p2><sg><s_sg>
+:{k}{e}>   >kuk>w           <inv><p2><sg><s_pl>
+:{w}       >ku              <inv><p3><sg><s_sg>
+:{w}       >ku              <inv><p3><sg><s_pl>
+:{N}{e}>   >ku>na           <inv><p1><incl><pl><s_sg>
+:{N}{e}>   >ku>nanak        <inv><p1><incl><pl><s_pl>
+:{k}{e}>   >ku>na           <inv><p1><excl><pl><s_sg>
+:{k}{e}>   >ku>nanak        <inv><p1><excl><pl><s_pl>
+:{k}{e}>   >ku>w>a          <inv><p2><pl><s_sg>
+:{k}{e}>   >ku>w>a>ok       <inv><p2><pl><s_pl>
+:{w}       >ku>w>oo         <inv><p3><pl>
+
+
+
 PATTERN DetRoot
 
 Determiners(1) [ <det>: ] Determiners(2):
@@ -160,6 +205,7 @@ mwekane:mwekane         # "dog"
 xanikw:xanikw           # "squirrel"
 chinkwe:chinkwe         # "bobcat"
 shkakw:shkakw           # "skunk"
+opalanie:opalanie       # "bald eagle"
 
 
 LEXICON NounRoot-Inan
@@ -205,6 +251,9 @@ shakukwiyan:shakukwiyan # "coat"
 lenhaksen:lenhaksen     # "moccasin"
 mayakhwikan:mayakhwikan # "rake"
 hòkes:hokes             # "bark; box"
+mënëpekw:mënëpekw       # "lake"
+muxul:muxul             # "canoe, boat"
+
 
 LEXICON VerbRootAI(2)
 
@@ -238,6 +287,8 @@ hakihe:{TH}akihe        <iv><aa> # "plant"
 alakihel:{t}alakihel{Æ} <iv><aa> # "jump around"
 winewe:winewe           <iv><aa> # "beg/ask"
 
+kenth:kenth{IU}         <iv><aa> # "fly"
+
 
 LEXICON VerbRootTI(2)
 
@@ -252,31 +303,33 @@ kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
 
 LEXICON AdjLex
 
-seks:seks              # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
+sek:sek                # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
 wisaw:wisaw            # be yellow    wisawsu|wisawsuwak / wisae|wisaeyo
-op:op                  # be white     opsu|opsuwak / ope|opeyoá
-askaskw:askaskw        # be green
+òp:òp                  # be white     opsu|opsuwak / ope|opeyoá
+àskàskw:àskàskw        # be green
 aon:aon                # be blue      aonsu / aone
 wipunkw:wipunkw        # be grey
-maxk:maxk              # be red
+màxk:màxk              # be red
 likt:likt              # be a/its colour  liksu / likte
 siskwinakw:siskwinakw  # be brown
 wipunkw:wipunkw        # be grey
 mamal:mamal            # be striped
 sësàp:sësàp            # be spotted
-wele:wele              # be pretty
+wël:wël                # be pretty
 
 LEXICON Determiners(2)
 
 në:në				 <dem><dist><nn><sg>
-nà:nà				 <dem><dist><aa><sg>
+na:na				 <dem><dist><aa><sg>
 nel:nel			 <dem><dist><nn><pl>
 nek:nek         <dem><dist><aa><pl>
 nek:neki        <dem><dist><aa><pl>   # Dir/LR
-yu:yu           <dem><prox><nn><sg>  # "this (inan)"
-wa:wa           <dem><prox><aa><sg>  # "this (anim)"
+yu:yu           <dem><prox><nn><sg>   # "this (inan)"
+wa:wa           <dem><prox><aa><sg>   # "this (anim)"
 yuli:yuli       <dem><prox><nn><pl>
 yuki:yuki       <dem><prox><aa><pl>
+
+nel:nel			 <dem><dist><obv><an><sp>  # sg/pl an/in obviative
 
 LEXICON Pronouns(2)
 
@@ -290,6 +343,8 @@ lòkëwe:lòkëwe   # "yesterday"
 she:she         # "here"
 ika:ika         # "there"
 konaet:konaet   # "maybe"
+xuniti:xuniti   # "soon"
+
 
 LEXICON NumberLex
 
