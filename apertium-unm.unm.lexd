@@ -37,6 +37,7 @@ NounRoot-Inan NounInfl-Inan
 
 :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
 :VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTI(2) VerbInflTI(3):
+:VerbInflTA(1) Preverbs? VerbRootTA(1) [<v>:] VerbRootTA(2): :VerbInflTA(2) VerbInflTA(3):
 
 Punctuation
 
@@ -205,7 +206,8 @@ mwekane:mwekane         # "dog"
 xanikw:xanikw           # "squirrel"
 chinkwe:chinkwe         # "bobcat"
 shkakw:shkakw           # "skunk"
-opalanie:opalanie       # "bald eagle"
+opalaniye:opalaniye     # "bald eagle"
+maxkalaniyat:maxkalaniyat # "hawk"
 
 
 LEXICON NounRoot-Inan
@@ -253,6 +255,7 @@ mayakhwikan:mayakhwikan # "rake"
 hòkes:hokes             # "bark; box"
 mënëpekw:mënëpekw       # "lake"
 muxul:muxul             # "canoe, boat"
+tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
 
 
 LEXICON VerbRootAI(2)
@@ -287,7 +290,10 @@ hakihe:{TH}akihe        <iv><aa> # "plant"
 alakihel:{t}alakihel{Æ} <iv><aa> # "jump around"
 winewe:winewe           <iv><aa> # "beg/ask"
 
-kenth:kenth{IU}         <iv><aa> # "fly"
+kenthw:kenthw{IU}       <iv><aa> # "fly"
+pus:pus{IU}             <iv><aa> # "get into a boat"
+shielintam:shielintam   <iv><aa> # "be sad"
+lelintam:{W}{e}lelintam <iv><aa> # "be glad"   ! FIXME
 
 
 LEXICON VerbRootTI(2)
@@ -299,6 +305,11 @@ kaxksem:k{A}xksem       <tv><nn> # "dry"
 kwetkenem:kwetkenem     <tv><nn> # "return it"
 kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
 
+
+LEXICON VerbRootTA(2)
+
+mil:mil                 <tv><aa> # "give"
+new:new                 <tv><aa> # "see"
 
 
 LEXICON AdjLex
@@ -344,6 +355,8 @@ she:she         # "here"
 ika:ika         # "there"
 konaet:konaet   # "maybe"
 xuniti:xuniti   # "soon"
+
+xu:xu           # [future]
 
 
 LEXICON NumberLex
