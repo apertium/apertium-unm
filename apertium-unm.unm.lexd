@@ -57,6 +57,8 @@ NumberRoot
 PATTERN AdjRoot
 
 AdjLex [<adj>:] AdjMorph
+AdjLex-Cooking [<adj>:] AdjMorph
+AdjLex-Cooking [<adj><??>:sasik]  ! FIXME: what are these forms?
 
 PATTERN AdvRoot
 
@@ -322,7 +324,7 @@ LEXICON AdjLex
 
 sek:sek                # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
 wisaw:wisaw            # be yellow    wisawsu|wisawsuwak / wisae|wisaeyo
-òp:òp                  # be white     opsu|opsuwak / ope|opeyoá
+òp:òp                  # be white     opsu|opsuwak / ope~opek|opeyoá
 àskàskw:àskàskw        # be green
 aon:aon                # be blue      aonsu / aone
 wipunkw:wipunkw        # be grey
@@ -333,6 +335,13 @@ wipunkw:wipunkw        # be grey
 mamal:mamal            # be striped
 sësàp:sësàp            # be spotted
 wël:wël                # be pretty
+
+LEXICON AdjLex-Cooking
+
+salà:salà              # be fried
+wën:wën                # be boiled
+lu:lu                  # be burned
+
 
 LEXICON Determiners(2)
 
