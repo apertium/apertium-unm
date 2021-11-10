@@ -268,6 +268,7 @@ tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
 
 LEXICON VerbRootAI(2)
 
+# Lesson 1
 lamals:{w}lamals{IU}    <iv><aa> # "feel well"
 tixam:tixam{w}{IU}      <iv><aa> # "bathe"
 alam:{t}alam{IU}        <iv><aa> # "be frightened/scared" "корк"
@@ -275,6 +276,7 @@ wishas:wishas{IU}       <iv><aa> # "be frightened/startled" "чочу"
 mikentam:mikentam       <iv><aa> # "do something"
 pils:pils{IU}           <iv><aa> # "be clean"
 
+# Lesson 2
 pals:pals{IU}				<iv><aa>	# "be sick"
 wikwihel:wikwihel{Æ}		<iv><aa>	# "be tired"
 kes:kes{IU}					<iv><aa>	# "be hot"
@@ -282,22 +284,28 @@ akohch:{t}akohch{IU}		<iv><aa>	# "be cold"
 alemsk:{t}alemsk{Æ}		<iv><aa>	# "leave/go away"
 machi:mach{I}				<iv><aa>	# "go home"
 
+# Lesson 3
 asu:{t}asu{w}{IU}       <iv><aa> # "sing"
 puhenema:puhenema       <iv><aa> # "drum"
 kentk:kentk{Æ}          <iv><aa> # "dance"
 lashim:{t}{e}lashim{w}{IU} <iv><aa> # "dream"
 
+# Lesson 4
 katup:katup{w}{IU}      <iv><aa> # "be hungry"
 ite:{l}ite{h}e          <iv><aa> # "think"
 mits:mits{IU}           <iv><aa> # "eat"
-mene:mene               <iv><aa> # "drink"
+mëne:mëne               <iv><aa> # "drink"
+katusam:katusam{w}{IU}  <iv><aa> # "be thirsty"
 
+
+# Lesson 7
 këlëks:këlëks{IU}       <iv><aa> # "laugh"
 melimu:melimu           <iv><aa> # "cry"
 hakihe:{TH}akihe        <iv><aa> # "plant"
 alakihel:{t}alakihel{Æ} <iv><aa> # "jump around"
 winewe:winewe           <iv><aa> # "beg/ask"
 
+# 
 kenthw:kenthw{IU}       <iv><aa> # "fly"
 pus:pus{IU}             <iv><aa> # "get into a boat"
 shielintam:shielintam   <iv><aa> # "be sad"
@@ -370,6 +378,7 @@ she:she         # "here"
 ika:ika         # "there"
 konaet:konaet   # "maybe"
 xuniti:xuniti   # "soon"
+na:na           # "then"
 
 kahti:kahti     # "almost"
 sòmi:sòmi       # "very"
