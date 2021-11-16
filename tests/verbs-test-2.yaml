@@ -1,0 +1,119 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../unm.autogen.hfst
+    Morph: ../unm.automorf.hfst
+
+Tests:
+
+  "[lexc/twol] (Ch1) iv.aa p1.sg":          
+    amals<v><iv><aa><p1><sg> : nulamalsi
+    tixam<v><iv><aa><p1><sg> : ntixamwi
+    alam<v><iv><aa><p1><sg> : ntalami           
+    wishas<v><iv><aa><p1><sg> : newishasi
+    mikentam<v><iv><aa><p1><sg> : nemikentamo   #final "o" was added on the 1p sg in notes
+    pils<v><iv><aa><p1><sg> : mpilsi
+
+  "[lexc/twol] (Ch2) iv.aa p1.sg":          
+    pals<v><iv><aa><p1><sg> : mpalsi  
+    wikwihel<v><iv><aa><p1><sg> : newikwihela
+    kes<v><iv><aa><p1><sg> : nkesi
+    takohch<v><iv><aa><p1><sg> : ntakohchi
+    talemsk<v><iv><aa><p1><sg> : ntalemska   #Initial "t" added at top of chart in textbook
+    mach<v><iv><aa><p1><sg> : nemachi
+
+  "[lexc/twol] (Ch1) iv.aa p2.sg":
+    amals<v><iv><aa><p2><sg> : kulamasi
+    tixam<v><iv><aa><p2><sg> : ktixamwi
+    alam<v><iv><aa><p2><sg> : ktalami
+    wishas<v><iv><aa><p2><sg> : kewishasi
+    mikentam<v><iv><aa><p2><sg> : kemikentam
+    pils<v><iv><aa><p2><sg> : kpilsi
+
+  "[lexc/twol] (Ch2) iv.aa p2.sg":
+    pals<v><iv><aa><p2><sg> : kpalsi
+    wikwihel<v><iv><aa><p2><sg> : kwikwihela
+    kes<v><iv><aa><p2><sg> : kesi
+    takohch<v><iv><aa><p2><sg> : ktakohchi
+    talemsk<v><iv><aa><p2><sg> : ktalemska
+    takohch<v><iv><aa><p2><sg> : kemachi
+
+  "[lexc/twol] (Ch1) iv.aa p3.sg":
+    amals<v><iv><aa><p3><sg> : welamalsu
+    tixam<v><iv><aa><p3><sg> : tixamu
+    alam<v><iv><aa><p3><sg> : alamu
+    wishas<v><iv><aa><p3><sg> : wishasu
+    mikentam<v><iv><aa><p3><sg> : mikentam
+    pils<v><iv><aa><p3><sg> : pilsu
+
+  "[lexc/twol] (Ch2) iv.aa p3.sg":
+    pals<v><iv><aa><p3><sg> : palsu
+    wikwihel<v><iv><aa><p3><sg> : wikwihele
+    kes<v><iv><aa><p3><sg> : kesu
+    takohch<v><iv><aa><p3><sg> : akohchu      #initial "t" was crossed out in textbook
+    talemsk<v><iv><aa><p3><sg> : alemske
+    takohch<v><iv><aa><p3><sg> : machi
+
+  "[lexc/twol] (Ch1) iv.aa p1.excl.pl": #This was marked as incl, excl in text, changed accordingly
+    amals<v><iv><aa><p1><excl><pl> : nulamalsihena
+    tixam<v><iv><aa><p1><exlc><pl> : ntixamwihena    
+    alam<v><iv><aa><p1><excl><pl> : ntalamhihena 
+    wishas<v><iv><aa><p1><excl><pl> : newishasihena
+    mikentam<v><iv><aa><p1><excl><pl> : nemikentamuhena
+    pils<v><iv><aa><p1><excl><pl> : mpilsihena        
+
+  "[lexc/twol] (Ch2) iv.aa p1.incl.pl": #This was marked as excl, incl in text, changed accordingly
+    pals<v><iv><aa><p1><incl><pl> : kpalsihena
+    wikwihel<v><iv><aa><p1><incl><pl> : kwikwihelahena
+    kes<v><iv><aa><p1><incl><pl> : kesihena
+    takohch<v><iv><aa><p1><incl><pl> : ktakohchihena
+    talemsk<v><iv><aa><p1><incl><pl> : ktalemskahena
+    takohch<v><iv><aa><p1><incl><pl> : kemachihena
+
+  "[lexc/twol] (Ch1) iv.aa p1.incl.pl": 
+    amals<v><iv><aa><p1><incl><pl> : kulamasihena
+    tixam<v><iv><aa><p1><incl><pl> : ktixamwihena   
+    alam<v><iv><aa><p1><incl><pl> : ktalamihena
+    wishas<v><iv><aa><p1><incl><pl> : kewishasihena
+    mikentam<v><iv><aa><p1><incl><pl> : kemikentamuhena
+    pils<v><iv><aa><p1><incl><pl> : kpilsihena       
+
+  "[lexc/twol] (Ch2) iv.aa p1.excl.pl": 
+    pals<v><iv><aa><p1><excl><pl> : mpalsihena
+    wikwihel<v><iv><aa><p1><excl><pl> : newikwihelahena
+    kes<v><iv><aa><p1><excl><pl> : nkesihena
+    takohch<v><iv><aa><p1><excl><pl> : ntakohchihena
+    talemsk<v><iv><aa><p1><excl><pl> : ntalemskahena
+    takohch<v><iv><aa><p1><excl><pl> : nemachihena
+
+  "[lexc/twol] (Ch1) iv.aa p2.pl":
+    amals<v><iv><aa><p2><pl> : kulamalsihemo
+    tixam<v><iv><aa><p2><pl> : ktixamwihemo
+    alam<v><iv><aa><p2><pl> : ktalamihemo 
+    wishas<v><iv><aa><p2><pl> : kewishasihemo
+    mikentam<v><iv><aa><p2><pl> : kemikentamuhemo   
+    pils<v><iv><aa><p2><pl> : kpilsihemo
+
+  "[lexc/twol] (Ch2) iv.aa p2.pl":
+    pals<v><iv><aa><p2><pl> : kpalsihemo
+    wikwihel<v><iv><aa><p2><pl> : kwikwihelahemo    
+    kes<v><iv><aa><p2><pl> : kesihemo
+    takohch<v><iv><aa><p2><pl> : ktakohchihemo
+    talemsk<v><iv><aa><p2><pl> : ktalemskahemo
+    takohch<v><iv><aa><p2><pl> : kemachihemo
+
+  "[lexc/twol] (Ch1) iv.aa p3.pl":
+    amals<v><iv><aa><p3><pl> : welamalsuwak
+    tixam<v><iv><aa><p3><pl> : tixamuwak
+    alam<v><iv><aa><p3><pl> : alamuwak
+    wishas<v><iv><aa><p3><pl> : wishasuwak
+    mikentam<v><iv><aa><p3><pl> : mikentamuwak
+    pils<v><iv><aa><p3><pl> : kpilsihemo             
+
+  "[lexc/twol] (Ch2) iv.aa p3.pl":
+    pals<v><iv><aa><p3><pl> : palsuwak
+    wikwihel<v><iv><aa><p3><pl> : wikwiheleyok
+    kes<v><iv><aa><p3><pl> : kesuwak              
+    takohch<v><iv><aa><p3><pl> : akohchuwak     #initial "t" crossed out in textbook
+    talemsk<v><iv><aa><p3><sg> : alemskeyok
+    takohch<v><iv><aa><p3><sg> : machiyok
