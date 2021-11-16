@@ -58,7 +58,7 @@ PATTERN AdjRoot
 
 AdjLex [<adj>:] AdjMorph
 AdjLex-Cooking [<adj>:] AdjMorph
-AdjLex-Cooking [<adj><??>:sasik]  ! FIXME: what are these forms?
+AdjLex-Cooking [<adj><??>:sasik]  # ! FIXME: what are these forms?
 
 PATTERN AdvRoot
 
@@ -442,7 +442,7 @@ LEXICON Punctuation
 \[<lpar>:\[
 )<rpar>:)
 \\<sent>:\\
-/<sent>:/
+\/<sent>:\/
 
 
 # Resources:
