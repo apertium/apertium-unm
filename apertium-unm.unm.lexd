@@ -99,12 +99,16 @@ LEXICON AdjMorph
 
 
 
-LEXICON Preverbs
+PATTERN Preverbs
 
-kati<adv>+:kati\       # "almost do"
-kata<adv>+:kata\       # "want to do"       FIXME: p3 is kota/kahta
-shinki<adv>+:shinki\   # "dislike/hate to"
-alemi<adv>+:{t}{w}alemi\  # "begin"
+Preverb-Lex ([hëch<qst>+:hech\ ])
+
+LEXICON Preverb-Lex
+
+kati<vaux>+:kati\       # "almost do"
+kata<vaux>+:kata\       # "want to do"       FIXME: p3 is kota/kahta
+shinki<vaux>+:shinki\   # "dislike/hate to"
+alemi<vaux>+:{t}{w}alemi\  # "begin"
 
 
 LEXICON NounInfl-Anim
@@ -278,7 +282,8 @@ LEXICON VerbRootAI(2)
 
 # Lesson 1
 lamals:{w}lamals{IU}    <iv><aa> # "feel well"
-tixam:tixam{w}{IU}      <iv><aa> # "bathe"
+tixëm:tixëm{w}{IU}      <iv><aa> # "bathe"
+tixëm:tixàm{w}{IU}      <iv><aa> # "bathe"   ! Dir/LR
 alam:{t}alam{IU}        <iv><aa> # "be frightened/scared" "корк"
 wishas:wishas{IU}       <iv><aa> # "be frightened/startled" "чочу"
 mikentam:mikentam       <iv><aa> # "do something"
@@ -303,8 +308,11 @@ katup:katup{w}{IU}      <iv><aa> # "be hungry"
 ite:{l}ite{h}e          <iv><aa> # "think"
 mits:mits{IU}           <iv><aa> # "eat"
 mëne:mëne               <iv><aa> # "drink"
-katusam:katusam{w}{IU}  <iv><aa> # "be thirsty"
+katusëm:katusëm{w}{IU}  <iv><aa> # "be thirsty"
 
+# Lesson 6
+ashewil:ashewil         <iv><aa> # "swim"
+pap:pap{IU}             <iv><aa> # "play"
 
 # Lesson 7
 këlëks:këlëks{IU}       <iv><aa> # "laugh"
@@ -318,6 +326,16 @@ kenthw:kenthw{IU}       <iv><aa> # "fly"
 pus:pus{IU}             <iv><aa> # "get into a boat"
 shielintam:shielintam   <iv><aa> # "be sad"
 lelintam:{W}{e}lelintam <iv><aa> # "be glad"   ! FIXME
+
+# Lesson 18
+
+mikëmòs:mikëmòs{IU}     <iv><aa> # "work"
+chikhike:chikhike       <iv><aa> # "sweep"
+shilenche:shilenche     <iv><aa> # "wash hands"
+wesks:wesks{IU}         <iv><aa> # "be young"
+shixënchuwe:shixënchuwe <iv><aa> # "wash dishes"
+shixukwe:shixukwe       <iv><aa> # "wash one's hair"
+shixhems:shixhemps{Æ}   <iv><aa> # "wash clothes"
 
 
 LEXICON VerbRootTI(2)
