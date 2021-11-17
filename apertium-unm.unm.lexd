@@ -53,6 +53,8 @@ DetRoot
 
 NumberRoot
 
+CnjLex(1) CnjLex(2):
+
 
 PATTERN AdjRoot
 
@@ -195,6 +197,12 @@ LEXICON VerbInflTA(3)
 PATTERN DetRoot
 
 Determiners(1) [ <det>: ] Determiners(2):
+
+PATTERN PronRoot
+
+Pronouns(1) [ <prn>: ] Pronouns(2):
+
+
 
 
 ###############################################################################
@@ -369,6 +377,8 @@ LEXICON Pronouns(2)
 
 nën:nën         <dem><dist><nn><sg>
 nàn:nàn         <dem><dist><aa><sg>
+awen:awen       <itg>                   # "who"
+keku:keku       <itg>                   # "what"
 
 LEXICON AdvLex
 
@@ -384,6 +394,11 @@ kahti:kahti     # "almost"
 sòmi:sòmi       # "very"
 
 xu:xu           # [future]
+
+LEXICON CnjLex
+
+òk:òk       <cnjcoo>      # "and"
+èli:èli     <cnjsub>      # "because"
 
 LEXICON Prepositions
 
