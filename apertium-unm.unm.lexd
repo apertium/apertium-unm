@@ -413,7 +413,7 @@ sòmi:sòmi       # "very"
 
 xu:xu           # [future]
 
-LEXICON CnjLex
+LEXICON CnjLex(2)
 
 òk:òk       <cnjcoo>      # "and"
 èli:èli     <cnjsub>      # "because"
