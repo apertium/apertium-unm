@@ -19,6 +19,8 @@ TARGETS_COMMON =			\
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 @ap_include@
 
+SHELL = /bin/bash -o pipefail
+
 LEXCFLAGS=-v --Werror
 
 ###############################################################################
