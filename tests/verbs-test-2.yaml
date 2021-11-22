@@ -468,19 +468,17 @@ Tests:
     lukahel<v><iv><aa><p1><sg> : nlukahela
 
     "[lexc/twol] (Ch12) iv.aa p1":
-    kawi<v><iv><aa><p1><sg> : nkawi
-    manunks<v><iv><aa><p1><sg> : nemanunksi  #base also possible to surface as teki?
-    amw<v><iv><aa><p1><sg> : ntamwi
+    pëmësk<v><iv><aa><p1><sg> : mpëmëska
+    kshihel<v><iv><aa><p1><sg> : nkshihela   #base also possible to surface as teki?
 
     "[lexc/twol] (Ch11) iv.aa p2.sg":
     alem<v><iv><aa><p2><sg> : ntalemi
     kwetk<v><iv><aa><p2><sg> : kwetki
     lukahel<v><iv><aa><p2><sg> : lukahele
 
-    "[lexc/twol] (Ch12) iv.aa p2.sg":
-    kawi<v><iv><aa><p2><sg> : kawi
-    manunks<v><iv><aa><p2><sg> : kemanunksi
-    amw<v><iv><aa><p2><sg> : ktamwi
+     "[lexc/twol] (Ch12) iv.aa p2.sg":
+    pëmësk<v><iv><aa><p2><sg> : kpëmëska
+    kshihel<v><iv><aa><p2><sg> : kshihela
 
     "[lexc/twol] (Ch11) iv.aa p3.sg":
     alem<v><iv><aa><p3><sg> : tolemi 
@@ -488,9 +486,8 @@ Tests:
     lukahel<v><iv><aa><p3><sg> : lukahele
 
     "[lexc/twol] (Ch12) iv.aa p3.sg":
-    kawi<v><iv><aa><p3><sg> : kawi
-    manunks<v><iv><aa><p3><sg> : manunksu
-    amw<v><iv><aa><p3><sg> : amu
+    pëmësk<v><iv><aa><p3><sg> : pëmëske
+    kshihel<v><iv><aa><p3><sg> : kshihele
 
     "[lexc/twol] (Ch11) iv.aa p1.excl.pl": 
     alem<v><iv><aa><p1><excl><pl> : n/a #no form listed in textbook
@@ -498,40 +495,67 @@ Tests:
     lukahel<v><iv><aa><p1><excl><pl> : nlukahelahena
 
     "[lexc/twol] (Ch12) iv.aa p1.excl.pl": 
-    kawi<v><iv><aa><p1><excl><pl> : nkawihena
-    manunks<v><iv><aa><p1><exlc><pl> : nemanunksihena
-    amw<v><iv><aa><p1><excl><pl> : ntamwihena
+    pëmësk<v><iv><aa><p1><excl><pl> : mpemeskahena
+    kshihel<v><iv><aa><p1><exlc><pl> : nkshihelahena
 
   "[lexc/twol] (Ch11) iv.aa p1.incl.pl": 
     alem<v><iv><aa><p1><incl><pl> : n/a #no form listed in textbook
     kwetk<v><iv><aa><p1><incl><pl> : kwetkihena
     lukahel<v><iv><aa><p1><incl><pl> : kelukahelahena
-  
+
   "[lexc/twol] (Ch12) iv.aa p1.incl.pl": 
-    kawi<v><iv><aa><p1><incl><pl> : kawihena
-    manunks<v><iv><aa><p1><incl><pl> : kemanunksihena
-    amw<v><iv><aa><p1><incl><pl> : ktamwihena
+    pëmësk<v><iv><aa><p1><incl><pl> : kpemeskahemo
+    kshihel<v><iv><aa><p1><incl><pl> : kshihelahemo
 
   "[lexc/twol] (Ch11) iv.aa p2.pl":
     alem<v><iv><aa><p2><pl> : n/a #no form listed
     kwetk<v><iv><aa><p2><pl> : kwetkihemo
     lukahel<v><iv><aa><p2><pl> : kelukahelahemo
-  
+
   "[lexc/twol] (Ch12) iv.aa p2.pl":
-    kawi<v><iv><aa><p2><pl> : kawihemo
-    manunks<v><iv><aa><p2><pl> : kemanunksihemo
-    amw<v><iv><aa><p2><pl> : ktamwihemo
+    pëmësk<v><iv><aa><p2><pl> : kpemeskahemo
+    kshihel<v><iv><aa><p2><pl> : kshihelahemo
 
   "[lexc/twol] (Ch11) iv.aa p3.pl":
     alem<v><iv><aa><p3><pl> : n/a #no form listed
     kwetk<v><iv><aa><p3><pl> : kwetkiyok 
     lukahel<v><iv><aa><p3><pl> : lukehaleyok
-  
+
   "[lexc/twol] (Ch12) iv.aa p3.pl":
+    pëmësk<v><iv><aa><p3><pl> : pëmëskeyok
+    kshihel<v><iv><aa><p3><pl> : kshiheleyok
+
+   "[lexc/twol] (Ch13) iv.aa p1":
+    kawi<v><iv><aa><p1><sg> : nkawi
+    manunks<v><iv><aa><p1><sg> : nemanunksi  #base also possible to surface as teki?
+    amw<v><iv><aa><p1><sg> : ntamwi
+
+  "[lexc/twol] (Ch13) iv.aa p2.sg":
+    kawi<v><iv><aa><p2><sg> : kawi
+    manunks<v><iv><aa><p2><sg> : kemanunksi
+    amw<v><iv><aa><p2><sg> : ktamwi
+    
+   "[lexc/twol] (Ch13) iv.aa p3.sg":
+    kawi<v><iv><aa><p3><sg> : kawi
+    manunks<v><iv><aa><p3><sg> : manunksu
+    amw<v><iv><aa><p3><sg> : amu
+
+  "[lexc/twol] (Ch13) iv.aa p1.excl.pl": 
+    kawi<v><iv><aa><p1><excl><pl> : nkawihena
+    manunks<v><iv><aa><p1><exlc><pl> : nemanunksihena
+    amw<v><iv><aa><p1><excl><pl> : ntamwihena
+
+  "[lexc/twol] (Ch13) iv.aa p1.incl.pl": 
+    kawi<v><iv><aa><p1><incl><pl> : kawihena
+    manunks<v><iv><aa><p1><incl><pl> : kemanunksihena
+    amw<v><iv><aa><p1><incl><pl> : ktamwihena
+
+  "[lexc/twol] (Ch13) iv.aa p2.pl":
+    kawi<v><iv><aa><p2><pl> : kawihemo
+    manunks<v><iv><aa><p2><pl> : kemanunksihemo
+    amw<v><iv><aa><p2><pl> : ktamwihemo
+
+  "[lexc/twol] (Ch13) iv.aa p3.pl":
     kawi<v><iv><aa><p3><pl> : kawiyok
     manunks<v><iv><aa><p3><pl> : manunksuwak
     amw<v><iv><aa><p3><pl> : amuwak
-
-    
-
-   
