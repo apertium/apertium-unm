@@ -322,7 +322,7 @@ Tests:
     sups<v><iv><aa><p1><sg> : n'supsi #" ' not crossed out here, but in many others in this chapter"
     tetantahkukwehela<v><iv><aa><p1><sg>: ntetantahkukwehela
 
-    "[lexc/twol] (Ch10) iv.aa p1":
+  "[lexc/twol] (Ch10) iv.aa p1":
     a<v><iv><aa><p1><sg> : nta
     pa<v><iv><aa><p1><sg> : mpa
     welinakws<v><iv><aa><p1><sg> : nulinakwsi
@@ -330,7 +330,7 @@ Tests:
     tala<v><iv><aa><p1><sg> : ntala         
     watu<v><iv><aa><p1><sg> : nuwatu
 
-    "[lexc/twol] (Ch9) iv.aa p2.sg":
+  "[lexc/twol] (Ch9) iv.aa p2.sg":
     temike<v><iv><aa><p2><sg> : ktemike
     lematahp<v><iv><aa><p2><sg> : klematahpi 
     luwens<v><iv><aa><p2><sg> : kteluwensi
@@ -344,7 +344,7 @@ Tests:
     sups<v><iv><aa><p2><sg> : k'supsi
     tetantahkukwehela<v><iv><aa><p2><sg> : ktetantahkukwehela
 
-    "[lexc/twol] (Ch10) iv.aa p2.sg":
+  "[lexc/twol] (Ch10) iv.aa p2.sg":
     a<v><iv><aa><p2><sg> : kta
     pa<v><iv><aa><p2><sg> : kpa
     welinakws<v><iv><aa><p2><sg> : kulinakwsi
@@ -352,7 +352,7 @@ Tests:
     tala<v><iv><aa><p2><sg> : ktala
     watu<v><iv><aa><p2><sg> : kuwatu
 
-    "[lexc/twol] (Ch9) iv.aa p3.sg":
+  "[lexc/twol] (Ch9) iv.aa p3.sg":
     temike<v><iv><aa><p3><sg> : temike #"ë" noted above the stem in text
     lematahp<v><iv><aa><p3><sg> : lematahpu
     luwens<v><iv><aa><p3><sg> : luwensu
@@ -366,7 +366,7 @@ Tests:
     sups<v><iv><aa><p3><sg> : supsu
     tetantahkukwehela<v><iv><aa><p3><sg> : tetantahkukwehela
 
-    "[lexc/twol] (Ch10) iv.aa p3.sg":
+  "[lexc/twol] (Ch10) iv.aa p3.sg":
     a<v><iv><aa><p3><sg> : e
     pa<v><iv><aa><p3><sg> : pe
     welinakws<v><iv><aa><p3><sg> : welinakwsu
@@ -374,7 +374,7 @@ Tests:
     tala<v><iv><aa><p3><sg> : ala # notated " = tola" in textbook
     watu<v><iv><aa><p3><sg> : watu
 
-    "[lexc/twol] (Ch9) iv.aa p1.excl.pl": 
+  "[lexc/twol] (Ch9) iv.aa p1.excl.pl": 
     temike<v><iv><aa><p1><excl><pl> : ntemikehena
     lematahp<v><iv><aa><p1><exlc><pl> : nlematahpihena
     luwens<v><iv><aa><p1><excl><pl> : nteluwensihena
@@ -388,7 +388,7 @@ Tests:
     sups<v><iv><aa><p1><exlc><pl> : n'supsihena
     tetantahkukwehela<v><iv><aa><p1><excl><pl> : ntetantahkukwehelahena
 
-    "[lexc/twol] (Ch10) iv.aa p1.excl.pl": 
+  "[lexc/twol] (Ch10) iv.aa p1.excl.pl": 
     a<v><iv><aa><p1><excl><pl> : ntahena
     pa<v><iv><aa><p1><exlc><pl> : mpahena
     welinakws<v><iv><aa><p1><excl><pl> : nulinakwsihena
@@ -396,7 +396,7 @@ Tests:
     tala<v><iv><aa><p1><excl><pl> : n/a #no listed form in book
     watu<v><iv><aa><p1><excl><pl> : nuwatuhena
 
-    "[lexc/twol] (Ch9) iv.aa p1.incl.pl": 
+  "[lexc/twol] (Ch9) iv.aa p1.incl.pl": 
     temike<v><iv><aa><p1><incl><pl> : ktemikehena
     lematahp<v><iv><aa><p1><incl><pl> : klematahpihena
     luwens<v><iv><aa><p1><incl><pl> : kteluwensihena
@@ -410,7 +410,7 @@ Tests:
     sups<v><iv><aa><p1><incl><pl> : k'supsihena
     tetantahkukwehela<v><iv><aa><p1><incl><pl> : ktetantahkukwehelahena
 
-    "[lexc/twol] (Ch10) iv.aa p1.incl.pl": 
+  "[lexc/twol] (Ch10) iv.aa p1.incl.pl": 
     a<v><iv><aa><p1><incl><pl> : ktahena
     pa<v><iv><aa><p1><incl><pl> : kpahena
     welinakws<v><iv><aa><p1><incl><pl> : kulinakwsihena
@@ -418,7 +418,7 @@ Tests:
     tala<v><iv><aa><p1><incl><pl> : n/a #no listed form in book
     watu<v><iv><aa><p1><incl><pl> : kuwatuhena
 
-    "[lexc/twol] (Ch9) iv.aa p2.pl":
+  "[lexc/twol] (Ch9) iv.aa p2.pl":
     temike<v><iv><aa><p2><pl> : ktemikehemo
     lematahp<v><iv><aa><p2><pl> : klematahpihemo
     luwens<v><iv><aa><p2><pl> : kteluwensihemo
@@ -432,7 +432,7 @@ Tests:
     sups<v><iv><aa><p2><pl> : k'supsihemo
     tetantahkukwehela<v><iv><aa><p2><pl> : ktetantahkukwehelahemo
 
-    "[lexc/twol] (Ch10) iv.aa p2.pl":
+  "[lexc/twol] (Ch10) iv.aa p2.pl":
     a<v><iv><aa><p2><pl> : ktahemo
     pa<v><iv><aa><p2><pl> : kpahemo
     welinakws<v><iv><aa><p2><pl> : kulinakwsihemo
@@ -454,7 +454,7 @@ Tests:
     sups<v><iv><aa><p3><pl> : supsuwak
     tetantahkukwehela<v><iv><aa><p3><pl> : tetantahkukweheleyok
     
-    "[lexc/twol] (Ch10) iv.aa p3.pl":
+  "[lexc/twol] (Ch10) iv.aa p3.pl":
     a<v><iv><aa><p3><pl> : eyok
     pa<v><iv><aa><p3><pl> : peyok
     welinakws<v><iv><aa><p3><pl> : welinakwsuwak
@@ -462,39 +462,39 @@ Tests:
     tala<v><iv><aa><p3><pl> : n/a #no listed form in textbook
     watu<v><iv><aa><p3><pl> : watuwak
 
-    "[lexc/twol] (Ch11) iv.aa p1":
+  "[lexc/twol] (Ch11) iv.aa p1":
     alem<v><iv><aa><p1><sg> : ntalemi
     kwetk<v><iv><aa><p1><sg> : nkweti    #base also possible to surface as teki?
     lukahel<v><iv><aa><p1><sg> : nlukahela
 
-    "[lexc/twol] (Ch12) iv.aa p1":
+  "[lexc/twol] (Ch12) iv.aa p1":
     pëmësk<v><iv><aa><p1><sg> : mpëmëska
     kshihel<v><iv><aa><p1><sg> : nkshihela   #base also possible to surface as teki?
 
-    "[lexc/twol] (Ch11) iv.aa p2.sg":
+  "[lexc/twol] (Ch11) iv.aa p2.sg":
     alem<v><iv><aa><p2><sg> : ntalemi
     kwetk<v><iv><aa><p2><sg> : kwetki
     lukahel<v><iv><aa><p2><sg> : lukahele
 
-     "[lexc/twol] (Ch12) iv.aa p2.sg":
+  "[lexc/twol] (Ch12) iv.aa p2.sg":
     pëmësk<v><iv><aa><p2><sg> : kpëmëska
     kshihel<v><iv><aa><p2><sg> : kshihela
 
-    "[lexc/twol] (Ch11) iv.aa p3.sg":
+  "[lexc/twol] (Ch11) iv.aa p3.sg":
     alem<v><iv><aa><p3><sg> : tolemi 
     kwetk<v><iv><aa><p3><sg> : kwetki
     lukahel<v><iv><aa><p3><sg> : lukahele
 
-    "[lexc/twol] (Ch12) iv.aa p3.sg":
+  "[lexc/twol] (Ch12) iv.aa p3.sg":
     pëmësk<v><iv><aa><p3><sg> : pëmëske
     kshihel<v><iv><aa><p3><sg> : kshihele
 
-    "[lexc/twol] (Ch11) iv.aa p1.excl.pl": 
+  "[lexc/twol] (Ch11) iv.aa p1.excl.pl": 
     alem<v><iv><aa><p1><excl><pl> : n/a #no form listed in textbook
     kwetk<v><iv><aa><p1><exlc><pl> : nkwetkihena
     lukahel<v><iv><aa><p1><excl><pl> : nlukahelahena
 
-    "[lexc/twol] (Ch12) iv.aa p1.excl.pl": 
+  "[lexc/twol] (Ch12) iv.aa p1.excl.pl": 
     pëmësk<v><iv><aa><p1><excl><pl> : mpemeskahena
     kshihel<v><iv><aa><p1><exlc><pl> : nkshihelahena
 
@@ -525,12 +525,12 @@ Tests:
     pëmësk<v><iv><aa><p3><pl> : pëmëskeyok
     kshihel<v><iv><aa><p3><pl> : kshiheleyok
 
-   "[lexc/twol] (Ch13) iv.aa p1":
+  "[lexc/twol] (Ch13) iv.aa p1":
     kawi<v><iv><aa><p1><sg> : nkawi
     manunks<v><iv><aa><p1><sg> : nemanunksi  #base also possible to surface as teki?
     amw<v><iv><aa><p1><sg> : ntamwi
 
-   "[lexc/twol] (Ch14) iv.aa p1":
+  "[lexc/twol] (Ch14) iv.aa p1":
     kaihele<v><iv><aa><p1><sg> : nkaihele
     kanchix<v><iv><aa><p1><sg> : nkanchixi
     kanchihel<v><iv><aa><p1><sg> : nkanchihela
@@ -545,7 +545,7 @@ Tests:
     kanchix<v><iv><aa><p2><sg> : kanchixi
     kanchihel<v><iv><aa><p2><sg> : kanchihela
     
-   "[lexc/twol] (Ch13) iv.aa p3.sg":
+  "[lexc/twol] (Ch13) iv.aa p3.sg":
     kawi<v><iv><aa><p3><sg> : kawi
     manunks<v><iv><aa><p3><sg> : manunksu
     amw<v><iv><aa><p3><sg> : amu
@@ -595,25 +595,75 @@ Tests:
     kanchix<v><iv><aa><p3><pl> : kanchixuwak
     kanchihel<v><iv><aa><p3><pl> : kanchiheleyok
 
-   "[lexc/twol] (Ch17) iv.aa p1":
+  "[lexc/twol] (Ch17) iv.aa p1":
     kish<v><iv><aa><p1><sg> : nkishi
     kwech<v><iv><aa><p1><sg> : nkwechi
+
+  "[lexc/twol] (Ch18) iv.aa p1":
+    mikemos<v><iv><aa><p1><sg> : nemikemosi
+    chikhike<v><iv><aa><p1><sg> : nchikhike
+    shilenche<v><iv><aa><p1><sg> : nshilenche
+    tixam<v><iv><aa><p1><sg> : ntixemwi       #repeat of a previous verb?
+    wesk<v><iv><aa><p1><sg> : newesksi
+    shixenchuwe<v><iv><aa><p1><sg> : nkshixenchuwe
+    shixukwe<v><iv><aa><p1><sg> : nshixukwe
+    shixhemps<v><iv><aa><p1><sg> : nkwechi
 
   "[lexc/twol] (Ch17) iv.aa p2.sg":
     kish<v><iv><aa><p2><sg> : kishi
     kwech<v><iv><aa><p2><sg> : kwechi
 
+  "[lexc/twol] (Ch18) iv.aa p2.sg":
+    mikemos<v><iv><aa><p2><sg> : kemikemosi
+    chikhike<v><iv><aa><p2><sg> : kchikhike
+    shilenche<v><iv><aa><p2><sg> : kshilenche
+    tixam<v><iv><aa><p2><sg> : ktixemwi
+    wesk<v><iv><aa><p2><sg> : kewesksi
+    shixenchuwe<v><iv><aa><p2><sg> : kshixenchuwe
+    shixukwe<v><iv><aa><p2><sg> : kshixukwe
+    shixhemps<v><iv><aa><p2><sg> : kshixhempsa
+
   "[lexc/twol] (Ch17) iv.aa p3.sg":
     kish<v><iv><aa><p3><sg> : kishi
     kwech<v><iv><aa><p3><sg> : kwechi
+    
+  "[lexc/twol] (Ch18) iv.aa p3.sg":
+    mikemos<v><iv><aa><p3><sg> : kishi
+    chikhike<v><iv><aa><p3><sg> : kwechi
+    shilenche<v><iv><aa><p3><sg> : kishi
+    tixam<v><iv><aa><p3><sg> : kwechi
+    wesk<v><iv><aa><p3><sg> : kishi
+    shixenchuwe<v><iv><aa><p3><sg> : kwechi
+    shixukwe<v><iv><aa><p3><sg> : kishi
+    shixhemps<v><iv><aa><p3><sg> : kwechi
   
-   "[lexc/twol] (Ch17) iv.aa p1.excl.pl": 
+  "[lexc/twol] (Ch17) iv.aa p1.excl.pl": 
     kish<v><iv><aa><p1><excl><pl> : nkishihena
     kewch<v><iv><aa><p1><exlc><pl> : nkwechihena
+
+  "[lexc/twol] (Ch18) iv.aa p1.excl.pl": 
+    mikemos<v><iv><aa><p1><excl><pl> : nkishihena
+    chikhike<v><iv><aa><p1><exlc><pl> : nkwechihena
+    shilenche<v><iv><aa><p1><excl><pl> : nkishihena
+    tixam<v><iv><aa><p1><exlc><pl> : nkwechihena
+    wesk<v><iv><aa><p1><excl><pl> : nkishihena
+    shixenchuwe<v><iv><aa><p1><exlc><pl> : nkwechihena
+    shixukwe<v><iv><aa><p1><excl><pl> : nkishihena
+    shixhemps<v><iv><aa><p1><exlc><pl> : nkwechihena
   
   "[lexc/twol] (Ch17) iv.aa p1.incl.pl": 
     kish<v><iv><aa><p1><incl><pl> : kishihena
     kewch<v><iv><aa><p1><incl><pl> : kwechihena
+
+  "[lexc/twol] (Ch18) iv.aa p1.incl.pl": 
+    mikemos<v><iv><aa><p1><incl><pl> : nemikemosihena
+    chikhike<v><iv><aa><p1><incl><pl> : nchikhikehena
+    shilenche<v><iv><aa><p1><incl><pl> : nshilenchehena
+    tixam<v><iv><aa><p1><incl><pl> : ntixemwihena
+    wesk<v><iv><aa><p1><incl><pl> : newesksihena          #not finished entering this paradigm 
+    shixenchuwe<v><iv><aa><p1><incl><pl> : kwechihena
+    shixukwe<v><iv><aa><p1><incl><pl> : kishihena
+    shixhemps<v><iv><aa><p1><incl><pl> : kwechihena
   
   "[lexc/twol] (Ch17) iv.aa p2.pl":
     kish<v><iv><aa><p2><pl> : kishihemo
