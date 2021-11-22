@@ -656,20 +656,41 @@ Tests:
     kewch<v><iv><aa><p1><incl><pl> : kwechihena
 
   "[lexc/twol] (Ch18) iv.aa p1.incl.pl": 
-    mikemos<v><iv><aa><p1><incl><pl> : nemikemosihena
-    chikhike<v><iv><aa><p1><incl><pl> : nchikhikehena
-    shilenche<v><iv><aa><p1><incl><pl> : nshilenchehena
-    tixam<v><iv><aa><p1><incl><pl> : ntixemwihena
-    wesk<v><iv><aa><p1><incl><pl> : newesksihena          #not finished entering this paradigm 
-    shixenchuwe<v><iv><aa><p1><incl><pl> : kwechihena
-    shixukwe<v><iv><aa><p1><incl><pl> : kishihena
-    shixhemps<v><iv><aa><p1><incl><pl> : kwechihena
+    mikemos<v><iv><aa><p1><incl><pl> : kemikemosihena
+    chikhike<v><iv><aa><p1><incl><pl> : kchikhikehena
+    shilenche<v><iv><aa><p1><incl><pl> : kshilenchehena
+    tixam<v><iv><aa><p1><incl><pl> : ktixemwihena
+    wesk<v><iv><aa><p1><incl><pl> : kewesksihena    
+    shixenchuwe<v><iv><aa><p1><incl><pl> : kshixenchuwehena
+    shixukwe<v><iv><aa><p1><incl><pl> : kshixukwehena
+    shixhemps<v><iv><aa><p1><incl><pl> : kshixhempsahena
   
   "[lexc/twol] (Ch17) iv.aa p2.pl":
     kish<v><iv><aa><p2><pl> : kishihemo
     kewch<v><iv><aa><p2><pl> : kwechihemo
 
+  "[lexc/twol] (Ch18) iv.aa p2.pl":
+    mikemos<v><iv><aa><p2><pl> : kemikemosihemo
+    chikhike<v><iv><aa><p2><pl> : kchikhikehemo
+    shilenche<v><iv><aa><p2><pl> : kshilenchehemo
+    tixam<v><iv><aa><p2><pl> : ktixemwihemo
+    wesk<v><iv><aa><p2><pl> : kewesksihemo
+    shixenchuwe<v><iv><aa><p2><pl> : kshixenchuwehemo
+    shixukwe<v><iv><aa><p2><pl> : kshixukwehemo
+    shixhemps<v><iv><aa><p2><pl> : kshixhempsahemo
+
   "[lexc/twol] (Ch17) iv.aa p3.pl":
     kish<v><iv><aa><p3><pl> : kishiyok
     kewch<v><iv><aa><p3><pl> : kewchiyok 
+  
+  "[lexc/twol] (Ch18) iv.aa p3.pl":
+    mikemos<v><iv><aa><p3><pl> : mikemosuwak
+    chikhike<v><iv><aa><p3><pl> : chikhikeyok
+    shilenche<v><iv><aa><p3><pl> : shilencheyok
+    tixam<v><iv><aa><p3><pl> : tixemuwak
+    wesk<v><iv><aa><p3><pl> : wesksuwak
+    shixenchuwe<v><iv><aa><p3><pl> : shixenchuweyok
+    shixukwe<v><iv><aa><p3><pl> : shixukweyok
+    shixhemps<v><iv><aa><p3><pl> : shixhempseyok
+
 
