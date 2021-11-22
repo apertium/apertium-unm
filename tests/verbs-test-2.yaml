@@ -693,4 +693,129 @@ Tests:
     shixukwe<v><iv><aa><p3><pl> : shixukweyok
     shixhemps<v><iv><aa><p3><pl> : shixhempseyok
 
+  "[lexc/twol] (Ch19) iv.aa p1":
+    achim<v><iv><aa><p1><sg> : ntachimwi
+    ika tatu<v><iv><aa><p1><sg> : ika ntatu
+    wink<v><iv><aa><p1><sg> : newinki
 
+  "[lexc/twol] (Ch20) iv.aa p1":
+    alai<v><iv><aa><p1><sg> : ntalai
+    weskahp<v><iv><aa><p1><sg> : neweskhapi
+    kwetk<v><iv><aa><p1><sg> : nkwetki
+    wik<v><iv><aa><p1><sg> : newiki
+    ahchinkx<v><iv><aa><p1><sg> : ntahchinkxi
+
+  "[lexc/twol] (Ch19) iv.aa p2.sg":
+    achim<v><iv><aa><p2><sg> : ktachimwi
+    ika tatu<v><iv><aa><p2><sg> : ika ktatu
+    wink<v><iv><aa><p2><sg> : kewinki
+
+  "[lexc/twol] (Ch20) iv.aa p2.sg":
+    alai<v><iv><aa><p2><sg> : ktalai
+    weskahp<v><iv><aa><p2><sg> : keweskahpi
+    kwetk<v><iv><aa><p2><sg> : kwetki
+    wik<v><iv><aa><p2><sg> : kewiki
+    anchinkx<v><iv><aa><p2><sg> : ktahchinkxi
+
+  "[lexc/twol] (Ch19) iv.aa p3.sg":
+    achim<v><iv><aa><p3><sg> : achimu
+    ika tatu<v><iv><aa><p3><sg> : ika tatu
+    wink<v><iv><aa><p3><sg> : winki
+
+  "[lexc/twol] (Ch20) iv.aa p3.sg":
+    alai<v><iv><aa><p3><sg> : alai
+    weskahp<v><iv><aa><p3><sg> : wiskahpu
+    kwetk<v><iv><aa><p3><sg> : kwetki
+    wik<v><iv><aa><p3><sg> : wiku
+    anchinkx<v><iv><aa><p3><sg> : ahchinkxe
+
+  "[lexc/twol] (Ch19) iv.aa p1.excl.pl": 
+    achim<v><iv><aa><p1><excl><pl> : ntachimwihena
+    ika tatu<v><iv><aa><p1><exlc><pl> : ika ntatuhena
+    wink<v><iv><aa><p1><exlc><pl> : n/a #no form listed in textbook
+
+  "[lexc/twol] (Ch20) iv.aa p1.excl.pl": 
+    alai<v><iv><aa><p1><excl><pl> : ntalaihena
+    weskahp<v><iv><aa><p1><exlc><pl> : neweskahpihena
+    kwetk<v><iv><aa><p1><exlc><pl> : kwetkihena
+    wik<v><iv><aa><p1><exlc><pl> : newikihena
+    anchinkx<v><iv><aa><p1><exlc><pl> : ntahchinkxi
+  
+  "[lexc/twol] (Ch19) iv.aa p1.incl.pl": 
+    achim<v><iv><aa><p1><incl><pl> : ktachimwihena
+    ika tatu<v><iv><aa><p1><incl><pl> : ika ktatuhena
+    wink<v><iv><aa><p1><incl><pl> : n/a #no form listed in textbook
+
+  "[lexc/twol] (Ch20) iv.aa p1.incl.pl": 
+    alai<v><iv><aa><p1><incl><pl> : ktalaihena
+    weskahp<v><iv><aa><p1><incl><pl> : keweskahpihena
+    kwetk<v><iv><aa><p1><incl><pl> : kwetkihena
+    wik<v><iv><aa><p1><incl><pl> : kewikihena
+    anchinkx<v><iv><aa><p1><incl><pl> : ktachinkxihena
+
+  "[lexc/twol] (Ch19) iv.aa p2.pl":
+    achim<v><iv><aa><p2><pl> : ktachimwihemo
+    ika tatu<v><iv><aa><p2><pl> : ika ktatuhemo
+    wink<v><iv><aa><p2><pl> : n/a #no form listed in textbook
+
+  "[lexc/twol] (Ch20) iv.aa p2.pl":
+    alai<v><iv><aa><p2><pl> : ktalaihemo
+    weskhap<v><iv><aa><p2><pl> : neweskahpihemo
+    kwetk<v><iv><aa><p2><pl> : kwetkihemo
+    wik<v><iv><aa><p2><pl> : kewikihemo
+    anchinkx<v><iv><aa><p2><pl> : ktahchinkxihemo
+
+  "[lexc/twol] (Ch19) iv.aa p3.pl":
+    achim<v><iv><aa><p3><pl> : achimuwak
+    ika tatu<v><iv><aa><p3><pl> : ika totuwak
+    wink<v><iv><aa><p3><pl> : n/a #no form listed in textbook
+  
+  "[lexc/twol] (Ch20) iv.aa p3.pl":
+    alai<v><iv><aa><p3><pl> : alaiyok
+    weskhap<v><iv><aa><p3><pl> : wiskahpuwak
+    kwetk<v><iv><aa><p3><pl> : kwetkiyok
+    wik<v><iv><aa><p3><pl> : wikuwak
+    anchinkx<v><iv><aa><p3><pl> : ahchinkxeyok
+
+  "[lexc/twol] (Ch21) iv.aa p1":
+    kelixike<v><iv><aa><p1><sg> : nkelixike
+    ahponhe<v><iv><aa><p1><sg> : ntahponhe
+    patam<v><iv><aa><p1><sg> : mpatama
+    manaxe<v><iv><aa><p1><sg> : nemanaxe
+
+  "[lexc/twol] (Ch21) iv.aa p2.sg":
+    kelixike<v><iv><aa><p2><sg> : kelixike
+    ahponhe<v><iv><aa><p2><sg> : ktahponhe
+    patam<v><iv><aa><p2><sg> : kpatama
+    manaxe<v><iv><aa><p2><sg> : kemanaxe
+
+  "[lexc/twol] (Ch21) iv.aa p3.sg":
+    kelixike<v><iv><aa><p3><sg> : kelixike
+    ahponhe<v><iv><aa><p3><sg> : ahponhe
+    patam<v><iv><aa><p3><sg> : patama
+    manaxe<v><iv><aa><p3><sg> : manaxe
+
+  "[lexc/twol] (Ch21) iv.aa p1.excl.pl": 
+    kelixike<v><iv><aa><p1><excl><pl> : nkelixikehena
+    ahponhe<v><iv><aa><p1><exlc><pl> : ntahponhehena
+    patam<v><iv><aa><p1><exlc><pl> : mpatamahena
+    manaxe<v><iv><aa><p1><exlc><pl> : nemanaxehena
+
+  "[lexc/twol] (Ch21) iv.aa p1.incl.pl": 
+    kelixike<v><iv><aa><p1><incl><pl> : kelixikehena
+    ahponhe<v><iv><aa><p1><incl><pl> : ktahponhehena
+    patam<v><iv><aa><p1><incl><pl> : kpatamahena
+    manaxe<v><iv><aa><p1><incl><pl> : kemanaxehena
+
+  "[lexc/twol] (Ch21) iv.aa p2.pl":
+    kelixike<v><iv><aa><p2><pl> : kelixikehemo
+    ahponhe<v><iv><aa><p2><pl> : ktahponhehemo
+    patam<v><iv><aa><p2><pl> : kpatamahemo
+    manaxe<v><iv><aa><p2><pl> : kemanaxehemo
+
+  "[lexc/twol] (Ch21) iv.aa p3.pl":
+    kelixike<v><iv><aa><p3><pl> : kelixikeyok
+    ahponhe<v><iv><aa><p3><pl> : ahponheyok
+    patam<v><iv><aa><p3><pl> : patamaok
+    manaxe<v><iv><aa><p3><pl> : manaxeyo #no "k" at coda in book? 
+  
