@@ -530,32 +530,96 @@ Tests:
     manunks<v><iv><aa><p1><sg> : nemanunksi  #base also possible to surface as teki?
     amw<v><iv><aa><p1><sg> : ntamwi
 
+   "[lexc/twol] (Ch14) iv.aa p1":
+    kaihele<v><iv><aa><p1><sg> : nkaihele
+    kanchix<v><iv><aa><p1><sg> : nkanchixi
+    kanchihel<v><iv><aa><p1><sg> : nkanchihela
+
   "[lexc/twol] (Ch13) iv.aa p2.sg":
     kawi<v><iv><aa><p2><sg> : kawi
     manunks<v><iv><aa><p2><sg> : kemanunksi
     amw<v><iv><aa><p2><sg> : ktamwi
+  
+  "[lexc/twol] (Ch14) iv.aa p2.sg":
+    kaihele<v><iv><aa><p2><sg> : kaihele
+    kanchix<v><iv><aa><p2><sg> : kanchixi
+    kanchihel<v><iv><aa><p2><sg> : kanchihela
     
    "[lexc/twol] (Ch13) iv.aa p3.sg":
     kawi<v><iv><aa><p3><sg> : kawi
     manunks<v><iv><aa><p3><sg> : manunksu
     amw<v><iv><aa><p3><sg> : amu
 
+  "[lexc/twol] (Ch14) iv.aa p3.sg":
+    kaihele<v><iv><aa><p3><sg> : kaihele
+    kanchix<v><iv><aa><p3><sg> : kanchixu
+    kanchihel<v><iv><aa><p3><sg> : kanchihele
+
   "[lexc/twol] (Ch13) iv.aa p1.excl.pl": 
     kawi<v><iv><aa><p1><excl><pl> : nkawihena
     manunks<v><iv><aa><p1><exlc><pl> : nemanunksihena
     amw<v><iv><aa><p1><excl><pl> : ntamwihena
+
+  "[lexc/twol] (Ch13) iv.aa p1.excl.pl": 
+    kaihele<v><iv><aa><p1><excl><pl> : nkaihelehena
+    kanchix<v><iv><aa><p1><exlc><pl> : nkanchixihena
+    kanchihel<v><iv><aa><p1><excl><pl> : nkanchihelahena
 
   "[lexc/twol] (Ch13) iv.aa p1.incl.pl": 
     kawi<v><iv><aa><p1><incl><pl> : kawihena
     manunks<v><iv><aa><p1><incl><pl> : kemanunksihena
     amw<v><iv><aa><p1><incl><pl> : ktamwihena
 
+  "[lexc/twol] (Ch14) iv.aa p1.incl.pl": 
+    kaihele<v><iv><aa><p1><incl><pl> : kaihelehena
+    kanchix<v><iv><aa><p1><incl><pl> : kanchixihena
+    kanchihel<v><iv><aa><p1><incl><pl> : kanchihelahena
+
   "[lexc/twol] (Ch13) iv.aa p2.pl":
     kawi<v><iv><aa><p2><pl> : kawihemo
     manunks<v><iv><aa><p2><pl> : kemanunksihemo
     amw<v><iv><aa><p2><pl> : ktamwihemo
 
+  "[lexc/twol] (Ch14) iv.aa p2.pl":
+    kaihele<v><iv><aa><p2><pl> : kaihelehemo
+    kanchix<v><iv><aa><p2><pl> : kanchixihemo
+    kanchihel<v><iv><aa><p2><pl> : kanchihelahemo
+
   "[lexc/twol] (Ch13) iv.aa p3.pl":
     kawi<v><iv><aa><p3><pl> : kawiyok
     manunks<v><iv><aa><p3><pl> : manunksuwak
     amw<v><iv><aa><p3><pl> : amuwak
+
+  "[lexc/twol] (Ch14) iv.aa p3.pl":
+    kaihele<v><iv><aa><p3><pl> : kaiheleyok
+    kanchix<v><iv><aa><p3><pl> : kanchixuwak
+    kanchihel<v><iv><aa><p3><pl> : kanchiheleyok
+
+   "[lexc/twol] (Ch17) iv.aa p1":
+    kish<v><iv><aa><p1><sg> : nkishi
+    kwech<v><iv><aa><p1><sg> : nkwechi
+
+  "[lexc/twol] (Ch17) iv.aa p2.sg":
+    kish<v><iv><aa><p2><sg> : kishi
+    kwech<v><iv><aa><p2><sg> : kwechi
+
+  "[lexc/twol] (Ch17) iv.aa p3.sg":
+    kish<v><iv><aa><p3><sg> : kishi
+    kwech<v><iv><aa><p3><sg> : kwechi
+  
+   "[lexc/twol] (Ch17) iv.aa p1.excl.pl": 
+    kish<v><iv><aa><p1><excl><pl> : nkishihena
+    kewch<v><iv><aa><p1><exlc><pl> : nkwechihena
+  
+  "[lexc/twol] (Ch17) iv.aa p1.incl.pl": 
+    kish<v><iv><aa><p1><incl><pl> : kishihena
+    kewch<v><iv><aa><p1><incl><pl> : kwechihena
+  
+  "[lexc/twol] (Ch17) iv.aa p2.pl":
+    kish<v><iv><aa><p2><pl> : kishihemo
+    kewch<v><iv><aa><p2><pl> : kwechihemo
+
+  "[lexc/twol] (Ch17) iv.aa p3.pl":
+    kish<v><iv><aa><p3><pl> : kishiyok
+    kewch<v><iv><aa><p3><pl> : kewchiyok 
+
