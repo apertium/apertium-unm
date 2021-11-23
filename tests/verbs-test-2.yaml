@@ -783,11 +783,21 @@ Tests:
     patam<v><iv><aa><p1><sg> : mpatama
     manaxe<v><iv><aa><p1><sg> : nemanaxe
 
+  "[lexc/twol] (Ch22) iv.aa p1":
+    ame<v><iv><aa><p1><sg> : ame
+    penhatu<v><iv><aa><p1><sg> : mpenhatu
+    tkauxwe<v><iv><aa><p1><sg> : ntkauxwe
+
   "[lexc/twol] (Ch21) iv.aa p2.sg":
     kelixike<v><iv><aa><p2><sg> : kelixike
     ahponhe<v><iv><aa><p2><sg> : ktahponhe
     patam<v><iv><aa><p2><sg> : kpatama
     manaxe<v><iv><aa><p2><sg> : kemanaxe
+
+  "[lexc/twol] (Ch22) iv.aa p2.sg":
+    ame<v><iv><aa><p2><sg> : ame
+    penhatu<v><iv><aa><p2><sg> : kpenhatu
+    tkauxwe<v><iv><aa><p2><sg> : ktkauxwe
 
   "[lexc/twol] (Ch21) iv.aa p3.sg":
     kelixike<v><iv><aa><p3><sg> : kelixike
@@ -795,11 +805,21 @@ Tests:
     patam<v><iv><aa><p3><sg> : patama
     manaxe<v><iv><aa><p3><sg> : manaxe
 
+  "[lexc/twol] (Ch22) iv.aa p3.sg":
+    ame<v><iv><aa><p3><sg> : ame
+    penhatu<v><iv><aa><p3><sg> : penhatu
+    tkauxwe<v><iv><aa><p3><sg> : tkauxwe
+
   "[lexc/twol] (Ch21) iv.aa p1.excl.pl": 
     kelixike<v><iv><aa><p1><excl><pl> : nkelixikehena
     ahponhe<v><iv><aa><p1><exlc><pl> : ntahponhehena
     patam<v><iv><aa><p1><exlc><pl> : mpatamahena
     manaxe<v><iv><aa><p1><exlc><pl> : nemanaxehena
+
+  "[lexc/twol] (Ch22) iv.aa p1.excl.pl": 
+    ame<v><iv><aa><p1><excl><pl> : amehena
+    penhatu<v><iv><aa><p1><exlc><pl> : mpenhatuhena
+    tkauxwe<v><iv><aa><p1><exlc><pl> : ntkauxwehena
 
   "[lexc/twol] (Ch21) iv.aa p1.incl.pl": 
     kelixike<v><iv><aa><p1><incl><pl> : kelixikehena
@@ -807,15 +827,50 @@ Tests:
     patam<v><iv><aa><p1><incl><pl> : kpatamahena
     manaxe<v><iv><aa><p1><incl><pl> : kemanaxehena
 
+  "[lexc/twol] (Ch22) iv.aa p1.incl.pl": 
+    ame<v><iv><aa><p1><incl><pl> : amehena
+    penhatu<v><iv><aa><p1><incl><pl> : kpenhatuhena
+    tkauxwe<v><iv><aa><p1><incl><pl> : ktkauxwehena
+
   "[lexc/twol] (Ch21) iv.aa p2.pl":
     kelixike<v><iv><aa><p2><pl> : kelixikehemo
     ahponhe<v><iv><aa><p2><pl> : ktahponhehemo
     patam<v><iv><aa><p2><pl> : kpatamahemo
     manaxe<v><iv><aa><p2><pl> : kemanaxehemo
 
+  "[lexc/twol] (Ch22) iv.aa p2.pl":
+    ame<v><iv><aa><p2><pl> : amehemo
+    penhatu<v><iv><aa><p2><pl> : kpenhatuhemo
+    tkauxwe<v><iv><aa><p2><pl> : ktkauxwehemo
+
   "[lexc/twol] (Ch21) iv.aa p3.pl":
     kelixike<v><iv><aa><p3><pl> : kelixikeyok
     ahponhe<v><iv><aa><p3><pl> : ahponheyok
     patam<v><iv><aa><p3><pl> : patamaok
     manaxe<v><iv><aa><p3><pl> : manaxeyo #no "k" at coda in book? 
+
+  "[lexc/twol] (Ch22) iv.aa p3.pl":
+    ame<v><iv><aa><p3><pl> : ameyok
+    penhatu<v><iv><aa><p3><pl> : penhatuwak
+    tkauxwe<v><iv><aa><p3><pl> : tkauxweyok
+
+  "[lexc/twol] (Ch23) iv.aa p1":
+    ahkens<v><iv><aa><p1><sg> : nkahkensi
   
+  "[lexc/twol] (Ch23) iv.aa p2.sg":
+    ahkens<v><iv><aa><p2><sg> : ktahkensi
+  
+  "[lexc/twol] (Ch23) iv.aa p3.sg":
+    ahkens<v><iv><aa><p3><sg> : ahkensu
+  
+  "[lexc/twol] (Ch23) iv.aa p1.excl.pl": 
+    ahkens<v><iv><aa><p1><excl><pl> : ntakensihena
+
+  "[lexc/twol] (Ch23) iv.aa p1.incl.pl": 
+    ahkens<v><iv><aa><p1><incl><pl> : ktakensihena
+
+  "[lexc/twol] (Ch23) iv.aa p2.pl":
+    ahkens<v><iv><aa><p2><pl> : ktakensihemo
+  
+  "[lexc/twol] (Ch23) iv.aa p3.pl":
+    ahkens<v><iv><aa><p3><pl> : ahkensuwak
