@@ -21,6 +21,14 @@ Tests:
     shinkatam<v><tv><nn><p1><sg><o_pl> : nshinkatamena
     hatun<v><tv><nn><p1><sg><o_sg> : nulhatun
     hatun<v><tv><nn><p1><sg><o_pl> : nulhatuna
+
+  "[lexc/twol] (Ch6) tv.nn p1.sg":
+    papitu<v><tv><nn><p1><sg><o_sg> : mpapitun
+    papitu<v><tv><nn><p1><sg><o_pl> : mpapituna
+    pentam<v><tv><nn><p1><sg><o_sg> : mpentamen
+    pentam<v><tv><nn><p1><sg><o_pl> : mpentamena
+    pahsenem<v><tv><nn><p1><sg><o_sg> : mpahsenemen
+    pahsenem<v><tv><nn><p1><sg><o_pl> : mpahsenemena
   
   "[lexc/twol] (Ch5) tv.nn p2.sg":
     nem<v><tv><nn><p2><sg><o_sg> : kenemen
@@ -38,6 +46,14 @@ Tests:
     hatun<v><tv><nn><p2><sg><o_sg> : kulhatun
     hatun<v><tv><nn><p2><sg><o_pl> : kulhatuna
 
+  "[lexc/twol] (Ch6) tv.nn p2.sg":
+    papitu<v><tv><nn><p2><sg><o_sg> : kpapitun
+    papitu<v><tv><nn><p2><sg><o_pl> : kpapituna
+    pentam<v><tv><nn><p2><sg><o_sg> : kpentamen
+    pentam<v><tv><nn><p2><sg><o_pl> : kpentamena
+    pahsenem<v><tv><nn><p2><sg><o_sg> : kpahsenemen
+    pahsenem<v><tv><nn><p2><sg><o_pl> : kpahsenemena
+
   "[lexc/twol] (Ch5) tv.nn p3.sg":
     nem<v><tv><nn><p2><sg><o_sg> : wenemen
     nem<v><tv><nn><p2><sg><o_pl> : wenemena
@@ -54,38 +70,61 @@ Tests:
     hatun<v><tv><nn><p2><sg><o_sg> : wulhatun #also spelled walhatu ulhatu welatu
     hatun<v><tv><nn><p2><sg><o_pl> : wulhatuna
 
-
-  "[lexc/twol] (Ch5) tv.nn p1.incl.pl":
-    nem<v><tv><nn><p1><incl><pl><o_sg> : nemenen
-    nem<v><tv><nn><p1><incl><pl><o_pl> : nemenena
-    penam<v><tv><nn><p1><incl><pl><o_sg> : mpenamenen
-    penam<v><tv><nn><p1><incl><pl><o_pl> : mpenamenena
-    wixeni<v><tv><nn><p1><incl><pl><o_sg> : newixeninen
-    wixeni<v><tv><nn><p1><incl><pl><o_pl> : newixeninena
-    katatam<v><tv><nn><p1><incl><pl><o_sg> : nkatatamenen
-    katatam<v><tv><nn><p1><incl><pl><o_pl> : nkatatamenena
-    katutam<v><tv><nn><p1><incl><pl><o_sg> : nkatutamenen
-    katutam<v><tv><nn><p1><incl><pl><o_pl> : nkatutamenena
-    shinkatam<v><tv><nn><p1><incl><pl><o_sg> : nkshinkatamenen
-    shinkatam<v><tv><nn><p1><incl><pl><o_pl> : nkshinkatamenena
-    hatun<v><tv><nn><p1><incl><pl><o_sg> : nulhatuhena
-    hatun<v><tv><nn><p1><incl><pl><o_pl> : nulhatuhena
+  "[lexc/twol] (Ch6) tv.nn p3.sg":
+    papitu<v><tv><nn><p2><sg><o_sg> : papitun
+    papitu<v><tv><nn><p2><sg><o_pl> : papituna
+    pentam<v><tv><nn><p2><sg><o_sg> : pwentamen
+    pentam<v><tv><nn><p2><sg><o_pl> : pwentamena
+    pahsenem<v><tv><nn><p2><sg><o_sg> : pahsenemen
+    pahsenem<v><tv><nn><p2><sg><o_pl> : pahsenemena
 
   "[lexc/twol] (Ch5) tv.nn p1.excl.pl":
-    nem<v><tv><nn><p1><excl><pl><o_sg> : kenemenen
-    nem<v><tv><nn><p1><excl><pl><o_pl> : kenemenena
-    penam<v><tv><nn><p1><excl><pl><o_sg> : kepenamenen
-    penam<v><tv><nn><p1><excl><pl><o_pl> : kepenamenena
-    wixeni<v><tv><nn><p1><excl><pl><o_sg> : kewixeninen
-    wixeni<v><tv><nn><p1><excl><pl><o_pl> : kewixeninena
-    katatam<v><tv><nn><p1><excl><pl><o_sg> : katatamenen
-    katatam<v><tv><nn><p1><excl><pl><o_pl> : katatamenena
-    katutam<v><tv><nn><p1><excl><pl><o_sg> : katutamenen
-    katutam<v><tv><nn><p1><excl><pl><o_pl> : katutamenena
-    shinkatam<v><tv><nn><p1><excl><pl><o_sg> : kshinkatamenen
-    shinkatam<v><tv><nn><p1><excl><pl><o_pl> : kshinkatamenena
-    hatun<v><tv><nn><p1><excl><pl><o_sg> : kulhatuhena
-    hatun<v><tv><nn><p1><excl><pl><o_pl> : kulhatuhena
+    nem<v><tv><nn><p1><excl><pl><o_sg> : nemenen
+    nem<v><tv><nn><p1><excl><pl><o_pl> : nemenena
+    penam<v><tv><nn><p1><excl><pl><o_sg> : mpenamenen
+    penam<v><tv><nn><p1><excl><pl><o_pl> : mpenamenena
+    wixeni<v><tv><nn><p1><excl><pl><o_sg> : newixeninen
+    wixeni<v><tv><nn><p1><excl><pl><o_pl> : newixeninena
+    katatam<v><tv><nn><p1><excl><pl><o_sg> : nkatatamenen
+    katatam<v><tv><nn><p1><excl><pl><o_pl> : nkatatamenena
+    katutam<v><tv><nn><p1><excl><pl><o_sg> : nkatutamenen
+    katutam<v><tv><nn><p1><excl><pl><o_pl> : nkatutamenena
+    shinkatam<v><tv><nn><p1><excl><pl><o_sg> : nkshinkatamenen
+    shinkatam<v><tv><nn><p1><excl><pl><o_pl> : nkshinkatamenena
+    hatun<v><tv><nn><p1><excl><pl><o_sg> : nulhatuhena
+    hatun<v><tv><nn><p1><excl><pl><o_pl> : nulhatuhena
+
+  "[lexc/twol] (Ch6) tv.nn p1.excl.pl":
+    papitu<v><tv><nn><p1><excl><pl><o_sg> : mpapitunen
+    papitu<v><tv><nn><p1><excl><pl><o_pl> : mpapitunena
+    pentam<v><tv><nn><p1><excl><pl><o_sg> : mpentamenen
+    pentam<v><tv><nn><p1><excl><pl><o_pl> : mpentamenena
+    pahsenem<v><tv><nn><p1><excl><pl><o_sg> : mpahsenemenen
+    pahsenem<v><tv><nn><p1><excl><pl><o_pl> : mpahsenemenena
+
+  "[lexc/twol] (Ch5) tv.nn p1.incl.pl":
+    nem<v><tv><nn><p1><incl><pl><o_sg> : kenemenen
+    nem<v><tv><nn><p1><incl><pl><o_pl> : kenemenena
+    penam<v><tv><nn><p1><incl><pl><o_sg> : kepenamenen
+    penam<v><tv><nn><p1><incl><pl><o_pl> : kepenamenena
+    wixeni<v><tv><nn><p1><incl><pl><o_sg> : kewixeninen
+    wixeni<v><tv><nn><p1><incl><pl><o_pl> : kewixeninena
+    katatam<v><tv><nn><p1><incl><pl><o_sg> : katatamenen
+    katatam<v><tv><nn><p1><incl><pl><o_pl> : katatamenena
+    katutam<v><tv><nn><p1><incl><pl><o_sg> : katutamenen
+    katutam<v><tv><nn><p1><incl><pl><o_pl> : katutamenena
+    shinkatam<v><tv><nn><p1><incl><pl><o_sg> : kshinkatamenen
+    shinkatam<v><tv><nn><p1><incl><pl><o_pl> : kshinkatamenena
+    hatun<v><tv><nn><p1><incl><pl><o_sg> : kulhatuhena
+    hatun<v><tv><nn><p1><incl><pl><o_pl> : kulhatuhena
+
+  "[lexc/twol] (Ch6) tv.nn p1.incl.pl":
+    papitu<v><tv><nn><p1><incl><pl><o_sg> : kpapitunen
+    papitu<v><tv><nn><p1><incl><pl><o_pl> : kpapitunena
+    pentam<v><tv><nn><p1><incl><pl><o_sg> : kpentamenen
+    pentam<v><tv><nn><p1><incl><pl><o_pl> : kpentamenena
+    pahsenem<v><tv><nn><p1><incl><pl><o_sg> : kpahsenemenen
+    pahsenem<v><tv><nn><p1><incl><pl><o_pl> : kpahsenemenena
 
   "[lexc/twol] (Ch5) tv.nn p2.pl":
     nem<v><tv><nn><p2><pl> : kenemeneyo
@@ -96,6 +135,11 @@ Tests:
     shinkatam<v><tv><nn><p2><pl> : kshinkatameneyo
     hatun<v><tv><nn><p2><pl> : kulhatuhemo
 
+  "[lexc/twol] (Ch6) tv.nn p2.pl":
+    papitu<v><tv><nn><p2><pl> : kpapituneyo
+    pentam<v><tv><nn><p2><pl> : kpentameneyo
+    pahsenem<v><tv><nn><p2><pl> : kpahsenemeneyo
+
   "[lexc/twol] (Ch5) tv.nn p3.pl":
     nem<v><tv><nn><p3><pl> : wenemeneyo
     penam<v><tv><nn><p3><pl> : pwenameneyo
@@ -104,3 +148,8 @@ Tests:
     katutam<v><tv><nn><p3><pl> : kahtutameneyo #alternate form kotatameyo
     shinkatam<v><tv><nn><p3><pl> : wshinkatameneyo
     hatun<v><tv><nn><p3><pl> : wulhatuwak
+
+  "[lexc/twol] (Ch6) tv.nn p3.pl":
+    papitu<v><tv><nn><p3><pl> : papituneyo
+    pentam<v><tv><nn><p3><pl> : pwentameneyo
+    pahsenem<v><tv><nn><p3><pl> : pahsenemeneyo
