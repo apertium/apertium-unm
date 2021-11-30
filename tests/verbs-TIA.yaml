@@ -1,0 +1,106 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../unm.autogen.hfst
+    Morph: ../unm.automorf.hfst
+
+Tests:
+  
+  "[lexc/twol] (Ch5) tv.nn p1.sg":
+    nem<v><tv><nn><p1><sg><o_sg> : nemen
+    nem<v><tv><nn><p1><sg><o_pl> : nemena
+    penam<v><tv><nn><p1><sg><o_sg> : mpenamen
+    penam<v><tv><nn><p1><sg><o_pl> : mpenamena
+    wixeni<v><tv><nn><p1><sg><o_sg> : newixenin
+    wixeni<v><tv><nn><p1><sg><o_pl> : newixenina
+    katatam<v><tv><nn><p1><sg><o_sg> : nkatatamen
+    katatam<v><tv><nn><p1><sg><o_pl> : nkatatamena
+    katutam<v><tv><nn><p1><sg><o_sg> : nkatutamen
+    katutam<v><tv><nn><p1><sg><o_pl> : nkatutamena
+    shinkatam<v><tv><nn><p1><sg><o_sg> : nshinkatamen
+    shinkatam<v><tv><nn><p1><sg><o_pl> : nshinkatamena
+    hatun<v><tv><nn><p1><sg><o_sg> : nulhatun
+    hatun<v><tv><nn><p1><sg><o_pl> : nulhatuna
+  
+  "[lexc/twol] (Ch5) tv.nn p2.sg":
+    nem<v><tv><nn><p2><sg><o_sg> : kenemen
+    nem<v><tv><nn><p2><sg><o_pl> : kenemena
+    penam<v><tv><nn><p2><sg><o_sg> : kepenamen
+    penam<v><tv><nn><p2><sg><o_pl> : kepenamena
+    wixeni<v><tv><nn><p2><sg><o_sg> : kewixenin
+    wixeni<v><tv><nn><p2><sg><o_pl> : kewixenina
+    katatam<v><tv><nn><p2><sg><o_sg> : katatamen
+    katatam<v><tv><nn><p2><sg><o_pl> : katatamena  
+    katutam<v><tv><nn><p2><sg><o_sg> : katutamen
+    katutam<v><tv><nn><p2><sg><o_pl> : katutamena
+    shinkatam<v><tv><nn><p2><sg><o_sg> : kshinkatamen
+    shinkatam<v><tv><nn><p2><sg><o_pl> : kshinkatamena
+    hatun<v><tv><nn><p2><sg><o_sg> : kulhatun
+    hatun<v><tv><nn><p2><sg><o_pl> : kulhatuna
+
+  "[lexc/twol] (Ch5) tv.nn p3.sg":
+    nem<v><tv><nn><p2><sg><o_sg> : wenemen
+    nem<v><tv><nn><p2><sg><o_pl> : wenemena
+    penam<v><tv><nn><p2><sg><o_sg> : pwenamen
+    penam<v><tv><nn><p2><sg><o_pl> : pwenamen
+    wixeni<v><tv><nn><p2><sg><o_sg> : wixenin
+    wixeni<v><tv><nn><p2><sg><o_pl> : wixenina
+    katatam<v><tv><nn><p2><sg><o_sg> : kahtatamen #alternate form kotatamen
+    katatam<v><tv><nn><p2><sg><o_pl> : kahtatamena #alternate form kotatamena
+    katutam<v><tv><nn><p2><sg><o_sg> : kahtutamen
+    katutam<v><tv><nn><p2><sg><o_pl> : kahtutamena
+    shinkatam<v><tv><nn><p2><sg><o_sg> : wshinkatamen
+    shinkatam<v><tv><nn><p2><sg><o_pl> : wshinkatamena
+    hatun<v><tv><nn><p2><sg><o_sg> : wulhatun #also spelled walhatu ulhatu welatu
+    hatun<v><tv><nn><p2><sg><o_pl> : wulhatuna
+
+
+  "[lexc/twol] (Ch5) tv.nn p1.incl.pl":
+    nem<v><tv><nn><p1><incl><pl><o_sg> : nemenen
+    nem<v><tv><nn><p1><incl><pl><o_pl> : nemenena
+    penam<v><tv><nn><p1><incl><pl><o_sg> : mpenamenen
+    penam<v><tv><nn><p1><incl><pl><o_pl> : mpenamenena
+    wixeni<v><tv><nn><p1><incl><pl><o_sg> : newixeninen
+    wixeni<v><tv><nn><p1><incl><pl><o_pl> : newixeninena
+    katatam<v><tv><nn><p1><incl><pl><o_sg> : nkatatamenen
+    katatam<v><tv><nn><p1><incl><pl><o_pl> : nkatatamenena
+    katutam<v><tv><nn><p1><incl><pl><o_sg> : nkatutamenen
+    katutam<v><tv><nn><p1><incl><pl><o_pl> : nkatutamenena
+    shinkatam<v><tv><nn><p1><incl><pl><o_sg> : nkshinkatamenen
+    shinkatam<v><tv><nn><p1><incl><pl><o_pl> : nkshinkatamenena
+    hatun<v><tv><nn><p1><incl><pl><o_sg> : nulhatuhena
+    hatun<v><tv><nn><p1><incl><pl><o_pl> : nulhatuhena
+
+  "[lexc/twol] (Ch5) tv.nn p1.excl.pl":
+    nem<v><tv><nn><p1><excl><pl><o_sg> : kenemenen
+    nem<v><tv><nn><p1><excl><pl><o_pl> : kenemenena
+    penam<v><tv><nn><p1><excl><pl><o_sg> : kepenamenen
+    penam<v><tv><nn><p1><excl><pl><o_pl> : kepenamenena
+    wixeni<v><tv><nn><p1><excl><pl><o_sg> : kewixeninen
+    wixeni<v><tv><nn><p1><excl><pl><o_pl> : kewixeninena
+    katatam<v><tv><nn><p1><excl><pl><o_sg> : katatamenen
+    katatam<v><tv><nn><p1><excl><pl><o_pl> : katatamenena
+    katutam<v><tv><nn><p1><excl><pl><o_sg> : katutamenen
+    katutam<v><tv><nn><p1><excl><pl><o_pl> : katutamenena
+    shinkatam<v><tv><nn><p1><excl><pl><o_sg> : kshinkatamenen
+    shinkatam<v><tv><nn><p1><excl><pl><o_pl> : kshinkatamenena
+    hatun<v><tv><nn><p1><excl><pl><o_sg> : kulhatuhena
+    hatun<v><tv><nn><p1><excl><pl><o_pl> : kulhatuhena
+
+  "[lexc/twol] (Ch5) tv.nn p2.pl":
+    nem<v><tv><nn><p2><pl> : kenemeneyo
+    penam<v><tv><nn><p2><pl> : kepenameneyo
+    wixeni<v><tv><nn><p2><pl> : kewixenineyo
+    katatam<v><tv><nn><p2><pl> : katatameneyo
+    katutam<v><tv><nn><p2><pl> : katutameneyo
+    shinkatam<v><tv><nn><p2><pl> : kshinkatameneyo
+    hatun<v><tv><nn><p2><pl> : kulhatuhemo
+
+  "[lexc/twol] (Ch5) tv.nn p3.pl":
+    nem<v><tv><nn><p3><pl> : wenemeneyo
+    penam<v><tv><nn><p3><pl> : pwenameneyo
+    wixeni<v><tv><nn><p3><pl> : wixenineyo
+    katatam<v><tv><nn><p3><pl> : kahtatameneyo #alternate form kotatameneyo
+    katutam<v><tv><nn><p3><pl> : kahtutameneyo #alternate form kotatameyo
+    shinkatam<v><tv><nn><p3><pl> : wshinkatameneyo
+    hatun<v><tv><nn><p3><pl> : wulhatuwak
