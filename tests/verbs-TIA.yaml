@@ -153,3 +153,53 @@ Tests:
     papitu<v><tv><nn><p3><pl> : papituneyo
     pentam<v><tv><nn><p3><pl> : pwentameneyo
     pahsenem<v><tv><nn><p3><pl> : pahsenemeneyo
+
+  "[lexc/twol] (Ch7) tv.nn p1.sg":
+    tankhitu<v><tv><nn><p1><sg><o_sg> : ntankhitun
+    tankhitu<v><tv><nn><p1><sg><o_pl> : ntankhituna
+    maxkam<v><tv><nn><p1><sg><o_sg> : nemaxkamen
+    maxkam<v><tv><nn><p1><sg><o_pl> : nemaxkamena
+    kaxksem<v><tv><nn><p1><sg><o_sg> : nkaxksemen
+    kaxksem<v><tv><nn><p1><sg><o_pl> : nkaxksemena
+
+  "[lexc/twol] (Ch7) tv.nn p2.sg":
+    tankhitu<v><tv><nn><p2><sg><o_sg> : ktankhitun
+    tankhitu<v><tv><nn><p2><sg><o_pl> : ktankhituna
+    maxkam<v><tv><nn><p2><sg><o_sg> : kemaxkamen
+    maxkam<v><tv><nn><p2><sg><o_pl> : kemaxkamena
+    kaxksem<v><tv><nn><p2><sg><o_sg> : kaxksemen
+    kaxksem<v><tv><nn><p2><sg><o_pl> : kaxksemena
+
+  "[lexc/twol] (Ch7) tv.nn p3.sg":
+    tankhitu<v><tv><nn><p2><sg><o_sg> : tonkhitun
+    tankhitu<v><tv><nn><p2><sg><o_pl> : tonkhituna
+    maxkam<v><tv><nn><p2><sg><o_sg> : amoxkamen   #"a" was added in () at head
+    maxkam<v><tv><nn><p2><sg><o_pl> : amoxkamena  #"a" was added in () at head
+    kaxksem<v><tv><nn><p2><sg><o_sg> : koxksemen
+    kaxksem<v><tv><nn><p2><sg><o_pl> : koxksemena
+
+  "[lexc/twol] (Ch7) tv.nn p1.excl.pl":
+    tankhitu<v><tv><nn><p1><excl><pl><o_sg> : ntankhitunen
+    tankhitu<v><tv><nn><p1><excl><pl><o_pl> : ntankhitunena
+    maxkam<v><tv><nn><p1><excl><pl><o_sg> : nemaxkamenen
+    maxkam<v><tv><nn><p1><excl><pl><o_pl> : nemaxkamenena
+    kaxksem<v><tv><nn><p1><excl><pl><o_sg> : nkaxksemenen
+    kaxksem<v><tv><nn><p1><excl><pl><o_pl> : nkaxksemenena
+
+  "[lexc/twol] (Ch7) tv.nn p1.incl.pl":
+    tankhitu<v><tv><nn><p1><incl><pl><o_sg> : ktankhitunen
+    tankhitu<v><tv><nn><p1><incl><pl><o_pl> : ktankhitunena
+    maxkam<v><tv><nn><p1><incl><pl><o_sg> : kemaxkamenen
+    maxkam<v><tv><nn><p1><incl><pl><o_pl> : kemaxkamenena
+    kaxksem<v><tv><nn><p1><incl><pl><o_sg> : kaxksemenen
+    kaxksem<v><tv><nn><p1><incl><pl><o_pl> : kaxksemenena
+
+  "[lexc/twol] (Ch7) tv.nn p2.pl":
+    tankhitu<v><tv><nn><p2><pl> : ktankhituneyo
+    maxkam<v><tv><nn><p2><pl> : kemaxkameneyo
+    kaxksem<v><tv><nn><p2><pl> : kaxksemeneyo
+
+  "[lexc/twol] (Ch7) tv.nn p3.pl":
+    tankhitu<v><tv><nn><p3><pl> : tonkhituneyo
+    maxkam<v><tv><nn><p3><pl> : moxkameneyo #alternate form maxkamaneyo
+    kaxksem<v><tv><nn><p3><pl> : koxksemeneyo #a crossed out after "m" and replaced with "e"
