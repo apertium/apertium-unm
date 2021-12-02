@@ -279,3 +279,41 @@ Tests:
   "[lexc/twol] (Ch10) tv.nn p3.pl":
     watu<v><tv><nn><p3><pl> : uwatuneyo
     wlamhitam<v><tv><nn><p3><pl> : welamhitameneyo
+
+  "[lexc/twol] (Ch11) tv.nn p1.sg":
+    kwetkenem<v><tv><nn><p1><sg><o_sg> : nkwetkenemen
+    kwetkenem<v><tv><nn><p1><sg><o_pl> : nkwetkenemena
+    kelenem<v><tv><nn><p1><sg><o_sg> : nkelenemen
+    kelenem<v><tv><nn><p1><sg><o_pl> : nkelenemena
+
+  "[lexc/twol] (Ch11) tv.nn p2.sg":
+    kwetkenem<v><tv><nn><p2><sg><o_sg> : kwetkenemen
+    kwetkenem<v><tv><nn><p2><sg><o_pl> : kwetkenemena
+    kelenem<v><tv><nn><p2><sg><o_sg> : kelenemen
+    kelenem<v><tv><nn><p2><sg><o_pl> : kelenemena
+
+  "[lexc/twol] (Ch11) tv.nn p3.sg":
+    kwetkenem<v><tv><nn><p2><sg><o_sg> : kwetkenemen
+    kwetkenem<v><tv><nn><p2><sg><o_pl> : kwetkenemena
+    kelenem<v><tv><nn><p2><sg><o_sg> : kwelenemen
+    kelenem<v><tv><nn><p2><sg><o_pl> : kwelenemena
+
+  "[lexc/twol] (Ch11) tv.nn p1.excl.pl":
+    kwetkenem<v><tv><nn><p1><excl><pl><o_sg> : nkwetkenemenen
+    kwetkenem<v><tv><nn><p1><excl><pl><o_pl> : nkwetkenemenena
+    kelenem<v><tv><nn><p1><excl><pl><o_sg> : nkelenemenena
+    kelenem<v><tv><nn><p1><excl><pl><o_pl> : nkelenemenena
+
+  "[lexc/twol] (Ch11) tv.nn p1.incl.pl":
+    kwetkenem<v><tv><nn><p1><incl><pl><o_sg> : kwetkenemenen
+    kwetkenem<v><tv><nn><p1><incl><pl><o_pl> : kwetkenemenena
+    kelenem<v><tv><nn><p1><incl><pl><o_sg> : kelenemenen
+    kelenem<v><tv><nn><p1><incl><pl><o_pl> : kelenemenena
+
+  "[lexc/twol] (Ch11) tv.nn p2.pl":
+    kwetkenem<v><tv><nn><p2><pl> : kwetkenemeneneyo
+    kelenem<v><tv><nn><p2><pl> : kelenemeneneyo
+
+  "[lexc/twol] (Ch11) tv.nn p3.pl":
+    kwetkenem<v><tv><nn><p3><pl> : kwetkenemeneyo
+    kelenem<v><tv><nn><p3><pl> : kwelenemeneyo
