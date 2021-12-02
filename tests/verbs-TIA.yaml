@@ -286,11 +286,23 @@ Tests:
     kelenem<v><tv><nn><p1><sg><o_sg> : nkelenemen
     kelenem<v><tv><nn><p1><sg><o_pl> : nkelenemena
 
+  "[lexc/twol] (Ch12) tv.nn p1.sg":
+    wechilahtun<v><tv><nn><p1><sg><o_sg> : newechilahtun
+    wechilahtun<v><tv><nn><p1><sg><o_pl> : newechilahtuna
+    melam<v><tv><nn><p1><sg><o_sg> : nemelamen
+    melam<v><tv><nn><p1><sg><o_pl> : nemelamena
+
   "[lexc/twol] (Ch11) tv.nn p2.sg":
     kwetkenem<v><tv><nn><p2><sg><o_sg> : kwetkenemen
     kwetkenem<v><tv><nn><p2><sg><o_pl> : kwetkenemena
     kelenem<v><tv><nn><p2><sg><o_sg> : kelenemen
     kelenem<v><tv><nn><p2><sg><o_pl> : kelenemena
+
+  "[lexc/twol] (Ch12) tv.nn p2.sg":
+    wechilahtun<v><tv><nn><p2><sg><o_sg> : kewechilahtun
+    wechilahtun<v><tv><nn><p2><sg><o_pl> : kewechilahtuna
+    melam<v><tv><nn><p2><sg><o_sg> : kemelamen
+    melam<v><tv><nn><p2><sg><o_pl> : kemelamena
 
   "[lexc/twol] (Ch11) tv.nn p3.sg":
     kwetkenem<v><tv><nn><p2><sg><o_sg> : kwetkenemen
@@ -298,11 +310,23 @@ Tests:
     kelenem<v><tv><nn><p2><sg><o_sg> : kwelenemen
     kelenem<v><tv><nn><p2><sg><o_pl> : kwelenemena
 
+  "[lexc/twol] (Ch12) tv.nn p3.sg":
+    wechilahtun<v><tv><nn><p2><sg><o_sg> : wechilahtun
+    wechilahtun<v><tv><nn><p2><sg><o_pl> : wechilahtuna
+    melam<v><tv><nn><p2><sg><o_sg> : melamen
+    melam<v><tv><nn><p2><sg><o_pl> : melamena
+
   "[lexc/twol] (Ch11) tv.nn p1.excl.pl":
     kwetkenem<v><tv><nn><p1><excl><pl><o_sg> : nkwetkenemenen
     kwetkenem<v><tv><nn><p1><excl><pl><o_pl> : nkwetkenemenena
     kelenem<v><tv><nn><p1><excl><pl><o_sg> : nkelenemenena
     kelenem<v><tv><nn><p1><excl><pl><o_pl> : nkelenemenena
+
+  "[lexc/twol] (Ch12) tv.nn p1.excl.pl":
+    wechilahtun<v><tv><nn><p1><excl><pl><o_sg> : newechilahtunen
+    wechilahtun<v><tv><nn><p1><excl><pl><o_pl> : newechilahtunena
+    melam<v><tv><nn><p1><excl><pl><o_sg> : nemelamenen
+    melam<v><tv><nn><p1><excl><pl><o_pl> : nemelamenena
 
   "[lexc/twol] (Ch11) tv.nn p1.incl.pl":
     kwetkenem<v><tv><nn><p1><incl><pl><o_sg> : kwetkenemenen
@@ -310,10 +334,24 @@ Tests:
     kelenem<v><tv><nn><p1><incl><pl><o_sg> : kelenemenen
     kelenem<v><tv><nn><p1><incl><pl><o_pl> : kelenemenena
 
+  "[lexc/twol] (Ch12) tv.nn p1.incl.pl":
+    wechilahtun<v><tv><nn><p1><incl><pl><o_sg> : kewechilahtunen
+    wechilahtun<v><tv><nn><p1><incl><pl><o_pl> : kewechilahtunena
+    melam<v><tv><nn><p1><incl><pl><o_sg> : kemelamenen
+    melam<v><tv><nn><p1><incl><pl><o_pl> : kemelamenena
+
   "[lexc/twol] (Ch11) tv.nn p2.pl":
     kwetkenem<v><tv><nn><p2><pl> : kwetkenemeneneyo
     kelenem<v><tv><nn><p2><pl> : kelenemeneneyo
 
+  "[lexc/twol] (Ch12) tv.nn p2.pl":
+    wechilahtun<v><tv><nn><p2><pl> : wechilahtuneyo
+    kelenem<v><tv><nn><p2><pl> : kemelameneyo
+
   "[lexc/twol] (Ch11) tv.nn p3.pl":
     kwetkenem<v><tv><nn><p3><pl> : kwetkenemeneyo
     kelenem<v><tv><nn><p3><pl> : kwelenemeneyo
+
+  "[lexc/twol] (Ch12) tv.nn p3.pl":
+    wechilahtun<v><tv><nn><p3><pl> : wechilahtuneyo
+    melam<v><tv><nn><p3><pl> : melameneyo
