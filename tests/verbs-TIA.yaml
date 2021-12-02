@@ -355,3 +355,29 @@ Tests:
   "[lexc/twol] (Ch12) tv.nn p3.pl":
     wechilahtun<v><tv><nn><p3><pl> : wechilahtuneyo
     melam<v><tv><nn><p3><pl> : melameneyo
+
+  "[lexc/twol] (Ch13) tv.nn p1.sg":
+    meshenem<v><tv><nn><p1><sg><o_sg> : nemeshenemen
+    meshenem<v><tv><nn><p1><sg><o_pl> : nemeshenemena
+
+  "[lexc/twol] (Ch13) tv.nn p2.sg":
+    meshenem<v><tv><nn><p2><sg><o_sg> : kemeshenemen
+    meshenem<v><tv><nn><p2><sg><o_pl> : kemeshenemena
+
+  "[lexc/twol] (Ch13) tv.nn p3.sg":
+    meshenem<v><tv><nn><p2><sg><o_sg> : mweshenemen
+    meshenem<v><tv><nn><p2><sg><o_pl> : mweshenemena
+  
+  "[lexc/twol] (Ch13) tv.nn p1.excl.pl":
+    meshenem<v><tv><nn><p1><excl><pl><o_sg> : nemeshenemenen
+    meshenem<v><tv><nn><p1><excl><pl><o_pl> : nemeshenemenena
+  
+  "[lexc/twol] (Ch13) tv.nn p1.incl.pl":
+    meshenem<v><tv><nn><p1><incl><pl><o_sg> : kemeshenemenen
+    meshenem<v><tv><nn><p1><incl><pl><o_pl> : kemeshenemenena
+
+  "[lexc/twol] (Ch13) tv.nn p2.pl":
+    meshenem<v><tv><nn><p2><pl> : kemeshenemeneyo
+
+  "[lexc/twol] (Ch13) tv.nn p3.pl":
+    meshenem<v><tv><nn><p3><pl> : mweshenemeneyo
