@@ -203,3 +203,41 @@ Tests:
     tankhitu<v><tv><nn><p3><pl> : tonkhituneyo
     maxkam<v><tv><nn><p3><pl> : moxkameneyo #alternate form maxkamaneyo
     kaxksem<v><tv><nn><p3><pl> : koxksemeneyo #a crossed out after "m" and replaced with "e"
+
+  "[lexc/twol] (Ch9) tv.nn p1.sg":
+    metakohm<v><tv><nn><p1><sg><o_sg> : nemetakhomen
+    metakohm<v><tv><nn><p1><sg><o_pl> : nemetakhomena
+    kwetenem<v><tv><nn><p1><sg><o_sg> : nkwetenemen
+    kwetenem<v><tv><nn><p1><sg><o_pl> : nkwetenemena
+
+  "[lexc/twol] (Ch9) tv.nn p2.sg":
+    metakohm<v><tv><nn><p2><sg><o_sg> : kemetakhomen
+    metakohm<v><tv><nn><p2><sg><o_pl> : kemetakhomena
+    kwetenem<v><tv><nn><p2><sg><o_sg> : kwetenemen
+    kwetenem<v><tv><nn><p2><sg><o_pl> : kwetenemena
+
+  "[lexc/twol] (Ch9) tv.nn p3.sg":
+    metakohm<v><tv><nn><p2><sg><o_sg> : metakhomen
+    metakohm<v><tv><nn><p2><sg><o_pl> : metakhomena
+    kwetenem<v><tv><nn><p2><sg><o_sg> : kwetenemen
+    kwetenem<v><tv><nn><p2><sg><o_pl> : kwetenemena
+
+  "[lexc/twol] (Ch9) tv.nn p1.excl.pl":
+    metakohm<v><tv><nn><p1><excl><pl><o_sg> : nemetakhomenen
+    metakohm<v><tv><nn><p1><excl><pl><o_pl> : nemetakhomenena
+    kwetenem<v><tv><nn><p1><excl><pl><o_sg> : nkwetenemenen
+    kwetenem<v><tv><nn><p1><excl><pl><o_pl> : nkwetenemenena
+
+  "[lexc/twol] (Ch9) tv.nn p1.incl.pl":
+    metakohm<v><tv><nn><p1><incl><pl><o_sg> : kemetakohmenen
+    metakohm<v><tv><nn><p1><incl><pl><o_pl> : kemetakohmenena
+    kwetenem<v><tv><nn><p1><incl><pl><o_sg> : kwetenemenen
+    kwetenem<v><tv><nn><p1><incl><pl><o_pl> : kwetenemenena
+
+  "[lexc/twol] (Ch9) tv.nn p2.pl":
+    metakohm<v><tv><nn><p2><pl> : kemetakhomeneyo
+    kwetenem<v><tv><nn><p2><pl> : kwetenemeneyo
+
+  "[lexc/twol] (Ch9) tv.nn p3.pl":
+    metakohm<v><tv><nn><p3><pl> : metakhomeneyo
+    kwetenem<v><tv><nn><p3><pl> : kwetenemeneyo
