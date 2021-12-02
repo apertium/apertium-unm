@@ -210,17 +210,35 @@ Tests:
     kwetenem<v><tv><nn><p1><sg><o_sg> : nkwetenemen
     kwetenem<v><tv><nn><p1><sg><o_pl> : nkwetenemena
 
+  "[lexc/twol] (Ch10) tv.nn p1.sg":
+    watu<v><tv><nn><p1><sg><o_sg> : nuwatun
+    watu<v><tv><nn><p1><sg><o_pl> : nuwatuna
+    wlamhitam<v><tv><nn><p1><sg><o_sg> : nulamhitamen  #"w" add at head in textbook
+    wlamhitam<v><tv><nn><p1><sg><o_pl> : nulamhitamena
+
   "[lexc/twol] (Ch9) tv.nn p2.sg":
     metakohm<v><tv><nn><p2><sg><o_sg> : kemetakhomen
     metakohm<v><tv><nn><p2><sg><o_pl> : kemetakhomena
     kwetenem<v><tv><nn><p2><sg><o_sg> : kwetenemen
     kwetenem<v><tv><nn><p2><sg><o_pl> : kwetenemena
 
+  "[lexc/twol] (Ch10) tv.nn p2.sg":
+    watu<v><tv><nn><p2><sg><o_sg> : kuwatun
+    watu<v><tv><nn><p2><sg><o_pl> : kuwatuna
+    wlamhitam<v><tv><nn><p2><sg><o_sg> : kulamhitamen
+    wlamhitam<v><tv><nn><p2><sg><o_pl> : kulamhitamena
+
   "[lexc/twol] (Ch9) tv.nn p3.sg":
     metakohm<v><tv><nn><p2><sg><o_sg> : metakhomen
     metakohm<v><tv><nn><p2><sg><o_pl> : metakhomena
     kwetenem<v><tv><nn><p2><sg><o_sg> : kwetenemen
     kwetenem<v><tv><nn><p2><sg><o_pl> : kwetenemena
+  
+  "[lexc/twol] (Ch10) tv.nn p3.sg":
+    watu<v><tv><nn><p2><sg><o_sg> : uwatun
+    watu<v><tv><nn><p2><sg><o_pl> : uwatuna
+    wlamhitam<v><tv><nn><p2><sg><o_sg> : welemhitamen
+    wlamhitam<v><tv><nn><p2><sg><o_pl> : welemhitamena
 
   "[lexc/twol] (Ch9) tv.nn p1.excl.pl":
     metakohm<v><tv><nn><p1><excl><pl><o_sg> : nemetakhomenen
@@ -228,16 +246,36 @@ Tests:
     kwetenem<v><tv><nn><p1><excl><pl><o_sg> : nkwetenemenen
     kwetenem<v><tv><nn><p1><excl><pl><o_pl> : nkwetenemenena
 
+  "[lexc/twol] (Ch10) tv.nn p1.excl.pl":
+    watu<v><tv><nn><p1><excl><pl><o_sg> : nuwatunen
+    watu<v><tv><nn><p1><excl><pl><o_pl> : nuwatunena
+    wlamhitam<v><tv><nn><p1><excl><pl><o_sg> : nulamhitamenen
+    wlamhitam<v><tv><nn><p1><excl><pl><o_pl> : nulamhitamenena
+
   "[lexc/twol] (Ch9) tv.nn p1.incl.pl":
     metakohm<v><tv><nn><p1><incl><pl><o_sg> : kemetakohmenen
     metakohm<v><tv><nn><p1><incl><pl><o_pl> : kemetakohmenena
     kwetenem<v><tv><nn><p1><incl><pl><o_sg> : kwetenemenen
     kwetenem<v><tv><nn><p1><incl><pl><o_pl> : kwetenemenena
 
+  "[lexc/twol] (Ch10) tv.nn p1.incl.pl":
+    watu<v><tv><nn><p1><incl><pl><o_sg> : kuwatunen
+    watu<v><tv><nn><p1><incl><pl><o_pl> : kuwatunena
+    wlamhitam<v><tv><nn><p1><incl><pl><o_sg> : kulamhitamenen
+    wlamhitam<v><tv><nn><p1><incl><pl><o_pl> : kulamhitamenena
+
   "[lexc/twol] (Ch9) tv.nn p2.pl":
     metakohm<v><tv><nn><p2><pl> : kemetakhomeneyo
     kwetenem<v><tv><nn><p2><pl> : kwetenemeneyo
 
+  "[lexc/twol] (Ch10) tv.nn p2.pl":
+    watu<v><tv><nn><p2><pl> : kuwatuneyo
+    wlamhitam<v><tv><nn><p2><pl> : kulamhitameneyo
+
   "[lexc/twol] (Ch9) tv.nn p3.pl":
     metakohm<v><tv><nn><p3><pl> : metakhomeneyo
     kwetenem<v><tv><nn><p3><pl> : kwetenemeneyo
+
+  "[lexc/twol] (Ch10) tv.nn p3.pl":
+    watu<v><tv><nn><p3><pl> : uwatuneyo
+    wlamhitam<v><tv><nn><p3><pl> : welamhitameneyo
