@@ -9,26 +9,92 @@ Tests:
   "[lexc/twol] (Ch13) tv.aa.dir p1.sg":
     mil<v><tv><aa><dir><p1><sg><o_sg> : nemila
     mil<v><tv><aa><dir><p1><sg><o_pl> : nemilaok
+    ulhal<v><tv><aa><dir><p1><sg><o_sg> : nulhala
+    ulhal<v><tv><aa><dir><p1><sg><o_pl> : nulhalaok
+    new<v><tv><aa><dir><p1><sg><o_sg> : neyo
+    new<v><tv><aa><dir><p1><sg><o_pl> : neyook
+
+  "[lexc/twol] (Ch14) tv.aa.dir p1.sg":
+    ahol<v><tv><aa><dir><p1><sg><o_sg> : ntahola    #If problems, check these verb paradigms
+    ahol<v><tv><aa><dir><p1><sg><o_pl> : ntaholaok  #There are many corrections written in
+    pesh<v><tv><aa><dir><p1><sg><o_sg> : mpëshëwa # "This form written in above"
+    pesh<v><tv><aa><dir><p1><sg><o_pl> : mpeshaok 
 
   "[lexc/twol] (Ch13) tv.aa.dir p2.sg":
     mil<v><tv><aa><dir><p2><sg><o_sg> : kemila
     mil<v><tv><aa><dir><p2><sg><o_pl> : kemilaok
+    ulhal<v><tv><aa><dir><p2><sg><o_sg> : kulhala
+    ulhal<v><tv><aa><dir><p2><sg><o_pl> : kulhalaok
+    new<v><tv><aa><dir><p2><sg><o_sg> : keneyo
+    new<v><tv><aa><dir><p2><sg><o_pl> : keneyook
+
+  "[lexc/twol] (Ch14) tv.aa.dir p2.sg":
+    ahol<v><tv><aa><dir><p2><sg><o_sg> : ktahola
+    ahol<v><tv><aa><dir><p2><sg><o_pl> : ktaholaok
+    pesh<v><tv><aa><dir><p2><sg><o_sg> : kpesha
+    pesh<v><tv><aa><dir><p2><sg><o_pl> : kpeshaok
 
   "[lexc/twol] (Ch13) tv.aa.dir p3.sg":
     mil<v><tv><aa><dir><p3><sg><o_sg> : mwilao
     mil<v><tv><aa><dir><p3><sg><o_pl> : mwilaok
+    ulhal<v><tv><aa><dir><p3><sg><o_sg> : welahëlao #"e" and "ë" replaced crossed out "a"
+    ulhal<v><tv><aa><dir><p3><sg><o_pl> : welahëlaok
+    new<v><tv><aa><dir><p3><sg><o_sg> : weneyoo
+    new<v><tv><aa><dir><p3><sg><o_pl> : weneyook
+
+  "[lexc/twol] (Ch14) tv.aa.dir p3.sg":
+    ahol<v><tv><aa><dir><p3><sg><o_sg> : toholao
+    ahol<v><tv><aa><dir><p3><sg><o_pl> : toholaok
+    pesh<v><tv><aa><dir><p3><sg><o_sg> : pweshao
+    pesh<v><tv><aa><dir><p3><sg><o_pl> : pweshaok
 
   "[lexc/twol] (Ch13) tv.aa.dir p1.excl.pl":
     mil<v><tv><aa><dir><p1><excl><pl><o_sg> : nemilawena
     mil<v><tv><aa><dir><p1><excl><pl><o_pl> : nemilawenanak
+    ulhal<v><tv><aa><dir><p1><excl><pl><o_sg> : nulhalawena
+    ulhal<v><tv><aa><dir><p1><excl><pl><o_pl> : nulhalawenanak
+    new<v><tv><aa><dir><p1><excl><pl><o_sg> : neyowena
+    new<v><tv><aa><dir><p1><excl><pl><o_pl> : neyowenanak
+
+  "[lexc/twol] (Ch14) tv.aa.dir p1.excl.pl":
+    ahol<v><tv><aa><dir><p1><excl><pl><o_sg> : ntaholawena    
+    ahol<v><tv><aa><dir><p1><excl><pl><o_pl> : ntaholawenak
+    pesh<v><tv><aa><dir><p1><excl><pl><o_sg> : mpeshawena
+    pesh<v><tv><aa><dir><p1><excl><pl><o_pl> : mpeshawanak 
 
   "[lexc/twol] (Ch13) tv.aa.dir p1.incl.pl":
     mil<v><tv><aa><dir><p1><incl><pl><o_sg> : kemilawena
     mil<v><tv><aa><dir><p1><incl><pl><o_pl> : kemilawenanak
+    ulhal<v><tv><aa><dir><p1><incl><pl><o_sg> : kulhalawena
+    ulhal<v><tv><aa><dir><p1><incl><pl><o_pl> : kulhalawenanak
+    new<v><tv><aa><dir><p1><incl><pl><o_sg> : keneyowena
+    new<v><tv><aa><dir><p1><incl><pl><o_pl> : keneyowenanak
+
+  "[lexc/twol] (Ch14) tv.aa.dir p1.incl.pl":
+    ahol<v><tv><aa><dir><p1><incl><pl><o_sg> : ktaholawena
+    ahol<v><tv><aa><dir><p1><incl><pl><o_pl> : ktaholawanak
+    pesh<v><tv><aa><dir><p1><incl><pl><o_sg> : kpeshawena
+    pesh<v><tv><aa><dir><p1><incl><pl><o_pl> : kpeshawanak
 
   "[lexc/twol] (Ch13) tv.aa.dir p2.pl":
     mil<v><tv><aa><dir><p2><pl><o_sg> : kemilawa
     mil<v><tv><aa><dir><p2><pl><o_pl> : kemilawaok
+    ulhal<v><tv><aa><dir><p2><pl><o_sg> : kulhalawa
+    ulhal<v><tv><aa><dir><p2><pl><o_pl> : kulhalawaok
+    new<v><tv><aa><dir><p2><pl><o_sg> : keneyowa
+    new<v><tv><aa><dir><p2><pl><o_pl> : keneyowaok
+
+  "[lexc/twol] (Ch14) tv.aa.dir p2.pl":
+    ahol<v><tv><aa><dir><p2><pl><o_sg> : ktaholawa
+    ahol<v><tv><aa><dir><p2><pl><o_pl> : ktaholawnaok
+    pesh<v><tv><aa><dir><p2><pl><o_sg> : kpeshawa
+    pesh<v><tv><aa><dir><p2><pl><o_pl> : kpeshawnaok
 
   "[lexc/twol] (Ch13) tv.aa.dir p3.pl":
     mil<v><tv><aa><dir><p3><pl> : mwilawoo
+    ulhal<v><tv><aa><dir><p3><pl> : welahëlawoo
+    new<v><tv><aa><dir><p3><pl> : weneyook
+
+  "[lexc/twol] (Ch14) tv.aa.dir p3.pl":
+    ahol<v><tv><aa><dir><p3><pl> : toholkuwoo
+    pesh<v><tv><aa><dir><p3><pl> : pweshawoo
