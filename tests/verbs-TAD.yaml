@@ -1,0 +1,34 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../unm.autogen.hfst
+    Morph: ../unm.automorf.hfst
+
+Tests:
+  
+  "[lexc/twol] (Ch13) tv.aa.dir p1.sg":
+    mil<v><tv><aa><dir><p1><sg><o_sg> : nemila
+    mil<v><tv><aa><dir><p1><sg><o_pl> : nemilaok
+
+  "[lexc/twol] (Ch13) tv.aa.dir p2.sg":
+    mil<v><tv><aa><dir><p2><sg><o_sg> : kemila
+    mil<v><tv><aa><dir><p2><sg><o_pl> : kemilaok
+
+  "[lexc/twol] (Ch13) tv.aa.dir p3.sg":
+    mil<v><tv><aa><dir><p3><sg><o_sg> : mwilao
+    mil<v><tv><aa><dir><p3><sg><o_pl> : mwilaok
+
+  "[lexc/twol] (Ch13) tv.aa.dir p1.excl.pl":
+    mil<v><tv><aa><dir><p1><excl><pl><o_sg> : nemilawena
+    mil<v><tv><aa><dir><p1><excl><pl><o_pl> : nemilawenanak
+
+  "[lexc/twol] (Ch13) tv.aa.dir p1.incl.pl":
+    mil<v><tv><aa><dir><p1><incl><pl><o_sg> : kemilawena
+    mil<v><tv><aa><dir><p1><incl><pl><o_pl> : kemilawenanak
+
+  "[lexc/twol] (Ch13) tv.aa.dir p2.pl":
+    mil<v><tv><aa><dir><p2><pl><o_sg> : kemilawa
+    mil<v><tv><aa><dir><p2><pl><o_pl> : kemilawaok
+
+  "[lexc/twol] (Ch13) tv.aa.dir p3.pl":
+    mil<v><tv><aa><dir><p3><pl> : mwilawoo
