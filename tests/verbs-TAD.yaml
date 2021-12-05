@@ -138,3 +138,43 @@ Tests:
   "[lexc/twol] (Ch18) tv.aa.dir p3.pl":
     wichem<v><tv><aa><dir><p3><pl> : wichemawao
     xam<v><tv><aa><dir><p3><pl> : toxamawao
+
+  "[lexc/twol] (Ch19) tv.aa.dir p1.sg":
+    tel<v><tv><aa><dir><p1><sg><o_sg> : ntela
+    tel<v><tv><aa><dir><p1><sg><o_pl> : ntelaok
+    ahel<v><tv><aa><dir><p1><sg><o_sg> : ntahela
+    ahel<v><tv><aa><dir><p1><sg><o_pl> : ntahelaok
+
+  "[lexc/twol] (Ch19) tv.aa.dir p2.sg":
+    tel<v><tv><aa><dir><p2><sg><o_sg> : ktela
+    tel<v><tv><aa><dir><p2><sg><o_pl> : ktelaok
+    ahel<v><tv><aa><dir><p2><sg><o_sg> : ktahela
+    ahel<v><tv><aa><dir><p2><sg><o_pl> : ktahelaok
+
+  "[lexc/twol] (Ch19) tv.aa.dir p3.sg":
+    tel<v><tv><aa><dir><p3><sg><o_sg> : telao
+    tel<v><tv><aa><dir><p3><sg><o_pl> : telaok
+    ahel<v><tv><aa><dir><p3><sg><o_sg> : tohelao
+    ahel<v><tv><aa><dir><p3><sg><o_pl> : tohelaok
+
+  "[lexc/twol] (Ch19) tv.aa.dir p1.excl.pl":
+    tel<v><tv><aa><dir><p1><excl><pl><o_sg> : ntelawena 
+    tel<v><tv><aa><dir><p1><excl><pl><o_pl> : ntelawenak
+    ahel<v><tv><aa><dir><p1><excl><pl><o_sg> : ntahelawena
+    ahel<v><tv><aa><dir><p1><excl><pl><o_pl> : ntahelawenak
+
+  "[lexc/twol] (Ch19) tv.aa.dir p1.incl.pl":
+    tel<v><tv><aa><dir><p1><incl><pl><o_sg> : ktelawena
+    tel<v><tv><aa><dir><p1><incl><pl><o_pl> : ktelawenak
+    ahel<v><tv><aa><dir><p1><incl><pl><o_sg> : ktahelawena
+    ahel<v><tv><aa><dir><p1><incl><pl><o_pl> : ktahelawenak
+
+  "[lexc/twol] (Ch19) tv.aa.dir p2.pl":
+    tel<v><tv><aa><dir><p2><pl><o_pl> : ktelawa
+    tel<v><tv><aa><dir><p2><pl><o_sg> : ktelawaok
+    ahel<v><tv><aa><dir><p2><pl><o_pl> : ktahelawa
+    ahel<v><tv><aa><dir><p2><pl><o_sg> : ktahelawaok
+
+  "[lexc/twol] (Ch19) tv.aa.dir p3.pl":
+    tel<v><tv><aa><dir><p3><pl> : telawoo
+    ahel<v><tv><aa><dir><p3><pl> : tohelawoo
