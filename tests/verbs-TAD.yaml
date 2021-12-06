@@ -145,11 +145,19 @@ Tests:
     ahel<v><tv><aa><dir><p1><sg><o_sg> : ntahela
     ahel<v><tv><aa><dir><p1><sg><o_pl> : ntahelaok
 
+  "[lexc/twol] (Ch20) tv.aa.dir p1.sg":
+    nachih<v><tv><aa><dir><p1><sg><o_sg> : nachiha
+    nachih<v><tv><aa><dir><p1><sg><o_pl> : nachihaok
+
   "[lexc/twol] (Ch19) tv.aa.dir p2.sg":
     tel<v><tv><aa><dir><p2><sg><o_sg> : ktela
     tel<v><tv><aa><dir><p2><sg><o_pl> : ktelaok
     ahel<v><tv><aa><dir><p2><sg><o_sg> : ktahela
     ahel<v><tv><aa><dir><p2><sg><o_pl> : ktahelaok
+
+  "[lexc/twol] (Ch20) tv.aa.dir p2.sg":
+    nachih<v><tv><aa><dir><p2><sg><o_sg> : kenachiha
+    nachih<v><tv><aa><dir><p2><sg><o_pl> : kenachihaok
 
   "[lexc/twol] (Ch19) tv.aa.dir p3.sg":
     tel<v><tv><aa><dir><p3><sg><o_sg> : telao
@@ -157,11 +165,19 @@ Tests:
     ahel<v><tv><aa><dir><p3><sg><o_sg> : tohelao
     ahel<v><tv><aa><dir><p3><sg><o_pl> : tohelaok
 
+  "[lexc/twol] (Ch20) tv.aa.dir p3.sg":
+    nachih<v><tv><aa><dir><p3><sg><o_sg> : nachihao
+    nachih<v><tv><aa><dir><p3><sg><o_pl> : nachihaok
+
   "[lexc/twol] (Ch19) tv.aa.dir p1.excl.pl":
     tel<v><tv><aa><dir><p1><excl><pl><o_sg> : ntelawena 
     tel<v><tv><aa><dir><p1><excl><pl><o_pl> : ntelawenak
     ahel<v><tv><aa><dir><p1><excl><pl><o_sg> : ntahelawena
     ahel<v><tv><aa><dir><p1><excl><pl><o_pl> : ntahelawenak
+
+  "[lexc/twol] (Ch20) tv.aa.dir p1.excl.pl":
+    nachih<v><tv><aa><dir><p1><excl><pl><o_sg> : nachihawena 
+    nachih<v><tv><aa><dir><p1><excl><pl><o_pl> : nachihawenanak
 
   "[lexc/twol] (Ch19) tv.aa.dir p1.incl.pl":
     tel<v><tv><aa><dir><p1><incl><pl><o_sg> : ktelawena
@@ -169,12 +185,86 @@ Tests:
     ahel<v><tv><aa><dir><p1><incl><pl><o_sg> : ktahelawena
     ahel<v><tv><aa><dir><p1><incl><pl><o_pl> : ktahelawenak
 
+  "[lexc/twol] (Ch20) tv.aa.dir p1.incl.pl":
+    nachih<v><tv><aa><dir><p1><incl><pl><o_sg> : kenachihawena
+    nachih<v><tv><aa><dir><p1><incl><pl><o_pl> : kenachihawenanak
+
   "[lexc/twol] (Ch19) tv.aa.dir p2.pl":
     tel<v><tv><aa><dir><p2><pl><o_pl> : ktelawa
     tel<v><tv><aa><dir><p2><pl><o_sg> : ktelawaok
     ahel<v><tv><aa><dir><p2><pl><o_pl> : ktahelawa
     ahel<v><tv><aa><dir><p2><pl><o_sg> : ktahelawaok
 
+  "[lexc/twol] (Ch20) tv.aa.dir p2.pl":
+    nachih<v><tv><aa><dir><p2><pl><o_pl> : kenachihawa
+    nachih<v><tv><aa><dir><p2><pl><o_sg> : kenachihawaok
+
   "[lexc/twol] (Ch19) tv.aa.dir p3.pl":
-    tel<v><tv><aa><dir><p3><pl> : telawoo
-    ahel<v><tv><aa><dir><p3><pl> : tohelawoo
+    nachihawao<v><tv><aa><dir><p3><pl> : telawoo
+
+  "[lexc/twol] (Ch21) tv.aa.dir p1.sg":
+    wichem<v><tv><aa><dir><p1><sg><o_sg> : newichema
+    wichem<v><tv><aa><dir><p1><sg><o_pl> : newichemaok
+
+  "[lexc/twol] (Ch22) tv.aa.dir p1.sg":
+    wixem<v><tv><aa><dir><p1><sg><o_sg> : newixena
+    wixem<v><tv><aa><dir><p1><sg><o_pl> : newixenaok
+    naol<v><tv><aa><dir><p1><sg><o_sg> : naola
+    naol<v><tv><aa><dir><p1><sg><o_pl> : naolaok
+
+  "[lexc/twol] (Ch21) tv.aa.dir p2.sg":
+    wichem<v><tv><aa><dir><p2><sg><o_sg> : kewichema
+    wichem<v><tv><aa><dir><p2><sg><o_pl> : kewichemaok
+
+  "[lexc/twol] (Ch22) tv.aa.dir p2.sg":
+    wixem<v><tv><aa><dir><p2><sg><o_sg> : kewixena
+    wixem<v><tv><aa><dir><p2><sg><o_pl> : kewixenaok
+    naol<v><tv><aa><dir><p2><sg><o_sg> : knaola
+    naol<v><tv><aa><dir><p2><sg><o_pl> : knaolaok
+
+  "[lexc/twol] (Ch21) tv.aa.dir p3.sg":
+    wichem<v><tv><aa><dir><p3><sg><o_sg> : wichemao
+    wichem<v><tv><aa><dir><p3><sg><o_pl> : wichemaok
+
+  "[lexc/twol] (Ch22) tv.aa.dir p3.sg":
+    wixem<v><tv><aa><dir><p3><sg><o_sg> : wixenao
+    wixem<v><tv><aa><dir><p3><sg><o_pl> : wixenaok
+    naol<v><tv><aa><dir><p3><sg><o_sg> : naolao
+    naol<v><tv><aa><dir><p3><sg><o_pl> : naolaok
+
+  "[lexc/twol] (Ch21) tv.aa.dir p1.excl.pl":
+    wichem<v><tv><aa><dir><p1><excl><pl><o_sg> : newichemawena   
+    wichem<v><tv><aa><dir><p1><excl><pl><o_pl> : newichemawenanak
+
+  "[lexc/twol] (Ch22) tv.aa.dir p1.excl.pl":
+    wixem<v><tv><aa><dir><p1><excl><pl><o_sg> : newixenawena  
+    wixem<v><tv><aa><dir><p1><excl><pl><o_pl> : newixenawenanak
+    naol<v><tv><aa><dir><p1><excl><pl><o_sg> : naolawena   
+    naol<v><tv><aa><dir><p1><excl><pl><o_pl> : naolawenanak
+
+  "[lexc/twol] (Ch21) tv.aa.dir p1.incl.pl":
+    wichem<v><tv><aa><dir><p1><incl><pl><o_sg> : kewichemawena
+    wichem<v><tv><aa><dir><p1><incl><pl><o_pl> : kewichemawenanak
+
+  "[lexc/twol] (Ch22) tv.aa.dir p1.incl.pl":
+    wixem<v><tv><aa><dir><p1><incl><pl><o_sg> : kewixenawena
+    wixem<v><tv><aa><dir><p1><incl><pl><o_pl> : kewixenawenanak
+    naol<v><tv><aa><dir><p1><incl><pl><o_sg> : knaolawena
+    naol<v><tv><aa><dir><p1><incl><pl><o_pl> : knaolawenanak
+
+  "[lexc/twol] (Ch21) tv.aa.dir p2.pl":
+    wichem<v><tv><aa><dir><p2><pl><o_pl> : kewichemawa
+    wichem<v><tv><aa><dir><p2><pl><o_sg> : kewichemawaok
+
+  "[lexc/twol] (Ch22) tv.aa.dir p2.pl":
+    wixem<v><tv><aa><dir><p2><pl><o_pl> : kewixenawa
+    wixem<v><tv><aa><dir><p2><pl><o_sg> : kewixenawaok
+    naol<v><tv><aa><dir><p2><pl><o_pl> : knaolawa
+    naol<v><tv><aa><dir><p2><pl><o_sg> : knaolawaok
+
+  "[lexc/twol] (Ch21) tv.aa.dir p3.pl":
+    wichem<v><tv><aa><dir><p3><pl> : wichemawao
+
+  "[lexc/twol] (Ch22) tv.aa.dir p3.pl":
+    wixem<v><tv><aa><dir><p3><pl> : wixenkuwoo
+    naol<v><tv><aa><dir><p3><pl> : naolawao
