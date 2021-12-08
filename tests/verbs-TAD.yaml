@@ -268,3 +268,32 @@ Tests:
   "[lexc/twol] (Ch22) tv.aa.dir p3.pl":
     wixem<v><tv><aa><dir><p3><pl> : wixenkuwoo
     naol<v><tv><aa><dir><p3><pl> : naolawao
+
+  "[lexc/twol] (Ch23) tv.aa.dir p1.sg":
+    uwah<v><tv><aa><dir><p1><sg><o_sg> : nuwaha
+    uwah<v><tv><aa><dir><p1><sg><o_pl> : nuwahaok
+
+  "[lexc/twol] (Ch23) tv.aa.dir p2.sg":
+    uwah<v><tv><aa><dir><p2><sg><o_sg> : kuwaha
+    uwah<v><tv><aa><dir><p2><sg><o_pl> : kuwahaok
+
+  "[lexc/twol] (Ch23) tv.aa.dir p3.sg":
+    uwah<v><tv><aa><dir><p3><sg><o_sg> : uwahao
+    uwah<v><tv><aa><dir><p3><sg><o_pl> : uwahaok
+  
+  "[lexc/twol] (Ch23) tv.aa.dir p1.excl.pl":
+    uwah<v><tv><aa><dir><p1><excl><pl><o_sg> : nuwahawena
+    uwah<v><tv><aa><dir><p1><excl><pl><o_pl> : nuwahawenanak
+
+  "[lexc/twol] (Ch23) tv.aa.dir p1.incl.pl":
+    uwah<v><tv><aa><dir><p1><incl><pl><o_sg> : kuwahawena
+    uwah<v><tv><aa><dir><p1><incl><pl><o_pl> : kuwahawenanak
+
+  "[lexc/twol] (Ch23) tv.aa.dir p2.pl":
+    uwah<v><tv><aa><dir><p2><pl><o_pl> : kuwahawa
+    uwah<v><tv><aa><dir><p2><pl><o_sg> : kuwahawaok
+
+  "[lexc/twol] (Ch23) tv.aa.dir p3.pl":
+    uwah<v><tv><aa><dir><p3><pl> : uwahawoo
+
+    
