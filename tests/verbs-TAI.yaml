@@ -6,7 +6,7 @@ Config:
 
 Tests:
   
-  "[lexc/twol] (Ch13) tv.aa.inv p1.sg":
+  "[lexc/twol] (Ch14) tv.aa.inv p1.sg":
     mil<v><tv><aa><inv><p1><sg><o_sg> : nemilukw
     mil<v><tv><aa><inv><p1><sg><o_pl> : nemilkuk
     new<v><tv><aa><inv><p1><sg><o_sg> : neyùkw  #"ù" added in above
@@ -14,7 +14,7 @@ Tests:
     ulhal<v><tv><aa><inv><p1><sg><o_sg> : nulhalukw
     ulhal<v><tv><aa><inv><p1><sg><o_pl> : nulhalkuk
 
-  "[lexc/twol] (Ch13) tv.aa.inv p2.sg":
+  "[lexc/twol] (Ch14) tv.aa.inv p2.sg":
     mil<v><tv><aa><inv><p2><sg><o_sg> : kemilukw
     mil<v><tv><aa><inv><p2><sg><o_pl> : kemilkuk
     new<v><tv><aa><inv><p2><sg><o_sg> : keneyùkw
@@ -22,7 +22,7 @@ Tests:
     ulhal<v><tv><aa><inv><p2><sg><o_sg> : kulhalukw
     ulhal<v><tv><aa><inv><p2><sg><o_pl> : kulhalkuk
 
-  "[lexc/twol] (Ch13) tv.aa.inv p3.sg":
+  "[lexc/twol] (Ch14) tv.aa.inv p3.sg":
     mil<v><tv><aa><inv><p3><sg><o_sg> : mwilku
     mil<v><tv><aa><inv><p3><sg><o_pl> : mwilku
     new<v><tv><aa><inv><p3><sg><o_sg> : weneku
@@ -30,7 +30,7 @@ Tests:
     ulhal<v><tv><aa><inv><p3><sg><o_sg> : wulhalku
     ulhal<v><tv><aa><inv><p3><sg><o_pl> : wulhalku
 
-  "[lexc/twol] (Ch13) tv.aa.inv p1.excl.pl":
+  "[lexc/twol] (Ch14) tv.aa.inv p1.excl.pl":
     mil<v><tv><aa><inv><p1><excl><pl><o_sg> : nemilkuna
     mil<v><tv><aa><inv><p1><excl><pl><o_pl> : nemilkunanak
     new<v><tv><aa><inv><p1><excl><pl><o_sg> : nehkuna
@@ -38,7 +38,7 @@ Tests:
     ulhal<v><tv><aa><inv><p1><excl><pl><o_sg> : nulhalkuna
     ulhal<v><tv><aa><inv><p1><excl><pl><o_pl> : nulhalkunanak
 
-  "[lexc/twol] (Ch13) tv.aa.inv p1.incl.pl":
+  "[lexc/twol] (Ch14) tv.aa.inv p1.incl.pl":
     mil<v><tv><aa><inv><p1><incl><pl><o_sg> : kemilkuna
     mil<v><tv><aa><inv><p1><incl><pl><o_pl> : kemilkunanak
     new<v><tv><aa><inv><p1><incl><pl><o_sg> : kenehkuna
@@ -46,7 +46,7 @@ Tests:
     ulhal<v><tv><aa><inv><p1><incl><pl><o_sg> : kulhalkuna
     ulhal<v><tv><aa><inv><p1><incl><pl><o_pl> : kulhalkunanak
 
-  "[lexc/twol] (Ch13) tv.aa.inv p2.pl":
+  "[lexc/twol] (Ch14) tv.aa.inv p2.pl":
     mil<v><tv><aa><inv><p2><pl><o_sg> : kemilkuwa
     mil<v><tv><aa><inv><p2><pl><o_pl> : kemilkuwaok
     new<v><tv><aa><inv><p2><pl><o_sg> : kenehkuwa
@@ -54,7 +54,88 @@ Tests:
     ulhal<v><tv><aa><inv><p2><pl><o_sg> : kulhalkuwa
     ulhal<v><tv><aa><inv><p2><pl><o_pl> : kulhaluwaok
 
-  "[lexc/twol] (Ch13) tv.aa.inv p3.pl":
+  "[lexc/twol] (Ch14) tv.aa.inv p3.pl":
     mil<v><tv><aa><inv><p3><pl> : mwilkuwoo
     new<v><tv><aa><inv><p3><pl> : wenekuwoo
     ulhal<v><tv><aa><inv><p3><pl> : wulhalkuwoo
+
+  "[lexc/twol] (Ch17) tv.aa.inv p1.sg":
+    ahol<v><tv><aa><inv><p1><sg><o_sg> : ntaholukw
+    ahol<v><tv><aa><inv><p1><sg><o_pl> : ntaholkuk
+    pesh<v><tv><aa><inv><p1><sg><o_sg> : mpeshukw
+    pesh<v><tv><aa><inv><p1><sg><o_pl> : mpeshkuk
+
+  "[lexc/twol] (Ch18) tv.aa.inv p1.sg":
+    wichem<v><tv><aa><inv><p1><sg><o_sg> : newichema
+    wichem<v><tv><aa><inv><p1><sg><o_pl> : newichemaok
+    xam<v><tv><aa><inv><p1><sg><o_sg> : ntaxama
+    xam<v><tv><aa><inv><p1><sg><o_pl> : ntaxamaok
+
+  "[lexc/twol] (Ch17) tv.aa.inv p2.sg":
+    ahol<v><tv><aa><inv><p2><sg><o_sg> : ktaholukw
+    ahol<v><tv><aa><inv><p2><sg><o_pl> : ktaholkuk
+    pesh<v><tv><aa><inv><p2><sg><o_sg> : kpeshukw
+    pesh<v><tv><aa><inv><p2><sg><o_pl> : kpeshkuk
+
+  "[lexc/twol] (Ch18) tv.aa.inv p2.sg":
+    wichem<v><tv><aa><inv><p2><sg><o_sg> : kewichema
+    wichem<v><tv><aa><inv><p2><sg><o_pl> : kewichemaok
+    xam<v><tv><aa><inv><p2><sg><o_sg> : ktaxamukw
+    xam<v><tv><aa><inv><p2><sg><o_pl> : ktaxamkuk
+
+  "[lexc/twol] (Ch17) tv.aa.inv p3.sg":
+    ahol<v><tv><aa><inv><p3><sg><o_sg> : toholku
+    ahol<v><tv><aa><inv><p3><sg><o_pl> : toholkuk
+    pesh<v><tv><aa><inv><p3><sg><o_sg> : pweshku
+    pesh<v><tv><aa><inv><p3><sg><o_pl> : pweshku
+
+  "[lexc/twol] (Ch18) tv.aa.inv p3.sg":
+    wichem<v><tv><aa><inv><p3><sg><o_sg> : wichemku
+    wichem<v><tv><aa><inv><p3><sg><o_pl> : wichemku
+    xam<v><tv><aa><inv><p3><sg><o_sg> : toxamku
+    xam<v><tv><aa><inv><p3><sg><o_pl> : toxamku
+
+  "[lexc/twol] (Ch17) tv.aa.inv p1.excl.pl":
+    ahol<v><tv><aa><inv><p1><excl><pl><o_sg> : ntaholkuna
+    ahol<v><tv><aa><inv><p1><excl><pl><o_pl> : ntaholkunanak
+    pesh<v><tv><aa><inv><p1><excl><pl><o_sg> : mpeshkuna
+    pesh<v><tv><aa><inv><p1><excl><pl><o_pl> : mpeshkunanak
+
+  "[lexc/twol] (Ch18) tv.aa.inv p1.excl.pl":
+    wichem<v><tv><aa><inv><p1><excl><pl><o_sg> : newichemawena
+    wichem<v><tv><aa><inv><p1><excl><pl><o_pl> : newichemawenanak
+    xam<v><tv><aa><inv><p1><excl><pl><o_sg> : ntaxamkuna
+    xam<v><tv><aa><inv><p1><excl><pl><o_pl> : ntaxamkunanak
+
+  "[lexc/twol] (Ch17) tv.aa.inv p1.incl.pl":
+    ahol<v><tv><aa><inv><p1><incl><pl><o_sg> : ktaholawena
+    ahol<v><tv><aa><inv><p1><incl><pl><o_pl> : ktaholawenanak
+    pesh<v><tv><aa><inv><p1><incl><pl><o_sg> : kpeshkuna
+    pesh<v><tv><aa><inv><p1><incl><pl><o_pl> : kpeshkunanak
+
+  "[lexc/twol] (Ch18) tv.aa.inv p1.incl.pl":
+    wichem<v><tv><aa><inv><p1><incl><pl><o_sg> : kewichemawena
+    wichem<v><tv><aa><inv><p1><incl><pl><o_pl> : kewichemawenanak
+    xam<v><tv><aa><inv><p1><incl><pl><o_sg> : ktaxamawena
+    xam<v><tv><aa><inv><p1><incl><pl><o_pl> : ktaxamawenanak
+
+  "[lexc/twol] (Ch17) tv.aa.inv p2.pl":
+    ahol<v><tv><aa><inv><p2><pl><o_sg> : ktaholawa
+    ahol<v><tv><aa><inv><p2><pl><o_pl> : ktaholawaok
+    pesh<v><tv><aa><inv><p2><pl><o_sg> : kpeshkuwa
+    pesh<v><tv><aa><inv><p2><pl><o_pl> : kpeshkuwaok
+
+  "[lexc/twol] (Ch18) tv.aa.inv p2.pl":
+    wichem<v><tv><aa><inv><p2><pl><o_sg> : kewichemukuwa
+    wichem<v><tv><aa><inv><p2><pl><o_pl> : kewichemukuwaok
+    xam<v><tv><aa><inv><p2><pl><o_sg> : ktaxamkuwa
+    xam<v><tv><aa><inv><p2><pl><o_pl> : ktaxamkuwaok
+
+  "[lexc/twol] (Ch17) tv.aa.inv p3.pl":
+    ahol<v><tv><aa><inv><p3><pl> : toholawoo
+    pesh<v><tv><aa><inv><p3><pl> : pweshkuwoo
+
+  "[lexc/twol] (Ch18) tv.aa.inv p3.pl":
+    wichem<v><tv><aa><inv><p3><pl> : wichemawao
+    xam<v><tv><aa><inv><p3><pl> : toxamkuwoo
+  
