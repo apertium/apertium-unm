@@ -1,0 +1,60 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../unm.autogen.hfst
+    Morph: ../unm.automorf.hfst
+
+Tests:
+  
+  "[lexc/twol] (Ch13) tv.aa.inv p1.sg":
+    mil<v><tv><aa><inv><p1><sg><o_sg> : nemilukw
+    mil<v><tv><aa><inv><p1><sg><o_pl> : nemilkuk
+    new<v><tv><aa><inv><p1><sg><o_sg> : neyùkw  #"ù" added in above
+    new<v><tv><aa><inv><p1><sg><o_pl> : nehkuk 
+    ulhal<v><tv><aa><inv><p1><sg><o_sg> : nulhalukw
+    ulhal<v><tv><aa><inv><p1><sg><o_pl> : nulhalkuk
+
+  "[lexc/twol] (Ch13) tv.aa.inv p2.sg":
+    mil<v><tv><aa><inv><p2><sg><o_sg> : kemilukw
+    mil<v><tv><aa><inv><p2><sg><o_pl> : kemilkuk
+    new<v><tv><aa><inv><p2><sg><o_sg> : keneyùkw
+    new<v><tv><aa><inv><p2><sg><o_pl> : kenehkuk
+    ulhal<v><tv><aa><inv><p2><sg><o_sg> : kulhalukw
+    ulhal<v><tv><aa><inv><p2><sg><o_pl> : kulhalkuk
+
+  "[lexc/twol] (Ch13) tv.aa.inv p3.sg":
+    mil<v><tv><aa><inv><p3><sg><o_sg> : mwilku
+    mil<v><tv><aa><inv><p3><sg><o_pl> : mwilku
+    new<v><tv><aa><inv><p3><sg><o_sg> : weneku
+    new<v><tv><aa><inv><p3><sg><o_pl> : wenekuk
+    ulhal<v><tv><aa><inv><p3><sg><o_sg> : wulhalku
+    ulhal<v><tv><aa><inv><p3><sg><o_pl> : wulhalku
+
+  "[lexc/twol] (Ch13) tv.aa.inv p1.excl.pl":
+    mil<v><tv><aa><inv><p1><excl><pl><o_sg> : nemilkuna
+    mil<v><tv><aa><inv><p1><excl><pl><o_pl> : nemilkunanak
+    new<v><tv><aa><inv><p1><excl><pl><o_sg> : nehkuna
+    new<v><tv><aa><inv><p1><excl><pl><o_pl> : nehkunanak
+    ulhal<v><tv><aa><inv><p1><excl><pl><o_sg> : nulhalkuna
+    ulhal<v><tv><aa><inv><p1><excl><pl><o_pl> : nulhalkunanak
+
+  "[lexc/twol] (Ch13) tv.aa.inv p1.incl.pl":
+    mil<v><tv><aa><inv><p1><incl><pl><o_sg> : kemilkuna
+    mil<v><tv><aa><inv><p1><incl><pl><o_pl> : kemilkunanak
+    new<v><tv><aa><inv><p1><incl><pl><o_sg> : kenehkuna
+    new<v><tv><aa><inv><p1><incl><pl><o_pl> : kenehkunanak
+    ulhal<v><tv><aa><inv><p1><incl><pl><o_sg> : kulhalkuna
+    ulhal<v><tv><aa><inv><p1><incl><pl><o_pl> : kulhalkunanak
+
+  "[lexc/twol] (Ch13) tv.aa.inv p2.pl":
+    mil<v><tv><aa><inv><p2><pl><o_sg> : kemilkuwa
+    mil<v><tv><aa><inv><p2><pl><o_pl> : kemilkuwaok
+    new<v><tv><aa><inv><p2><pl><o_sg> : kenehkuwa
+    new<v><tv><aa><inv><p2><pl><o_pl> : kenehkuwaok #"wook" written but then "-waok" written in beside it
+    ulhal<v><tv><aa><inv><p2><pl><o_sg> : kulhalkuwa
+    ulhal<v><tv><aa><inv><p2><pl><o_pl> : kulhaluwaok
+
+  "[lexc/twol] (Ch13) tv.aa.inv p3.pl":
+    mil<v><tv><aa><inv><p3><pl> : mwilkuwoo
+    new<v><tv><aa><inv><p3><pl> : wenekuwoo
+    ulhal<v><tv><aa><inv><p3><pl> : wulhalkuwoo
