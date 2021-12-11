@@ -145,11 +145,19 @@ Tests:
     ahel<v><tv><aa><inv><p1><sg><o_sg> : ntahelekw
     ahel<v><tv><aa><inv><p1><sg><o_pl> : ntahelkuk
 
+  "[lexc/twol] (Ch20) tv.aa.inv p1.sg":
+    wichem<v><tv><aa><inv><p1><sg><o_sg> : newichemukw
+    wichem<v><tv><aa><inv><p1><sg><o_pl> : newichemkuk
+
   "[lexc/twol] (Ch19) tv.aa.inv p2.sg":
     tel<v><tv><aa><inv><p2><sg><o_sg> : ktelekw
     tel<v><tv><aa><inv><p2><sg><o_pl> : ktelkuk
     ahel<v><tv><aa><inv><p2><sg><o_sg> : ktahelekw
     ahel<v><tv><aa><inv><p2><sg><o_pl> : ktahelkuk
+
+  "[lexc/twol] (Ch20) tv.aa.inv p2.sg":
+    wichem<v><tv><aa><inv><p2><sg><o_sg> : kewichemukw
+    wichem<v><tv><aa><inv><p2><sg><o_pl> : kewichemkuk
 
   "[lexc/twol] (Ch19) tv.aa.inv p3.sg":
     tel<v><tv><aa><inv><p3><sg><o_sg> : telku
@@ -157,11 +165,19 @@ Tests:
     ahel<v><tv><aa><inv><p3><sg><o_sg> : tohelku
     ahel<v><tv><aa><inv><p3><sg><o_pl> : tohelku
 
+  "[lexc/twol] (Ch20) tv.aa.inv p3.sg":
+    wichem<v><tv><aa><inv><p3><sg><o_sg> : wichemku
+    wichem<v><tv><aa><inv><p3><sg><o_pl> : wichemku
+
   "[lexc/twol] (Ch19) tv.aa.inv p1.excl.pl":
     tel<v><tv><aa><inv><p1><excl><pl><o_sg> : ntelkuna
     tel<v><tv><aa><inv><p1><excl><pl><o_pl> : ntelkunanak
     ahel<v><tv><aa><inv><p1><excl><pl><o_sg> : ntahelkuna
     ahel<v><tv><aa><inv><p1><excl><pl><o_pl> : ntahelkunanak
+
+  "[lexc/twol] (Ch20) tv.aa.inv p1.excl.pl":
+    wichem<v><tv><aa><inv><p1><excl><pl><o_sg> : newichemekuna
+    wichem<v><tv><aa><inv><p1><excl><pl><o_pl> : newichemekunanak
 
   "[lexc/twol] (Ch19) tv.aa.inv p1.incl.pl":
     tel<v><tv><aa><inv><p1><incl><pl><o_sg> : ktelkuna
@@ -169,12 +185,78 @@ Tests:
     ahel<v><tv><aa><inv><p1><incl><pl><o_sg> : ktahelkuna
     ahel<v><tv><aa><inv><p1><incl><pl><o_pl> : ktahelkunanak
 
+  "[lexc/twol] (Ch20) tv.aa.inv p1.incl.pl":
+    wichem<v><tv><aa><inv><p1><incl><pl><o_sg> : kewichemekuna
+    wichem<v><tv><aa><inv><p1><incl><pl><o_pl> : kewichemekunanak
+
   "[lexc/twol] (Ch19) tv.aa.inv p2.pl":
     tel<v><tv><aa><inv><p2><pl><o_sg> : ktelkuwa
     tel<v><tv><aa><inv><p2><pl><o_pl> : ktelkuwaok
     ahel<v><tv><aa><inv><p2><pl><o_sg> : ktahelkuwa
     ahel<v><tv><aa><inv><p2><pl><o_pl> : ktahelkuwaok
 
+  "[lexc/twol] (Ch20) tv.aa.inv p2.pl":
+    wichem<v><tv><aa><inv><p2><pl><o_sg> : kewichemkuwa
+    wichem<v><tv><aa><inv><p2><pl><o_pl> : kewichemkuwaok
+
   "[lexc/twol] (Ch19) tv.aa.inv p3.pl":
     tel<v><tv><aa><inv><p3><pl> : telkuwoo
     ahel<v><tv><aa><inv><p3><pl> : tohelkuwoo
+
+  "[lexc/twol] (Ch20) tv.aa.inv p3.pl":
+    wichem<v><tv><aa><inv><p3><pl> : wichemkuwoo
+
+  "[lexc/twol] (Ch22) tv.aa.inv p1.sg":
+    wixen<v><tv><aa><inv><p1><sg><o_sg> : newixenkukw
+    wixen<v><tv><aa><inv><p1><sg><o_pl> : newixenkuk
+
+  "[lexc/twol] (Ch22) tv.aa.inv p2.sg":
+    wixen<v><tv><aa><inv><p2><sg><o_sg> : kewixenkukw
+    wixen<v><tv><aa><inv><p2><sg><o_pl> : kewixenkuk
+
+  "[lexc/twol] (Ch22) tv.aa.inv p3.sg":
+    wixen<v><tv><aa><inv><p3><sg><o_sg> : wixenku
+    wixen<v><tv><aa><inv><p3><sg><o_pl> : wixenku
+
+  "[lexc/twol] (Ch22) tv.aa.inv p1.excl.pl":
+    wixen<v><tv><aa><inv><p1><excl><pl><o_sg> : newixenkuna
+    wixen<v><tv><aa><inv><p1><excl><pl><o_pl> : newixenkunanak
+
+  "[lexc/twol] (Ch22) tv.aa.inv p1.incl.pl":
+    wixen<v><tv><aa><inv><p1><incl><pl><o_sg> : kewixenkuna
+    wixen<v><tv><aa><inv><p1><incl><pl><o_pl> : kewixenkunanak
+
+  "[lexc/twol] (Ch22) tv.aa.inv p2.pl":
+    wixen<v><tv><aa><inv><p2><pl><o_sg> : kewixenkuwa
+    wixen<v><tv><aa><inv><p2><pl><o_pl> : kewixenkuwaok
+
+  "[lexc/twol] (Ch22) tv.aa.inv p3.pl":
+    wixen<v><tv><aa><inv><p3><pl> : wixenkuwoo
+
+  "[lexc/twol] (Ch23) tv.aa.inv p1.sg":
+    uwah<v><tv><aa><inv><p1><sg><o_sg> : nuwahukw
+    uwah<v><tv><aa><inv><p1><sg><o_pl> : nuwahkuk
+
+  "[lexc/twol] (Ch23) tv.aa.inv p2.sg":
+    uwah<v><tv><aa><inv><p2><sg><o_sg> : kuwahukw
+    uwah<v><tv><aa><inv><p2><sg><o_pl> : kuwahkuk
+  
+  "[lexc/twol] (Ch23) tv.aa.inv p3.sg":
+    uwah<v><tv><aa><inv><p3><sg><o_sg> : uwahku
+    uwah<v><tv><aa><inv><p3><sg><o_pl> : uwahku
+
+  "[lexc/twol] (Ch23) tv.aa.inv p1.excl.pl":
+    uwah<v><tv><aa><inv><p1><excl><pl><o_sg> : nuwahkuna
+    uwah<v><tv><aa><inv><p1><excl><pl><o_pl> : nuwahkunanak
+
+  "[lexc/twol] (Ch23) tv.aa.inv p1.incl.pl":
+    uwah<v><tv><aa><inv><p1><incl><pl><o_sg> : kuwahkuna
+    uwah<v><tv><aa><inv><p1><incl><pl><o_pl> : kuwahkunanak
+
+  "[lexc/twol] (Ch23) tv.aa.inv p2.pl":
+    uwah<v><tv><aa><inv><p2><pl><o_sg> : kuwahkuwa
+    uwah<v><tv><aa><inv><p2><pl><o_pl> : kuwahkuwa  
+
+  "[lexc/twol] (Ch23) tv.aa.inv p3.pl":
+    wixen<v><tv><aa><inv><p3><pl> : uwahaok
+  
