@@ -35,8 +35,11 @@ PATTERNS
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
+# Intransitive
 :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
+# Transitive Inanimate
 :VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTI(2) VerbInflTI(3):
+# Transitive Animate
 :VerbInflTA(1) Preverbs? VerbRootTA(1) [<v>:] VerbRootTA(2): :VerbInflTA(2) VerbInflTA(3):
 
 Punctuation
@@ -277,6 +280,13 @@ hòkes:hokes             # "bark; box"
 mënëpekw:mënëpekw       # "lake"
 muxul:muxul             # "canoe, boat"
 tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
+ahchu:ahchu{h}{w}       # "hill, (mountain)"
+paent:paent             # "cup"
+chipakw:chipakw         # "shoe"
+ahshikan:ahshikan       # "sock"
+lokens:lokens           # "plate"
+ehukwenk:ehukwenk       # "necklace"
+tepinxkepi:tepinxkepi   # "bracelet"
 
 
 LEXICON VerbRootAI(2)
