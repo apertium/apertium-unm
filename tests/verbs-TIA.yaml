@@ -381,3 +381,89 @@ Tests:
 
   "[lexc/twol] (Ch13) tv.nn p3.pl":
     meshenem<v><tv><nn><p3><pl> : mweshenemeneyo
+
+  "[lexc/twol] (Swat Verb Resources) tv.nn p1.sg":
+    lelentam<v><tv><nn><p1><sg><o_sg> : nlelentamen
+    lelentam<v><tv><nn><p1><sg><o_pl> : nlelentamena 
+    lenem<v><tv><nn><p1><sg><o_sg> : nlenemen
+    lenem<v><tv><nn><p1><sg><o_pl> : nlenemena
+    litehemaon<v><tv><nn><p1><sg><o_sg> : ntelhitehemaonen
+    litehemaon<v><tv><nn><p1><sg><o_pl> : ntelhitehemaonena
+    kelamen<v><tv><nn><p1><sg><o_sg> : nkelamenen
+    kelamen<v><tv><nn><p1><sg><o_pl> : nkelamenena
+    michit<v><tv><nn><p1><sg><o_sg> : nemichiten
+    michit<v><tv><nn><p1><sg><o_pl> : nemichitena
+    taskantam<v><tv><nn><p1><sg><o_sg> : ntaskantamen
+    taskantam<v><tv><nn><p1><sg><o_pl> : ntaskantamena
+  
+  "[lexc/twol] (Swat Verb Resources) tv.nn p2.sg":
+    lelentam<v><tv><nn><p2><sg><o_sg> : kelelentamen
+    lelentam<v><tv><nn><p2><sg><o_pl> : kelelentamena
+    lenem<v><tv><nn><p2><sg><o_sg> : kelenemen
+    lenem<v><tv><nn><p2><sg><o_pl> : kelenemena
+    litehemaon<v><tv><nn><p2><sg><o_sg> : ktelhitehemaonen
+    litehemaon<v><tv><nn><p2><sg><o_pl> : ktelhitehemaonena
+    kelamen<v><tv><nn><p2><sg><o_sg> : kelamenen
+    kelamen<v><tv><nn><p2><sg><o_pl> : kelamenena
+    michit<v><tv><nn><p2><sg><o_sg> : kemichiten
+    kelamen<v><tv><nn><p2><sg><o_pl> : kemichitena
+    taskantam<v><tv><nn><p2><sg><o_sg> : ktaskantamen
+    taskantam<v><tv><nn><p2><sg><o_pl> : ktaskantamena
+
+  "[lexc/twol] (Swat Verb Resources) tv.nn p3.sg":
+    lelentam<v><tv><nn><p2><sg><o_sg> : welelentamen
+    lelentam<v><tv><nn><p2><sg><o_pl> : welelentamena
+    lenem<v><tv><nn><p2><sg><o_sg> : lenemen
+    lenem<v><tv><nn><p2><sg><o_pl> : lenemena
+    litehemaon<v><tv><nn><p2><sg><o_sg> : litehemaonen
+    litehemaon<v><tv><nn><p2><sg><o_pl> : litehemaonena
+    kelamen<v><tv><nn><p2><sg><o_sg> : kelamenen
+    kelamen<v><tv><nn><p2><sg><o_pl> : kelamenena
+    michit<v><tv><nn><p2><sg><o_sg> : michiten
+    michit<v><tv><nn><p2><sg><o_pl> : michitena
+    taskantam<v><tv><nn><p2><sg><o_sg> : toskantamen
+    taskantam<v><tv><nn><p2><sg><o_pl> : toskantamena
+  
+  "[lexc/twol] (Swat Verb Resources) tv.nn p1.excl.pl":
+    lelentam<v><tv><nn><p1><excl><pl><o_sg> : nlelentamenen
+    lelentam<v><tv><nn><p1><excl><pl><o_pl> : nlelentamenena
+    lenem<v><tv><nn><p1><excl><pl><o_sg> : nlenemenen
+    lenem<v><tv><nn><p1><excl><pl><o_pl> : nlenemenena
+    litehemaon<v><tv><nn><p1><excl><pl><o_sg> : ntelhitehemaonenen
+    litehemaon<v><tv><nn><p1><excl><pl><o_pl> : ntelhitehemaonenena
+    kelamen<v><tv><nn><p1><excl><pl><o_sg> : nkelamenenen
+    kelamen<v><tv><nn><p1><excl><pl><o_pl> : nkelamenenena
+    michit<v><tv><nn><p1><excl><pl><o_sg> : nemichitenen
+    michit<v><tv><nn><p1><excl><pl><o_pl> : nemichitenena
+    taskantam<v><tv><nn><p1><excl><pl><o_sg> : ntaskantamenen
+    taskantam<v><tv><nn><p1><excl><pl><o_pl> : ntaskantamenena
+
+  "[lexc/twol] (Swat Verb Resources) tv.nn p1.incl.pl":
+    lelentam<v><tv><nn><p1><incl><pl><o_sg> : kelelentamenen
+    lelentam<v><tv><nn><p1><incl><pl><o_pl> : kelelentamenen
+    lenem<v><tv><nn><p1><incl><pl><o_sg> : kelenemenen
+    lenem<v><tv><nn><p1><incl><pl><o_pl> : kelenemenena
+    litehemaon<v><tv><nn><p1><incl><pl><o_sg> : ktelhitehemaonenen
+    litehemaon<v><tv><nn><p1><incl><pl><o_pl> : ktelhitehemaonenena
+    kelamen<v><tv><nn><p1><incl><pl><o_sg> : kelamenenen
+    kelamen<v><tv><nn><p1><incl><pl><o_pl> : kelamenenena
+    michit<v><tv><nn><p1><incl><pl><o_sg> : kemichitenen
+    michit<v><tv><nn><p1><incl><pl><o_pl> : kemichitenena
+    taskantam<v><tv><nn><p1><incl><pl><o_sg> : ktaskantamenen
+    taskantam<v><tv><nn><p1><incl><pl><o_pl> : ktaskantamenena
+
+  "[lexc/twol] (Swat Verb Resources) tv.nn p2.pl":
+    lelentam<v><tv><nn><p2><pl> : kelelentameneyo
+    lenem<v><tv><nn><p2><pl> : kelenemeneyo
+    litehemaon<v><tv><nn><p2><pl> : ktelhitehemaoneneyo
+    kelamen<v><tv><nn><p2><pl> : kelameneneyo
+    michit<v><tv><nn><p2><pl> : kemichiteneyo
+    taskantam<v><tv><nn><p2><pl> : ktaskantameneyo
+
+  "[lexc/twol] (Swat Verb Resources) tv.nn p3.pl":
+    lelentam<v><tv><nn><p3><pl> : welelentameneyo
+    lenem<v><tv><nn><p3><pl> : lenemeneyo
+    litehemaon<v><tv><nn><p3><pl> : litehemaoneneyo
+    kelamen<v><tv><nn><p3><pl> : kelameneneyo
+    michit<v><tv><nn><p3><pl> : michiteneyo
+    taskantam<v><tv><nn><p3><pl> : toskantameneyo
