@@ -874,3 +874,52 @@ Tests:
   
   "[lexc/twol] (Ch23) iv.aa p3.pl":
     ahkens<v><iv><aa><p3><pl> : ahkensuwak
+
+  "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1":
+    talawsu<v><iv><aa><p1><sg> : ntalawsi
+    pemin<v><iv><aa><p1><sg> : mpemini
+    maike<v><iv><aa><p1><sg> : nemaikei
+    pechikwil<v><iv><aa><p1><sg> : mpechikwila
+    moihelan<v><iv><aa><p1><sg> : nemoihelana
+
+  "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.sg":
+    talawsu<v><iv><aa><p2><sg> : ktalawsi
+    pemin<v><iv><aa><p2><sg> : kpemini
+    maike<v><iv><aa><p2><sg> : kemaikei
+    pechikwil<v><iv><aa><p2><sg> : kpechikwila
+    moihelan<v><iv><aa><p2><sg> : kemoihelana
+
+  "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.sg":
+    talawsu<v><iv><aa><p3><sg> : talawsu
+    pemin<v><iv><aa><p3><sg> : peminu
+    maike<v><iv><aa><p3><sg> : maikei
+    pechikwil<v><iv><aa><p3><sg> : pwechikwila
+    moihelan<v><iv><aa><p3><sg> : moihelane
+
+  "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.excl.pl": 
+    talawsu<v><iv><aa><p1><excl><pl> : ntalawsihena
+    pemin<v><iv><aa><p1><excl><pl> : mpeminihena
+    maike<v><iv><aa><p1><excl><pl> : nemaikeihena
+    pechikwil<v><iv><aa><p1><excl><pl> : mpechikwilahena
+    moihelan<v><iv><aa><p1><excl><pl> : nemoihelanahena
+
+  "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.incl.pl": 
+    talawsu<v><iv><aa><p1><incl><pl> : ktalawsihena
+    pemin<v><iv><aa><p1><incl><pl> : kpeminihemo
+    maike<v><iv><aa><p1><incl><pl> : kemaikeihena
+    pechikwil<v><iv><aa><p1><incl><pl> : kpechikwilahena
+    moihelan<v><iv><aa><p1><incl><pl> : kemoihelanahena
+
+  "[lexc/twol] (Ch23) iv.aa p2.pl":
+    talawsu<v><iv><aa><p2><pl> : ktalawsihemo
+    pemin<v><iv><aa><p2><pl> : kpeminihemo
+    maike<v><iv><aa><p2><pl> : kemaikeihemo
+    pechikwil<v><iv><aa><p2><pl> : kpechikwilahemo
+    moihelan<v><iv><aa><p2><pl> : kemoihelanahemo
+
+  "[lexc/twol] (Ch23) iv.aa p3.pl":
+    talawsu<v><iv><aa><p3><pl> : talawsuwak
+    pemin<v><iv><aa><p3><pl> : peminuwak
+    maike<v><iv><aa><p3><pl> : maikeiyok
+    pechikwil<v><iv><aa><p3><pl> : pwechikwilaok
+    moihelan<v><iv><aa><p3><pl> : moihelaneyo
