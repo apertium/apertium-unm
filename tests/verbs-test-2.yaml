@@ -897,6 +897,13 @@ Tests:
     tanktit<v><iv><aa><p1><sg> : ntanktiti
     lapemkwes<v><iv><aa><p1><sg> : nlapemkwesi
 
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1":
+    kwenaws<v><iv><aa><p1><sg> : nkwenawsi
+    wenchikane<v><iv><aa><p1><sg> : newenchikanei
+    kishiki<v><iv><aa><p1><sg> : nkishikiya
+    aspoxw<v><iv><aa><p1><sg> : ntaspoxwa
+    kwil<v><iv><aa><p1><sg> : nkwila
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.sg":
     talawsu<v><iv><aa><p2><sg> : ktalawsi
     pemin<v><iv><aa><p2><sg> : kpemini
@@ -918,6 +925,13 @@ Tests:
     wichemukws<v><iv><aa><p2><sg> : kewichemukwsi
     tanktit<v><iv><aa><p2><sg> : ktanktiti
     lapemkwes<v><iv><aa><p2><sg> : kelapemkwesi
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p2.sg":
+    kwenaws<v><iv><aa><p2><sg> : kwenawsi
+    wenchikane<v><iv><aa><p2><sg> : kewenchikanei
+    kishiki<v><iv><aa><p2><sg> : kishikiya
+    aspoxw<v><iv><aa><p2><sg> : ktaspoxwa
+    kwil<v><iv><aa><p2><sg> : kwila
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.sg":
     talawsu<v><iv><aa><p3><sg> : talawsu
@@ -941,6 +955,13 @@ Tests:
     tanktit<v><iv><aa><p3><sg> : tanktitu
     lapemkwes<v><iv><aa><p3><sg> : lapemkwesi
 
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p3.sg":
+    kwenaws<v><iv><aa><p3><sg> : kwenawsi
+    wenchikane<v><iv><aa><p3><sg> : wenchikanei
+    kishiki<v><iv><aa><p3><sg> : kishikiye
+    aspoxw<v><iv><aa><p3><sg> : aspoxwe
+    kwil<v><iv><aa><p3><sg> : kwile
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.excl.pl": 
     talawsu<v><iv><aa><p1><excl><pl> : ntalawsihena
     pemin<v><iv><aa><p1><excl><pl> : mpeminihena
@@ -962,6 +983,13 @@ Tests:
     wichemukws<v><iv><aa><p1><excl><pl> : newichemukwsihena
     tanktit<v><iv><aa><p1><excl><pl> : ntanktitihena
     lapemkwes<v><iv><aa><p1><excl><pl> : nlapemkwesihena
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1.excl.pl":
+    kwenaws<v><iv><aa><p1><excl><pl> : nkwenawsihena
+    wenchikane<v><iv><aa><p1><excl><pl> : newenchikaneihena
+    kishiki<v><iv><aa><p1><excl><pl> : nkishikiyahena
+    aspoxw<v><iv><aa><p1><excl><pl> : ntaspoxkwahena
+    kwil<v><iv><aa><p1><excl><pl> : nkwilahena
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.incl.pl": 
     talawsu<v><iv><aa><p1><incl><pl> : ktalawsihena
@@ -985,6 +1013,13 @@ Tests:
     tanktit<v><iv><aa><p1><incl><pl> : ktanktitihena
     lapemkwes<v><iv><aa><p1><incl><pl> : kelapemkwesihena
 
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1.incl.pl":
+    kwenaws<v><iv><aa><p1><incl><pl> : kwenawsihena
+    wenchikane<v><iv><aa><p1><incl><pl> : kewenchikaneihena
+    kishiki<v><iv><aa><p1><incl><pl> : kishikiyahena
+    aspoxw<v><iv><aa><p1><incl><pl> : ktaspoxkwahena
+    kwil<v><iv><aa><p1><incl><pl> : kwilahena
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.pl":
     talawsu<v><iv><aa><p2><pl> : ktalawsihemo
     pemin<v><iv><aa><p2><pl> : kpeminihemo
@@ -1007,6 +1042,13 @@ Tests:
     tanktit<v><iv><aa><p2><pl> : ktanktitihemo
     lapemkwes<v><iv><aa><p2><pl> : kelapemkwesihemo
 
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p2.pl":
+    kwenaws<v><iv><aa><p2><pl> : kwenawsihemo
+    wenchikane<v><iv><aa><p2><pl> : kewenchikaneihemo
+    kishiki<v><iv><aa><p2><pl> : kishikiyahemo
+    aspoxw<v><iv><aa><p2><pl> : ktaspoxkwahemo
+    kwil<v><iv><aa><p2><pl> : kwilahemo
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.pl":
     talawsu<v><iv><aa><p3><pl> : talawsuwak
     pemin<v><iv><aa><p3><pl> : peminuwak
@@ -1028,3 +1070,10 @@ Tests:
     wichemukws<v><iv><aa><p3><pl> : wichemukwsiyok
     tanktit<v><iv><aa><p3><pl> : tanktituwak
     lapemkwes<v><iv><aa><p3><pl> : lapemkwesiyok
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p3.pl":
+    kwenaws<v><iv><aa><p3><pl> : kwenawsiyok
+    wenchikane<v><iv><aa><p3><pl> : wenchikaneiyok
+    kishiki<v><iv><aa><p3><pl> : kishikiyeyok
+    aspoxw<v><iv><aa><p3><pl> : aspoxkweyok
+    kwil<v><iv><aa><p3><pl> : kwileyok
