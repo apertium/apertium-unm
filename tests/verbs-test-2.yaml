@@ -904,6 +904,13 @@ Tests:
     aspoxw<v><iv><aa><p1><sg> : ntaspoxwa
     kwil<v><iv><aa><p1><sg> : nkwila
 
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1":
+    ankel<v><iv><aa><p1><sg> : ntankeli
+    hika<v><iv><aa><p1><sg> : nhikai
+    ma<v><iv><aa><p1><sg> : nemai
+    ahinamu<v><iv><aa><p1><sg> : ntahinamuwi
+    ahalemxuk<v><iv><aa><p1><sg> : ntahalemxuka
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.sg":
     talawsu<v><iv><aa><p2><sg> : ktalawsi
     pemin<v><iv><aa><p2><sg> : kpemini
@@ -933,6 +940,13 @@ Tests:
     aspoxw<v><iv><aa><p2><sg> : ktaspoxwa
     kwil<v><iv><aa><p2><sg> : kwila
 
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p2.sg":
+    ankel<v><iv><aa><p2><sg> : ktankeli
+    hika<v><iv><aa><p2><sg> : khikai
+    ma<v><iv><aa><p2><sg> : kemai
+    ahinamu<v><iv><aa><p2><sg> : ktahinamuwi
+    ahalemxuk<v><iv><aa><p2><sg> : ktahalemxuka
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.sg":
     talawsu<v><iv><aa><p3><sg> : talawsu
     pemin<v><iv><aa><p3><sg> : peminu
@@ -961,6 +975,13 @@ Tests:
     kishiki<v><iv><aa><p3><sg> : kishikiye
     aspoxw<v><iv><aa><p3><sg> : aspoxwe
     kwil<v><iv><aa><p3><sg> : kwile
+    
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p3.sg":
+    ankel<v><iv><aa><p3><sg> : ankelu
+    hika<v><iv><aa><p3><sg> : hikai
+    ma<v><iv><aa><p3><sg> : mwai
+    ahinamu<v><iv><aa><p3><sg> : ahinamuwe
+    ahalemxuk<v><iv><aa><p3><sg> : ahalemxuka
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.excl.pl": 
     talawsu<v><iv><aa><p1><excl><pl> : ntalawsihena
@@ -990,6 +1011,13 @@ Tests:
     kishiki<v><iv><aa><p1><excl><pl> : nkishikiyahena
     aspoxw<v><iv><aa><p1><excl><pl> : ntaspoxkwahena
     kwil<v><iv><aa><p1><excl><pl> : nkwilahena
+  
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1.excl.pl":
+    ankel<v><iv><aa><p1><excl><pl> : ntankelihena
+    hika<v><iv><aa><p1><excl><pl> : nhikaihena
+    ma<v><iv><aa><p1><excl><pl> : nemaihena
+    ahinamu<v><iv><aa><p1><excl><pl> : ntahinamuwihena
+    ahalemxuk<v><iv><aa><p1><excl><pl> : ntahalemxukahena
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.incl.pl": 
     talawsu<v><iv><aa><p1><incl><pl> : ktalawsihena
@@ -1020,6 +1048,13 @@ Tests:
     aspoxw<v><iv><aa><p1><incl><pl> : ktaspoxkwahena
     kwil<v><iv><aa><p1><incl><pl> : kwilahena
 
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1.incl.pl":
+    ankel<v><iv><aa><p1><incl><pl> : ktankelihena
+    hika<v><iv><aa><p1><incl><pl> : khikaihena
+    ma<v><iv><aa><p1><incl><pl> : kemaihena
+    ahinamu<v><iv><aa><p1><incl><pl> : ktahinamuwihena
+    ahalemxuk<v><iv><aa><p1><incl><pl> : ktahalemxukahena
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.pl":
     talawsu<v><iv><aa><p2><pl> : ktalawsihemo
     pemin<v><iv><aa><p2><pl> : kpeminihemo
@@ -1049,6 +1084,13 @@ Tests:
     aspoxw<v><iv><aa><p2><pl> : ktaspoxkwahemo
     kwil<v><iv><aa><p2><pl> : kwilahemo
 
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p2.pl":
+    ankel<v><iv><aa><p2><pl> : ktankelihemo
+    hika<v><iv><aa><p2><pl> : khikaihemo
+    ma<v><iv><aa><p2><pl> : kemaihemo
+    ahinamu<v><iv><aa><p2><pl> : ktahinamuwihemo
+    ahalemxuk<v><iv><aa><p2><pl> : ktahalemxukahemo
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.pl":
     talawsu<v><iv><aa><p3><pl> : talawsuwak
     pemin<v><iv><aa><p3><pl> : peminuwak
@@ -1077,3 +1119,10 @@ Tests:
     kishiki<v><iv><aa><p3><pl> : kishikiyeyok
     aspoxw<v><iv><aa><p3><pl> : aspoxkweyok
     kwil<v><iv><aa><p3><pl> : kwileyok
+
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p3.pl":
+    ankel<v><iv><aa><p3><pl> : ankeluwak
+    hika<v><iv><aa><p3><pl> : hikaiyok
+    ma<v><iv><aa><p3><pl> : mwaiyok
+    ahinamu<v><iv><aa><p3><pl> : ahinamuweyok
+    ahalemxuk<v><iv><aa><p3><pl> : ahalemxukaok
