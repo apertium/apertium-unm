@@ -925,6 +925,10 @@ Tests:
     weleleminak<v><iv><aa><p1><sg> : neweleleminaki
     pankpeix<v><iv><aa><p1><sg> : mpankpeixa
 
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1":
+    mhuk<v><iv><aa><p1><sg> : nemhuki
+    xuh<v><iv><aa><p1><sg> : nexuha
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.sg":
     talawsu<v><iv><aa><p2><sg> : ktalawsi
     pemin<v><iv><aa><p2><sg> : kpemini
@@ -974,6 +978,10 @@ Tests:
     alemit<v><iv><aa><p2><sg> : ktalemita
     weleleminak<v><iv><aa><p2><sg> : keweleleminaki
     pankpeix<v><iv><aa><p2><sg> : kpankpeixa
+
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p2.sg":
+    mhuk<v><iv><aa><p2><sg> : kemhuki
+    xuh<v><iv><aa><p2><sg> : kexuha
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.sg":
     talawsu<v><iv><aa><p3><sg> : talawsu
@@ -1025,6 +1033,10 @@ Tests:
     weleleminak<v><iv><aa><p3><sg> : weleleminaki
     pankpeix<v><iv><aa><p3><sg> : pankpeixe
 
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p3.sg":
+    mhuk<v><iv><aa><p3><sg> : mhuku
+    xuh<v><iv><aa><p3><sg> : xuha
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.excl.pl": 
     talawsu<v><iv><aa><p1><excl><pl> : ntalawsihena
     pemin<v><iv><aa><p1><excl><pl> : mpeminihena
@@ -1074,6 +1086,10 @@ Tests:
     alemit<v><iv><aa><p1><excl><pl> : ntalemitahena
     weleleminak<v><iv><aa><p1><excl><pl> : neweleleminakihena
     pankpeix<v><iv><aa><p1><excl><pl> : mpankpeixahena
+  
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1.excl.pl":
+    mhuk<v><iv><aa><p1><excl><pl> : nemhukihena
+    xuh<v><iv><aa><p1><excl><pl> : nexuhahena
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.incl.pl": 
     talawsu<v><iv><aa><p1><incl><pl> : ktalawsihena
@@ -1125,6 +1141,10 @@ Tests:
     weleleminak<v><iv><aa><p1><incl><pl> : keweleleminakihena
     pankpeix<v><iv><aa><p1><incl><pl> : kpankpeixahena
 
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1.incl.pl": 
+    mhuk<v><iv><aa><p1><incl><pl> : kemhukihena
+    xuh<v><iv><aa><p1><incl><pl> : kexuhahena
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.pl":
     talawsu<v><iv><aa><p2><pl> : ktalawsihemo
     pemin<v><iv><aa><p2><pl> : kpeminihemo
@@ -1175,6 +1195,10 @@ Tests:
     weleleminak<v><iv><aa><p2><pl> : keweleleminakihemo
     pankpeix<v><iv><aa><p2><pl> : kpankpeixahemo
 
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p2.pl":
+    mhuk<v><iv><aa><p2><pl> : kemhukihemo
+    xuh<v><iv><aa><p2><pl> : kexuhahemo
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.pl":
     talawsu<v><iv><aa><p3><pl> : talawsuwak
     pemin<v><iv><aa><p3><pl> : peminuwak
@@ -1224,3 +1248,7 @@ Tests:
     alemit<v><iv><aa><p3><pl> : alemitaok
     weleleminak<v><iv><aa><p3><pl> : weleleminakiyok
     pankpeix<v><iv><aa><p3><pl> : pankpeixeyok
+
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p3.pl":
+    mhuk<v><iv><aa><p3><pl> : mhukuwak
+    xuh<v><iv><aa><p3><pl> : xuhaok
