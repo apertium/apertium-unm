@@ -911,6 +911,20 @@ Tests:
     ahinamu<v><iv><aa><p1><sg> : ntahinamuwi
     ahalemxuk<v><iv><aa><p1><sg> : ntahalemxuka
 
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1":
+    ahaptep<v><iv><aa><p1><sg> : ntahaptepa
+    kokwelepoxw<v><iv><aa><p1><sg> : nkokwelepoxwa
+    anch<v><iv><aa><p1><sg> : ntanchi
+    mikoshem<v><iv><aa><p1><sg> : nemikoshema
+    kika<v><iv><aa><p1><sg> : nkikai
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1":
+    mikushem<v><iv><aa><p1><sg> : nemikushema
+    chopwix<v><iv><aa><p1><sg> : nchopwixi
+    alemit<v><iv><aa><p1><sg> : ntalemit
+    weleleminak<v><iv><aa><p1><sg> : neweleleminaki
+    pankpeix<v><iv><aa><p1><sg> : mpankpeixa
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.sg":
     talawsu<v><iv><aa><p2><sg> : ktalawsi
     pemin<v><iv><aa><p2><sg> : kpemini
@@ -946,6 +960,20 @@ Tests:
     ma<v><iv><aa><p2><sg> : kemai
     ahinamu<v><iv><aa><p2><sg> : ktahinamuwi
     ahalemxuk<v><iv><aa><p2><sg> : ktahalemxuka
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p2.sg":
+    ahaptep<v><iv><aa><p2><sg> : ktahaptepa
+    kokwelepoxw<v><iv><aa><p2><sg> : kokwelepoxwa
+    anch<v><iv><aa><p2><sg> : ktanchi
+    mikoshem<v><iv><aa><p2><sg> : kemikoshema
+    kika<v><iv><aa><p2><sg> : kikai
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p2.sg":
+    mikushem<v><iv><aa><p2><sg> : kemikushema
+    chopwix<v><iv><aa><p2><sg> : kchopwixi
+    alemit<v><iv><aa><p2><sg> : ktalemita
+    weleleminak<v><iv><aa><p2><sg> : keweleleminaki
+    pankpeix<v><iv><aa><p2><sg> : kpankpeixa
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.sg":
     talawsu<v><iv><aa><p3><sg> : talawsu
@@ -983,6 +1011,20 @@ Tests:
     ahinamu<v><iv><aa><p3><sg> : ahinamuwe
     ahalemxuk<v><iv><aa><p3><sg> : ahalemxuka
 
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p3.sg":
+    ahaptep<v><iv><aa><p3><sg> : ahaptepe
+    kokwelepoxw<v><iv><aa><p3><sg> : kokwelepoxwe
+    anch<v><iv><aa><p3><sg> : anchu
+    mikoshem<v><iv><aa><p3><sg> : mikoshema
+    kika<v><iv><aa><p3><sg> : kikai
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p3.sg":
+    mikushem<v><iv><aa><p3><sg> : mikushema
+    chopwix<v><iv><aa><p3><sg> : chopwixi
+    alemit<v><iv><aa><p3><sg> : alemita
+    weleleminak<v><iv><aa><p3><sg> : weleleminaki
+    pankpeix<v><iv><aa><p3><sg> : pankpeixe
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.excl.pl": 
     talawsu<v><iv><aa><p1><excl><pl> : ntalawsihena
     pemin<v><iv><aa><p1><excl><pl> : mpeminihena
@@ -1018,6 +1060,20 @@ Tests:
     ma<v><iv><aa><p1><excl><pl> : nemaihena
     ahinamu<v><iv><aa><p1><excl><pl> : ntahinamuwihena
     ahalemxuk<v><iv><aa><p1><excl><pl> : ntahalemxukahena
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1.excl.pl":
+    ahaptep<v><iv><aa><p1><excl><pl> : ntahaptepahena
+    kokwelepoxw<v><iv><aa><p1><excl><pl> : nkokwelepoxwahena
+    anch<v><iv><aa><p1><excl><pl> : ntanchihena
+    mikoshem<v><iv><aa><p1><excl><pl> : nemikoshemahena
+    kika<v><iv><aa><p1><excl><pl> : nkikaihena
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1.excl.pl":
+    mikushem<v><iv><aa><p1><excl><pl> : nemikushemahena
+    chopwix<v><iv><aa><p1><excl><pl> : nchopwixihena
+    alemit<v><iv><aa><p1><excl><pl> : ntalemitahena
+    weleleminak<v><iv><aa><p1><excl><pl> : neweleleminakihena
+    pankpeix<v><iv><aa><p1><excl><pl> : mpankpeixahena
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.incl.pl": 
     talawsu<v><iv><aa><p1><incl><pl> : ktalawsihena
@@ -1055,6 +1111,20 @@ Tests:
     ahinamu<v><iv><aa><p1><incl><pl> : ktahinamuwihena
     ahalemxuk<v><iv><aa><p1><incl><pl> : ktahalemxukahena
 
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1.incl.pl": 
+    ahaptep<v><iv><aa><p1><incl><pl> : ktahaptepahena
+    kokwelepoxw<v><iv><aa><p1><incl><pl> : kokwelepoxwahena
+    anch<v><iv><aa><p1><incl><pl> : ktanchihena
+    mikoshem<v><iv><aa><p1><incl><pl> : kemikoshemahena
+    kika<v><iv><aa><p1><incl><pl> : kikaihena
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1.incl.pl": 
+    mikushem<v><iv><aa><p1><incl><pl> : kemikushemahena
+    chopwix<v><iv><aa><p1><incl><pl> : kchopwixihena
+    alemit<v><iv><aa><p1><incl><pl> : ktalemitahena
+    weleleminak<v><iv><aa><p1><incl><pl> : keweleleminakihena
+    pankpeix<v><iv><aa><p1><incl><pl> : kpankpeixahena
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.pl":
     talawsu<v><iv><aa><p2><pl> : ktalawsihemo
     pemin<v><iv><aa><p2><pl> : kpeminihemo
@@ -1091,6 +1161,20 @@ Tests:
     ahinamu<v><iv><aa><p2><pl> : ktahinamuwihemo
     ahalemxuk<v><iv><aa><p2><pl> : ktahalemxukahemo
 
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p2.pl":
+    ahaptep<v><iv><aa><p2><pl> : ktahaptepahemo
+    kokwelepoxw<v><iv><aa><p2><pl> :  kokwelepoxwahemo
+    anch<v><iv><aa><p2><pl> :  ktanchihemo
+    mikoshem<v><iv><aa><p2><pl> :  kemikoshemahemo
+    kika<v><iv><aa><p2><pl> :  kikaihemo
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p2.pl":
+    mikushem<v><iv><aa><p2><pl> : kemikushemahemo
+    chopwix<v><iv><aa><p2><pl> : kchopwixihemo
+    alemit<v><iv><aa><p2><pl> : ktalemitahemo
+    weleleminak<v><iv><aa><p2><pl> : keweleleminakihemo
+    pankpeix<v><iv><aa><p2><pl> : kpankpeixahemo
+
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.pl":
     talawsu<v><iv><aa><p3><pl> : talawsuwak
     pemin<v><iv><aa><p3><pl> : peminuwak
@@ -1126,3 +1210,17 @@ Tests:
     ma<v><iv><aa><p3><pl> : mwaiyok
     ahinamu<v><iv><aa><p3><pl> : ahinamuweyok
     ahalemxuk<v><iv><aa><p3><pl> : ahalemxukaok
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p3.pl":
+    ahaptep<v><iv><aa><p3><pl> : ahaptepeyok
+    kokwelepoxw<v><iv><aa><p3><pl> : kokwelepoxweyok
+    anch<v><iv><aa><p3><pl> : anchuwak
+    mikoshem<v><iv><aa><p3><pl> : mikoshemaok
+    kika<v><iv><aa><p3><pl> : kikaiyok
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p3.pl":
+    mikushem<v><iv><aa><p3><pl> : mikushemaok
+    chopwix<v><iv><aa><p3><pl> : chopwixiyok
+    alemit<v><iv><aa><p3><pl> : alemitaok
+    weleleminak<v><iv><aa><p3><pl> : weleleminakiyok
+    pankpeix<v><iv><aa><p3><pl> : pankpeixeyok
