@@ -296,4 +296,162 @@ Tests:
   "[lexc/twol] (Ch23) tv.aa.dir p3.pl":
     uwah<v><tv><aa><dir><p3><pl> : uwahawoo
 
-    
+  "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p1.sg":
+    moho<v><tv><aa><dir><p1><sg><o_sg> : nemoho
+    moho<v><tv><aa><dir><p1><sg><o_pl> : nemohook
+    oshim<v><tv><aa><dir><p1><sg><o_sg> : noshima
+    oshim<v><tv><aa><dir><p1><sg><o_pl> : noshimaok
+
+  "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p1.sg":
+    kox<v><tv><aa><dir><p1><sg><o_sg> : nkoxa
+    kox<v><tv><aa><dir><p1><sg><o_pl> : nkoxaok
+    aken<v><tv><aa><dir><p1><sg><o_sg> : ntakena
+    aken<v><tv><aa><dir><p1><sg><o_pl> : ntakenaok
+
+  "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p1.sg":
+    pihpent<v><tv><aa><dir><p1><sg><o_sg> : mpihpentao
+    pihpent<v><tv><aa><dir><p1><sg><o_pl> : mpihpentaok
+    toxta<v><tv><aa><dir><p1><sg><o_sg> : ntoxtao
+    toxta<v><tv><aa><dir><p1><sg><o_pl> : ntoxtaok
+
+  "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p1.sg":
+    pimohal<v><tv><aa><dir><p1><sg><o_sg> : mpimohala
+    pimohal<v><tv><aa><dir><p1><sg><o_pl> : mpimohalaok
+    putal<v><tv><aa><dir><p1><sg><o_sg> : mputala
+    putal<v><tv><aa><dir><p1><sg><o_pl> : mputalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p2.sg":
+    moho<v><tv><aa><dir><p2><sg><o_sg> : kemoho
+    moho<v><tv><aa><dir><p2><sg><o_pl> : kemohook
+    oshim<v><tv><aa><dir><p2><sg><o_sg> : koshima
+    oshim<v><tv><aa><dir><p2><sg><o_pl> : koshimaok
+
+  "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p2.sg":
+    kox<v><tv><aa><dir><p2><sg><o_sg> : koxa
+    kox<v><tv><aa><dir><p2><sg><o_pl> : koxaok
+    aken<v><tv><aa><dir><p2><sg><o_sg> : ktakena
+    aken<v><tv><aa><dir><p2><sg><o_pl> : ktakenaok
+
+  "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p2.sg":
+    pihpent<v><tv><aa><dir><p2><sg><o_sg> : kpihpentao
+    pihpent<v><tv><aa><dir><p2><sg><o_pl> : kpihpentaok
+    toxta<v><tv><aa><dir><p2><sg><o_sg> : ktoxtao
+    toxta<v><tv><aa><dir><p2><sg><o_pl> : ktoxtaok
+
+  "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p2.sg":
+    pimohal<v><tv><aa><dir><p2><sg><o_sg> : kpimohala
+    pimohal<v><tv><aa><dir><p2><sg><o_pl> : kpimohalaok
+    putal<v><tv><aa><dir><p2><sg><o_sg> : kputala
+    putal<v><tv><aa><dir><p2><sg><o_pl> : kputalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p3.sg":
+    moho<v><tv><aa><dir><p3><sg><o_sg> : mohoo
+    moho<v><tv><aa><dir><p3><sg><o_pl> : mohoo
+    oshim<v><tv><aa><dir><p3><sg><o_sg> : oshimao
+    oshim<v><tv><aa><dir><p3><sg><o_pl> : oshimaok #"k" marked in ()
+
+  "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p3.sg":
+    kox<v><tv><aa><dir><p3><sg><o_sg> : koxao
+    kox<v><tv><aa><dir><p3><sg><o_pl> : koxaok #"k" marked in ()
+    aken<v><tv><aa><dir><p3><sg><o_sg> : akenao
+    aken<v><tv><aa><dir><p3><sg><o_pl> : akenaok #"k" marked in ()
+
+  "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p3.sg":
+    pihpent<v><tv><aa><dir><p3><sg><o_sg> : pwihpentao
+    pihpent<v><tv><aa><dir><p3><sg><o_pl> : pwihpentaok #"k" marked in ()
+    toxta<v><tv><aa><dir><p3><sg><o_sg> : toxtao
+    toxta<v><tv><aa><dir><p3><sg><o_pl> : toxtaok #"k" marked in ()
+
+  "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p3.sg":
+    pimohal<v><tv><aa><dir><p3><sg><o_sg> : pimphalo
+    pimohal<v><tv><aa><dir><p3><sg><o_pl> : pimphalaok #"k" marked in ()
+    putal<v><tv><aa><dir><p3><sg><o_sg> : putalao
+    putal<v><tv><aa><dir><p3><sg><o_pl> : putalaok #"k" marked in ()
+
+  "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p1.excl.pl":
+    moho<v><tv><aa><dir><p1><excl><pl><o_sg> : nemohowena 
+    moho<v><tv><aa><dir><p1><excl><pl><o_pl> : nemohowenanak
+    oshim<v><tv><aa><dir><p1><excl><pl><o_sg> : noshimawena
+    oshim<v><tv><aa><dir><p1><excl><pl><o_pl> : noshimawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p1.excl.pl":
+    kox<v><tv><aa><dir><p1><excl><pl><o_sg> : nkoxawena 
+    kox<v><tv><aa><dir><p1><excl><pl><o_pl> : nkoxawenanak
+    aken<v><tv><aa><dir><p1><excl><pl><o_sg> : ntakenawena
+    aken<v><tv><aa><dir><p1><excl><pl><o_pl> : ntakenawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p1.excl.pl":
+    pihpent<v><tv><aa><dir><p1><excl><pl><o_sg> : mpihpentawena
+    pihpent<v><tv><aa><dir><p1><excl><pl><o_pl> : mpihpentawenananak
+    toxta<v><tv><aa><dir><p1><excl><pl><o_sg> : ntoxtawena
+    toxta<v><tv><aa><dir><p1><excl><pl><o_pl> : ntoxtawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p1.excl.pl":
+    pimohal<v><tv><aa><dir><p1><excl><pl><o_sg> : mpimohalawena
+    pimohal<v><tv><aa><dir><p1><excl><pl><o_pl> : mpimohalawenanak
+    putal<v><tv><aa><dir><p1><excl><pl><o_sg> : mputalawena
+    putal<v><tv><aa><dir><p1><excl><pl><o_pl> : mputalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p1.incl.pl":
+    moho<v><tv><aa><dir><p1><incl><pl><o_sg> : kemohowena
+    moho<v><tv><aa><dir><p1><incl><pl><o_pl> : kemohowenanak
+    oshim<v><tv><aa><dir><p1><incl><pl><o_sg> : koshimawena
+    oshim<v><tv><aa><dir><p1><incl><pl><o_pl> : koshimawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p1.incl.pl":
+    kox<v><tv><aa><dir><p1><incl><pl><o_sg> : koxawena
+    kox<v><tv><aa><dir><p1><incl><pl><o_pl> : koxawenanak
+    aken<v><tv><aa><dir><p1><incl><pl><o_sg> : ktakenawena
+    aken<v><tv><aa><dir><p1><incl><pl><o_pl> : ktakenawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p1.incl.pl":
+    pihpent<v><tv><aa><dir><p1><incl><pl><o_sg> : kpihpentawena
+    pihpent<v><tv><aa><dir><p1><incl><pl><o_pl> : kpihpentawenanak
+    toxta<v><tv><aa><dir><p1><incl><pl><o_sg> : ktoxtawena
+    toxta<v><tv><aa><dir><p1><incl><pl><o_pl> : ktoxtawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p1.incl.pl":
+    pimohal<v><tv><aa><dir><p1><incl><pl><o_sg> : kpimohalawena
+    pimohal<v><tv><aa><dir><p1><incl><pl><o_pl> : kpimohalawenanak
+    putal<v><tv><aa><dir><p1><incl><pl><o_sg> : kputalawena
+    putal<v><tv><aa><dir><p1><incl><pl><o_pl> : kputalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p2.pl":
+    moho<v><tv><aa><dir><p2><pl><o_pl> : kemohowena
+    moho<v><tv><aa><dir><p2><pl><o_sg> : kemohowenwenanak
+    oshim<v><tv><aa><dir><p2><pl><o_pl> : koshimawa
+    oshim<v><tv><aa><dir><p2><pl><o_sg> : koshimawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p2.pl":
+    kox<v><tv><aa><dir><p2><pl><o_pl> : koxawa
+    kox<v><tv><aa><dir><p2><pl><o_sg> : koxawaok
+    aken<v><tv><aa><dir><p2><pl><o_pl> : ktakenawwa
+    aken<v><tv><aa><dir><p2><pl><o_sg> : ktakenawwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p2.pl":
+    pihpent<v><tv><aa><dir><p2><pl><o_pl> : kpihpentawa
+    pihpent<v><tv><aa><dir><p2><pl><o_sg> : kpihpentawaok
+    toxta<v><tv><aa><dir><p2><pl><o_pl> : ktoxtawa
+    toxta<v><tv><aa><dir><p2><pl><o_sg> : ktoxtawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p2.pl":
+    pimohal<v><tv><aa><dir><p2><pl><o_pl> : kpimohalawa
+    pimohal<v><tv><aa><dir><p2><pl><o_sg> : kpimohalawaok
+    putal<v><tv><aa><dir><p2><pl><o_pl> : kputalawa
+    putal<v><tv><aa><dir><p2><pl><o_sg> : ktoxtawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p3.pl":
+    moho<v><tv><aa><dir><p3><pl> : mohowoo #pl object written differently than sg, but perhaps error?
+    oshim<v><tv><aa><dir><p3><pl> :  oshimawwa
+
+  "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p3.pl":
+    kox<v><tv><aa><dir><p3><pl> : koxawwa
+    aken<v><tv><aa><dir><p3><pl> : akenawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p3.pl":
+    pihpent<v><tv><aa><dir><p3><pl> : piwhpentawoo
+    toxta<v><tv><aa><dir><p3><pl> : toxtawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p3.pl":
+    pimohal<v><tv><aa><dir><p3><pl> : pimohalawoo
+    putal<v><tv><aa><dir><p3><pl> : putalawoo
