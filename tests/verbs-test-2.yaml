@@ -890,45 +890,6 @@ Tests:
     temikaht<v><iv><aa><p1><sg> : ntemikahti
     tollahin<v><iv><aa><p1><sg> : ntollahina
 
-  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p1":
-    owelelemixs<v><iv><aa><p1><sg> : ntowelelemixsi
-    tuxkws<v><iv><aa><p1><sg> : ntuxkwsi
-    wichemukws<v><iv><aa><p1><sg> : newichemukwsi
-    tanktit<v><iv><aa><p1><sg> : ntanktiti
-    lapemkwes<v><iv><aa><p1><sg> : nlapemkwesi
-
-  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1":
-    kwenaws<v><iv><aa><p1><sg> : nkwenawsi
-    wenchikane<v><iv><aa><p1><sg> : newenchikanei
-    kishiki<v><iv><aa><p1><sg> : nkishikiya
-    aspoxw<v><iv><aa><p1><sg> : ntaspoxwa
-    kwil<v><iv><aa><p1><sg> : nkwila
-
-  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1":
-    ankel<v><iv><aa><p1><sg> : ntankeli
-    hika<v><iv><aa><p1><sg> : nhikai
-    ma<v><iv><aa><p1><sg> : nemai
-    ahinamu<v><iv><aa><p1><sg> : ntahinamuwi
-    ahalemxuk<v><iv><aa><p1><sg> : ntahalemxuka
-
-  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1":
-    ahaptep<v><iv><aa><p1><sg> : ntahaptepa
-    kokwelepoxw<v><iv><aa><p1><sg> : nkokwelepoxwa
-    anch<v><iv><aa><p1><sg> : ntanchi
-    mikoshem<v><iv><aa><p1><sg> : nemikoshema
-    kika<v><iv><aa><p1><sg> : nkikai
-
-  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1":
-    mikushem<v><iv><aa><p1><sg> : nemikushema
-    chopwix<v><iv><aa><p1><sg> : nchopwixi
-    alemit<v><iv><aa><p1><sg> : ntalemit
-    weleleminak<v><iv><aa><p1><sg> : neweleleminaki
-    pankpeix<v><iv><aa><p1><sg> : mpankpeixa
-
-  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1":
-    mhuk<v><iv><aa><p1><sg> : nemhuki
-    xuh<v><iv><aa><p1><sg> : nexuha
-
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.sg":
     talawsu<v><iv><aa><p2><sg> : ktalawsi
     pemin<v><iv><aa><p2><sg> : kpemini
@@ -943,45 +904,6 @@ Tests:
     welanak<v><iv><aa><p2><sg> : kewelanaka
     temikaht<v><iv><aa><p2><sg> : ktemikahti
     tollahin<v><iv><aa><p2><sg> : ktollahina
-
-  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p2.sg":
-    owelelemixs<v><iv><aa><p2><sg> : ktowelelemixsi
-    tuxkws<v><iv><aa><p2><sg> : ktuxwsi
-    wichemukws<v><iv><aa><p2><sg> : kewichemukwsi
-    tanktit<v><iv><aa><p2><sg> : ktanktiti
-    lapemkwes<v><iv><aa><p2><sg> : kelapemkwesi
-
-  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p2.sg":
-    kwenaws<v><iv><aa><p2><sg> : kwenawsi
-    wenchikane<v><iv><aa><p2><sg> : kewenchikanei
-    kishiki<v><iv><aa><p2><sg> : kishikiya
-    aspoxw<v><iv><aa><p2><sg> : ktaspoxwa
-    kwil<v><iv><aa><p2><sg> : kwila
-
-  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p2.sg":
-    ankel<v><iv><aa><p2><sg> : ktankeli
-    hika<v><iv><aa><p2><sg> : khikai
-    ma<v><iv><aa><p2><sg> : kemai
-    ahinamu<v><iv><aa><p2><sg> : ktahinamuwi
-    ahalemxuk<v><iv><aa><p2><sg> : ktahalemxuka
-
-  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p2.sg":
-    ahaptep<v><iv><aa><p2><sg> : ktahaptepa
-    kokwelepoxw<v><iv><aa><p2><sg> : kokwelepoxwa
-    anch<v><iv><aa><p2><sg> : ktanchi
-    mikoshem<v><iv><aa><p2><sg> : kemikoshema
-    kika<v><iv><aa><p2><sg> : kikai
-
-  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p2.sg":
-    mikushem<v><iv><aa><p2><sg> : kemikushema
-    chopwix<v><iv><aa><p2><sg> : kchopwixi
-    alemit<v><iv><aa><p2><sg> : ktalemita
-    weleleminak<v><iv><aa><p2><sg> : keweleleminaki
-    pankpeix<v><iv><aa><p2><sg> : kpankpeixa
-
-  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p2.sg":
-    mhuk<v><iv><aa><p2><sg> : kemhuki
-    xuh<v><iv><aa><p2><sg> : kexuha
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.sg":
     talawsu<v><iv><aa><p3><sg> : talawsu
@@ -998,45 +920,6 @@ Tests:
     temikaht<v><iv><aa><p3><sg> : temikahtu
     tollahin<v><iv><aa><p3><sg> : tollahine
 
-  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p3.sg":
-    owelelemixs<v><iv><aa><p3><sg> : owelelemixsu
-    tuxkws<v><iv><aa><p3><sg> : tuxkwsi
-    wichemukws<v><iv><aa><p3><sg> : wichemukwsi
-    tanktit<v><iv><aa><p3><sg> : tanktitu
-    lapemkwes<v><iv><aa><p3><sg> : lapemkwesi
-
-  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p3.sg":
-    kwenaws<v><iv><aa><p3><sg> : kwenawsi
-    wenchikane<v><iv><aa><p3><sg> : wenchikanei
-    kishiki<v><iv><aa><p3><sg> : kishikiye
-    aspoxw<v><iv><aa><p3><sg> : aspoxwe
-    kwil<v><iv><aa><p3><sg> : kwile
-    
-  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p3.sg":
-    ankel<v><iv><aa><p3><sg> : ankelu
-    hika<v><iv><aa><p3><sg> : hikai
-    ma<v><iv><aa><p3><sg> : mwai
-    ahinamu<v><iv><aa><p3><sg> : ahinamuwe
-    ahalemxuk<v><iv><aa><p3><sg> : ahalemxuka
-
-  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p3.sg":
-    ahaptep<v><iv><aa><p3><sg> : ahaptepe
-    kokwelepoxw<v><iv><aa><p3><sg> : kokwelepoxwe
-    anch<v><iv><aa><p3><sg> : anchu
-    mikoshem<v><iv><aa><p3><sg> : mikoshema
-    kika<v><iv><aa><p3><sg> : kikai
-
-  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p3.sg":
-    mikushem<v><iv><aa><p3><sg> : mikushema
-    chopwix<v><iv><aa><p3><sg> : chopwixi
-    alemit<v><iv><aa><p3><sg> : alemita
-    weleleminak<v><iv><aa><p3><sg> : weleleminaki
-    pankpeix<v><iv><aa><p3><sg> : pankpeixe
-
-  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p3.sg":
-    mhuk<v><iv><aa><p3><sg> : mhuku
-    xuh<v><iv><aa><p3><sg> : xuha
-
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.excl.pl": 
     talawsu<v><iv><aa><p1><excl><pl> : ntalawsihena
     pemin<v><iv><aa><p1><excl><pl> : mpeminihena
@@ -1051,45 +934,6 @@ Tests:
     welanak<v><iv><aa><p1><excl><pl> : newelanakahena
     temikaht<v><iv><aa><p1><excl><pl> : ntemikahtihena
     tollahin<v><iv><aa><p1><excl><pl> : notllahinahena
-
-  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p1.excl.pl":
-    owelelemixs<v><iv><aa><p1><excl><pl> : ntowelelemixsihena
-    tuxkws<v><iv><aa><p1><excl><pl> : ntuxkwsihena
-    wichemukws<v><iv><aa><p1><excl><pl> : newichemukwsihena
-    tanktit<v><iv><aa><p1><excl><pl> : ntanktitihena
-    lapemkwes<v><iv><aa><p1><excl><pl> : nlapemkwesihena
-
-  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1.excl.pl":
-    kwenaws<v><iv><aa><p1><excl><pl> : nkwenawsihena
-    wenchikane<v><iv><aa><p1><excl><pl> : newenchikaneihena
-    kishiki<v><iv><aa><p1><excl><pl> : nkishikiyahena
-    aspoxw<v><iv><aa><p1><excl><pl> : ntaspoxkwahena
-    kwil<v><iv><aa><p1><excl><pl> : nkwilahena
-  
-  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1.excl.pl":
-    ankel<v><iv><aa><p1><excl><pl> : ntankelihena
-    hika<v><iv><aa><p1><excl><pl> : nhikaihena
-    ma<v><iv><aa><p1><excl><pl> : nemaihena
-    ahinamu<v><iv><aa><p1><excl><pl> : ntahinamuwihena
-    ahalemxuk<v><iv><aa><p1><excl><pl> : ntahalemxukahena
-
-  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1.excl.pl":
-    ahaptep<v><iv><aa><p1><excl><pl> : ntahaptepahena
-    kokwelepoxw<v><iv><aa><p1><excl><pl> : nkokwelepoxwahena
-    anch<v><iv><aa><p1><excl><pl> : ntanchihena
-    mikoshem<v><iv><aa><p1><excl><pl> : nemikoshemahena
-    kika<v><iv><aa><p1><excl><pl> : nkikaihena
-
-  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1.excl.pl":
-    mikushem<v><iv><aa><p1><excl><pl> : nemikushemahena
-    chopwix<v><iv><aa><p1><excl><pl> : nchopwixihena
-    alemit<v><iv><aa><p1><excl><pl> : ntalemitahena
-    weleleminak<v><iv><aa><p1><excl><pl> : neweleleminakihena
-    pankpeix<v><iv><aa><p1><excl><pl> : mpankpeixahena
-  
-  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1.excl.pl":
-    mhuk<v><iv><aa><p1><excl><pl> : nemhukihena
-    xuh<v><iv><aa><p1><excl><pl> : nexuhahena
 
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p1.incl.pl": 
     talawsu<v><iv><aa><p1><incl><pl> : ktalawsihena
@@ -1106,45 +950,6 @@ Tests:
     temikaht<v><iv><aa><p1><incl><pl> : ktemikahtihena
     tollahina<v><iv><aa><p1><incl><pl> : ktollahinahena
 
-  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p1.incl.pl":
-    owelelemixs<v><iv><aa><p1><incl><pl> : ktowelelemixsihena
-    tuxkws<v><iv><aa><p1><incl><pl> : ktuxkwsihena
-    wichemukws<v><iv><aa><p1><incl><pl> : kewichemukwsihena
-    tanktit<v><iv><aa><p1><incl><pl> : ktanktitihena
-    lapemkwes<v><iv><aa><p1><incl><pl> : kelapemkwesihena
-
-  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1.incl.pl":
-    kwenaws<v><iv><aa><p1><incl><pl> : kwenawsihena
-    wenchikane<v><iv><aa><p1><incl><pl> : kewenchikaneihena
-    kishiki<v><iv><aa><p1><incl><pl> : kishikiyahena
-    aspoxw<v><iv><aa><p1><incl><pl> : ktaspoxkwahena
-    kwil<v><iv><aa><p1><incl><pl> : kwilahena
-
-  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1.incl.pl":
-    ankel<v><iv><aa><p1><incl><pl> : ktankelihena
-    hika<v><iv><aa><p1><incl><pl> : khikaihena
-    ma<v><iv><aa><p1><incl><pl> : kemaihena
-    ahinamu<v><iv><aa><p1><incl><pl> : ktahinamuwihena
-    ahalemxuk<v><iv><aa><p1><incl><pl> : ktahalemxukahena
-
-  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1.incl.pl": 
-    ahaptep<v><iv><aa><p1><incl><pl> : ktahaptepahena
-    kokwelepoxw<v><iv><aa><p1><incl><pl> : kokwelepoxwahena
-    anch<v><iv><aa><p1><incl><pl> : ktanchihena
-    mikoshem<v><iv><aa><p1><incl><pl> : kemikoshemahena
-    kika<v><iv><aa><p1><incl><pl> : kikaihena
-
-  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1.incl.pl": 
-    mikushem<v><iv><aa><p1><incl><pl> : kemikushemahena
-    chopwix<v><iv><aa><p1><incl><pl> : kchopwixihena
-    alemit<v><iv><aa><p1><incl><pl> : ktalemitahena
-    weleleminak<v><iv><aa><p1><incl><pl> : keweleleminakihena
-    pankpeix<v><iv><aa><p1><incl><pl> : kpankpeixahena
-
-  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1.incl.pl": 
-    mhuk<v><iv><aa><p1><incl><pl> : kemhukihena
-    xuh<v><iv><aa><p1><incl><pl> : kexuhahena
-
   "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p2.pl":
     talawsu<v><iv><aa><p2><pl> : ktalawsihemo
     pemin<v><iv><aa><p2><pl> : kpeminihemo
@@ -1160,6 +965,91 @@ Tests:
     temikaht<v><iv><aa><p2><pl> : ktemikahtihena
     tollahin<v><iv><aa><p2><pl> : ktollahinahemo
 
+  "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.pl":
+    talawsu<v><iv><aa><p3><pl> : talawsuwak
+    pemin<v><iv><aa><p3><pl> : peminuwak
+    maike<v><iv><aa><p3><pl> : maikeiyok
+    pechikwil<v><iv><aa><p3><pl> : pwechikwilaok
+    moihelan<v><iv><aa><p3><pl> : moihelaneyo
+    mimich<v><iv><aa><p3><pl> : mimichiyok
+
+  "[lexc/twol] (Swat Verb Resources Group 2) iv.aa p3.pl":
+    elewens<v><iv><aa><p3><pl> : elewensiyok
+    pahunt<v><iv><aa><p3><pl> : pahunteyok
+    welanak<v><iv><aa><p3><pl> : welanakeyok
+    temikaht<v><iv><aa><p3><pl> : temikahtuwak
+    tollahin<v><iv><aa><p3><pl> : tollahineyok
+
+  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p1":
+    owelelemixs<v><iv><aa><p1><sg> : ntowelelemixsi
+    tuxkws<v><iv><aa><p1><sg> : ntuxkwsi
+    wichemukws<v><iv><aa><p1><sg> : newichemukwsi
+    tanktit<v><iv><aa><p1><sg> : ntanktiti
+    lapemkwes<v><iv><aa><p1><sg> : nlapemkwesi
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1":
+    kwenaws<v><iv><aa><p1><sg> : nkwenawsi
+    wenchikane<v><iv><aa><p1><sg> : newenchikanei
+    kishiki<v><iv><aa><p1><sg> : nkishikiya
+    aspoxw<v><iv><aa><p1><sg> : ntaspoxwa
+    kwil<v><iv><aa><p1><sg> : nkwila
+
+  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p2.sg":
+    owelelemixs<v><iv><aa><p2><sg> : ktowelelemixsi
+    tuxkws<v><iv><aa><p2><sg> : ktuxwsi
+    wichemukws<v><iv><aa><p2><sg> : kewichemukwsi
+    tanktit<v><iv><aa><p2><sg> : ktanktiti
+    lapemkwes<v><iv><aa><p2><sg> : kelapemkwesi
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p2.sg":
+    kwenaws<v><iv><aa><p2><sg> : kwenawsi
+    wenchikane<v><iv><aa><p2><sg> : kewenchikanei
+    kishiki<v><iv><aa><p2><sg> : kishikiya
+    aspoxw<v><iv><aa><p2><sg> : ktaspoxwa
+    kwil<v><iv><aa><p2><sg> : kwila
+
+  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p3.sg":
+    owelelemixs<v><iv><aa><p3><sg> : owelelemixsu
+    tuxkws<v><iv><aa><p3><sg> : tuxkwsi
+    wichemukws<v><iv><aa><p3><sg> : wichemukwsi
+    tanktit<v><iv><aa><p3><sg> : tanktitu
+    lapemkwes<v><iv><aa><p3><sg> : lapemkwesi
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p3.sg":
+    kwenaws<v><iv><aa><p3><sg> : kwenawsi
+    wenchikane<v><iv><aa><p3><sg> : wenchikanei
+    kishiki<v><iv><aa><p3><sg> : kishikiye
+    aspoxw<v><iv><aa><p3><sg> : aspoxwe
+    kwil<v><iv><aa><p3><sg> : kwile
+
+  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p1.excl.pl":
+    owelelemixs<v><iv><aa><p1><excl><pl> : ntowelelemixsihena
+    tuxkws<v><iv><aa><p1><excl><pl> : ntuxkwsihena
+    wichemukws<v><iv><aa><p1><excl><pl> : newichemukwsihena
+    tanktit<v><iv><aa><p1><excl><pl> : ntanktitihena
+    lapemkwes<v><iv><aa><p1><excl><pl> : nlapemkwesihena
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1.excl.pl":
+    kwenaws<v><iv><aa><p1><excl><pl> : nkwenawsihena
+    wenchikane<v><iv><aa><p1><excl><pl> : newenchikaneihena
+    kishiki<v><iv><aa><p1><excl><pl> : nkishikiyahena
+    aspoxw<v><iv><aa><p1><excl><pl> : ntaspoxkwahena
+    kwil<v><iv><aa><p1><excl><pl> : nkwilahena
+
+  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p1.incl.pl":
+    owelelemixs<v><iv><aa><p1><incl><pl> : ktowelelemixsihena
+    tuxkws<v><iv><aa><p1><incl><pl> : ktuxkwsihena
+    wichemukws<v><iv><aa><p1><incl><pl> : kewichemukwsihena
+    tanktit<v><iv><aa><p1><incl><pl> : ktanktitihena
+    lapemkwes<v><iv><aa><p1><incl><pl> : kelapemkwesihena
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p1.incl.pl":
+    kwenaws<v><iv><aa><p1><incl><pl> : kwenawsihena
+    wenchikane<v><iv><aa><p1><incl><pl> : kewenchikaneihena
+    kishiki<v><iv><aa><p1><incl><pl> : kishikiyahena
+    aspoxw<v><iv><aa><p1><incl><pl> : ktaspoxkwahena
+    kwil<v><iv><aa><p1><incl><pl> : kwilahena
+
   "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p2.pl":
     owelelemixs<v><iv><aa><p2><pl> : ktowelelemixsihemo
     tuxkws<v><iv><aa><p2><pl> : ktuxkwsihemo
@@ -1173,6 +1063,90 @@ Tests:
     kishiki<v><iv><aa><p2><pl> : kishikiyahemo
     aspoxw<v><iv><aa><p2><pl> : ktaspoxkwahemo
     kwil<v><iv><aa><p2><pl> : kwilahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p3.pl":
+    owelelemixs<v><iv><aa><p3><pl> : owelelemixsuwak
+    tuxkws<v><iv><aa><p3><pl> : tuxkwsiyok
+    wichemukws<v><iv><aa><p3><pl> : wichemukwsiyok
+    tanktit<v><iv><aa><p3><pl> : tanktituwak
+    lapemkwes<v><iv><aa><p3><pl> : lapemkwesiyok
+
+  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p3.pl":
+    kwenaws<v><iv><aa><p3><pl> : kwenawsiyok
+    wenchikane<v><iv><aa><p3><pl> : wenchikaneiyok
+    kishiki<v><iv><aa><p3><pl> : kishikiyeyok
+    aspoxw<v><iv><aa><p3><pl> : aspoxkweyok
+    kwil<v><iv><aa><p3><pl> : kwileyok
+
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1":
+    ankel<v><iv><aa><p1><sg> : ntankeli
+    hika<v><iv><aa><p1><sg> : nhikai
+    ma<v><iv><aa><p1><sg> : nemai
+    ahinamu<v><iv><aa><p1><sg> : ntahinamuwi
+    ahalemxuk<v><iv><aa><p1><sg> : ntahalemxuka
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1":
+    ahaptep<v><iv><aa><p1><sg> : ntahaptepa
+    kokwelepoxw<v><iv><aa><p1><sg> : nkokwelepoxwa
+    anch<v><iv><aa><p1><sg> : ntanchi
+    mikoshem<v><iv><aa><p1><sg> : nemikoshema
+    kika<v><iv><aa><p1><sg> : nkikai
+
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p2.sg":
+    ankel<v><iv><aa><p2><sg> : ktankeli
+    hika<v><iv><aa><p2><sg> : khikai
+    ma<v><iv><aa><p2><sg> : kemai
+    ahinamu<v><iv><aa><p2><sg> : ktahinamuwi
+    ahalemxuk<v><iv><aa><p2><sg> : ktahalemxuka
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p2.sg":
+    ahaptep<v><iv><aa><p2><sg> : ktahaptepa
+    kokwelepoxw<v><iv><aa><p2><sg> : kokwelepoxwa
+    anch<v><iv><aa><p2><sg> : ktanchi
+    mikoshem<v><iv><aa><p2><sg> : kemikoshema
+    kika<v><iv><aa><p2><sg> : kikai
+
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p3.sg":
+    ankel<v><iv><aa><p3><sg> : ankelu
+    hika<v><iv><aa><p3><sg> : hikai
+    ma<v><iv><aa><p3><sg> : mwai
+    ahinamu<v><iv><aa><p3><sg> : ahinamuwe
+    ahalemxuk<v><iv><aa><p3><sg> : ahalemxuka
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p3.sg":
+    ahaptep<v><iv><aa><p3><sg> : ahaptepe
+    kokwelepoxw<v><iv><aa><p3><sg> : kokwelepoxwe
+    anch<v><iv><aa><p3><sg> : anchu
+    mikoshem<v><iv><aa><p3><sg> : mikoshema
+    kika<v><iv><aa><p3><sg> : kikai
+
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1.excl.pl":
+    ankel<v><iv><aa><p1><excl><pl> : ntankelihena
+    hika<v><iv><aa><p1><excl><pl> : nhikaihena
+    ma<v><iv><aa><p1><excl><pl> : nemaihena
+    ahinamu<v><iv><aa><p1><excl><pl> : ntahinamuwihena
+    ahalemxuk<v><iv><aa><p1><excl><pl> : ntahalemxukahena
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1.excl.pl":
+    ahaptep<v><iv><aa><p1><excl><pl> : ntahaptepahena
+    kokwelepoxw<v><iv><aa><p1><excl><pl> : nkokwelepoxwahena
+    anch<v><iv><aa><p1><excl><pl> : ntanchihena
+    mikoshem<v><iv><aa><p1><excl><pl> : nemikoshemahena
+    kika<v><iv><aa><p1><excl><pl> : nkikaihena
+
+  "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p1.incl.pl":
+    ankel<v><iv><aa><p1><incl><pl> : ktankelihena
+    hika<v><iv><aa><p1><incl><pl> : khikaihena
+    ma<v><iv><aa><p1><incl><pl> : kemaihena
+    ahinamu<v><iv><aa><p1><incl><pl> : ktahinamuwihena
+    ahalemxuk<v><iv><aa><p1><incl><pl> : ktahalemxukahena
+
+  "[lexc/twol] (Swat Verb Resources Group 6) iv.aa p1.incl.pl": 
+    ahaptep<v><iv><aa><p1><incl><pl> : ktahaptepahena
+    kokwelepoxw<v><iv><aa><p1><incl><pl> : kokwelepoxwahena
+    anch<v><iv><aa><p1><incl><pl> : ktanchihena
+    mikoshem<v><iv><aa><p1><incl><pl> : kemikoshemahena
+    kika<v><iv><aa><p1><incl><pl> : kikaihena
 
   "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p2.pl":
     ankel<v><iv><aa><p2><pl> : ktankelihemo
@@ -1188,46 +1162,6 @@ Tests:
     mikoshem<v><iv><aa><p2><pl> :  kemikoshemahemo
     kika<v><iv><aa><p2><pl> :  kikaihemo
 
-  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p2.pl":
-    mikushem<v><iv><aa><p2><pl> : kemikushemahemo
-    chopwix<v><iv><aa><p2><pl> : kchopwixihemo
-    alemit<v><iv><aa><p2><pl> : ktalemitahemo
-    weleleminak<v><iv><aa><p2><pl> : keweleleminakihemo
-    pankpeix<v><iv><aa><p2><pl> : kpankpeixahemo
-
-  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p2.pl":
-    mhuk<v><iv><aa><p2><pl> : kemhukihemo
-    xuh<v><iv><aa><p2><pl> : kexuhahemo
-
-  "[lexc/twol] (Swat Verb Resources Group 1) iv.aa p3.pl":
-    talawsu<v><iv><aa><p3><pl> : talawsuwak
-    pemin<v><iv><aa><p3><pl> : peminuwak
-    maike<v><iv><aa><p3><pl> : maikeiyok
-    pechikwil<v><iv><aa><p3><pl> : pwechikwilaok
-    moihelan<v><iv><aa><p3><pl> : moihelaneyo
-    mimich<v><iv><aa><p3><pl> : mimichiyok
-
-  "[lexc/twol] (Swat Verb Resources Group 2) iv.aa p3.pl":
-    elewens<v><iv><aa><p3><pl> : elewensiyok
-    pahunt<v><iv><aa><p3><pl> : pahunteyok
-    welanak<v><iv><aa><p3><pl> : welanakeyok
-    temikaht<v><iv><aa><p3><pl> : temikahtuwak
-    tollahin<v><iv><aa><p3><pl> : tollahineyok
-  
-  "[lexc/twol] (Swat Verb Resources Group 3) iv.aa p3.pl":
-    owelelemixs<v><iv><aa><p3><pl> : owelelemixsuwak
-    tuxkws<v><iv><aa><p3><pl> : tuxkwsiyok
-    wichemukws<v><iv><aa><p3><pl> : wichemukwsiyok
-    tanktit<v><iv><aa><p3><pl> : tanktituwak
-    lapemkwes<v><iv><aa><p3><pl> : lapemkwesiyok
-
-  "[lexc/twol] (Swat Verb Resources Group 4) iv.aa p3.pl":
-    kwenaws<v><iv><aa><p3><pl> : kwenawsiyok
-    wenchikane<v><iv><aa><p3><pl> : wenchikaneiyok
-    kishiki<v><iv><aa><p3><pl> : kishikiyeyok
-    aspoxw<v><iv><aa><p3><pl> : aspoxkweyok
-    kwil<v><iv><aa><p3><pl> : kwileyok
-
   "[lexc/twol] (Swat Verb Resources Group 5) iv.aa p3.pl":
     ankel<v><iv><aa><p3><pl> : ankeluwak
     hika<v><iv><aa><p3><pl> : hikaiyok
@@ -1241,6 +1175,72 @@ Tests:
     anch<v><iv><aa><p3><pl> : anchuwak
     mikoshem<v><iv><aa><p3><pl> : mikoshemaok
     kika<v><iv><aa><p3><pl> : kikaiyok
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1":
+    mikushem<v><iv><aa><p1><sg> : nemikushema
+    chopwix<v><iv><aa><p1><sg> : nchopwixi
+    alemit<v><iv><aa><p1><sg> : ntalemit
+    weleleminak<v><iv><aa><p1><sg> : neweleleminaki
+    pankpeix<v><iv><aa><p1><sg> : mpankpeixa
+
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1":
+    mhuk<v><iv><aa><p1><sg> : nemhuki
+    xuh<v><iv><aa><p1><sg> : nexuha
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p2.sg":
+    mikushem<v><iv><aa><p2><sg> : kemikushema
+    chopwix<v><iv><aa><p2><sg> : kchopwixi
+    alemit<v><iv><aa><p2><sg> : ktalemita
+    weleleminak<v><iv><aa><p2><sg> : keweleleminaki
+    pankpeix<v><iv><aa><p2><sg> : kpankpeixa
+
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p2.sg":
+    mhuk<v><iv><aa><p2><sg> : kemhuki
+    xuh<v><iv><aa><p2><sg> : kexuha
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p3.sg":
+    mikushem<v><iv><aa><p3><sg> : mikushema
+    chopwix<v><iv><aa><p3><sg> : chopwixi
+    alemit<v><iv><aa><p3><sg> : alemita
+    weleleminak<v><iv><aa><p3><sg> : weleleminaki
+    pankpeix<v><iv><aa><p3><sg> : pankpeixe
+
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p3.sg":
+    mhuk<v><iv><aa><p3><sg> : mhuku
+    xuh<v><iv><aa><p3><sg> : xuha
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1.excl.pl":
+    mikushem<v><iv><aa><p1><excl><pl> : nemikushemahena
+    chopwix<v><iv><aa><p1><excl><pl> : nchopwixihena
+    alemit<v><iv><aa><p1><excl><pl> : ntalemitahena
+    weleleminak<v><iv><aa><p1><excl><pl> : neweleleminakihena
+    pankpeix<v><iv><aa><p1><excl><pl> : mpankpeixahena
+  
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1.excl.pl":
+    mhuk<v><iv><aa><p1><excl><pl> : nemhukihena
+    xuh<v><iv><aa><p1><excl><pl> : nexuhahena
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p1.incl.pl": 
+    mikushem<v><iv><aa><p1><incl><pl> : kemikushemahena
+    chopwix<v><iv><aa><p1><incl><pl> : kchopwixihena
+    alemit<v><iv><aa><p1><incl><pl> : ktalemitahena
+    weleleminak<v><iv><aa><p1><incl><pl> : keweleleminakihena
+    pankpeix<v><iv><aa><p1><incl><pl> : kpankpeixahena
+
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p1.incl.pl": 
+    mhuk<v><iv><aa><p1><incl><pl> : kemhukihena
+    xuh<v><iv><aa><p1><incl><pl> : kexuhahena
+
+  "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p2.pl":
+    mikushem<v><iv><aa><p2><pl> : kemikushemahemo
+    chopwix<v><iv><aa><p2><pl> : kchopwixihemo
+    alemit<v><iv><aa><p2><pl> : ktalemitahemo
+    weleleminak<v><iv><aa><p2><pl> : keweleleminakihemo
+    pankpeix<v><iv><aa><p2><pl> : kpankpeixahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 8) iv.aa p2.pl":
+    mhuk<v><iv><aa><p2><pl> : kemhukihemo
+    xuh<v><iv><aa><p2><pl> : kexuhahemo
 
   "[lexc/twol] (Swat Verb Resources Group 7) iv.aa p3.pl":
     mikushem<v><iv><aa><p3><pl> : mikushemaok
