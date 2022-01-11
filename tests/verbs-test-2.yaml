@@ -1371,3 +1371,101 @@ Tests:
     tkauxkwe<v><iv><aa><p3><pl> : tkauxkweyok
     ahpikws<v><iv><aa><p3><pl> : ahpikwsuwak
     shaolam<v><iv><aa><p3><pl> : shaolamuwak
+
+  "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p1":
+    kshamehel<v><iv><aa><p1><sg> : nkshamehela
+    alemik<v><iv><aa><p1><sg> : nalemiki
+    ahpamsk<v><iv><aa><p1><sg> : kahpamska
+    ahshahel<v><iv><aa><p1><sg> : nahshahela
+    amexahuelintam<v><iv><aa><p1><sg> : namexahuelintam #corrected possible error in base form, switch "e" and "l" position
+
+  "[lexc/twol] (Swat Verb Resources Group 12) iv.aa p1":
+    shamehel<v><iv><aa><p1><sg> : nshamehela
+    mahtetunhe<v><iv><aa><p1><sg> : nemahtetunhe
+    koshiphuwe<v><iv><aa><p1><sg> : nkoshiphuwe
+    kpechehos<v><iv><aa><p1><sg> : nkpechehosi
+    hmitahp<v><iv><aa><p1><sg> : nemitahpi
+
+  "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p2.sg":
+    kshamehel<v><iv><aa><p2><sg> : kshamehela
+    alemik<v><iv><aa><p2><sg> : kalemiki
+    ahpamsk<v><iv><aa><p2><sg> : kahpamska
+    ahshahel<v><iv><aa><p2><sg> : kahshahela
+    amexahuelintam<v><iv><aa><p2><sg> : kamexahuelintam
+
+  "[lexc/twol] (Swat Verb Resources Group 12) iv.aa p2.sg":
+    shamehel<v><iv><aa><p2><sg> : kshamehela
+    mahtetunhe<v><iv><aa><p2><sg> : kemahtetunhe
+    koshiphuwe<v><iv><aa><p2><sg> : koshiphuwe
+    kpechehos<v><iv><aa><p2><sg> : kpechehosi
+    hmitahp<v><iv><aa><p2><sg> : kemitahpi
+
+  "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p3.sg":
+    kshamehel<v><iv><aa><p3><sg> : kshamehele
+    alemik<v><iv><aa><p3><sg> : alemiku
+    ahpamsk<v><iv><aa><p3><sg> : ahpamske
+    ahshahel<v><iv><aa><p3><sg> :   ahshahele
+    amexahuelintam<v><iv><aa><p3><sg> : amexahuelintam
+
+  "[lexc/twol] (Swat Verb Resources Group 12) iv.aa p3.sg":
+    shamehel<v><iv><aa><p3><sg> : shamehele
+    mahtetunhe<v><iv><aa><p3><sg> : mahtetunhe
+    koshiphuwe<v><iv><aa><p3><sg> : koshiphuwe
+    kpechehos<v><iv><aa><p3><sg> :   kpechehosu
+    hmitahp<v><iv><aa><p3><sg> : hmitahpu
+
+  "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p1.excl.pl":
+    kshamehel<v><iv><aa><p1><excl><pl> : nkshamehelahena
+    alemik<v><iv><aa><p1><excl><pl> : nalemikihena
+    ahpamsk<v><iv><aa><p1><excl><pl> : nahpamskahena
+    ahshahel<v><iv><aa><p1><excl><pl> : nahshahelahena
+    amexahuelintam<v><iv><aa><p1><excl><pl> : namexahuelintamuhena
+
+  "[lexc/twol] (Swat Verb Resources Group 12) iv.aa p1.excl.pl":
+    shamehel<v><iv><aa><p1><excl><pl> : nshamehelahena
+    mahtetunhe<v><iv><aa><p1><excl><pl> : nemahtetunhehena
+    koshiphuwe<v><iv><aa><p1><excl><pl> : nkoshiphuwehena
+    kpechehos<v><iv><aa><p1><excl><pl> : nkpechehosihena
+    hmitahp<v><iv><aa><p1><excl><pl> : nemitahpihena
+
+  "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p1.incl.pl": 
+    kshamehel<v><iv><aa><p1><incl><pl> : kshamehelahena
+    alemik<v><iv><aa><p1><incl><pl> : kalemikihena
+    ahpamsk<v><iv><aa><p1><incl><pl> : kahpamskahena
+    ahshahel<v><iv><aa><p1><incl><pl> : kahshahelahena
+    amexahuelintam<v><iv><aa><p1><incl><pl> : kamexahuelintamuhena
+
+  "[lexc/twol] (Swat Verb Resources Group 12) iv.aa p1.incl.pl": 
+    shamehel<v><iv><aa><p1><incl><pl> : kshamehelahena
+    mahtetunhe<v><iv><aa><p1><incl><pl> : kemahtetunhehena
+    koshiphuwe<v><iv><aa><p1><incl><pl> : koshiphuwehena
+    kpechehos<v><iv><aa><p1><incl><pl> : kpechehosihena
+    hmitahp<v><iv><aa><p1><incl><pl> : kemitahpihena
+
+  "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p2.pl":
+    kshamehel<v><iv><aa><p2><pl> : kshamehelahemo
+    alemik<v><iv><aa><p2><pl> : kalemikihemo
+    ahpamsk<v><iv><aa><p2><pl> : kahpamskahemo
+    ahshahel<v><iv><aa><p2><pl> : kahshahelahemo
+    amexahuelintam<v><iv><aa><p2><pl> : kamexahuelintamuhemo
+
+  "[lexc/twol] (Swat Verb Resources Group 12) iv.aa p2.pl":
+    shamehel<v><iv><aa><p2><pl> : kshamehelahemo
+    mahtetunhe<v><iv><aa><p2><pl> : kemahtetunhehemo
+    koshiphuwe<v><iv><aa><p2><pl> : koshiphuwehemo
+    kpechehos<v><iv><aa><p2><pl> : kpechehosihemo
+    hmitahp<v><iv><aa><p2><pl> : kemitahpihemo
+
+  "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p3.pl":
+    kshamehel<v><iv><aa><p3><pl> : kshameheleyok
+    alemik<v><iv><aa><p3><pl> : alemikuwak
+    ahpamsk<v><iv><aa><p3><pl> : ahpamskeyok
+    ahshahel<v><iv><aa><p3><pl> : ahshaheleyok
+    amexahuelintam<v><iv><aa><p3><pl> : amexahuelintamuk
+
+  "[lexc/twol] (Swat Verb Resources Group 12) iv.aa p3.pl":
+    shamehel<v><iv><aa><p3><pl> : shameheleyok
+    mahtetunhe<v><iv><aa><p3><pl> : mahtetunheyok
+    koshiphuwe<v><iv><aa><p3><pl> : koshiphuweyok
+    kpechehos<v><iv><aa><p3><pl> : kpechehosuwak
+    hmitahp<v><iv><aa><p3><pl> : hmitahpuwak
