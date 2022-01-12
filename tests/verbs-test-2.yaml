@@ -1567,3 +1567,87 @@ Tests:
     pehewe<v><iv><aa><p3><pl> : peheweyok
     namewake<v><iv><aa><p3><pl> : namewakeyok
     pent<v><iv><aa><p3><pl> : penteyok
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p1":
+    pemuxs<v><iv><aa><p1><sg> : mpemuxsi
+    notuxt<v><iv><aa><p1><sg> : nenotuxti
+    chichilukehi<v><iv><aa><p1><sg> : nchichilukehi
+    kwelpihel<v><iv><aa><p1><sg> : nkwelpihela
+    kships<v><iv><aa><p1><sg> : nkshipsi
+
+  "[lexc/twol] (Swat Verb Resources Group 16) iv.aa p1":
+    kentahkusihel<v><iv><aa><p1><sg> : nkentahkusihela
+    kiskhokwe<v><iv><aa><p1><sg> : nkiskhokwe #Added "k" / s_h, originally appeared without it and appeared to be error
+    kitanunks<v><iv><aa><p1><sg> : nkitanunksi
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p2.sg":
+    pemuxs<v><iv><aa><p2><sg> : kpemuxsi
+    notuxt<v><iv><aa><p2><sg> : kenotuxti
+    chichilukehi<v><iv><aa><p2><sg> : kchichilukehi
+    kwelpihel<v><iv><aa><p2><sg> : kwelpihela
+    kships<v><iv><aa><p2><sg> : kshipsi
+
+  "[lexc/twol] (Swat Verb Resources Group 16) iv.aa p2.sg":
+    kentahkusihel<v><iv><aa><p2><sg> : kentahkunsihela
+    kiskhokwe<v><iv><aa><p2><sg> : kiskhokwe
+    kitanunks<v><iv><aa><p2><sg> : kitanunksi
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p3.sg":
+    pemuxs<v><iv><aa><p3><sg> : pemuxsu
+    notuxt<v><iv><aa><p3><sg> : notuxtu
+    chichilukehi<v><iv><aa><p3><sg> : chichilukehi
+    kwelpihel<v><iv><aa><p3><sg> : kwelpihele
+    kships<v><iv><aa><p3><sg> : kshipsu
+
+  "[lexc/twol] (Swat Verb Resources Group 16) iv.aa p3.sg":
+    kentahkusihel<v><iv><aa><p3><sg> : kentahkusihele
+    kiskhokwe<v><iv><aa><p3><sg> : kiskhokwe
+    kitanunks<v><iv><aa><p3><sg> : kitanunksu
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p1.excl.pl":
+    pemuxs<v><iv><aa><p1><excl><pl> : mpemuxsihena
+    notuxt<v><iv><aa><p1><excl><pl> : nenotuxtihena
+    chichilukehi<v><iv><aa><p1><excl><pl> : nchichilukehihena
+    kwelpihel<v><iv><aa><p1><excl><pl> : nkwelpihelahena
+    kships<v><iv><aa><p1><excl><pl> : nkshipsihena
+
+  "[lexc/twol] (Swat Verb Resources Group 16) iv.aa p1.excl.pl":
+    kentahkusihel<v><iv><aa><p1><excl><pl> : nkentahkusihelahena
+    kiskhokwe<v><iv><aa><p1><excl><pl> : nkiskhokwehena
+    kitanunks<v><iv><aa><p1><excl><pl> : nkitanunksihena
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p1.incl.pl": 
+    pemuxs<v><iv><aa><p1><incl><pl> : kpemuxsihena
+    notuxt<v><iv><aa><p1><incl><pl> : kenotuxtihena
+    chichilukehi<v><iv><aa><p1><incl><pl> : kchichilukehihena
+    kwelpihel<v><iv><aa><p1><incl><pl> : kwelpihelahena
+    kships<v><iv><aa><p1><incl><pl> : kshipsihena
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p1.incl.pl": 
+    kentahkusihel<v><iv><aa><p1><incl><pl> : kentahkusihelahena
+    kiskhokwe<v><iv><aa><p1><incl><pl> : kiskhokwehena
+    kitanunks<v><iv><aa><p1><incl><pl> : kitanunksihena
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p2.pl":
+    pemuxs<v><iv><aa><p2><pl> : kpemuxsihemo
+    notuxt<v><iv><aa><p2><pl> : kenotuxtihemo
+    chichilukehi<v><iv><aa><p2><pl> : kchichilukehihemo
+    kwelpihel<v><iv><aa><p2><pl> : kwelpihelahemo
+    kships<v><iv><aa><p2><pl> : kshipsihemo
+
+  "[lexc/twol] (Swat Verb Resources Group 16) iv.aa p2.pl":
+    kentahkusihel<v><iv><aa><p2><pl> : kentahkusihelahemo
+    kiskhokwe<v><iv><aa><p2><pl> : kiskhokwehemo
+    kitanunks<v><iv><aa><p2><pl> : kitanunksuwak
+
+  "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p3.pl":
+    pemuxs<v><iv><aa><p3><pl> : pemuxsuwak
+    notuxt<v><iv><aa><p3><pl> : notuxtuwak
+    chichilukehi<v><iv><aa><p3><pl> : chichilukehiyok
+    kwelpihel<v><iv><aa><p3><pl> : kwelpiheleyok
+    kships<v><iv><aa><p3><pl> : kshipsuwak
+
+  "[lexc/twol] (Swat Verb Resources Group 16) iv.aa p3.pl":
+    kentahkusihel<v><iv><aa><p3><pl> : kentahkusiheleyok
+    kiskhokwe<v><iv><aa><p3><pl> : kiskhokweyok
+    kitanunks<v><iv><aa><p3><pl> : kitanunksuwak
