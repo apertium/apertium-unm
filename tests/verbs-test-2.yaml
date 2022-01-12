@@ -1411,7 +1411,7 @@ Tests:
     shamehel<v><iv><aa><p3><sg> : shamehele
     mahtetunhe<v><iv><aa><p3><sg> : mahtetunhe
     koshiphuwe<v><iv><aa><p3><sg> : koshiphuwe
-    kpechehos<v><iv><aa><p3><sg> :   kpechehosu
+    kpechehos<v><iv><aa><p3><sg> :  kpechehosu
     hmitahp<v><iv><aa><p3><sg> : hmitahpu
 
   "[lexc/twol] (Swat Verb Resources Group 11) iv.aa p1.excl.pl":
@@ -1469,3 +1469,101 @@ Tests:
     koshiphuwe<v><iv><aa><p3><pl> : koshiphuweyok
     kpechehos<v><iv><aa><p3><pl> : kpechehosuwak
     hmitahp<v><iv><aa><p3><pl> : hmitahpuwak
+
+  "[lexc/twol] (Swat Verb Resources Group 13) iv.aa p1":
+    kanshelintam<v><iv><aa><p1><sg> : nkanshelintam
+    nahkihel<v><iv><aa><p1><sg> : nahkihela
+    kech<v><iv><aa><p1><sg> : nkechi
+    sakomals<v><iv><aa><p1><sg> : nesakomalsi
+    lepo<v><iv><aa><p1><sg> : nlepo
+
+  "[lexc/twol] (Swat Verb Resources Group 14) iv.aa p1":
+    lexe<v><iv><aa><p1><sg> : nlexe
+    nathepia<v><iv><aa><p1><sg> : nathepia
+    pehewe<v><iv><aa><p1><sg> : mpehewe
+    namewake<v><iv><aa><p1><sg> : nenamewake
+    pent<v><iv><aa><p1><sg> : mpenta
+
+  "[lexc/twol] (Swat Verb Resources Group 13) iv.aa p2.sg":
+    kanshelintam<v><iv><aa><p2><sg> : kanshelintam
+    nahkihel<v><iv><aa><p2><sg> : kahkihela
+    kech<v><iv><aa><p2><sg> : kechi
+    sakomals<v><iv><aa><p2><sg> : kesakomalsi
+    lepo<v><iv><aa><p2><sg> : kelepo
+
+  "[lexc/twol] (Swat Verb Resources Group 14) iv.aa p2.sg":
+    lexe<v><iv><aa><p2><sg> : kelexe
+    nathepia<v><iv><aa><p2><sg> : knathepia
+    pehewe<v><iv><aa><p2><sg> : kpehewe
+    namewake<v><iv><aa><p2><sg> : kenamewake
+    pent<v><iv><aa><p2><sg> : namewake
+
+  "[lexc/twol] (Swat Verb Resources Group 13) iv.aa p3.sg":
+    kanshelintam<v><iv><aa><p3><sg> : kanshelintam
+    nahkihel<v><iv><aa><p3><sg> : nahkihele
+    kech<v><iv><aa><p3><sg> : kechu
+    sakomals<v><iv><aa><p3><sg> : sakomalsu
+    lepo<v><iv><aa><p3><sg> : lepwe
+
+  "[lexc/twol] (Swat Verb Resources Group 14) iv.aa p3.sg":
+    lexe<v><iv><aa><p3><sg> : lexe
+    nathepia<v><iv><aa><p3><sg> : nathepie
+    pehewe<v><iv><aa><p3><sg> : pehewe
+    namewake<v><iv><aa><p3><sg> : namewake
+    pent<v><iv><aa><p3><sg> : pente
+
+  "[lexc/twol] (Swat Verb Resources Group 13) iv.aa p1.excl.pl":
+    kanshelintam<v><iv><aa><p1><excl><pl> : nkanshelintamuhena
+    nahkihel<v><iv><aa><p1><excl><pl> : nahkihelahena
+    kech<v><iv><aa><p1><excl><pl> : nkechihena
+    sakomals<v><iv><aa><p1><excl><pl> : nesakolamsihena
+    lepo<v><iv><aa><p1><excl><pl> : nlepohena
+
+  "[lexc/twol] (Swat Verb Resources Group 14) iv.aa p1.excl.pl":
+    lexe<v><iv><aa><p1><excl><pl> : nlexehena
+    nathepia<v><iv><aa><p1><excl><pl> : nathepiahena
+    pehewe<v><iv><aa><p1><excl><pl> : mpehewehena
+    namewake<v><iv><aa><p1><excl><pl> : nenamewakehena
+    pent<v><iv><aa><p1><excl><pl> : nlepohena
+
+  "[lexc/twol] (Swat Verb Resources Group 13) iv.aa p1.incl.pl": 
+    kanshelintam<v><iv><aa><p1><incl><pl> : kanshelintamuhena
+    nahkihel<v><iv><aa><p1><incl><pl> : kahkihelahena
+    kech<v><iv><aa><p1><incl><pl> : kechihena
+    sakomals<v><iv><aa><p1><incl><pl> : kesakomalsihena
+    lepo<v><iv><aa><p1><incl><pl> : kelepohena
+
+  "[lexc/twol] (Swat Verb Resources Group 14) iv.aa p1.incl.pl": 
+    lexe<v><iv><aa><p1><incl><pl> : kelexehena
+    nathepia<v><iv><aa><p1><incl><pl> : knathepiahena
+    pehewe<v><iv><aa><p1><incl><pl> : kpehewehena
+    namewake<v><iv><aa><p1><incl><pl> : kenamewakehena
+    pent<v><iv><aa><p1><incl><pl> : kpentahena
+
+  "[lexc/twol] (Swat Verb Resources Group 13) iv.aa p2.pl":
+    kanshelintam<v><iv><aa><p2><pl> : kanshelintamuhemo
+    nahkihel<v><iv><aa><p2><pl> : kahkihelahemo
+    kech<v><iv><aa><p2><pl> : kechihemo
+    sakomals<v><iv><aa><p2><pl> : kesakomalsihemo
+    lepo<v><iv><aa><p2><pl> : kelepohemo
+
+  "[lexc/twol] (Swat Verb Resources Group 14) iv.aa p2.pl":
+    lexe<v><iv><aa><p2><pl> : kelexehemo
+    nathepia<v><iv><aa><p2><pl> : knathepiahemo
+    pehewe<v><iv><aa><p2><pl> : kpehewehemo
+    namewake<v><iv><aa><p2><pl> : kenamewakehemo
+    pent<v><iv><aa><p2><pl> : kpentahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 13) iv.aa p3.pl":
+    kanshelintam<v><iv><aa><p3><pl> : kanshelintamuk
+    nahkihel<v><iv><aa><p3><pl> : nahkiheleyok
+    kech<v><iv><aa><p3><pl> : kechuwak
+    sakomals<v><iv><aa><p3><pl> : sakomalsuwak
+    lepo<v><iv><aa><p3><pl> : lepweyok
+
+  "[lexc/twol] (Swat Verb Resources Group 14) iv.aa p3.pl":
+    lexe<v><iv><aa><p3><pl> : lexeyok
+    nathepia<v><iv><aa><p3><pl> : nathepieyok
+    pehewe<v><iv><aa><p3><pl> : peheweyok
+    namewake<v><iv><aa><p3><pl> : namewakeyok
+    pent<v><iv><aa><p3><pl> : penteyok
