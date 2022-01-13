@@ -619,26 +619,79 @@ Tests:
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p1.sg":
     elapehw<v><tv><aa><dir><p1><sg><o_sg> : ntelapehwa
     elapehw<v><tv><aa><dir><p1><sg><o_pl> : ntelapehwaok
+    kelaphatun<v><tv><aa><dir><p1><sg><o_sg> : nkelaphatuna
+    kelaphatun<v><tv><aa><dir><p1><sg><o_pl> : nkelaphatunaok
 
+  "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p1.sg":
+    shinkal<v><tv><aa><dir><p1><sg><o_sg> : nshinkala
+    shinkal<v><tv><aa><dir><p1><sg><o_pl> : nshinkalaok
+    notum<v><tv><aa><dir><p1><sg><o_sg> : notuma
+    notum<v><tv><aa><dir><p1><sg><o_pl> : notumaok
+  
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p2.sg":
     elapehw<v><tv><aa><dir><p2><sg><o_sg> : ktelapehwa
     elapehw<v><tv><aa><dir><p2><sg><o_pl> : ktelapehwaok
+    kelaphatun<v><tv><aa><dir><p2><sg><o_sg> : kelaphatuna
+    kelaphatun<v><tv><aa><dir><p2><sg><o_pl> : kelaphatunaok
+
+  "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p2.sg":
+    shinkal<v><tv><aa><dir><p2><sg><o_sg> : kshinkala
+    shinkal<v><tv><aa><dir><p2><sg><o_pl> : kshinkalaok
+    notum<v><tv><aa><dir><p2><sg><o_sg> : kenotuma
+    notum<v><tv><aa><dir><p2><sg><o_pl> : kenotumaok
 
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p3.sg":
     elapehw<v><tv><aa><dir><p3><sg><o_sg> : elapehwao
     elapehw<v><tv><aa><dir><p3><sg><o_pl> : elapehwaok #"k" marked in ()
+    kelaphatun<v><tv><aa><dir><p3><sg><o_sg> : kelaphatunao
+    kelaphatun<v><tv><aa><dir><p3><sg><o_pl> : kelaphatunaok
+
+  "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p3.sg":
+    shinkal<v><tv><aa><dir><p3><sg><o_sg> : shinkalao
+    shinkal<v><tv><aa><dir><p3><sg><o_pl> : shinkalaok
+    notum<v><tv><aa><dir><p3><sg><o_sg> : notumao
+    notum<v><tv><aa><dir><p3><sg><o_pl> : notumaok
 
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p1.excl.pl":
     elapehw<v><tv><aa><dir><p1><excl><pl><o_sg> : ntelapehwawena
     elapehw<v><tv><aa><dir><p1><excl><pl><o_pl> : ntelapehwawenanak
+    kelaphatun<v><tv><aa><dir><p1><excl><pl><o_sg> : nkelaphatunawena
+    kelaphatun<v><tv><aa><dir><p1><excl><pl><o_pl> : nkelaphatunawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p1.excl.pl":
+    shinkal<v><tv><aa><dir><p1><excl><pl><o_sg> : nshinkalawena
+    shinkal<v><tv><aa><dir><p1><excl><pl><o_pl> : nshinkalawenanak
+    notum<v><tv><aa><dir><p1><excl><pl><o_sg> : nkelaphatunawena
+    notum<v><tv><aa><dir><p1><excl><pl><o_pl> : nkelaphatunawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p1.incl.pl":
     elapehw<v><tv><aa><dir><p1><incl><pl><o_sg> : ktelapehwawena
     elapehw<v><tv><aa><dir><p1><incl><pl><o_pl> : ktelapehwawenanak
+    kelaphatun<v><tv><aa><dir><p1><incl><pl><o_sg> : kelaphatunawena
+    kelaphatun<v><tv><aa><dir><p1><incl><pl><o_pl> : kelaphatunawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p1.incl.pl":
+    shinkal<v><tv><aa><dir><p1><incl><pl><o_sg> : kshinkalawena
+    shinkal<v><tv><aa><dir><p1><incl><pl><o_pl> : kshinkalawenanak
+    notum<v><tv><aa><dir><p1><incl><pl><o_sg> : notumawena
+    notum<v><tv><aa><dir><p1><incl><pl><o_pl> : notumawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p2.pl":
     elapehw<v><tv><aa><dir><p2><pl><o_pl> : ktelapehwawena
     elapehw<v><tv><aa><dir><p2><pl><o_sg> : ktelapehwawenanak
+    kelaphatun<v><tv><aa><dir><p2><pl><o_pl> : kelaphatunawa
+    kelaphatun<v><tv><aa><dir><p2><pl><o_sg> : kelaphatunawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p2.pl":
+    shinkal<v><tv><aa><dir><p2><pl><o_pl> : kshinkalawa
+    shinkal<v><tv><aa><dir><p2><pl><o_sg> : kshinkalawaok
+    notum<v><tv><aa><dir><p2><pl><o_pl> : kenotumawena
+    notum<v><tv><aa><dir><p2><pl><o_sg> : kenotumawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p3.pl":
     elapehw<v><tv><aa><dir><p3><pl> : elapehwawoo
+    kelaphatun<v><tv><aa><dir><p3><pl> : kelaphatunawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p3.pl":
+    shinkal<v><tv><aa><dir><p3><pl> : shinkalawoo
+    notum<v><tv><aa><dir><p3><pl> : notumawoo
