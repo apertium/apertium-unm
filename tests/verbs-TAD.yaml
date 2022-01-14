@@ -862,11 +862,23 @@ Tests:
     nenust<v><tv><aa><dir><p1><sg><o_sg> : nenustaw
     nenust<v><tv><aa><dir><p1><sg><o_pl> : nenustaok
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p1.sg":
+    nikanit<v><tv><aa><dir><p1><sg><o_sg> : nikanita  
+    nikanit<v><tv><aa><dir><p1><sg><o_pl> : nikanitaok
+    tokim<v><tv><aa><dir><p1><sg><o_sg> : ntokima
+    tokim<v><tv><aa><dir><p1><sg><o_pl> : ntokimaok
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p2.sg":
     kiikam<v><tv><aa><dir><p2><sg><o_sg> : kiikama
     kiikam<v><tv><aa><dir><p2><sg><o_pl> : kiikamaok
     nenust<v><tv><aa><dir><p2><sg><o_sg> : knenustaw
     nenust<v><tv><aa><dir><p2><sg><o_pl> : knenustaok
+
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p2.sg":
+    nikanit<v><tv><aa><dir><p2><sg><o_sg> : knikanita
+    nikanit<v><tv><aa><dir><p2><sg><o_pl> : knikanitaok
+    tokim<v><tv><aa><dir><p2><sg><o_sg> : ktokima
+    tokim<v><tv><aa><dir><p2><sg><o_pl> : ktokimaok
 
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p3.sg":
     kiikam<v><tv><aa><dir><p3><sg><o_sg> : kwiikamao
@@ -874,11 +886,23 @@ Tests:
     nenust<v><tv><aa><dir><p3><sg><o_sg> : nenustao
     nenust<v><tv><aa><dir><p3><sg><o_pl> : nenustaok
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p3.sg":
+    nikanit<v><tv><aa><dir><p3><sg><o_sg> : nikanitao #"-k" written in file but appeared to be error
+    nikanit<v><tv><aa><dir><p3><sg><o_pl> : nikanitaok
+    tokim<v><tv><aa><dir><p3><sg><o_sg> : tokimao
+    tokim<v><tv><aa><dir><p3><sg><o_pl> : tokimaok
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p1.excl.pl":
     kiikam<v><tv><aa><dir><p1><excl><pl><o_sg> : nkiikamawena
     kiikam<v><tv><aa><dir><p1><excl><pl><o_pl> : nkiikamawenanak
     nenust<v><tv><aa><dir><p1><excl><pl><o_sg> : nenustawena
     nenust<v><tv><aa><dir><p1><excl><pl><o_pl> : nenustawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p1.excl.pl":
+    nikanit<v><tv><aa><dir><p1><excl><pl><o_sg> : nikanitawena
+    nikanit<v><tv><aa><dir><p1><excl><pl><o_pl> : nikanitawenanak
+    tokim<v><tv><aa><dir><p1><excl><pl><o_sg> : ntokimawena
+    tokim<v><tv><aa><dir><p1><excl><pl><o_pl> : ntokimawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p1.incl.pl":
     kiikam<v><tv><aa><dir><p1><incl><pl><o_sg> : kiikamawena
@@ -886,12 +910,68 @@ Tests:
     nenust<v><tv><aa><dir><p1><incl><pl><o_sg> : knenustawena
     nenust<v><tv><aa><dir><p1><incl><pl><o_pl> : knenustawenanak
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p1.incl.pl":
+    nikanit<v><tv><aa><dir><p1><incl><pl><o_sg> : knikanitawena
+    nikanit<v><tv><aa><dir><p1><incl><pl><o_pl> : knikanitawenanak
+    tokim<v><tv><aa><dir><p1><incl><pl><o_sg> : ktokimawena
+    tokim<v><tv><aa><dir><p1><incl><pl><o_pl> : ktokimawenanak
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p2.pl":
     kiikam<v><tv><aa><dir><p2><pl><o_pl> : kiikamawa
     kiikam<v><tv><aa><dir><p2><pl><o_sg> : kiikamawaok
     nenust<v><tv><aa><dir><p2><pl><o_pl> : knenustawa
     nenust<v><tv><aa><dir><p2><pl><o_sg> : knenustawaok
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p2.pl":
+    nikanit<v><tv><aa><dir><p2><pl><o_pl> : knikanitawa
+    nikanit<v><tv><aa><dir><p2><pl><o_sg> : knikanitawaok
+    tokim<v><tv><aa><dir><p2><pl><o_pl> : ktokimawa
+    tokim<v><tv><aa><dir><p2><pl><o_sg> : ktokimawaok
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p3.pl":
     kiikam<v><tv><aa><dir><p3><pl> : kiikamawoo
     nenust<v><tv><aa><dir><p3><pl> : nenustawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p3.pl":
+    nikanit<v><tv><aa><dir><p3><pl> : nikanitawoo
+    tokim<v><tv><aa><dir><p3><pl> : tokimawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p1.sg":
+    winkal<v><tv><aa><dir><p1><sg><o_sg> : newinkala
+    winkal<v><tv><aa><dir><p1><sg><o_pl> : newinkalaok
+    nal<v><tv><aa><dir><p1><sg><o_sg> : nala
+    nal<v><tv><aa><dir><p1><sg><o_pl> : nalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p2.sg":
+    winkal<v><tv><aa><dir><p2><sg><o_sg> : kewinkala
+    winkal<v><tv><aa><dir><p2><sg><o_pl> : kewinkalaok
+    nal<v><tv><aa><dir><p2><sg><o_sg> : knala
+    nal<v><tv><aa><dir><p2><sg><o_pl> : knalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p3.sg":
+    winkal<v><tv><aa><dir><p3><sg><o_sg> : winkalao
+    winkal<v><tv><aa><dir><p3><sg><o_pl> : winkalaok
+    nal<v><tv><aa><dir><p3><sg><o_sg> : nolao
+    nal<v><tv><aa><dir><p3><sg><o_pl> : nolaok
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p1.excl.pl":
+    winkal<v><tv><aa><dir><p1><excl><pl><o_sg> : newinkalawena
+    winkal<v><tv><aa><dir><p1><excl><pl><o_pl> : newinkalawenanak
+    nal<v><tv><aa><dir><p1><excl><pl><o_sg> : nalawena
+    nal<v><tv><aa><dir><p1><excl><pl><o_pl> : nalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p1.incl.pl":
+    winkal<v><tv><aa><dir><p1><incl><pl><o_sg> : kewinkalawena
+    winkal<v><tv><aa><dir><p1><incl><pl><o_pl> : kewinkalawenanak
+    nal<v><tv><aa><dir><p1><incl><pl><o_sg> : knalawena
+    nal<v><tv><aa><dir><p1><incl><pl><o_pl> : knalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p2.pl":
+    winkal<v><tv><aa><dir><p2><pl><o_pl> : kewinkalawa
+    winkal<v><tv><aa><dir><p2><pl><o_sg> : kewinkalawaok
+    nal<v><tv><aa><dir><p2><pl><o_pl> : knalawa
+    nal<v><tv><aa><dir><p2><pl><o_sg> : knalawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p3.pl":
+    winkal<v><tv><aa><dir><p3><pl> : winkalawoo
+    nal<v><tv><aa><dir><p3><pl> : nolawoo
