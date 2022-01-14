@@ -775,3 +775,43 @@ Tests:
   "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p3.pl":
     pemetunhal<v><tv><aa><dir><p3><pl> : pemetunhawoo
     nekal<v><tv><aa><dir><p3><pl> : nekalawao
+
+  "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p1.sg":
+    noxkum<v><tv><aa><dir><p1><sg><o_sg> : noxkuma
+    noxkum<v><tv><aa><dir><p1><sg><o_pl> : noxkumaok
+    natuxt<v><tv><aa><dir><p1><sg><o_sg> : natuxta           #notuxt also possible
+    natuxt<v><tv><aa><dir><p1><sg><o_pl> : natuxtaok
+
+  "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p2.sg":
+    noxkum<v><tv><aa><dir><p2><sg><o_sg> : kenoxkuma
+    noxkum<v><tv><aa><dir><p2><sg><o_pl> : kenoxkumaok
+    natuxt<v><tv><aa><dir><p2><sg><o_sg> : knatuxta
+    natuxt<v><tv><aa><dir><p2><sg><o_pl> : knatuxtaok
+
+  "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p3.sg":
+    noxkum<v><tv><aa><dir><p3><sg><o_sg> : noxkumao
+    noxkum<v><tv><aa><dir><p3><sg><o_pl> : noxkumaok
+    natuxt<v><tv><aa><dir><p3><sg><o_sg> : natuxtao
+    natuxt<v><tv><aa><dir><p3><sg><o_pl> : natuxtaok
+  
+  "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p1.excl.pl":
+    noxkum<v><tv><aa><dir><p1><excl><pl><o_sg> : noxkumawena
+    noxkum<v><tv><aa><dir><p1><excl><pl><o_pl> : noxkumawenanak
+    natuxt<v><tv><aa><dir><p1><excl><pl><o_sg> : natuxtawena
+    natuxt<v><tv><aa><dir><p1><excl><pl><o_pl> : natuxtawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p1.incl.pl":
+    noxkum<v><tv><aa><dir><p1><incl><pl><o_sg> : kenoxkumawena
+    noxkum<v><tv><aa><dir><p1><incl><pl><o_pl> : kenoxkumawenanak
+    natuxt<v><tv><aa><dir><p1><incl><pl><o_sg> : knatuxtawena
+    natuxt<v><tv><aa><dir><p1><incl><pl><o_pl> : knatuxtawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p2.pl":
+    noxkum<v><tv><aa><dir><p2><pl><o_pl> : kenoxkumawa
+    noxkum<v><tv><aa><dir><p2><pl><o_sg> : kenoxkumawaok
+    natuxt<v><tv><aa><dir><p2><pl><o_pl> : knatuxtawa
+    natuxt<v><tv><aa><dir><p2><pl><o_sg> : knatuxtawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p3.pl":
+    noxkum<v><tv><aa><dir><p3><pl> : noxkumawoo
+    natuxt<v><tv><aa><dir><p3><pl> : natuxtawoo
