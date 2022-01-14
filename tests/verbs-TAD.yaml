@@ -782,17 +782,35 @@ Tests:
     natuxt<v><tv><aa><dir><p1><sg><o_sg> : natuxta           #notuxt also possible
     natuxt<v><tv><aa><dir><p1><sg><o_pl> : natuxtaok
 
+  "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p1.sg":
+    tuxt<v><tv><aa><dir><p1><sg><o_sg> : ntuxta
+    tuxt<v><tv><aa><dir><p1><sg><o_pl> : ntuxtaok
+    maxk<v><tv><aa><dir><p1><sg><o_sg> : nemaxkao #"o" marked in ()
+    maxk<v><tv><aa><dir><p1><sg><o_pl> : nemaxkaok
+
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p2.sg":
     noxkum<v><tv><aa><dir><p2><sg><o_sg> : kenoxkuma
     noxkum<v><tv><aa><dir><p2><sg><o_pl> : kenoxkumaok
     natuxt<v><tv><aa><dir><p2><sg><o_sg> : knatuxta
     natuxt<v><tv><aa><dir><p2><sg><o_pl> : knatuxtaok
 
+  "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p2.sg":
+    tuxt<v><tv><aa><dir><p2><sg><o_sg> : kenoxkuma
+    tuxt<v><tv><aa><dir><p2><sg><o_pl> : kenoxkumaok
+    maxk<v><tv><aa><dir><p2><sg><o_sg> : kemaxkao #"o" marked in ()
+    maxk<v><tv><aa><dir><p2><sg><o_pl> : kemaxkaok
+
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p3.sg":
     noxkum<v><tv><aa><dir><p3><sg><o_sg> : noxkumao
     noxkum<v><tv><aa><dir><p3><sg><o_pl> : noxkumaok
     natuxt<v><tv><aa><dir><p3><sg><o_sg> : natuxtao
     natuxt<v><tv><aa><dir><p3><sg><o_pl> : natuxtaok
+
+  "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p3.sg":
+    tuxt<v><tv><aa><dir><p3><sg><o_sg> : tuxtao
+    tuxt<v><tv><aa><dir><p3><sg><o_pl> : tuxtaok
+    maxk<v><tv><aa><dir><p3><sg><o_sg> : maxkao
+    maxk<v><tv><aa><dir><p3><sg><o_pl> : maxkaok
   
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p1.excl.pl":
     noxkum<v><tv><aa><dir><p1><excl><pl><o_sg> : noxkumawena
@@ -800,11 +818,23 @@ Tests:
     natuxt<v><tv><aa><dir><p1><excl><pl><o_sg> : natuxtawena
     natuxt<v><tv><aa><dir><p1><excl><pl><o_pl> : natuxtawenanak
 
+  "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p1.excl.pl":
+    tuxt<v><tv><aa><dir><p1><excl><pl><o_sg> : ntuxtawena
+    tuxt<v><tv><aa><dir><p1><excl><pl><o_pl> : ntuxtawenanak
+    maxk<v><tv><aa><dir><p1><excl><pl><o_sg> : nemaxkawena
+    maxk<v><tv><aa><dir><p1><excl><pl><o_pl> : nemaxkawenanak
+
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p1.incl.pl":
     noxkum<v><tv><aa><dir><p1><incl><pl><o_sg> : kenoxkumawena
     noxkum<v><tv><aa><dir><p1><incl><pl><o_pl> : kenoxkumawenanak
     natuxt<v><tv><aa><dir><p1><incl><pl><o_sg> : knatuxtawena
     natuxt<v><tv><aa><dir><p1><incl><pl><o_pl> : knatuxtawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p1.incl.pl":
+    tuxt<v><tv><aa><dir><p1><incl><pl><o_sg> :  ktuxtawena
+    tuxt<v><tv><aa><dir><p1><incl><pl><o_pl> : ktuxtawenanak
+    maxk<v><tv><aa><dir><p1><incl><pl><o_sg> : kemaxkawena
+    maxk<v><tv><aa><dir><p1><incl><pl><o_pl> : kemaxkawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p2.pl":
     noxkum<v><tv><aa><dir><p2><pl><o_pl> : kenoxkumawa
@@ -812,6 +842,56 @@ Tests:
     natuxt<v><tv><aa><dir><p2><pl><o_pl> : knatuxtawa
     natuxt<v><tv><aa><dir><p2><pl><o_sg> : knatuxtawaok
 
+  "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p2.pl":
+    tuxt<v><tv><aa><dir><p2><pl><o_pl> : ktuxtawa
+    tuxt<v><tv><aa><dir><p2><pl><o_sg> : ktuxtawaok
+    maxk<v><tv><aa><dir><p2><pl><o_pl> : kemaxkawa
+    maxk<v><tv><aa><dir><p2><pl><o_sg> : kemaxkawaok
+
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p3.pl":
     noxkum<v><tv><aa><dir><p3><pl> : noxkumawoo
     natuxt<v><tv><aa><dir><p3><pl> : natuxtawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p3.pl":
+    tuxt<v><tv><aa><dir><p3><pl> : tuxtawoo
+    maxk<v><tv><aa><dir><p3><pl> : maxkawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p1.sg":
+    kiikam<v><tv><aa><dir><p1><sg><o_sg> : nkiikama
+    kiikam<v><tv><aa><dir><p1><sg><o_pl> : nkiikamaok
+    nenust<v><tv><aa><dir><p1><sg><o_sg> : nenustaw
+    nenust<v><tv><aa><dir><p1><sg><o_pl> : nenustaok
+
+  "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p2.sg":
+    kiikam<v><tv><aa><dir><p2><sg><o_sg> : kiikama
+    kiikam<v><tv><aa><dir><p2><sg><o_pl> : kiikamaok
+    nenust<v><tv><aa><dir><p2><sg><o_sg> : knenustaw
+    nenust<v><tv><aa><dir><p2><sg><o_pl> : knenustaok
+
+  "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p3.sg":
+    kiikam<v><tv><aa><dir><p3><sg><o_sg> : kwiikamao
+    kiikam<v><tv><aa><dir><p3><sg><o_pl> : kwiikamaok
+    nenust<v><tv><aa><dir><p3><sg><o_sg> : nenustao
+    nenust<v><tv><aa><dir><p3><sg><o_pl> : nenustaok
+
+  "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p1.excl.pl":
+    kiikam<v><tv><aa><dir><p1><excl><pl><o_sg> : nkiikamawena
+    kiikam<v><tv><aa><dir><p1><excl><pl><o_pl> : nkiikamawenanak
+    nenust<v><tv><aa><dir><p1><excl><pl><o_sg> : nenustawena
+    nenust<v><tv><aa><dir><p1><excl><pl><o_pl> : nenustawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p1.incl.pl":
+    kiikam<v><tv><aa><dir><p1><incl><pl><o_sg> : kiikamawena
+    kiikam<v><tv><aa><dir><p1><incl><pl><o_pl> : kiikamawenanak
+    nenust<v><tv><aa><dir><p1><incl><pl><o_sg> : knenustawena
+    nenust<v><tv><aa><dir><p1><incl><pl><o_pl> : knenustawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p2.pl":
+    kiikam<v><tv><aa><dir><p2><pl><o_pl> : kiikamawa
+    kiikam<v><tv><aa><dir><p2><pl><o_sg> : kiikamawaok
+    nenust<v><tv><aa><dir><p2><pl><o_pl> : knenustawa
+    nenust<v><tv><aa><dir><p2><pl><o_sg> : knenustawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p3.pl":
+    kiikam<v><tv><aa><dir><p3><pl> : kiikamawoo
+    nenust<v><tv><aa><dir><p3><pl> : nenustawoo
