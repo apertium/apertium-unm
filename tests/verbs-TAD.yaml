@@ -695,3 +695,87 @@ Tests:
   "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p3.pl":
     shinkal<v><tv><aa><dir><p3><pl> : shinkalawoo
     notum<v><tv><aa><dir><p3><pl> : notumawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p1.sg":
+    kisk<v><tv><aa><dir><p1><sg><o_sg> : nkiska
+    kisk<v><tv><aa><dir><p1><sg><o_pl> : nkiskaok
+    mathakal<v><tv><aa><dir><p1><sg><o_sg> : nemathakala
+    mathakal<v><tv><aa><dir><p1><sg><o_pl> : nemathakalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p1.sg":
+    pemetunhal<v><tv><aa><dir><p1><sg><o_sg> : mpemetunhala
+    pemetunhal<v><tv><aa><dir><p1><sg><o_pl> : mpemetunhalaok
+    nekal<v><tv><aa><dir><p1><sg><o_sg> : nekala
+    nekal<v><tv><aa><dir><p1><sg><o_pl> : nekalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p2.sg":
+    kisk<v><tv><aa><dir><p2><sg><o_sg> : kiska
+    kisk<v><tv><aa><dir><p2><sg><o_pl> : kiskaok
+    mathakal<v><tv><aa><dir><p2><sg><o_sg> : kemathakala
+    mathakal<v><tv><aa><dir><p2><sg><o_pl> : kemathakalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p2.sg":
+    pemetunhal<v><tv><aa><dir><p2><sg><o_sg> : kiska
+    pemetunhal<v><tv><aa><dir><p2><sg><o_pl> : kiskaok
+    nekal<v><tv><aa><dir><p2><sg><o_sg> : knekala
+    nekal<v><tv><aa><dir><p2><sg><o_pl> : knekalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p3.sg":
+    kisk<v><tv><aa><dir><p3><sg><o_sg> : kiskku
+    kisk<v><tv><aa><dir><p3><sg><o_pl> : kiskku
+    mathakal<v><tv><aa><dir><p3><sg><o_sg> : mathakalao
+    mathakal<v><tv><aa><dir><p3><sg><o_pl> : mathakalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p3.sg":
+    pemetunhal<v><tv><aa><dir><p3><sg><o_sg> : pemetunhalao
+    pemetunhal<v><tv><aa><dir><p3><sg><o_pl> : pemetunhalaok
+    nekal<v><tv><aa><dir><p3><sg><o_sg> : nekalao
+    nekal<v><tv><aa><dir><p3><sg><o_pl> : nekalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p1.excl.pl":
+    kisk<v><tv><aa><dir><p1><excl><pl><o_sg> : nkiskawena
+    kisk<v><tv><aa><dir><p1><excl><pl><o_pl> : nkiskawenanak
+    mathakal<v><tv><aa><dir><p1><excl><pl><o_sg> : nemathakalawena
+    mathakal<v><tv><aa><dir><p1><excl><pl><o_pl> : nemathakalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p1.excl.pl":
+    pemetunhal<v><tv><aa><dir><p1><excl><pl><o_sg> : mpemetunhalawena #added "a" / l_w as it being absent appears to be an error
+    pemetunhal<v><tv><aa><dir><p1><excl><pl><o_pl> :  mpemetunhalawenanak
+    nekal<v><tv><aa><dir><p1><excl><pl><o_sg> : nekalawena
+    nekal<v><tv><aa><dir><p1><excl><pl><o_pl> : nekalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p1.incl.pl":
+    kisk<v><tv><aa><dir><p1><incl><pl><o_sg> : nkiskkuna
+    kisk<v><tv><aa><dir><p1><incl><pl><o_pl> : nkiskkunanak
+    mathakal<v><tv><aa><dir><p1><incl><pl><o_sg> : kemathakalawena
+    mathakal<v><tv><aa><dir><p1><incl><pl><o_pl> : kemathakalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p1.incl.pl":
+    pemetunhal<v><tv><aa><dir><p1><incl><pl><o_sg> : kpemetunhalawena
+    pemetunhal<v><tv><aa><dir><p1><incl><pl><o_pl> : kpemetunhalawenanak
+    nekal<v><tv><aa><dir><p1><incl><pl><o_sg> : knekalawena
+    nekal<v><tv><aa><dir><p1><incl><pl><o_pl> : knekalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p2.pl":
+    kisk<v><tv><aa><dir><p2><pl><o_pl> : kshinkalawa
+    kisk<v><tv><aa><dir><p2><pl><o_sg> : kshinkalawaok
+    mathakal<v><tv><aa><dir><p2><pl><o_pl> : kemathakalawa
+    mathakal<v><tv><aa><dir><p2><pl><o_sg> : kemathakalawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p2.pl":
+    pemetunhal<v><tv><aa><dir><p2><pl><o_pl> : kpemetunhalawa #added "a" / l_w as its absence appeared to be error
+    pemetunhal<v><tv><aa><dir><p2><pl><o_sg> : kpemetunhalawaok
+    nekal<v><tv><aa><dir><p2><pl><o_pl> : knekalawa
+    nekal<v><tv><aa><dir><p2><pl><o_sg> : knekalawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p3.pl":
+    kisk<v><tv><aa><dir><p3><pl> : kiskkuwoo
+    mathakal<v><tv><aa><dir><p3><pl> : mathakalawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p3.pl":
+    kisk<v><tv><aa><dir><p3><pl> : kiskkuwoo
+    mathakal<v><tv><aa><dir><p3><pl> : mathakalawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p3.pl":
+    pemetunhal<v><tv><aa><dir><p3><pl> : pemetunhawoo
+    nekal<v><tv><aa><dir><p3><pl> : nekalawao
