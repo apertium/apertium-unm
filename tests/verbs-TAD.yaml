@@ -1022,11 +1022,23 @@ Tests:
     pahkaskinkweh<v><tv><aa><dir><p1><sg><o_sg> : mpahkaskinkweho
     pahkaskinkweh<v><tv><aa><dir><p1><sg><o_pl> : mpahkaskinkwehaok
 
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p1.sg": 
+    poxin<v><tv><aa><dir><p1><sg><o_sg> : mpoxina
+    poxin<v><tv><aa><dir><p1><sg><o_pl> : mpoxinaok
+    keshinal<v><tv><aa><dir><p1><sg><o_sg> : nkeshinala
+    keshinal<v><tv><aa><dir><p1><sg><o_pl> : nkeshinalaok
+
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p2.sg":
     payaxkh<v><tv><aa><dir><p2><sg><o_sg> : kpayaxkho
     payaxkh<v><tv><aa><dir><p2><sg><o_pl> : kpayaxkhaok
     pahkaskinkweh<v><tv><aa><dir><p2><sg><o_sg> : kpahkaskinkweho
     pahkaskinkweh<v><tv><aa><dir><p2><sg><o_pl> : kpahkaskinkwehaok
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p2.sg":
+    poxin<v><tv><aa><dir><p2><sg><o_sg> : kpoxina
+    poxin<v><tv><aa><dir><p2><sg><o_pl> : kpoxinaok
+    keshinal<v><tv><aa><dir><p2><sg><o_sg> : keshinala
+    keshinal<v><tv><aa><dir><p2><sg><o_pl> : keshinalaok
 
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p3.sg":
     payaxkh<v><tv><aa><dir><p3><sg><o_sg> : payaxkho #had an additional "o" at coda, may be error
@@ -1034,11 +1046,23 @@ Tests:
     pahkaskinkweh<v><tv><aa><dir><p3><sg><o_sg> : pahkaskinkwehao
     pahkaskinkweh<v><tv><aa><dir><p3><sg><o_pl> : pahkaskinkwehaok
 
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p3.sg":
+    poxin<v><tv><aa><dir><p3><sg><o_sg> : poxinao
+    poxin<v><tv><aa><dir><p3><sg><o_pl> : poxinaok
+    keshinal<v><tv><aa><dir><p3><sg><o_sg> : keshinalao
+    keshinal<v><tv><aa><dir><p3><sg><o_pl> : keshinalaok
+
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p1.excl.pl":
     payaxkh<v><tv><aa><dir><p1><excl><pl><o_sg> : nihelawena 
     payaxkh<v><tv><aa><dir><p1><excl><pl><o_pl> : nihelawenanak 
     pahkaskinkweh<v><tv><aa><dir><p1><excl><pl><o_sg> : mpahkaskinkwehawena
     pahkaskinkweh<v><tv><aa><dir><p1><excl><pl><o_pl> : mpahkaskinkwehawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p1.excl.pl":
+    poxin<v><tv><aa><dir><p1><excl><pl><o_sg> : mpoxinawena
+    poxin<v><tv><aa><dir><p1><excl><pl><o_pl> : mpoxinawenanak
+    keshinal<v><tv><aa><dir><p1><excl><pl><o_sg> : nkeshinalawena
+    keshinal<v><tv><aa><dir><p1><excl><pl><o_pl> : nkeshinalawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p1.incl.pl":
     payaxkh<v><tv><aa><dir><p1><incl><pl><o_sg> : kpayaxkhawena
@@ -1046,12 +1070,68 @@ Tests:
     pahkaskinkweh<v><tv><aa><dir><p1><incl><pl><o_sg> : kpahkaskinkwehawena
     pahkaskinkweh<v><tv><aa><dir><p1><incl><pl><o_pl> : kpahkaskinkwehawenanak
 
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p1.incl.pl":
+    poxin<v><tv><aa><dir><p1><incl><pl><o_sg> : kpoxinawena
+    poxin<v><tv><aa><dir><p1><incl><pl><o_pl> : kpoxinawenanak
+    keshinal<v><tv><aa><dir><p1><incl><pl><o_sg> : keshinalawena
+    keshinal<v><tv><aa><dir><p1><incl><pl><o_pl> : keshinalawenanak
+
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p2.pl":
     payaxkh<v><tv><aa><dir><p2><pl><o_pl> : kpayaxkhawa
     payaxkh<v><tv><aa><dir><p2><pl><o_sg> : kpayaxkhawaok
     pahkaskinkweh<v><tv><aa><dir><p2><pl><o_pl> : kpahkaskinkwehawa
     pahkaskinkweh<v><tv><aa><dir><p2><pl><o_sg> : kpahkaskinkwehawaok
 
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p2.pl":
+    poxin<v><tv><aa><dir><p2><pl><o_pl> : kpoxinawa
+    poxin<v><tv><aa><dir><p2><pl><o_sg> : kpoxinawaok
+    keshinal<v><tv><aa><dir><p2><pl><o_pl> : keshinalawa
+    keshinal<v><tv><aa><dir><p2><pl><o_sg> : keshinalawaok
+
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p3.pl":
     payaxkh<v><tv><aa><dir><p3><pl> : payaxhawoo
     pahkaskinkweh<v><tv><aa><dir><p3><pl> : pahkaskinkwehawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p3.pl":
+    poxin<v><tv><aa><dir><p3><pl> : poxinawoo
+    keshinal<v><tv><aa><dir><p3><pl> : keshinalawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p1.sg": 
+    tun<v><tv><aa><dir><p1><sg><o_sg> : ntuna
+    tun<v><tv><aa><dir><p1><sg><o_pl> : ntunaok
+    kishih<v><tv><aa><dir><p1><sg><o_sg> : nkishiha
+    kishih<v><tv><aa><dir><p1><sg><o_pl> : nkishihaok
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p2.sg":
+    tun<v><tv><aa><dir><p2><sg><o_sg> : ktuna
+    tun<v><tv><aa><dir><p2><sg><o_pl> : ktunaok
+    kishih<v><tv><aa><dir><p2><sg><o_sg> : kishiha
+    kishih<v><tv><aa><dir><p2><sg><o_pl> : kishihaok
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p3.sg":
+    tun<v><tv><aa><dir><p3><sg><o_sg> : tunao
+    tun<v><tv><aa><dir><p3><sg><o_pl> : tunaok
+    kishih<v><tv><aa><dir><p3><sg><o_sg> : kishihao
+    kishih<v><tv><aa><dir><p3><sg><o_pl> : kishihaok
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p1.excl.pl":
+    tun<v><tv><aa><dir><p1><excl><pl><o_sg> : ntunawena
+    tun<v><tv><aa><dir><p1><excl><pl><o_pl> : ntunawenanak
+    kishih<v><tv><aa><dir><p1><excl><pl><o_sg> : nkishihawena
+    kishih<v><tv><aa><dir><p1><excl><pl><o_pl> : nkishihawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p1.incl.pl":
+    tun<v><tv><aa><dir><p1><incl><pl><o_sg> : ktunawena
+    tun<v><tv><aa><dir><p1><incl><pl><o_pl> : ktunawenanak
+    kishih<v><tv><aa><dir><p1><incl><pl><o_sg> : kishihawena
+    kishih<v><tv><aa><dir><p1><incl><pl><o_pl> : kishihawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p2.pl":
+    tun<v><tv><aa><dir><p2><pl><o_pl> : ktunawa
+    tun<v><tv><aa><dir><p2><pl><o_sg> : ktunawaok
+    kishih<v><tv><aa><dir><p2><pl><o_pl> : kishihawa
+    kishih<v><tv><aa><dir><p2><pl><o_sg> : kishihawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p3.pl":
+    tun<v><tv><aa><dir><p3><pl> : tunawoo
+    kishih<v><tv><aa><dir><p3><pl> : kishihawoo
