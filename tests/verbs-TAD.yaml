@@ -1102,11 +1102,23 @@ Tests:
     kishih<v><tv><aa><dir><p1><sg><o_sg> : nkishiha
     kishih<v><tv><aa><dir><p1><sg><o_pl> : nkishihaok
 
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p1.sg": 
+    kiskh<v><tv><aa><dir><p1><sg><o_sg> : nkiskha
+    kiskh<v><tv><aa><dir><p1><sg><o_pl> : nkiskhaok
+    muh<v><tv><aa><dir><p1><sg><o_sg> : nemuha
+    muh<v><tv><aa><dir><p1><sg><o_pl> : nemuhaok
+
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p2.sg":
     tun<v><tv><aa><dir><p2><sg><o_sg> : ktuna
     tun<v><tv><aa><dir><p2><sg><o_pl> : ktunaok
     kishih<v><tv><aa><dir><p2><sg><o_sg> : kishiha
     kishih<v><tv><aa><dir><p2><sg><o_pl> : kishihaok
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p2.sg":
+    kiskh<v><tv><aa><dir><p2><sg><o_sg> : kiskha
+    kiskh<v><tv><aa><dir><p2><sg><o_pl> : kiskhaok
+    muh<v><tv><aa><dir><p2><sg><o_sg> : kemuha
+    muh<v><tv><aa><dir><p2><sg><o_pl> : kemuhaok
 
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p3.sg":
     tun<v><tv><aa><dir><p3><sg><o_sg> : tunao
@@ -1114,11 +1126,23 @@ Tests:
     kishih<v><tv><aa><dir><p3><sg><o_sg> : kishihao
     kishih<v><tv><aa><dir><p3><sg><o_pl> : kishihaok
 
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p3.sg":
+    kiskh<v><tv><aa><dir><p3><sg><o_sg> : kiskhao
+    kiskh<v><tv><aa><dir><p3><sg><o_pl> : kiskhaok
+    muh<v><tv><aa><dir><p3><sg><o_sg> : muhao
+    muh<v><tv><aa><dir><p3><sg><o_pl> : muhaok
+
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p1.excl.pl":
     tun<v><tv><aa><dir><p1><excl><pl><o_sg> : ntunawena
     tun<v><tv><aa><dir><p1><excl><pl><o_pl> : ntunawenanak
     kishih<v><tv><aa><dir><p1><excl><pl><o_sg> : nkishihawena
     kishih<v><tv><aa><dir><p1><excl><pl><o_pl> : nkishihawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p1.excl.pl":
+    kiskh<v><tv><aa><dir><p1><excl><pl><o_sg> : nkiskhawena
+    kiskh<v><tv><aa><dir><p1><excl><pl><o_pl> : nkiskhawenanak
+    muh<v><tv><aa><dir><p1><excl><pl><o_sg> : nemuhawena
+    muh<v><tv><aa><dir><p1><excl><pl><o_pl> : nemuhawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p1.incl.pl":
     tun<v><tv><aa><dir><p1><incl><pl><o_sg> : ktunawena
@@ -1126,12 +1150,108 @@ Tests:
     kishih<v><tv><aa><dir><p1><incl><pl><o_sg> : kishihawena
     kishih<v><tv><aa><dir><p1><incl><pl><o_pl> : kishihawenanak
 
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p1.incl.pl":
+    kiskh<v><tv><aa><dir><p1><incl><pl><o_sg> : kiskhawena
+    kiskh<v><tv><aa><dir><p1><incl><pl><o_pl> : kiskhawenanak
+    muh<v><tv><aa><dir><p1><incl><pl><o_sg> : kemuhawena
+    muh<v><tv><aa><dir><p1><incl><pl><o_pl> : kemuhawenanak
+
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p2.pl":
     tun<v><tv><aa><dir><p2><pl><o_pl> : ktunawa
     tun<v><tv><aa><dir><p2><pl><o_sg> : ktunawaok
     kishih<v><tv><aa><dir><p2><pl><o_pl> : kishihawa
     kishih<v><tv><aa><dir><p2><pl><o_sg> : kishihawaok
 
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p2.pl":
+    kiskh<v><tv><aa><dir><p2><pl><o_pl> : kiskhawa
+    kiskh<v><tv><aa><dir><p2><pl><o_sg> : kiskhawaok
+    muh<v><tv><aa><dir><p2><pl><o_pl> : kemuhawa
+    muh<v><tv><aa><dir><p2><pl><o_sg> : kemuhawaok
+
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p3.pl":
     tun<v><tv><aa><dir><p3><pl> : tunawoo
     kishih<v><tv><aa><dir><p3><pl> : kishihawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p3.pl":
+    kiskh<v><tv><aa><dir><p3><pl> : kiskhawoo
+    muh<v><tv><aa><dir><p3><pl> : muhawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p1.sg": 
+    ulin<v><tv><aa><dir><p1><sg><o_sg> : nulina
+    ulin<v><tv><aa><dir><p1><sg><o_pl> : nulinaok
+    kekhitahol<v><tv><aa><dir><p1><sg><o_sg> : nkekhitahola
+    kekhitahol<v><tv><aa><dir><p1><sg><o_pl> : nkekhitaholaok
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p1.sg": 
+    keshewipxkonen<v><tv><aa><dir><p1><sg><o_sg> : nkeshewipxkonena
+    keshewipxkonen<v><tv><aa><dir><p1><sg><o_pl> : nkeshewipxkonenaok
+    naxal<v><tv><aa><dir><p1><sg><o_sg> : naxala
+    naxal<v><tv><aa><dir><p1><sg><o_pl> : naxalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p2.sg":
+    ulin<v><tv><aa><dir><p2><sg><o_sg> : kulina
+    ulin<v><tv><aa><dir><p2><sg><o_pl> : kulinaok
+    kekhitahol<v><tv><aa><dir><p2><sg><o_sg> : kekhitahola
+    kekhitahol<v><tv><aa><dir><p2><sg><o_pl> : kekhitaholaok
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p2.sg":
+    keshewipxkonen<v><tv><aa><dir><p2><sg><o_sg> : keshewipxkonena
+    keshewipxkonen<v><tv><aa><dir><p2><sg><o_pl> : keshewipxkonenaok
+    naxal<v><tv><aa><dir><p2><sg><o_sg> : knaxala
+    naxal<v><tv><aa><dir><p2><sg><o_pl> : knaxalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p3.sg":
+    ulin<v><tv><aa><dir><p3><sg><o_sg> : welinao #"ulinao" in ()
+    ulin<v><tv><aa><dir><p3><sg><o_pl> : welinaok #"ulinaok" in ()
+    kekhitahol<v><tv><aa><dir><p3><sg><o_sg> : kekhitaholao
+    kekhitahol<v><tv><aa><dir><p3><sg><o_pl> : kekhitaholaok
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p3.sg":
+    keshewipxkonen<v><tv><aa><dir><p3><sg><o_sg> : keshewipxkonenao
+    keshewipxkonen<v><tv><aa><dir><p3><sg><o_pl> : keshewipxkonenaok
+    naxal<v><tv><aa><dir><p3><sg><o_sg> : naxalao
+    naxal<v><tv><aa><dir><p3><sg><o_pl> : naxalaok
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p1.excl.pl":
+    ulin<v><tv><aa><dir><p1><excl><pl><o_sg> : nulinawena
+    ulin<v><tv><aa><dir><p1><excl><pl><o_pl> : nulinawenanak
+    kekhitahol<v><tv><aa><dir><p1><excl><pl><o_sg> : nkekhitaholawena
+    kekhitahol<v><tv><aa><dir><p1><excl><pl><o_pl> : nkekhitaholawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p1.excl.pl":
+    keshewipxkonen<v><tv><aa><dir><p1><excl><pl><o_sg> : nkeshewipxkonenawena
+    keshewipxkonen<v><tv><aa><dir><p1><excl><pl><o_pl> : nkeshewipxkonenawenanak
+    naxal<v><tv><aa><dir><p1><excl><pl><o_sg> : naxalawena
+    naxal<v><tv><aa><dir><p1><excl><pl><o_pl> : naxalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p1.incl.pl":
+    ulin<v><tv><aa><dir><p1><incl><pl><o_sg> : kulinawena
+    ulin<v><tv><aa><dir><p1><incl><pl><o_pl> : kulinawenanak
+    kekhitahol<v><tv><aa><dir><p1><incl><pl><o_sg> : kekhitaholawena
+    kekhitahol<v><tv><aa><dir><p1><incl><pl><o_pl> : kekhitaholawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p1.incl.pl":
+    keshewipxkonen<v><tv><aa><dir><p1><incl><pl><o_sg> : keshewipxkonenawena
+    keshewipxkonen<v><tv><aa><dir><p1><incl><pl><o_pl> : keshewipxkonenawenanak
+    naxal<v><tv><aa><dir><p1><incl><pl><o_sg> : knaxalawena
+    naxal<v><tv><aa><dir><p1><incl><pl><o_pl> : knaxalawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p2.pl":
+    ulin<v><tv><aa><dir><p2><pl><o_pl> : kulinawa
+    ulin<v><tv><aa><dir><p2><pl><o_sg> : kulinawaok
+    kekhitahol<v><tv><aa><dir><p2><pl><o_pl> : kekhitaholawa
+    kekhitahol<v><tv><aa><dir><p2><pl><o_sg> : kekhitaholawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p2.pl":
+    keshewipxkonen<v><tv><aa><dir><p2><pl><o_pl> : keshewipxkonenawa
+    keshewipxkonen<v><tv><aa><dir><p2><pl><o_sg> : keshewipxkonenawaok
+    naxal<v><tv><aa><dir><p2><pl><o_pl> : knaxalawa
+    naxal<v><tv><aa><dir><p2><pl><o_sg> : knaxalawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p3.pl":
+    ulin<v><tv><aa><dir><p3><pl> : welinawoo #"ulinawoo" in ()
+    kekhitahol<v><tv><aa><dir><p3><pl> : kekhitaholawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p3.pl":
+    keshewipxkonen<v><tv><aa><dir><p3><pl> : keshewipxkonenawoo
+    naxal<v><tv><aa><dir><p3><pl> : naxalawoo
