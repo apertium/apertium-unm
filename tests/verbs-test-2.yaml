@@ -1747,7 +1747,7 @@ Tests:
     mahtaws<v><iv><aa><p2><pl> : kemahtawsihemo
     maxkil<v><iv><aa><p2><pl> : kemaxkilihemo
     tolhukwen<v><iv><aa><p2><pl> : ktolhukwenihemo
-    tolemuxw<v><iv><aa><p2><pl> :  ktolemuxwehemo
+    tolemuxw<v><iv><aa><p2><pl> : ktolemuxwehemo
     ohelemamehel<v><iv><aa><p2><pl> : kohelemamehelahemo
 
   "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p3.pl":
@@ -1763,3 +1763,101 @@ Tests:
     tolhukwen<v><iv><aa><p3><pl> : tolhukweniyok
     tolemuxw<v><iv><aa><p3><pl> : tolemuxweneyo
     ohelemamehel<v><iv><aa><p3><pl> : ohelemameleyok
+  
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p1":
+    takohkat<v><iv><aa><p1><sg> : ntakohkata
+    nisksit<v><iv><aa><p1><sg> : nisksita
+    pimtelinkw<v><iv><aa><p1><sg> : mpimtelinkwa
+    wetemalis<v><iv><aa><p1><sg> : newetamamalisi
+    ohelemakil<v><iv><aa><p1><sg> : nohelemakil
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p1":
+    payaxkh<v><iv><aa><p1><sg> : mpayaxkhasi
+    kshik<v><iv><aa><p1><sg> : nkeshiki
+    aholuken<v><iv><aa><p1><sg> : ntaholuken
+    chipinakws<v><iv><aa><p1><sg> : nchipinakwsi
+    welalew<v><iv><aa><p1><sg> : newelalewa
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p2.sg":
+    takohkat<v><iv><aa><p2><sg> : ktakohkata
+    nisksit<v><iv><aa><p2><sg> : kenisksita
+    pimtelinkw<v><iv><aa><p2><sg> : kpimtelinkwa
+    wetemalis<v><iv><aa><p2><sg> : kewetamamalisi
+    ohelemakil<v><iv><aa><p2><sg> : kohelemakil
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p2.sg":
+    payaxkh<v><iv><aa><p2><sg> : kpayaxkhasi
+    kshik<v><iv><aa><p2><sg> : kshiki
+    aholuken<v><iv><aa><p2><sg> : ktaholuken
+    chipinakws<v><iv><aa><p2><sg> : kchipinakwsi
+    welalew<v><iv><aa><p2><sg> : kewelalaewa
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p3.sg":
+    takohkat<v><iv><aa><p3><sg> : takohkate
+    nisksit<v><iv><aa><p3><sg> : nisksite
+    pimtelinkw<v><iv><aa><p3><sg> : pimtelinkwe
+    wetemalis<v><iv><aa><p3><sg> : wetamamalisu
+    ohelemakil<v><iv><aa><p3><sg> : ohelemakil
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p3.sg":
+    payaxkh<v><iv><aa><p3><sg> : payaxkhasu
+    kshik<v><iv><aa><p3><sg> : kshiki
+    aholuken<v><iv><aa><p3><sg> : aholuken
+    chipinakws<v><iv><aa><p3><sg> : chipinakwsu
+    welalew<v><iv><aa><p3><sg> : welalewe
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p1.excl.pl":
+    takohkat<v><iv><aa><p1><excl><pl> : ntakohkatahena
+    nisksit<v><iv><aa><p1><excl><pl> : nisksitahena
+    pimtelinkw<v><iv><aa><p1><excl><pl> : mpimtelinkwahena
+    wetemalis<v><iv><aa><p1><excl><pl> : newetamamalisihena
+    ohelemakil<v><iv><aa><p1><excl><pl> : nohelemakilhena
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p1.excl.pl":
+    payaxkh<v><iv><aa><p1><excl><pl> : mpayaxkhasihena
+    kshik<v><iv><aa><p1><excl><pl> : nkeshikihena
+    aholuken<v><iv><aa><p1><excl><pl> : ntaholukenahena
+    chipinakws<v><iv><aa><p1><excl><pl> : nchipinakwsihena
+    welalew<v><iv><aa><p1><excl><pl> : newelalewahena
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p1.incl.pl": 
+    takohkat<v><iv><aa><p1><incl><pl> :  ktakohkatahena
+    nisksit<v><iv><aa><p1><incl><pl> : kenisksitahena
+    pimtelinkw<v><iv><aa><p1><incl><pl> : kpimtelinkwahena
+    wetemalis<v><iv><aa><p1><incl><pl> : kewetamamalisihena
+    ohelemakil<v><iv><aa><p1><incl><pl> : kohelemakilhena
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p1.incl.pl": 
+    payaxkh<v><iv><aa><p1><incl><pl> :  kpayaxkhasihena
+    kshik<v><iv><aa><p1><incl><pl> : keshikihena
+    aholuken<v><iv><aa><p1><incl><pl> : ktaholukenahena
+    chipinakws<v><iv><aa><p1><incl><pl> : kchipinakwsihena
+    welalew<v><iv><aa><p1><incl><pl> : kewelalewahena
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p2.pl":
+    takohkat<v><iv><aa><p2><pl> : ktakohkatahemo
+    nisksit<v><iv><aa><p2><pl> : kenisksitahemo
+    pimtelinkw<v><iv><aa><p2><pl> : kpimtelinkwahemo
+    wetemalis<v><iv><aa><p2><pl> :  kewetamamalisihemo
+    ohelemakil<v><iv><aa><p2><pl> : kohelemakilhemo
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p2.pl":
+    payaxkh<v><iv><aa><p2><pl> : kpayaxkhasihemo
+    kshik<v><iv><aa><p2><pl> : keshikihemo
+    aholuken<v><iv><aa><p2><pl> : ktaholukenahemo
+    chipinakws<v><iv><aa><p2><pl> : kchipinakwsihemo
+    welalew<v><iv><aa><p2><pl> : kewelalewahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p3.pl":
+    takohkats<v><iv><aa><p3><pl> : takohkateyok
+    nisksit<v><iv><aa><p3><pl> : nisksiteyok
+    pimtelinkw<v><iv><aa><p3><pl> : pimtelinkweyok
+    wetemalis<v><iv><aa><p3><pl> : wetamamalisuwak
+    ohelemakil<v><iv><aa><p3><pl> : ohelemakileyok
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p3.pl":
+    payaxkh<v><iv><aa><p3><pl> : payaxkhasuwak
+    kshik<v><iv><aa><p3><pl> : kshikiyok
+    aholuken<v><iv><aa><p3><pl> : aholukeneyok
+    chipinakws<v><iv><aa><p3><pl> : chipinakwsuwak
+    welalew<v><iv><aa><p3><pl> : welaleweyok
