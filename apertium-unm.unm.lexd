@@ -287,6 +287,12 @@ ahshikan:ahshikan       # "sock"
 lokens:lokens           # "plate"
 ehukwenk:ehukwenk       # "necklace"
 tepinxkepi:tepinxkepi   # "bracelet"
+mokel:mokel             # "hammer"
+
+LEXICON NounRoot-Family(2)
+
+# Vocative          Possessive stem
+ana:ana             kahes:kahes         # "mother"
 
 
 LEXICON VerbRootAI(2)
@@ -349,6 +355,14 @@ shixukwe:shixukwe       <iv><aa> # "wash one's hair"
 shixhems:shixhemps{Æ}   <iv><aa> # "wash clothes"
 
 
+# Lesson 20
+
+alai:{t}alai            <iv><aa> # "hunt"
+wik:wik{IU}             <iv><aa> # "to dwell"
+weskahp:weskahp{IU}     <iv><aa> # "be born"
+ahchinkx:ahchinkx{IE}   <iv><aa> # "be stubborn/disobedient"
+
+
 LEXICON VerbRootTI(2)
 
 tankhitu:t{A}nkhitu     <tv><nn> # "lose"
@@ -358,12 +372,18 @@ kaxksem:k{A}xksem       <tv><nn> # "dry"
 kwetkenem:kwetkenem     <tv><nn> # "return it"
 kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
 
+# Lesson 20
+
+meshatam:m{w}eshatam    <tv><nn> # "remember it"
+
 
 LEXICON VerbRootTA(2)
 
 mil:mil                 <tv><aa> # "give"
 new:new                 <tv><aa> # "see"
 
+# Lesson 20
+nachih:nachih           <tv><aa> # "bother someone"
 
 LEXICON AdjLex
 
@@ -406,8 +426,8 @@ LEXICON Pronouns(2)
 
 nën:nën         <dem><dist><nn><sg>
 nàn:nàn         <dem><dist><aa><sg>
-awen:awen       <itg>                   # "who"
-keku:keku       <itg>                   # "what"
+awèn:awèn       <itg>                   # "who"
+kèku:kèku       <itg>                   # "what"
 
 LEXICON AdvLex
 
@@ -423,11 +443,17 @@ kahti:kahti     # "almost"
 sòmi:sòmi       # "very"
 
 xu:xu           # [future]
+mechi:mechi     # "already" / [perfect]
+xàntki:xàntki   # "finally"
+lekhikwi:lekhikwi # "at this time"
+tamse:tamse     # "sometimes"
+àpchi:àpchi     # "always"
 
 LEXICON CnjLex(2)
 
 òk:òk       <cnjcoo>      # "and"
 èli:èli     <cnjsub>      # "because"
+tili:tili   <cnjsub>      # "that"
 
 LEXICON Prepositions
 
