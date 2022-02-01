@@ -12,13 +12,13 @@ Tests:
     
   "[lexc/twol] (Ch14) iv.aa.local p2.o_pl":
     ahol<v><tv><aa><local><p2><pl><o_pl>: ktaholihena           #This form might be optional interpretation as pl subject?
-
+                                                                #appears to be 2p sg? (Pg 18, 37, 38 of thesis)
   "[lexc/twol] (Ch14) iv.aa.local p1.o_sg":
     ahol<v><tv><aa><local><p1><sg><o_sg>: ktaholel
     ahol<v><tv><aa><local><p1><sg><o_pl>: ktaholelhumo
-    ahol<v><tv><aa><local><p1><pl><o_pl>: ktaholelhumo
-
-  "[lexc/twol] (Ch14) iv.aa.local p1.o_pl":
+    ahol<v><tv><aa><local><p1><pl><o_pl>: ktaholelhumena        #List of possibly helpful pages from the grammar
+                                                                #29, 34, 35, 83, 91, 110, 136, 186
+  "[lexc/twol] (Ch14) iv.aa.local p1.o_pl":       
     ahol<v><tv><aa><local><p1><pl><o_pl>: ktahaleluhena
     
     
