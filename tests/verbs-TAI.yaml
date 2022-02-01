@@ -56,11 +56,8 @@ Tests:
 
   "[lexc/twol] (Ch14) tv.aa.inv p3.s_pl":
     mil<v><tv><aa><inv><p3><sg><s_pl>: mwilkuwoo
-    mil<v><tv><aa><inv><p3><pl><s_pl>: mwilkuwoo
     new<v><tv><aa><inv><p3><sg><s_pl> : wenekuwoo
-    new<v><tv><aa><inv><p3><pl><s_pl> : wenekuwoo
     ulhal<v><tv><aa><inv><p3><sg><s_pl> : wulhalkuwoo
-    ulhal<v><tv><aa><inv><p3><pl><s_pl> : wulhalkuwoo
 
   "[lexc/twol] (Ch17) tv.aa.inv p1.s_sg":
     ahol<v><tv><aa><inv><p1><sg><s_sg> : ntaholukw
