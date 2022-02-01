@@ -1861,3 +1861,73 @@ Tests:
     aholuken<v><iv><aa><p3><pl> : aholukeneyok
     chipinakws<v><iv><aa><p3><pl> : chipinakwsuwak
     welalew<v><iv><aa><p3><pl> : welaleweyok
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p1":
+    shenkixi<v><iv><aa><p1><sg> : nshenkixi
+    kwenekat<v><iv><aa><p1><sg> : nkwenekata
+    kwenalew<v><iv><aa><p1><sg> : nkwenalewa
+    aspaluwexw<v><iv><aa><p1><sg> : ntaspaluwexwa
+    pechinkwehel<v><iv><aa><p1><sg> : mpechinkwehela
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p1":
+    peminehik<v><iv><aa><p1><sg> : mpeminehika
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p2.sg":
+    shenkixi<v><iv><aa><p2><sg> : kshenkixi
+    kwenekat<v><iv><aa><p2><sg> : kwenekata
+    kwenalew<v><iv><aa><p2><sg> : kwenalewa
+    aspaluwexw<v><iv><aa><p2><sg> : ktaspaluwexwa
+    pechinkwehel<v><iv><aa><p2><sg> : kpechinkwehela
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p2.sg":
+    peminehik<v><iv><aa><p2><sg> : kpeminehika
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p3.sg":
+    shenkixi<v><iv><aa><p3><sg> : shenkixi
+    kwenekat<v><iv><aa><p3><sg> : kwenekate
+    kwenalew<v><iv><aa><p3><sg> : kwenalewe
+    aspaluwexw<v><iv><aa><p3><sg> : aspaluwexwe
+    pechinkwehel<v><iv><aa><p3><sg> : pechinkwehele
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p3.sg":
+    peminehik<v><iv><aa><p3><sg> : peminehike
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p1.excl.pl":
+    shenkixi<v><iv><aa><p1><excl><pl> : nshenkixihena
+    kwenekat<v><iv><aa><p1><excl><pl> : nkwenekatahena
+    kwenalew<v><iv><aa><p1><excl><pl> : nkwenalewahena
+    aspaluwexw<v><iv><aa><p1><excl><pl> : ntaspaluwexwahena
+    pechinkwehel<v><iv><aa><p1><excl><pl> : mpechinkwehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p1.excl.pl":
+    peminehik<v><iv><aa><p1><excl><pl> : mpeminehikahena
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p1.incl.pl": 
+    shenkixi<v><iv><aa><p1><incl><pl> :  kshenkixihena
+    kwenekat<v><iv><aa><p1><incl><pl> : kwenekatahena
+    kwenalew<v><iv><aa><p1><incl><pl> : kwenalewahena
+    aspaluwexw<v><iv><aa><p1><incl><pl> : ktaspaluwexwa
+    pechinkwehel<v><iv><aa><p1><incl><pl> : kpechinkwehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p1.incl.pl": 
+    peminehik<v><iv><aa><p1><incl><pl> :  kpeminehikahena
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p2.pl":
+    shenkixi<v><iv><aa><p2><pl> : kshenkixihemo
+    kwenekat<v><iv><aa><p2><pl> : kwenekatahemo
+    kwenalew<v><iv><aa><p2><pl> : kwenalewahemo
+    aspaluwexw<v><iv><aa><p2><pl> : ktaspaluwexwahemo
+    pechinkwehel<v><iv><aa><p2><pl> : kpechinkwehelahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p2.pl":
+    peminehik<v><iv><aa><p2><pl> : kpeminehikahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p3.pl":
+    shenkixi<v><iv><aa><p3><pl> : shenkixinuk
+    kwenekat<v><iv><aa><p3><pl> : kwenekateyok
+    kwenalew<v><iv><aa><p3><pl> : kwenaleweyok
+    aspaluwexw<v><iv><aa><p3><pl> : aspaluwexweyok
+    pechinkwehel<v><iv><aa><p3><pl> : pechninkweheleyok
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p3.pl":
+    peminehik<v><iv><aa><p3><pl> : peminehikeyok
