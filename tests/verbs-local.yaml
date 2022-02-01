@@ -6,19 +6,20 @@ Config:
 
 Tests:
   
-  "[lexc/twol] (Ch14) iv.aa.local p2.s_sg":
-    ahol<v><tv><aa><local><p2><sg><s_sg>: ktaholi
-    ahol<v><tv><aa><local><p2><pl><s_sg>: ktaholihemo
+  "[lexc/twol] (Ch14) iv.aa.local p2.o_sg":                 #in the thesis, it refers to I/me in these cases as object
+    ahol<v><tv><aa><local><p2><sg><o_sg>: ktaholi           #so I took that approach in labeling them here
+    ahol<v><tv><aa><local><p2><pl><o_sg>: ktaholihemo
     
-  "[lexc/twol] (Ch14) iv.aa.local p2.s_pl":
-    ahol<v><tv><aa><local><p2><pl><s_pl>: ktaholihena           #this form optional interpretation of you all? Check grammar
+  "[lexc/twol] (Ch14) iv.aa.local p2.o_pl":
+    ahol<v><tv><aa><local><p2><pl><o_pl>: ktaholihena           #This form might be optional interpretation as pl subject?
 
-  "[lexc/twol] (Ch14) iv.aa.local p1.s_sg":
-    ahol<v><tv><aa><local><p1><sg><s_sg>: ktaholel
-    ahol<v><tv><aa><local><p1><sg><s_pl>: ktaholelhumo
+  "[lexc/twol] (Ch14) iv.aa.local p1.o_sg":
+    ahol<v><tv><aa><local><p1><sg><o_sg>: ktaholel
+    ahol<v><tv><aa><local><p1><sg><o_pl>: ktaholelhumo
+    ahol<v><tv><aa><local><p1><pl><o_pl>: ktaholelhumo
 
-  "[lexc/twol] (Ch14) iv.aa.local p1.s_pl":
-    ahol<v><tv><aa><local><p1><pl><s_pl>: ktahaleluhena
+  "[lexc/twol] (Ch14) iv.aa.local p1.o_pl":
+    ahol<v><tv><aa><local><p1><pl><o_pl>: ktahaleluhena
     
     
 
