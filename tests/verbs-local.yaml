@@ -1,0 +1,24 @@
+Config:
+  hfst:
+    App: hfst-optimised-lookup
+    Gen: ../unm.autogen.hfst
+    Morph: ../unm.automorf.hfst
+
+Tests:
+  
+  "[lexc/twol] (Ch14) iv.aa.local p2.s_sg":
+    ahol<v><tv><aa><local><p2><sg><s_sg>: ktaholi
+    ahol<v><tv><aa><local><p2><pl><s_sg>: ktaholihemo
+    
+  "[lexc/twol] (Ch14) iv.aa.local p2.s_pl":
+    ahol<v><tv><aa><local><p2><pl><s_pl>: ktaholihena           #this form optional interpretation of you all? Check grammar
+
+  "[lexc/twol] (Ch14) iv.aa.local p1.s_sg":
+    ahol<v><tv><aa><local><p1><sg><s_sg>: ktaholel
+    ahol<v><tv><aa><local><p1><sg><s_pl>: ktaholelhumo
+
+  "[lexc/twol] (Ch14) iv.aa.local p1.s_pl":
+    ahol<v><tv><aa><local><p1><pl><s_pl>: ktahaleluhena
+    
+    
+
