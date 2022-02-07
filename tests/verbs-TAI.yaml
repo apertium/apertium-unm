@@ -826,11 +826,23 @@ Tests:
     kiikam<v><tv><aa><inv><p1><sg><s_sg> : nkiikamakw
     kiikam<v><tv><aa><inv><p1><pl><s_sg> : nkiikamkuk
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.inv p1.s_sg":
+    nenust<v><tv><aa><inv><p1><sg><s_sg> : nenustakw
+    nenust<v><tv><aa><inv><p1><pl><s_sg> : nenustakuk
+    nikanit<v><tv><aa><inv><p1><sg><s_sg> : nikanitakw
+    nikanit<v><tv><aa><inv><p1><pl><s_sg> : nikanitakuk
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.inv p2.s_sg":
     maxk<v><tv><aa><inv><p2><sg><s_sg> : kemaxkakw
     maxk<v><tv><aa><inv><p2><sg><s_pl> : kemaxkkuk
     kiikam<v><tv><aa><inv><p2><sg><s_sg> : kiikamakw
     kiikam<v><tv><aa><inv><p2><sg><s_pl> : kiikamkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.inv p2.s_sg":
+    nenust<v><tv><aa><inv><p2><sg><s_sg> : knenustakw
+    nenust<v><tv><aa><inv><p2><sg><s_pl> : knenustakuk
+    nikanit<v><tv><aa><inv><p2><sg><s_sg> : knikanitakw
+    nikanit<v><tv><aa><inv><p2><sg><s_pl> : knikanitakuk
 
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.inv p3.s_sg":
     maxk<v><tv><aa><inv><p3><sg><s_sg> : maxkku
@@ -838,11 +850,23 @@ Tests:
     kiikam<v><tv><aa><inv><p3><sg><s_sg> : kiikamku
     kiikam<v><tv><aa><inv><p3><pl><s_sg> : kiikamku
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.inv p3.s_sg":
+    nenust<v><tv><aa><inv><p3><sg><s_sg> : nenustaku
+    nenust<v><tv><aa><inv><p3><pl><s_sg> : nenustaku
+    nikanit<v><tv><aa><inv><p3><sg><s_sg> : nikanitaku
+    nikanit<v><tv><aa><inv><p3><pl><s_sg> : nikanitaku
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.inv p1.excl.s_pl":
     maxk<v><tv><aa><inv><p1><excl><sg><s_pl> : nemaxkkuna
     maxk<v><tv><aa><inv><p1><excl><pl><s_pl> : nemaxkkunanak
     kiikam<v><tv><aa><inv><p1><excl><sg><s_pl> : nkiikamkuna
     kiikam<v><tv><aa><inv><p1><excl><pl><s_pl> : nkiikamkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.inv p1.excl.s_pl":
+    nenust<v><tv><aa><inv><p1><excl><sg><s_pl> : nenustakuna
+    nenust<v><tv><aa><inv><p1><excl><pl><s_pl> : nenustakunanak
+    nikanit<v><tv><aa><inv><p1><excl><sg><s_pl> : nikanitakuna
+    nikanit<v><tv><aa><inv><p1><excl><pl><s_pl> : nikanitakunanak
 
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.inv p1.incl.s_pl":
     maxk<v><tv><aa><inv><p1><incl><sg><s_pl> : kemaxkkuna
@@ -850,12 +874,108 @@ Tests:
     kiikam<v><tv><aa><inv><p1><incl><sg><s_pl> : kiikamkuna
     kiikam<v><tv><aa><inv><p1><incl><pl><s_pl> : kiikamkunanak
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.inv p1.incl.s_pl":
+    nenust<v><tv><aa><inv><p1><incl><sg><s_pl> : knenustakuna
+    nenust<v><tv><aa><inv><p1><incl><pl><s_pl> : knenustakunanak
+    nikanit<v><tv><aa><inv><p1><incl><sg><s_pl> : knikanitakuna
+    nikanit<v><tv><aa><inv><p1><incl><pl><s_pl> : knikanitakunanak
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.inv p2.s_pl":
     maxk<v><tv><aa><inv><p2><sg><s_pl> : kemaxkkuwa
     maxk<v><tv><aa><inv><p2><pl><s_pl> : kemaxkkuwaok
     kiikam<v><tv><aa><inv><p2><sg><s_pl> : kiikamkuwa
     kiikam<v><tv><aa><inv><p2><pl><s_pl> : kiikamkuwaok
 
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.inv p2.s_pl":
+    nenust<v><tv><aa><inv><p2><sg><s_pl> : knenustakuwa
+    nenust<v><tv><aa><inv><p2><pl><s_pl> : knenustakuwaok
+    nikanit<v><tv><aa><inv><p2><sg><s_pl> : knikanitakuwa
+    nikanit<v><tv><aa><inv><p2><pl><s_pl> : knikanitakuwaok
+
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.inv p3.pl":
     maxk<v><tv><aa><inv><p3><pl> : maxkawoo
     kiikam<v><tv><aa><inv><p3><pl> : kiikamkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.inv p3.pl":
+    nenust<v><tv><aa><inv><p3><pl> : nenustakuwoo
+    nikanit<v><tv><aa><inv><p3><pl> : nikanitakuwoo
+
+ "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p1.s_sg":
+    tokim<v><tv><aa><inv><p1><sg><s_sg> : ntokimakw
+    tokim<v><tv><aa><inv><p1><pl><s_sg> : ntokimkuk
+    winkal<v><tv><aa><inv><p1><sg><s_sg> : newinkalakw
+    winkal<v><tv><aa><inv><p1><pl><s_sg> : newinkalkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p1.s_sg":
+    nal<v><tv><aa><inv><p1><sg><s_sg> : nalakw
+    nal<v><tv><aa><inv><p1><pl><s_sg> : nalkuk
+    nihel<v><tv><aa><inv><p1><sg><s_sg> : nihelakw
+    nihel<v><tv><aa><inv><p1><pl><s_sg> : nihelkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p2.s_sg":
+    tokim<v><tv><aa><inv><p2><sg><s_sg> : ktokimakw
+    tokim<v><tv><aa><inv><p2><sg><s_pl> : ktokimkuk
+    winkal<v><tv><aa><inv><p2><sg><s_sg> : kewinkalakw
+    winkal<v><tv><aa><inv><p2><sg><s_pl> : kewinkalkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p2.s_sg":
+    nal<v><tv><aa><inv><p2><sg><s_sg> : knalakw
+    nal<v><tv><aa><inv><p2><sg><s_pl> : knalkuk
+    nihel<v><tv><aa><inv><p2><sg><s_sg> : knihelakw
+    nihel<v><tv><aa><inv><p2><sg><s_pl> : knihelkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p3.s_sg":
+    tokim<v><tv><aa><inv><p3><sg><s_sg> : tokimku
+    tokim<v><tv><aa><inv><p3><pl><s_sg> : tokimku
+    winkal<v><tv><aa><inv><p3><sg><s_sg> : winkalku
+    winkal<v><tv><aa><inv><p3><pl><s_sg> : winkalku
+
+  "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p3.s_sg":
+    nal<v><tv><aa><inv><p3><sg><s_sg> : nolku
+    nal<v><tv><aa><inv><p3><pl><s_sg> : nolku
+    nihel<v><tv><aa><inv><p3><sg><s_sg> : knihelakw
+    nihel<v><tv><aa><inv><p3><pl><s_sg> : knihelkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p1.excl.s_pl":
+    tokim<v><tv><aa><inv><p1><excl><sg><s_pl> : ntokimkuna
+    tokim<v><tv><aa><inv><p1><excl><pl><s_pl> : ntokimkunanak
+    winkal<v><tv><aa><inv><p1><excl><sg><s_pl> : newinkalkuna
+    winkal<v><tv><aa><inv><p1><excl><pl><s_pl> : newinkalkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p1.excl.s_pl":
+    nal<v><tv><aa><inv><p1><excl><sg><s_pl> : nalkuna
+    nal<v><tv><aa><inv><p1><excl><pl><s_pl> : nalkunanak
+    nihel<v><tv><aa><inv><p1><excl><sg><s_pl> : nihelkuna
+    nihel<v><tv><aa><inv><p1><excl><pl><s_pl> : nihelkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p1.incl.s_pl":
+    tokim<v><tv><aa><inv><p1><incl><sg><s_pl> : ktokimkuna
+    tokim<v><tv><aa><inv><p1><incl><pl><s_pl> : ktokimkunanak
+    winkal<v><tv><aa><inv><p1><incl><sg><s_pl> : kewinkalkuna
+    winkal<v><tv><aa><inv><p1><incl><pl><s_pl> : kewinkalkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p1.incl.s_pl":
+    nal<v><tv><aa><inv><p1><incl><sg><s_pl> : knalkuna
+    nal<v><tv><aa><inv><p1><incl><pl><s_pl> : knalkunanak
+    nihel<v><tv><aa><inv><p1><incl><sg><s_pl> : knihelkuna
+    nihel<v><tv><aa><inv><p1><incl><pl><s_pl> : knihelkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p2.s_pl":
+    tokim<v><tv><aa><inv><p2><sg><s_pl> : ktokimawa
+    tokim<v><tv><aa><inv><p2><pl><s_pl> : ktokimawaok
+    winkal<v><tv><aa><inv><p2><sg><s_pl> : kewinkalkuwa
+    winkal<v><tv><aa><inv><p2><pl><s_pl> : kewinkalkuwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p2.s_pl":
+    nal<v><tv><aa><inv><p2><sg><s_pl> : knalawa
+    nal<v><tv><aa><inv><p2><pl><s_pl> : knalawaok
+    nihel<v><tv><aa><inv><p2><sg><s_pl> : knihelawa
+    nihel<v><tv><aa><inv><p2><pl><s_pl> : knihelawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p3.pl":
+    tokim<v><tv><aa><inv><p3><pl> : tokimawoo
+    winkal<v><tv><aa><inv><p3><pl> : winkalkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p3.pl":
+    nal<v><tv><aa><inv><p3><pl> : nolkuwoo
+    nihel<v><tv><aa><inv><p3><pl> : wenihelawoo
