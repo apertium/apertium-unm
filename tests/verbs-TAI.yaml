@@ -900,7 +900,7 @@ Tests:
     nenust<v><tv><aa><inv><p3><pl> : nenustakuwoo
     nikanit<v><tv><aa><inv><p3><pl> : nikanitakuwoo
 
- "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p1.s_sg":
+  "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.inv p1.s_sg":
     tokim<v><tv><aa><inv><p1><sg><s_sg> : ntokimakw
     tokim<v><tv><aa><inv><p1><pl><s_sg> : ntokimkuk
     winkal<v><tv><aa><inv><p1><sg><s_sg> : newinkalakw
@@ -979,3 +979,157 @@ Tests:
   "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.inv p3.pl":
     nal<v><tv><aa><inv><p3><pl> : nolkuwoo
     nihel<v><tv><aa><inv><p3><pl> : wenihelawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.inv p1.s_sg":
+    ushim<v><tv><aa><inv><p1><sg><s_sg> : nushimakw
+    ushim<v><tv><aa><inv><p1><pl><s_sg> : nushimkuk
+    payaxkh<v><tv><aa><inv><p1><sg><s_sg> : mpayaxkhakw
+    payaxkh<v><tv><aa><inv><p1><pl><s_sg> : mpayaxkhkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.inv p1.s_sg":
+    pahkaskinkweh<v><tv><aa><inv><p1><sg><s_sg> : mpahkaskinkwehakw
+    pahkaskinkweh<v><tv><aa><inv><p1><pl><s_sg> : mpahkaskinkwehkuk
+    poxin<v><tv><aa><inv><p1><sg><s_sg> : mpoxinakw
+    poxin<v><tv><aa><inv><p1><pl><s_sg> : mpoxinkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.inv p2.s_sg":
+    ushim<v><tv><aa><inv><p2><sg><s_sg> : kushimakw
+    ushim<v><tv><aa><inv><p2><sg><s_pl> : kushimkuk
+    payaxkh<v><tv><aa><inv><p2><sg><s_sg> : kpayaxkhakw
+    payaxkh<v><tv><aa><inv><p2><sg><s_pl> : kpayaxkhkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.inv p2.s_sg":
+    pahkaskinkweh<v><tv><aa><inv><p2><sg><s_sg> : kpahkaskinkwehakw
+    pahkaskinkweh<v><tv><aa><inv><p2><sg><s_pl> : kpahkaskinkwehkuk
+    poxin<v><tv><aa><inv><p2><sg><s_sg> : kpoxinakw
+    poxin<v><tv><aa><inv><p2><sg><s_pl> : kpoxinkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.inv p3.s_sg":
+    ushim<v><tv><aa><inv><p3><sg><s_sg> : ushimku
+    ushim<v><tv><aa><inv><p3><pl><s_sg> : ushimku
+    payaxkh<v><tv><aa><inv><p3><sg><s_sg> : kpayaxkhku
+    payaxkh<v><tv><aa><inv><p3><pl><s_sg> : kpayaxkhku
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.inv p3.s_sg":
+    pahkaskinkweh<v><tv><aa><inv><p3><sg><s_sg> : pahkaskinkwehku
+    pahkaskinkweh<v><tv><aa><inv><p3><pl><s_sg> : pahkaskinkwehku
+    poxin<v><tv><aa><inv><p3><sg><s_sg> : poxinku
+    poxin<v><tv><aa><inv><p3><pl><s_sg> : poxinku
+
+  "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.inv p1.excl.s_pl":
+    ushim<v><tv><aa><inv><p1><excl><sg><s_pl> : nushimkuna
+    ushim<v><tv><aa><inv><p1><excl><pl><s_pl> : nushimkunanak
+    payaxkh<v><tv><aa><inv><p1><excl><sg><s_pl> : mpayaxkhkuna
+    payaxkh<v><tv><aa><inv><p1><excl><pl><s_pl> : mpayaxkhkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.inv p1.excl.s_pl":
+    pahkaskinkweh<v><tv><aa><inv><p1><excl><sg><s_pl> : mpahkaskinkwehkuna
+    pahkaskinkweh<v><tv><aa><inv><p1><excl><pl><s_pl> : mpahkaskinkwehkunanak
+    poxin<v><tv><aa><inv><p1><excl><sg><s_pl> : mpoxinkuna
+    poxin<v><tv><aa><inv><p1><excl><pl><s_pl> : mpoxinkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.inv p1.incl.s_pl":
+    ushim<v><tv><aa><inv><p1><incl><sg><s_pl> : kushimkuna
+    ushim<v><tv><aa><inv><p1><incl><pl><s_pl> : kushimkunanak
+    payaxkh<v><tv><aa><inv><p1><incl><sg><s_pl> : kpayaxkhkuna
+    payaxkh<v><tv><aa><inv><p1><incl><pl><s_pl> : kpayaxkhkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.inv p1.incl.s_pl":
+    pahkaskinkweh<v><tv><aa><inv><p1><incl><sg><s_pl> : kpahkaskinkwehkuna
+    pahkaskinkweh<v><tv><aa><inv><p1><incl><pl><s_pl> : kpahkaskinkwehkunanak
+    poxin<v><tv><aa><inv><p1><incl><sg><s_pl> : kpoxinkuna
+    poxin<v><tv><aa><inv><p1><incl><pl><s_pl> : kpoxinkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.inv p2.s_pl":
+    ushim<v><tv><aa><inv><p2><sg><s_pl> : kushimawa
+    ushim<v><tv><aa><inv><p2><pl><s_pl> : kushimawaok
+    payaxkh<v><tv><aa><inv><p2><sg><s_pl> : kpayaxkhawa
+    payaxkh<v><tv><aa><inv><p2><pl><s_pl> : kpayaxkhawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.inv p2.s_pl":
+    pahkaskinkweh<v><tv><aa><inv><p2><sg><s_pl> : kpahkaskinkwehawa
+    pahkaskinkweh<v><tv><aa><inv><p2><pl><s_pl> : kpahkaskinkwehawaok
+    poxin<v><tv><aa><inv><p2><sg><s_pl> : kpoxinkuwa
+    poxin<v><tv><aa><inv><p2><pl><s_pl> : kpoxinkuwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.inv p3.pl":
+    ushim<v><tv><aa><inv><p3><pl> : ushimawoo
+    payaxkh<v><tv><aa><inv><p3><pl> : payaxkhkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.inv p3.pl":
+    pahkaskinkweh<v><tv><aa><inv><p3><pl> : pahkaskinkwehawoo
+    poxin<v><tv><aa><inv><p3><pl> : poxinkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.inv p1.s_sg":
+    keshinal<v><tv><aa><inv><p1><sg><s_sg> : nkeshinalakw
+    keshinal<v><tv><aa><inv><p1><pl><s_sg> : nkeshinalkuk
+    tun<v><tv><aa><inv><p1><sg><s_sg> : ntunakw
+    tun<v><tv><aa><inv><p1><pl><s_sg> : ntunkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.inv p1.s_sg":
+    kishih<v><tv><aa><inv><p1><sg><s_sg> : nkishihakw
+    kishih<v><tv><aa><inv><p1><pl><s_sg> : nkishihkuk
+    kiskh<v><tv><aa><inv><p1><sg><s_sg> : nkiskhakw
+    kiskh<v><tv><aa><inv><p1><pl><s_sg> : nkishkhkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.inv p2.s_sg":
+    keshinal<v><tv><aa><inv><p2><sg><s_sg> : keshinalakw
+    keshinal<v><tv><aa><inv><p2><sg><s_pl> : keshinalkuk
+    tun<v><tv><aa><inv><p2><sg><s_sg> : ktunakw
+    tun<v><tv><aa><inv><p2><sg><s_pl> : ktunkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.inv p2.s_sg":
+    kishih<v><tv><aa><inv><p2><sg><s_sg> : kishihakw
+    kishih<v><tv><aa><inv><p2><sg><s_pl> : kishihkuk
+    kiskh<v><tv><aa><inv><p2><sg><s_sg> : kiskhakw
+    kiskh<v><tv><aa><inv><p2><sg><s_pl> : kiskhkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.inv p3.s_sg":
+    keshinal<v><tv><aa><inv><p3><sg><s_sg> : keshinalku
+    keshinal<v><tv><aa><inv><p3><pl><s_sg> : keshinalku
+    tun<v><tv><aa><inv><p3><sg><s_sg> : tunku
+    tun<v><tv><aa><inv><p3><pl><s_sg> : tunku
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.inv p3.s_sg":
+    kishih<v><tv><aa><inv><p3><sg><s_sg> : kishihku
+    kishih<v><tv><aa><inv><p3><pl><s_sg> : kishihku
+    kiskh<v><tv><aa><inv><p3><sg><s_sg> : kiskhku
+    kiskh<v><tv><aa><inv><p3><pl><s_sg> : kiskhku
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.inv p1.excl.s_pl":
+    keshinal<v><tv><aa><inv><p1><excl><sg><s_pl> : nkeshinalkuna
+    keshinal<v><tv><aa><inv><p1><excl><pl><s_pl> : nkeshinalkunanak
+    tun<v><tv><aa><inv><p1><excl><sg><s_pl> : ntunkuna
+    tun<v><tv><aa><inv><p1><excl><pl><s_pl> : ntunkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.inv p1.excl.s_pl":
+    kishih<v><tv><aa><inv><p1><excl><sg><s_pl> : nkishihkuna
+    kishih<v><tv><aa><inv><p1><excl><pl><s_pl> : nkishihkunanak
+    kiskh<v><tv><aa><inv><p1><excl><sg><s_pl> : nkiskhkuna
+    kiskh<v><tv><aa><inv><p1><excl><pl><s_pl> : nkiskhkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.inv p1.incl.s_pl":
+    kishih<v><tv><aa><inv><p1><incl><sg><s_pl> : kishihkuna
+    kishih<v><tv><aa><inv><p1><incl><pl><s_pl> : kishihkunanak
+    kiskh<v><tv><aa><inv><p1><incl><sg><s_pl> : kiskhkuna
+    kiskh<v><tv><aa><inv><p1><incl><pl><s_pl> : kiskhkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.inv p2.s_pl":
+    keshinal<v><tv><aa><inv><p2><sg><s_pl> : keshinalawa
+    keshinal<v><tv><aa><inv><p2><pl><s_pl> : keshinalawaok
+    tun<v><tv><aa><inv><p2><sg><s_pl> : ktunawa
+    tun<v><tv><aa><inv><p2><pl><s_pl> : ktunawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.inv p2.s_pl":
+    kishih<v><tv><aa><inv><p2><sg><s_pl> : kishihkuwa
+    kishih<v><tv><aa><inv><p2><pl><s_pl> : kishikuwaok
+    kiskh<v><tv><aa><inv><p2><sg><s_pl> : kiskhawa
+    kiskh<v><tv><aa><inv><p2><pl><s_pl> : kiskhawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.inv p3.pl":
+    keshinal<v><tv><aa><inv><p3><pl> : keshinalkuwoo
+    tun<v><tv><aa><inv><p3><pl> : tunkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.inv p3.pl":
+    kishih<v><tv><aa><inv><p3><pl> : kishihkuwoo
+    kiskh<v><tv><aa><inv><p3><pl> : kiskhkuwoo
