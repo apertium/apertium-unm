@@ -35,6 +35,10 @@ PATTERNS
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
+NounRoot-Family(1) [ <n><voc>: ]
+
+N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3):
+
 # Intransitive
 :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
 # Transitive Inanimate
@@ -201,6 +205,13 @@ LEXICON VerbInflTA(3)
 :{w}       >ku>w>oo         <inv><p3><pl>
 
 
+LEXICON N-Poss(3)
+
+:{N}{e}>   :                <px1sg>
+:{k}{e}>   :                <px2sg>
+:{N}{e}>   :>ena            <px1plincl>
+:{k}{e}>   :>ena            <px1plexcl>
+
 
 PATTERN DetRoot
 
@@ -293,6 +304,14 @@ LEXICON NounRoot-Family(2)
 
 # Vocative          Possessive stem
 ana:ana             kahes:kahes         # "mother"
+nuxa:nuxa           ux:ux             # "father"
+nkwis:nkwis         kwis:kwis         # "son"
+nichan:nichan       ichan:ichan       # "daughter"
+uma:uma             uhem:uhem           # "grandmother"
+mëxumsa:mëxumsa     mëxumes:mëxumes     # "grandfather"
+xatash:xatash       mis:mis             # "older sister"
+xansa:xansa         xans:xans           # "older brother"
+naxisemes:naxisemes xisemes:xisemes # "younger sister/brother/cousin"
 
 
 LEXICON VerbRootAI(2)
@@ -344,6 +363,14 @@ pus:pus{IU}             <iv><aa> # "get into a boat"
 shielintam:shielintam   <iv><aa> # "be sad"
 lelintam:{W}{e}lelintam <iv><aa> # "be glad"   ! FIXME
 
+# Lesson 10
+
+a:{Æ}                   <iv><aa> # "go"
+pa:p{Æ}                 <iv><aa> # "come"
+welinakws:welinakws     <iv><aa> # "look good"
+um:um                   <iv><aa> # "come from"
+watu:watu               <iv><aa> # "know something"
+
 # Lesson 18
 
 mikëmòs:mikëmòs{IU}     <iv><aa> # "work"
@@ -371,6 +398,11 @@ kaxksem:k{A}xksem       <tv><nn> # "dry"
 
 kwetkenem:kwetkenem     <tv><nn> # "return it"
 kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
+
+# Lesson 10
+watun:watun             <tv><nn> # "know/know about it"
+lamhitam:lamhitam       <tv><nn> # "believe it"
+tatun:tatun             <tv><nn> # "put/place it"
 
 # Lesson 20
 
