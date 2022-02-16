@@ -130,10 +130,10 @@ Tests:
     xam<v><tv><aa><dir><p1><incl><pl><o_pl> : ktaxamawenanak
 
   "[lexc/twol] (Ch18) tv.aa.dir p2.pl":
-    wichem<v><tv><aa><dir><p2><pl><o_pl> : kewichemawa
-    wichem<v><tv><aa><dir><p2><pl><o_sg> : kewichemawaok
-    xam<v><tv><aa><dir><p2><pl><o_pl> : ktaxamawa
-    xam<v><tv><aa><dir><p2><pl><o_sg> : ktaxamawaok
+    wichem<v><tv><aa><dir><p2><pl><o_sg> : kewichemawa
+    wichem<v><tv><aa><dir><p2><pl><o_pl> : kewichemawaok
+    xam<v><tv><aa><dir><p2><pl><o_sg> : ktaxamawa
+    xam<v><tv><aa><dir><p2><pl><o_pl> : ktaxamawaok
 
   "[lexc/twol] (Ch18) tv.aa.dir p3.pl":
     wichem<v><tv><aa><dir><p3><pl> : wichemawao
@@ -190,10 +190,10 @@ Tests:
     nachih<v><tv><aa><dir><p1><incl><pl><o_pl> : kenachihawenanak
 
   "[lexc/twol] (Ch19) tv.aa.dir p2.pl":
-    tel<v><tv><aa><dir><p2><pl><o_pl> : ktelawa
-    tel<v><tv><aa><dir><p2><pl><o_sg> : ktelawaok
-    ahel<v><tv><aa><dir><p2><pl><o_pl> : ktahelawa
-    ahel<v><tv><aa><dir><p2><pl><o_sg> : ktahelawaok
+    tel<v><tv><aa><dir><p2><pl><o_sg> : ktelawa
+    tel<v><tv><aa><dir><p2><pl><o_pl> : ktelawaok
+    ahel<v><tv><aa><dir><p2><pl><o_sg> : ktahelawa
+    ahel<v><tv><aa><dir><p2><pl><o_pl> : ktahelawaok
 
   "[lexc/twol] (Ch20) tv.aa.dir p2.pl":
     nachih<v><tv><aa><dir><p2><pl><o_pl> : kenachihawa
@@ -257,10 +257,10 @@ Tests:
     wichem<v><tv><aa><dir><p2><pl><o_sg> : kewichemawaok
 
   "[lexc/twol] (Ch22) tv.aa.dir p2.pl":
-    wixem<v><tv><aa><dir><p2><pl><o_pl> : kewixenawa
-    wixem<v><tv><aa><dir><p2><pl><o_sg> : kewixenawaok
-    naol<v><tv><aa><dir><p2><pl><o_pl> : knaolawa
-    naol<v><tv><aa><dir><p2><pl><o_sg> : knaolawaok
+    wixem<v><tv><aa><dir><p2><pl><o_sg> : kewixenawa
+    wixem<v><tv><aa><dir><p2><pl><o_pl> : kewixenawaok
+    naol<v><tv><aa><dir><p2><pl><o_sg> : knaolawa
+    naol<v><tv><aa><dir><p2><pl><o_pl> : knaolawaok
 
   "[lexc/twol] (Ch21) tv.aa.dir p3.pl":
     wichem<v><tv><aa><dir><p3><pl> : wichemawao
@@ -290,8 +290,8 @@ Tests:
     uwah<v><tv><aa><dir><p1><incl><pl><o_pl> : kuwahawenanak
 
   "[lexc/twol] (Ch23) tv.aa.dir p2.pl":
-    uwah<v><tv><aa><dir><p2><pl><o_pl> : kuwahawa
-    uwah<v><tv><aa><dir><p2><pl><o_sg> : kuwahawaok
+    uwah<v><tv><aa><dir><p2><pl><o_sg> : kuwahawa
+    uwah<v><tv><aa><dir><p2><pl><o_pl> : kuwahawaok
 
   "[lexc/twol] (Ch23) tv.aa.dir p3.pl":
     uwah<v><tv><aa><dir><p3><pl> : uwahawoo
@@ -363,10 +363,10 @@ Tests:
     oshim<v><tv><aa><dir><p2><pl><o_sg> : koshimawaok
 
   "[lexc/twol] (Swat Verb Resources Group 2) tv.aa.dir p2.pl":
-    kox<v><tv><aa><dir><p2><pl><o_pl> : koxawa
-    kox<v><tv><aa><dir><p2><pl><o_sg> : koxawaok
-    aken<v><tv><aa><dir><p2><pl><o_pl> : ktakenawwa
-    aken<v><tv><aa><dir><p2><pl><o_sg> : ktakenawwaok
+    kox<v><tv><aa><dir><p2><pl><o_sg> : koxawa
+    kox<v><tv><aa><dir><p2><pl><o_pl> : koxawaok
+    aken<v><tv><aa><dir><p2><pl><o_sg> : ktakenawwa   #"ww" may be error?
+    aken<v><tv><aa><dir><p2><pl><o_pl> : ktakenawwaok
 
   "[lexc/twol] (Swat Verb Resources Group 1) tv.aa.dir p3.pl":
     moho<v><tv><aa><dir><p3><pl> : mohowoo #pl object written differently than sg, but perhaps error?
@@ -437,16 +437,16 @@ Tests:
     putal<v><tv><aa><dir><p1><incl><pl><o_pl> : kputalawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p2.pl":
-    pihpent<v><tv><aa><dir><p2><pl><o_pl> : kpihpentawa
-    pihpent<v><tv><aa><dir><p2><pl><o_sg> : kpihpentawaok
-    toxta<v><tv><aa><dir><p2><pl><o_pl> : ktoxtawa
-    toxta<v><tv><aa><dir><p2><pl><o_sg> : ktoxtawaok
+    pihpent<v><tv><aa><dir><p2><pl><o_sg> : kpihpentawa
+    pihpent<v><tv><aa><dir><p2><pl><o_pl> : kpihpentawaok
+    toxta<v><tv><aa><dir><p2><pl><o_sg> : ktoxtawa
+    toxta<v><tv><aa><dir><p2><pl><o_pl> : ktoxtawaok
 
   "[lexc/twol] (Swat Verb Resources Group 4) tv.aa.dir p2.pl":
-    pimohal<v><tv><aa><dir><p2><pl><o_pl> : kpimohalawa
-    pimohal<v><tv><aa><dir><p2><pl><o_sg> : kpimohalawaok
-    putal<v><tv><aa><dir><p2><pl><o_pl> : kputalawa
-    putal<v><tv><aa><dir><p2><pl><o_sg> : ktoxtawaok
+    pimohal<v><tv><aa><dir><p2><pl><o_sg> : kpimohalawa
+    pimohal<v><tv><aa><dir><p2><pl><o_pl> : kpimohalawaok
+    putal<v><tv><aa><dir><p2><pl><o_sg> : kputalawa
+    putal<v><tv><aa><dir><p2><pl><o_pl> : ktoxtawaok
 
   "[lexc/twol] (Swat Verb Resources Group 3) tv.aa.dir p3.pl":
     pihpent<v><tv><aa><dir><p3><pl> : piwhpentawoo
@@ -517,16 +517,16 @@ Tests:
     kal<v><tv><aa><dir><p1><incl><pl><o_pl> : kalawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 5) tv.aa.dir p2.pl":
-    sikwen<v><tv><aa><dir><p2><pl><o_pl> : ksikwenawa
-    sikwen<v><tv><aa><dir><p2><pl><o_sg> : ksikwenawaok
-    ulih<v><tv><aa><dir><p2><pl><o_pl> : kulihawa
-    ulih<v><tv><aa><dir><p2><pl><o_sg> : kulihawaok
+    sikwen<v><tv><aa><dir><p2><pl><o_sg> : ksikwenawa
+    sikwen<v><tv><aa><dir><p2><pl><o_pl> : ksikwenawaok
+    ulih<v><tv><aa><dir><p2><pl><o_sg> : kulihawa
+    ulih<v><tv><aa><dir><p2><pl><o_pl> : kulihawaok
 
   "[lexc/twol] (Swat Verb Resources Group 6) tv.aa.dir p2.pl":
-    neihelih<v><tv><aa><dir><p2><pl><o_pl> : kneihelihawa
-    neihelih<v><tv><aa><dir><p2><pl><o_sg> : kneihelihawaok
-    kal<v><tv><aa><dir><p2><pl><o_pl> : kalawa
-    kal<v><tv><aa><dir><p2><pl><o_sg> : kalawaok
+    neihelih<v><tv><aa><dir><p2><pl><o_sg> : kneihelihawa
+    neihelih<v><tv><aa><dir><p2><pl><o_pl> : kneihelihawaok
+    kal<v><tv><aa><dir><p2><pl><o_sg> : kalawa
+    kal<v><tv><aa><dir><p2><pl><o_pl> : kalawaok
 
   "[lexc/twol] (Swat Verb Resources Group 5) tv.aa.dir p3.pl":
     sikwen<v><tv><aa><dir><p3><pl> : sikwenawoo
@@ -597,16 +597,16 @@ Tests:
     eluxol<v><tv><aa><dir><p1><incl><pl><o_pl> : kteluxolawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 7) tv.aa.dir p2.pl":
-    pah<v><tv><aa><dir><p2><pl><o_pl> : kpahawa
-    pah<v><tv><aa><dir><p2><pl><o_sg> : kpahawaok
-    winewam<v><tv><aa><dir><p2><pl><o_pl> : kewinewamawa
-    winewam<v><tv><aa><dir><p2><pl><o_sg> : kewinewamawaok
+    pah<v><tv><aa><dir><p2><pl><o_sg> : kpahawa
+    pah<v><tv><aa><dir><p2><pl><o_pl> : kpahawaok
+    winewam<v><tv><aa><dir><p2><pl><o_sg> : kewinewamawa
+    winewam<v><tv><aa><dir><p2><pl><o_pl> : kewinewamawaok
 
   "[lexc/twol] (Swat Verb Resources Group 8) tv.aa.dir p2.pl":
-    nalkwen<v><tv><aa><dir><p2><pl><o_pl> : kenalkwenawa
-    nalkwen<v><tv><aa><dir><p2><pl><o_sg> : kenalkwenawaok
-    eluxol<v><tv><aa><dir><p2><pl><o_pl> : kteluxolawa
-    eluxol<v><tv><aa><dir><p2><pl><o_sg> : kteluxolawaok
+    nalkwen<v><tv><aa><dir><p2><pl><o_sg> : kenalkwenawa
+    nalkwen<v><tv><aa><dir><p2><pl><o_pl> : kenalkwenawaok
+    eluxol<v><tv><aa><dir><p2><pl><o_sg> : kteluxolawa
+    eluxol<v><tv><aa><dir><p2><pl><o_pl> : kteluxolawaok
 
   "[lexc/twol] (Swat Verb Resources Group 7) tv.aa.dir p3.pl":
     pah<v><tv><aa><dir><p3><pl> : pahawoo
@@ -677,16 +677,16 @@ Tests:
     notum<v><tv><aa><dir><p1><incl><pl><o_pl> : notumawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p2.pl":
-    elapehw<v><tv><aa><dir><p2><pl><o_pl> : ktelapehwawena
-    elapehw<v><tv><aa><dir><p2><pl><o_sg> : ktelapehwawenanak
-    kelaphatun<v><tv><aa><dir><p2><pl><o_pl> : kelaphatunawa
-    kelaphatun<v><tv><aa><dir><p2><pl><o_sg> : kelaphatunawaok
+    elapehw<v><tv><aa><dir><p2><pl><o_sg> : ktelapehwawena
+    elapehw<v><tv><aa><dir><p2><pl><o_pl> : ktelapehwawenanak
+    kelaphatun<v><tv><aa><dir><p2><pl><o_sg> : kelaphatunawa
+    kelaphatun<v><tv><aa><dir><p2><pl><o_pl> : kelaphatunawaok
 
   "[lexc/twol] (Swat Verb Resources Group 10) tv.aa.dir p2.pl":
-    shinkal<v><tv><aa><dir><p2><pl><o_pl> : kshinkalawa
-    shinkal<v><tv><aa><dir><p2><pl><o_sg> : kshinkalawaok
-    notum<v><tv><aa><dir><p2><pl><o_pl> : kenotumawena
-    notum<v><tv><aa><dir><p2><pl><o_sg> : kenotumawenanak
+    shinkal<v><tv><aa><dir><p2><pl><o_sg> : kshinkalawa
+    shinkal<v><tv><aa><dir><p2><pl><o_pl> : kshinkalawaok
+    notum<v><tv><aa><dir><p2><pl><o_sg> : kenotumawena
+    notum<v><tv><aa><dir><p2><pl><o_pl> : kenotumawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 9) tv.aa.dir p3.pl":
     elapehw<v><tv><aa><dir><p3><pl> : elapehwawoo
@@ -757,16 +757,16 @@ Tests:
     nekal<v><tv><aa><dir><p1><incl><pl><o_pl> : knekalawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p2.pl":
-    kisk<v><tv><aa><dir><p2><pl><o_pl> : kshinkalawa
-    kisk<v><tv><aa><dir><p2><pl><o_sg> : kshinkalawaok
-    mathakal<v><tv><aa><dir><p2><pl><o_pl> : kemathakalawa
-    mathakal<v><tv><aa><dir><p2><pl><o_sg> : kemathakalawaok
+    kisk<v><tv><aa><dir><p2><pl><o_sg> : kshinkalawa
+    kisk<v><tv><aa><dir><p2><pl><o_pl> : kshinkalawaok
+    mathakal<v><tv><aa><dir><p2><pl><o_sg> : kemathakalawa
+    mathakal<v><tv><aa><dir><p2><pl><o_pl> : kemathakalawaok
 
   "[lexc/twol] (Swat Verb Resources Group 12) tv.aa.dir p2.pl":
-    pemetunhal<v><tv><aa><dir><p2><pl><o_pl> : kpemetunhalawa #added "a" / l_w as its absence appeared to be error
-    pemetunhal<v><tv><aa><dir><p2><pl><o_sg> : kpemetunhalawaok
-    nekal<v><tv><aa><dir><p2><pl><o_pl> : knekalawa
-    nekal<v><tv><aa><dir><p2><pl><o_sg> : knekalawaok
+    pemetunhal<v><tv><aa><dir><p2><pl><o_sg> : kpemetunhalawa #added "a" / l_w as its absence appeared to be error
+    pemetunhal<v><tv><aa><dir><p2><pl><o_pl> : kpemetunhalawaok
+    nekal<v><tv><aa><dir><p2><pl><o_sg> : knekalawa
+    nekal<v><tv><aa><dir><p2><pl><o_pl> : knekalawaok
 
   "[lexc/twol] (Swat Verb Resources Group 11) tv.aa.dir p3.pl":
     kisk<v><tv><aa><dir><p3><pl> : kiskkuwoo
@@ -837,16 +837,16 @@ Tests:
     maxk<v><tv><aa><dir><p1><incl><pl><o_pl> : kemaxkawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p2.pl":
-    noxkum<v><tv><aa><dir><p2><pl><o_pl> : kenoxkumawa
-    noxkum<v><tv><aa><dir><p2><pl><o_sg> : kenoxkumawaok
-    natuxt<v><tv><aa><dir><p2><pl><o_pl> : knatuxtawa
-    natuxt<v><tv><aa><dir><p2><pl><o_sg> : knatuxtawaok
+    noxkum<v><tv><aa><dir><p2><pl><o_sg> : kenoxkumawa
+    noxkum<v><tv><aa><dir><p2><pl><o_pl> : kenoxkumawaok
+    natuxt<v><tv><aa><dir><p2><pl><o_sg> : knatuxtawa
+    natuxt<v><tv><aa><dir><p2><pl><o_pl> : knatuxtawaok
 
   "[lexc/twol] (Swat Verb Resources Group 14) tv.aa.dir p2.pl":
-    tuxt<v><tv><aa><dir><p2><pl><o_pl> : ktuxtawa
-    tuxt<v><tv><aa><dir><p2><pl><o_sg> : ktuxtawaok
-    maxk<v><tv><aa><dir><p2><pl><o_pl> : kemaxkawa
-    maxk<v><tv><aa><dir><p2><pl><o_sg> : kemaxkawaok
+    tuxt<v><tv><aa><dir><p2><pl><o_sg> : ktuxtawa
+    tuxt<v><tv><aa><dir><p2><pl><o_pl> : ktuxtawaok
+    maxk<v><tv><aa><dir><p2><pl><o_sg> : kemaxkawa
+    maxk<v><tv><aa><dir><p2><pl><o_pl> : kemaxkawaok
 
   "[lexc/twol] (Swat Verb Resources Group 13) tv.aa.dir p3.pl":
     noxkum<v><tv><aa><dir><p3><pl> : noxkumawoo
@@ -917,16 +917,16 @@ Tests:
     tokim<v><tv><aa><dir><p1><incl><pl><o_pl> : ktokimawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p2.pl":
-    kiikam<v><tv><aa><dir><p2><pl><o_pl> : kiikamawa
-    kiikam<v><tv><aa><dir><p2><pl><o_sg> : kiikamawaok
-    nenust<v><tv><aa><dir><p2><pl><o_pl> : knenustawa
-    nenust<v><tv><aa><dir><p2><pl><o_sg> : knenustawaok
+    kiikam<v><tv><aa><dir><p2><pl><o_sg> : kiikamawa
+    kiikam<v><tv><aa><dir><p2><pl><o_pl> : kiikamawaok
+    nenust<v><tv><aa><dir><p2><pl><o_sg> : knenustawa
+    nenust<v><tv><aa><dir><p2><pl><o_pl> : knenustawaok
 
   "[lexc/twol] (Swat Verb Resources Group 16) tv.aa.dir p2.pl":
-    nikanit<v><tv><aa><dir><p2><pl><o_pl> : knikanitawa
-    nikanit<v><tv><aa><dir><p2><pl><o_sg> : knikanitawaok
-    tokim<v><tv><aa><dir><p2><pl><o_pl> : ktokimawa
-    tokim<v><tv><aa><dir><p2><pl><o_sg> : ktokimawaok
+    nikanit<v><tv><aa><dir><p2><pl><o_sg> : knikanitawa
+    nikanit<v><tv><aa><dir><p2><pl><o_pl> : knikanitawaok
+    tokim<v><tv><aa><dir><p2><pl><o_sg> : ktokimawa
+    tokim<v><tv><aa><dir><p2><pl><o_pl> : ktokimawaok
 
   "[lexc/twol] (Swat Verb Resources Group 15) tv.aa.dir p3.pl":
     kiikam<v><tv><aa><dir><p3><pl> : kiikamawoo
@@ -997,16 +997,16 @@ Tests:
     ushim<v><tv><aa><dir><p1><incl><pl><o_pl> : kushimawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p2.pl":
-    winkal<v><tv><aa><dir><p2><pl><o_pl> : kewinkalawa
-    winkal<v><tv><aa><dir><p2><pl><o_sg> : kewinkalawaok
-    nal<v><tv><aa><dir><p2><pl><o_pl> : knalawa
-    nal<v><tv><aa><dir><p2><pl><o_sg> : knalawaok
+    winkal<v><tv><aa><dir><p2><pl><o_sg> : kewinkalawa
+    winkal<v><tv><aa><dir><p2><pl><o_pl> : kewinkalawaok
+    nal<v><tv><aa><dir><p2><pl><o_sg> : knalawa
+    nal<v><tv><aa><dir><p2><pl><o_pl> : knalawaok
 
   "[lexc/twol] (Swat Verb Resources Group 18) tv.aa.dir p2.pl":
-    nihel<v><tv><aa><dir><p2><pl><o_pl> : knihelawa
-    nihel<v><tv><aa><dir><p2><pl><o_sg> : knihelawaok
-    ushim<v><tv><aa><dir><p2><pl><o_pl> : kushimawa
-    ushim<v><tv><aa><dir><p2><pl><o_sg> : kushimawaok
+    nihel<v><tv><aa><dir><p2><pl><o_sg> : knihelawa
+    nihel<v><tv><aa><dir><p2><pl><o_pl> : knihelawaok
+    ushim<v><tv><aa><dir><p2><pl><o_sg> : kushimawa
+    ushim<v><tv><aa><dir><p2><pl><o_pl> : kushimawaok
 
   "[lexc/twol] (Swat Verb Resources Group 17) tv.aa.dir p3.pl":
     winkal<v><tv><aa><dir><p3><pl> : winkalawoo
@@ -1077,16 +1077,16 @@ Tests:
     keshinal<v><tv><aa><dir><p1><incl><pl><o_pl> : keshinalawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p2.pl":
-    payaxkh<v><tv><aa><dir><p2><pl><o_pl> : kpayaxkhawa
-    payaxkh<v><tv><aa><dir><p2><pl><o_sg> : kpayaxkhawaok
-    pahkaskinkweh<v><tv><aa><dir><p2><pl><o_pl> : kpahkaskinkwehawa
-    pahkaskinkweh<v><tv><aa><dir><p2><pl><o_sg> : kpahkaskinkwehawaok
+    payaxkh<v><tv><aa><dir><p2><pl><o_sg> : kpayaxkhawa
+    payaxkh<v><tv><aa><dir><p2><pl><o_pl> : kpayaxkhawaok
+    pahkaskinkweh<v><tv><aa><dir><p2><pl><o_sg> : kpahkaskinkwehawa
+    pahkaskinkweh<v><tv><aa><dir><p2><pl><o_pl> : kpahkaskinkwehawaok
 
   "[lexc/twol] (Swat Verb Resources Group 20) tv.aa.dir p2.pl":
-    poxin<v><tv><aa><dir><p2><pl><o_pl> : kpoxinawa
-    poxin<v><tv><aa><dir><p2><pl><o_sg> : kpoxinawaok
-    keshinal<v><tv><aa><dir><p2><pl><o_pl> : keshinalawa
-    keshinal<v><tv><aa><dir><p2><pl><o_sg> : keshinalawaok
+    poxin<v><tv><aa><dir><p2><pl><o_sg> : kpoxinawa
+    poxin<v><tv><aa><dir><p2><pl><o_pl> : kpoxinawaok
+    keshinal<v><tv><aa><dir><p2><pl><o_sg> : keshinalawa
+    keshinal<v><tv><aa><dir><p2><pl><o_pl> : keshinalawaok
 
   "[lexc/twol] (Swat Verb Resources Group 19) tv.aa.dir p3.pl":
     payaxkh<v><tv><aa><dir><p3><pl> : payaxhawoo
@@ -1157,16 +1157,16 @@ Tests:
     muh<v><tv><aa><dir><p1><incl><pl><o_pl> : kemuhawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p2.pl":
-    tun<v><tv><aa><dir><p2><pl><o_pl> : ktunawa
-    tun<v><tv><aa><dir><p2><pl><o_sg> : ktunawaok
-    kishih<v><tv><aa><dir><p2><pl><o_pl> : kishihawa
-    kishih<v><tv><aa><dir><p2><pl><o_sg> : kishihawaok
+    tun<v><tv><aa><dir><p2><pl><o_sg> : ktunawa
+    tun<v><tv><aa><dir><p2><pl><o_pl> : ktunawaok
+    kishih<v><tv><aa><dir><p2><pl><o_sg> : kishihawa
+    kishih<v><tv><aa><dir><p2><pl><o_pl> : kishihawaok
 
   "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.dir p2.pl":
-    kiskh<v><tv><aa><dir><p2><pl><o_pl> : kiskhawa
-    kiskh<v><tv><aa><dir><p2><pl><o_sg> : kiskhawaok
-    muh<v><tv><aa><dir><p2><pl><o_pl> : kemuhawa
-    muh<v><tv><aa><dir><p2><pl><o_sg> : kemuhawaok
+    kiskh<v><tv><aa><dir><p2><pl><o_sg> : kiskhawa
+    kiskh<v><tv><aa><dir><p2><pl><o_pl> : kiskhawaok
+    muh<v><tv><aa><dir><p2><pl><o_sg> : kemuhawa
+    muh<v><tv><aa><dir><p2><pl><o_pl> : kemuhawaok
 
   "[lexc/twol] (Swat Verb Resources Group 21) tv.aa.dir p3.pl":
     tun<v><tv><aa><dir><p3><pl> : tunawoo
@@ -1237,16 +1237,16 @@ Tests:
     naxal<v><tv><aa><dir><p1><incl><pl><o_pl> : knaxalawenanak
 
   "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p2.pl":
-    ulin<v><tv><aa><dir><p2><pl><o_pl> : kulinawa
-    ulin<v><tv><aa><dir><p2><pl><o_sg> : kulinawaok
-    kekhitahol<v><tv><aa><dir><p2><pl><o_pl> : kekhitaholawa
-    kekhitahol<v><tv><aa><dir><p2><pl><o_sg> : kekhitaholawaok
+    ulin<v><tv><aa><dir><p2><pl><o_sg> : kulinawa
+    ulin<v><tv><aa><dir><p2><pl><o_pl> : kulinawaok
+    kekhitahol<v><tv><aa><dir><p2><pl><o_sg> : kekhitaholawa
+    kekhitahol<v><tv><aa><dir><p2><pl><o_pl> : kekhitaholawaok
 
   "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p2.pl":
-    keshewipxkonen<v><tv><aa><dir><p2><pl><o_pl> : keshewipxkonenawa
-    keshewipxkonen<v><tv><aa><dir><p2><pl><o_sg> : keshewipxkonenawaok
-    naxal<v><tv><aa><dir><p2><pl><o_pl> : knaxalawa
-    naxal<v><tv><aa><dir><p2><pl><o_sg> : knaxalawaok
+    keshewipxkonen<v><tv><aa><dir><p2><pl><o_sg> : keshewipxkonenawa
+    keshewipxkonen<v><tv><aa><dir><p2><pl><o_ok> : keshewipxkonenawaok
+    naxal<v><tv><aa><dir><p2><pl><o_sg> : knaxalawa
+    naxal<v><tv><aa><dir><p2><pl><o_pl> : knaxalawaok
 
   "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.dir p3.pl":
     ulin<v><tv><aa><dir><p3><pl> : welinawoo #"ulinawoo" in ()
@@ -1255,3 +1255,390 @@ Tests:
   "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.dir p3.pl":
     keshewipxkonen<v><tv><aa><dir><p3><pl> : keshewipxkonenawoo
     naxal<v><tv><aa><dir><p3><pl> : naxalawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.dir p1.sg": 
+    nusum<v><tv><aa><dir><p1><sg><o_sg> : nusuma
+    nusum<v><tv><aa><dir><p1><sg><o_pl> : nusumaok
+    lankum<v><tv><aa><dir><p1><sg><o_sg> : ntelankuma
+    lankum<v><tv><aa><dir><p1><sg><o_pl> : ntelankumaok
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.dir p1.sg": 
+    winkwichem<v><tv><aa><dir><p1><sg><o_sg> : newinkwichema
+    winkwichem<v><tv><aa><dir><p1><sg><o_pl> : newinkwichemaok
+    peh<v><tv><aa><dir><p1><sg><o_sg> : mpeha
+    peh<v><tv><aa><dir><p1><sg><o_pl> : mpehaok
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.dir p2.sg":
+    nusum<v><tv><aa><dir><p2><sg><o_sg> : knusuma
+    nusum<v><tv><aa><dir><p2><sg><o_pl> : knusumaok
+    lankum<v><tv><aa><dir><p2><sg><o_sg> : ktelankuma
+    lankum<v><tv><aa><dir><p2><sg><o_pl> : ktelankumaok
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.dir p2.sg":
+    winkwichem<v><tv><aa><dir><p2><sg><o_sg> : kewinkwichema
+    winkwichem<v><tv><aa><dir><p2><sg><o_pl> : kewinkwichemaok
+    peh<v><tv><aa><dir><p2><sg><o_sg> : kpeha
+    peh<v><tv><aa><dir><p2><sg><o_pl> : kpehaok
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.dir p3.sg":
+    nusum<v><tv><aa><dir><p3><sg><o_sg> : nusumao
+    nusum<v><tv><aa><dir><p3><sg><o_pl> : nusumaok
+    lankum<v><tv><aa><dir><p3><sg><o_sg> : lankumao
+    lankum<v><tv><aa><dir><p3><sg><o_pl> : lankumaok
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.dir p3.sg":
+    winkwichem<v><tv><aa><dir><p3><sg><o_sg> : winkwichemao
+    winkwichem<v><tv><aa><dir><p3><sg><o_pl> : winkwichemaok
+    peh<v><tv><aa><dir><p3><sg><o_sg> : pehao
+    peh<v><tv><aa><dir><p3><sg><o_pl> : pehaok
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.dir p1.excl.pl":
+    nusum<v><tv><aa><dir><p1><excl><pl><o_sg> : nusumawena
+    nusum<v><tv><aa><dir><p1><excl><pl><o_pl> : nusumawenanak
+    lankum<v><tv><aa><dir><p1><excl><pl><o_sg> : ntelankumawena
+    lankum<v><tv><aa><dir><p1><excl><pl><o_pl> : ntelankumawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.dir p1.excl.pl":
+    winkwichem<v><tv><aa><dir><p1><excl><pl><o_sg> : nusumawena
+    winkwichem<v><tv><aa><dir><p1><excl><pl><o_pl> : nusumawenanak
+    peh<v><tv><aa><dir><p1><excl><pl><o_sg> : mpehawena
+    peh<v><tv><aa><dir><p1><excl><pl><o_pl> : mpehawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.dir p1.incl.pl":
+    nusum<v><tv><aa><dir><p1><incl><pl><o_sg> : knusumawena
+    nusum<v><tv><aa><dir><p1><incl><pl><o_pl> : knusumawenanak
+    lankum<v><tv><aa><dir><p1><incl><pl><o_sg> : ktelankumawena
+    lankum<v><tv><aa><dir><p1><incl><pl><o_pl> : ktelankumawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.dir p1.incl.pl":
+    winkwichem<v><tv><aa><dir><p1><incl><pl><o_sg> : kewinkwichemawena
+    winkwichem<v><tv><aa><dir><p1><incl><pl><o_pl> : kewinkwichemawenanak
+    peh<v><tv><aa><dir><p1><incl><pl><o_sg> : kpehawena
+    peh<v><tv><aa><dir><p1><incl><pl><o_pl> : kpehawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.dir p2.pl":
+    nusum<v><tv><aa><dir><p2><pl><o_pl> : knusumawa
+    nusum<v><tv><aa><dir><p2><pl><o_sg> : knusumawaok
+    lankum<v><tv><aa><dir><p2><pl><o_pl> : klankumawa
+    lankum<v><tv><aa><dir><p2><pl><o_sg> : klankumawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.dir p2.pl":
+    winkwichem<v><tv><aa><dir><p2><pl><o_sg> : kewinkwichemawa
+    winkwichem<v><tv><aa><dir><p2><pl><o_pl> : kewinkwichemawaok
+    peh<v><tv><aa><dir><p2><pl><o_sg> : kpehawa
+    peh<v><tv><aa><dir><p2><pl><o_pl> : kpehawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.dir p3.pl":
+    nusum<v><tv><aa><dir><p3><pl> : nusumawoo
+    lankum<v><tv><aa><dir><p3><pl> : lankumawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.dir p3.pl":
+    winkwichem<v><tv><aa><dir><p3><pl> : winkwichemawoo
+    peh<v><tv><aa><dir><p3><pl> : pehawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.dir p1.sg": 
+    katala<v><tv><aa><dir><p1><sg><o_sg> : nkatala      #also listed as "kahtala"
+    katala<v><tv><aa><dir><p1><sg><o_pl> : nkatalaok
+    pen<v><tv><aa><dir><p1><sg><o_sg> : mpenao
+    pen<v><tv><aa><dir><p1><sg><o_pl> : mpenaok
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.dir p1.sg": 
+    penhal<v><tv><aa><dir><p1><sg><o_sg> : mpenhala
+    penhal<v><tv><aa><dir><p1><sg><o_pl> : mpenhalaok
+    pechim<v><tv><aa><dir><p1><sg><o_sg> : mpechima
+    pechim<v><tv><aa><dir><p1><sg><o_pl> : mpechimaok
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.dir p2.sg":
+    katala<v><tv><aa><dir><p2><sg><o_sg> : katala
+    katala<v><tv><aa><dir><p2><sg><o_pl> : katalaok
+    pen<v><tv><aa><dir><p2><sg><o_sg> : kpenao
+    pen<v><tv><aa><dir><p2><sg><o_pl> : kpenaok
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.dir p2.sg":
+    penhal<v><tv><aa><dir><p2><sg><o_sg> : kpenhala
+    penhal<v><tv><aa><dir><p2><sg><o_pl> : kpenhalaok
+    pechim<v><tv><aa><dir><p2><sg><o_sg> : kpechima
+    pechim<v><tv><aa><dir><p2><sg><o_pl> : kpechimaok
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.dir p3.sg":
+    katala<v><tv><aa><dir><p3><sg><o_sg> : katalao
+    katala<v><tv><aa><dir><p3><sg><o_pl> : katalaok
+    pen<v><tv><aa><dir><p3><sg><o_sg> : penao
+    pen<v><tv><aa><dir><p3><sg><o_pl> : penaok
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.dir p3.sg":
+    penhal<v><tv><aa><dir><p3><sg><o_sg> : penhalao
+    penhal<v><tv><aa><dir><p3><sg><o_pl> : penhalaok
+    pechim<v><tv><aa><dir><p3><sg><o_sg> : pechimao
+    pechim<v><tv><aa><dir><p3><sg><o_pl> : pechimaok
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.dir p1.excl.pl":
+    katala<v><tv><aa><dir><p1><excl><pl><o_sg> : nkatalawena
+    katala<v><tv><aa><dir><p1><excl><pl><o_pl> : nkatalawenanak
+    pen<v><tv><aa><dir><p1><excl><pl><o_sg> : kpenawena
+    pen<v><tv><aa><dir><p1><excl><pl><o_pl> : kpenawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.dir p1.excl.pl":
+    penhal<v><tv><aa><dir><p1><excl><pl><o_sg> : mpenhalawena
+    penhal<v><tv><aa><dir><p1><excl><pl><o_pl> : mpenhalawenanak
+    pechim<v><tv><aa><dir><p1><excl><pl><o_sg> : mpechimawena
+    pechim<v><tv><aa><dir><p1><excl><pl><o_pl> : mpechimawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.dir p1.incl.pl":
+    katala<v><tv><aa><dir><p1><incl><pl><o_sg> : katalawena
+    katala<v><tv><aa><dir><p1><incl><pl><o_pl> : katalawenanak
+    pen<v><tv><aa><dir><p1><incl><pl><o_sg> : kpenawena
+    pen<v><tv><aa><dir><p1><incl><pl><o_pl> : kpenawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.dir p1.incl.pl":
+    penhal<v><tv><aa><dir><p1><incl><pl><o_sg> : kpenhalawena
+    penhal<v><tv><aa><dir><p1><incl><pl><o_pl> : kpenhalawenanak
+    pechim<v><tv><aa><dir><p1><incl><pl><o_sg> : kpechimawena
+    pechim<v><tv><aa><dir><p1><incl><pl><o_pl> : kpechimawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.dir p2.pl":
+    katala<v><tv><aa><dir><p2><pl><o_pl> : katalawa
+    katala<v><tv><aa><dir><p2><pl><o_sg> : katalawaok
+    pen<v><tv><aa><dir><p2><pl><o_pl> : kpenawa
+    pen<v><tv><aa><dir><p2><pl><o_sg> : kpenawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.dir p2.pl":
+    penhal<v><tv><aa><dir><p2><pl><o_pl> : kpenhalawa
+    penhal<v><tv><aa><dir><p2><pl><o_sg> : kpenhalawaok
+    pechim<v><tv><aa><dir><p2><pl><o_pl> : kpechimawa
+    pechim<v><tv><aa><dir><p2><pl><o_sg> : kpechimawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.dir p3.pl":
+    katala<v><tv><aa><dir><p3><pl> : katalawoo
+    pen<v><tv><aa><dir><p3><pl> : penawoo #listed as penawwoo in the file, could be a mistake
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.dir p3.pl":
+    penhal<v><tv><aa><dir><p3><pl> : penhalawoo
+    pechim<v><tv><aa><dir><p3><pl> : n/a #form missing in file, guess pechimawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 29) tv.aa.dir p1.sg": 
+    luwihel<v><tv><aa><dir><p1><sg><o_sg> : nteluwihela
+    luwihel<v><tv><aa><dir><p1><sg><o_pl> : nteluwihelaok
+    mehw<v><tv><aa><dir><p1><sg><o_sg> : nemehwa
+    mehw<v><tv><aa><dir><p1><sg><o_pl> : nemehwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 30) tv.aa.dir p1.sg": 
+    winkam<v><tv><aa><dir><p1><sg><o_sg> : newinkama
+    winkam<v><tv><aa><dir><p1><sg><o_pl> : newinkamaok
+    katup<v><tv><aa><dir><p1><sg><o_sg> : nkatupo
+    katup<v><tv><aa><dir><p1><sg><o_pl> : nkatupaok
+
+  "[lexc/twol] (Swat Verb Resources Group 29) tv.aa.dir p2.sg":
+    luwihel<v><tv><aa><dir><p2><sg><o_sg> : kteluwihela
+    luwihel<v><tv><aa><dir><p2><sg><o_pl> : kteluwihelaok
+    mehw<v><tv><aa><dir><p2><sg><o_sg> : kemehwa
+    mehw<v><tv><aa><dir><p2><sg><o_pl> : kemehwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 30) tv.aa.dir p2.sg":
+    winkam<v><tv><aa><dir><p2><sg><o_sg> : kwinkama
+    winkam<v><tv><aa><dir><p2><sg><o_pl> : kwinkamaok
+    katup<v><tv><aa><dir><p2><sg><o_sg> : katupo
+    katup<v><tv><aa><dir><p2><sg><o_pl> : katupaok
+
+  "[lexc/twol] (Swat Verb Resources Group 29) tv.aa.dir p3.sg":
+    luwihel<v><tv><aa><dir><p3><sg><o_sg> : luwihelao  #Changed to this from "luwihela" since that in the file may be error?
+    luwihel<v><tv><aa><dir><p3><sg><o_pl> : luwihelaok
+    mehw<v><tv><aa><dir><p3><sg><o_sg> : mehwao
+    mehw<v><tv><aa><dir><p3><sg><o_pl> : mehwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 30) tv.aa.dir p3.sg":
+    winkam<v><tv><aa><dir><p3><sg><o_sg> : winkamao
+    winkam<v><tv><aa><dir><p3><sg><o_pl> : winkamaok
+    katup<v><tv><aa><dir><p3><sg><o_sg> : katupao
+    katup<v><tv><aa><dir><p3><sg><o_pl> : katupaok
+
+  "[lexc/twol] (Swat Verb Resources Group 29) tv.aa.dir p1.excl.pl":
+    luwihel<v><tv><aa><dir><p1><excl><pl><o_sg> : nteluwihelawena
+    luwihel<v><tv><aa><dir><p1><excl><pl><o_pl> : nteluwihelawenanak
+    mehw<v><tv><aa><dir><p1><excl><pl><o_sg> : nemehwawena
+    mehw<v><tv><aa><dir><p1><excl><pl><o_pl> : nemehwawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 30) tv.aa.dir p1.excl.pl":
+    winkam<v><tv><aa><dir><p1><excl><pl><o_sg> : newinkamawena
+    winkam<v><tv><aa><dir><p1><excl><pl><o_pl> : newinkamawenanak
+    katup<v><tv><aa><dir><p1><excl><pl><o_sg> : nkatupawena
+    katup<v><tv><aa><dir><p1><excl><pl><o_pl> : nkatupawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 29) tv.aa.dir p1.incl.pl":
+    luwihel<v><tv><aa><dir><p1><incl><pl><o_sg> : kteluwihelawena
+    luwihel<v><tv><aa><dir><p1><incl><pl><o_pl> : kteluwihelawenanak
+    mehw<v><tv><aa><dir><p1><incl><pl><o_sg> : kemehwawena
+    mehw<v><tv><aa><dir><p1><incl><pl><o_pl> : kemehwawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 30) tv.aa.dir p1.incl.pl":
+    winkam<v><tv><aa><dir><p1><incl><pl><o_sg> : kwinkamawena
+    winkam<v><tv><aa><dir><p1><incl><pl><o_pl> : kwinkamawenanak
+    katup<v><tv><aa><dir><p1><incl><pl><o_sg> : katupawena
+    katup<v><tv><aa><dir><p1><incl><pl><o_pl> : katupawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 29) tv.aa.dir p2.pl":
+    luwihel<v><tv><aa><dir><p2><pl><o_pl> : kteluwihelawa
+    luwihel<v><tv><aa><dir><p2><pl><o_sg> : kteluwihelawaok
+    mehw<v><tv><aa><dir><p2><pl><o_pl> : kemehwawa
+    mehw<v><tv><aa><dir><p2><pl><o_sg> : kemehwawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 30) tv.aa.dir p2.pl":
+    winkam<v><tv><aa><dir><p2><pl><o_pl> : kwinkamawa
+    winkam<v><tv><aa><dir><p2><pl><o_sg> : kwinkamawaok
+    katup<v><tv><aa><dir><p2><pl><o_pl> : katupawa          #guessed on form here because it looks like file has error
+    katup<v><tv><aa><dir><p2><pl><o_sg> : katupawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 29) tv.aa.dir p3.pl":
+    luwihel<v><tv><aa><dir><p3><pl> : luwihelawoo
+    mehw<v><tv><aa><dir><p3><pl> : mehwaoo
+
+  "[lexc/twol] (Swat Verb Resources Group 30) tv.aa.dir p3.pl":
+    winkam<v><tv><aa><dir><p3><pl> : winkamawoo
+    katup<v><tv><aa><dir><p3><pl> : katupawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 31) tv.aa.dir p1.sg": 
+    notun<v><tv><aa><dir><p1><sg><o_sg> : notuna
+    notun<v><tv><aa><dir><p1><sg><o_pl> : notunaok
+    maehel<v><tv><aa><dir><p1><sg><o_sg> : nemaehela
+    maehel<v><tv><aa><dir><p1><sg><o_pl> : nemaehelaok
+
+  "[lexc/twol] (Swat Verb Resources Group 32) tv.aa.dir p1.sg": 
+    peshuw<v><tv><aa><dir><p1><sg><o_sg> : mpeshuwa
+    peshuw<v><tv><aa><dir><p1><sg><o_pl> : mpeshuwaok
+    toskipeh<v><tv><aa><dir><p1><sg><o_sg> : ntoskipeha
+    toskipeh<v><tv><aa><dir><p1><sg><o_pl> : ntoskipehaok
+
+  "[lexc/twol] (Swat Verb Resources Group 31) tv.aa.dir p2.sg":
+    notun<v><tv><aa><dir><p2><sg><o_sg> : knotuna
+    notun<v><tv><aa><dir><p2><sg><o_pl> : knotunaok
+    maehel<v><tv><aa><dir><p2><sg><o_sg> : kemaehela
+    maehel<v><tv><aa><dir><p2><sg><o_pl> : kemaehelaok
+
+  "[lexc/twol] (Swat Verb Resources Group 32) tv.aa.dir p2.sg":
+    peshuw<v><tv><aa><dir><p2><sg><o_sg> : kpeshuwa
+    peshuw<v><tv><aa><dir><p2><sg><o_pl> : kpeshuwaok
+    toskipeh<v><tv><aa><dir><p2><sg><o_sg> : ktoskipeha
+    toskipeh<v><tv><aa><dir><p2><sg><o_pl> : ktoskipehaok
+
+  "[lexc/twol] (Swat Verb Resources Group 31) tv.aa.dir p3.sg":
+    notun<v><tv><aa><dir><p3><sg><o_sg> : notunao
+    notun<v><tv><aa><dir><p3><sg><o_pl> : notunaok
+    maehel<v><tv><aa><dir><p3><sg><o_sg> : maehelao
+    maehel<v><tv><aa><dir><p3><sg><o_pl> : maehelaok
+
+  "[lexc/twol] (Swat Verb Resources Group 32) tv.aa.dir p3.sg":
+    peshuw<v><tv><aa><dir><p3><sg><o_sg> : pweshuwao
+    peshuw<v><tv><aa><dir><p3><sg><o_pl> : pweshuwaok
+    toskipeh<v><tv><aa><dir><p3><sg><o_sg> : toskipehao
+    toskipeh<v><tv><aa><dir><p3><sg><o_pl> : toskipehaok
+
+  "[lexc/twol] (Swat Verb Resources Group 31) tv.aa.dir p1.excl.pl":
+    notun<v><tv><aa><dir><p1><excl><pl><o_sg> : notunawena
+    notun<v><tv><aa><dir><p1><excl><pl><o_pl> : notunawenanak
+    maehel<v><tv><aa><dir><p1><excl><pl><o_sg> : nemaehelawena
+    maehel<v><tv><aa><dir><p1><excl><pl><o_pl> : nemaehelawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 32) tv.aa.dir p1.excl.pl":
+    peshuw<v><tv><aa><dir><p1><excl><pl><o_sg> : mpeshuwawena
+    peshuw<v><tv><aa><dir><p1><excl><pl><o_pl> : mpeshuwawenanak
+    toskipeh<v><tv><aa><dir><p1><excl><pl><o_sg> : ntoskipehawena
+    toskipeh<v><tv><aa><dir><p1><excl><pl><o_pl> : ntoskipehawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 31) tv.aa.dir p1.incl.pl":
+    notun<v><tv><aa><dir><p1><incl><pl><o_sg> : knotunawena
+    notun<v><tv><aa><dir><p1><incl><pl><o_pl> : knotunawenanak
+    maehel<v><tv><aa><dir><p1><incl><pl><o_sg> : kemaehelawena
+    maehel<v><tv><aa><dir><p1><incl><pl><o_pl> : kemaehelawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 32) tv.aa.dir p1.incl.pl":
+    peshuw<v><tv><aa><dir><p1><incl><pl><o_sg> : kpeshuwawena
+    peshuw<v><tv><aa><dir><p1><incl><pl><o_pl> : kpeshuwawenanak
+    toskipeh<v><tv><aa><dir><p1><incl><pl><o_sg> : ktoskipehawena
+    toskipeh<v><tv><aa><dir><p1><incl><pl><o_pl> : ktoskipehawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 31) tv.aa.dir p2.pl":
+    notun<v><tv><aa><dir><p2><pl><o_pl> : knotunawa
+    notun<v><tv><aa><dir><p2><pl><o_sg> : knotunawaok
+    maehel<v><tv><aa><dir><p2><pl><o_pl> : kemaehelawa
+    maehel<v><tv><aa><dir><p2><pl><o_sg> : kemaehelawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 32) tv.aa.dir p2.pl":
+    peshuw<v><tv><aa><dir><p2><pl><o_pl> : kpeshuwawa
+    peshuw<v><tv><aa><dir><p2><pl><o_sg> : kpeshuwawaok
+    toskipeh<v><tv><aa><dir><p2><pl><o_pl> : ktoskipehawa
+    toskipeh<v><tv><aa><dir><p2><pl><o_sg> : ktoskipehawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 31) tv.aa.dir p3.pl":
+    notun<v><tv><aa><dir><p3><pl> : notunawao #"notunawao" listed in book, but this might be an error
+    maehel<v><tv><aa><dir><p3><pl> : maehelawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 32) tv.aa.dir p3.pl":
+    peshuw<v><tv><aa><dir><p3><pl> : pweshuwawoo
+    toskipeh<v><tv><aa><dir><p3><pl> : toskipehawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 33) tv.aa.dir p1.sg": 
+    wihel<v><tv><aa><dir><p1><sg><o_sg> : newihela
+    wihel<v><tv><aa><dir><p1><sg><o_pl> : newihelaok
+    kwishelem<v><tv><aa><dir><p1><sg><o_sg> : nkwishelema
+    kwishelem<v><tv><aa><dir><p1><sg><o_pl> : nkwishelemaok
+
+  "[lexc/twol] (Swat Verb Resources Group 34) tv.aa.dir p1.sg": 
+    witaem<v><tv><aa><dir><p1><sg><o_sg> : newitaema
+    witaem<v><tv><aa><dir><p1><sg><o_pl> : newitaemaok
+
+  "[lexc/twol] (Swat Verb Resources Group 33) tv.aa.dir p2.sg":
+    wihel<v><tv><aa><dir><p2><sg><o_sg> : kwihela
+    wihel<v><tv><aa><dir><p2><sg><o_pl> : kwihelaok
+    kwishelem<v><tv><aa><dir><p2><sg><o_sg> : kwishelema
+    kwishelem<v><tv><aa><dir><p2><sg><o_pl> : kwishelemaok
+
+  "[lexc/twol] (Swat Verb Resources Group 34) tv.aa.dir p2.sg":
+    witaem<v><tv><aa><dir><p2><sg><o_sg> : kwitaema
+    witaem<v><tv><aa><dir><p2><sg><o_pl> : kwitaemaok
+
+  "[lexc/twol] (Swat Verb Resources Group 33) tv.aa.dir p3.sg":
+    wihel<v><tv><aa><dir><p3><sg><o_sg> : wihelao
+    wihel<v><tv><aa><dir><p3><sg><o_pl> : wihelaok
+    kwishelem<v><tv><aa><dir><p3><sg><o_sg> : kwishelemao
+    kwishelem<v><tv><aa><dir><p3><sg><o_pl> : kwishelemaok
+
+  "[lexc/twol] (Swat Verb Resources Group 34) tv.aa.dir p3.sg":
+    witaem<v><tv><aa><dir><p3><sg><o_sg> : witaemao
+    witeam<v><tv><aa><dir><p3><sg><o_pl> : witaemaok
+
+  "[lexc/twol] (Swat Verb Resources Group 33) tv.aa.dir p1.excl.pl":
+    wihel<v><tv><aa><dir><p1><excl><pl><o_sg> : newihelawena
+    wihel<v><tv><aa><dir><p1><excl><pl><o_pl> : newihelawenanak
+    kwishelem<v><tv><aa><dir><p1><excl><pl><o_sg> : nkwishelemawena
+    kwishelem<v><tv><aa><dir><p1><excl><pl><o_pl> : nkwishelemawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 34) tv.aa.dir p1.excl.pl":
+    witaem<v><tv><aa><dir><p1><excl><pl><o_sg> : newitaemawena
+    witeam<v><tv><aa><dir><p1><excl><pl><o_pl> : newitaemawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 33) tv.aa.dir p1.incl.pl":
+    wihel<v><tv><aa><dir><p1><incl><pl><o_sg> : kwihelawena
+    wihel<v><tv><aa><dir><p1><incl><pl><o_pl> : kwihelawenanak
+    kwishelem<v><tv><aa><dir><p1><incl><pl><o_sg> : kwishelemawena
+    kwishelem<v><tv><aa><dir><p1><incl><pl><o_pl> : kwishelemawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 34) tv.aa.dir p1.incl.pl":
+    witeam<v><tv><aa><dir><p1><incl><pl><o_sg> : kwitaemawena
+    witeam<v><tv><aa><dir><p1><incl><pl><o_pl> : kwitaemawenanak
+
+  "[lexc/twol] (Swat Verb Resources Group 33) tv.aa.dir p2.pl":
+    wihel<v><tv><aa><dir><p2><pl><o_pl> : kwihelawa
+    wihel<v><tv><aa><dir><p2><pl><o_sg> : kwihelawaok
+    kwishelem<v><tv><aa><dir><p2><pl><o_pl> : kwishelemawa
+    kwishelem<v><tv><aa><dir><p2><pl><o_sg> : kwishelemawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 34) tv.aa.dir p2.pl":
+    witaem<v><tv><aa><dir><p2><pl><o_pl> : kwitaemawa
+    witeam<v><tv><aa><dir><p2><pl><o_sg> : kwitaemawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 33) tv.aa.dir p3.pl":
+    wihel<v><tv><aa><dir><p3><pl> : wihelawoo
+    kwishelem<v><tv><aa><dir><p3><pl> : kwishelemawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 34) tv.aa.dir p3.pl":
+    witaem<v><tv><aa><dir><p3><pl> : witaemawoo

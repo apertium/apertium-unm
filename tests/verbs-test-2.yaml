@@ -1579,6 +1579,8 @@ Tests:
     kentahkusihel<v><iv><aa><p1><sg> : nkentahkusihela
     kiskhokwe<v><iv><aa><p1><sg> : nkiskhokwe #Added "k" / s_h, originally appeared without it and appeared to be error
     kitanunks<v><iv><aa><p1><sg> : nkitanunksi
+    mathake<v><iv><aa><p1><sg> : nemathake
+    pakuwe<v><iv><aa><p1><sg> : mpakuwe         #changed error, base form listed as mpakuwe
 
   "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p2.sg":
     pemuxs<v><iv><aa><p2><sg> : kpemuxsi
@@ -1591,6 +1593,8 @@ Tests:
     kentahkusihel<v><iv><aa><p2><sg> : kentahkunsihela
     kiskhokwe<v><iv><aa><p2><sg> : kiskhokwe
     kitanunks<v><iv><aa><p2><sg> : kitanunksi
+    mathake<v><iv><aa><p2><sg> : kemathake
+    pakuwe<v><iv><aa><p2><sg> : kpakuwe
 
   "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p3.sg":
     pemuxs<v><iv><aa><p3><sg> : pemuxsu
@@ -1603,6 +1607,8 @@ Tests:
     kentahkusihel<v><iv><aa><p3><sg> : kentahkusihele
     kiskhokwe<v><iv><aa><p3><sg> : kiskhokwe
     kitanunks<v><iv><aa><p3><sg> : kitanunksu
+    mathake<v><iv><aa><p3><sg> : mathake
+    pakuwe<v><iv><aa><p3><sg> : pakuwe
 
   "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p1.excl.pl":
     pemuxs<v><iv><aa><p1><excl><pl> : mpemuxsihena
@@ -1615,6 +1621,8 @@ Tests:
     kentahkusihel<v><iv><aa><p1><excl><pl> : nkentahkusihelahena
     kiskhokwe<v><iv><aa><p1><excl><pl> : nkiskhokwehena
     kitanunks<v><iv><aa><p1><excl><pl> : nkitanunksihena
+    mathake<v><iv><aa><p1><excl><pl> : nemathakehena
+    pakuwe<v><iv><aa><p1><excl><pl> : mpakuwehena
 
   "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p1.incl.pl": 
     pemuxs<v><iv><aa><p1><incl><pl> : kpemuxsihena
@@ -1627,6 +1635,8 @@ Tests:
     kentahkusihel<v><iv><aa><p1><incl><pl> : kentahkusihelahena
     kiskhokwe<v><iv><aa><p1><incl><pl> : kiskhokwehena
     kitanunks<v><iv><aa><p1><incl><pl> : kitanunksihena
+    mathake<v><iv><aa><p1><incl><pl> : kemathakehena
+    pakuwe<v><iv><aa><p1><incl><pl> : kpakuwehena
 
   "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p2.pl":
     pemuxs<v><iv><aa><p2><pl> : kpemuxsihemo
@@ -1639,6 +1649,8 @@ Tests:
     kentahkusihel<v><iv><aa><p2><pl> : kentahkusihelahemo
     kiskhokwe<v><iv><aa><p2><pl> : kiskhokwehemo
     kitanunks<v><iv><aa><p2><pl> : kitanunksuwak
+    mathake<v><iv><aa><p2><pl> : kemathakehemo
+    pakuwe<v><iv><aa><p2><pl> : kpakuwehemo
 
   "[lexc/twol] (Swat Verb Resources Group 15) iv.aa p3.pl":
     pemuxs<v><iv><aa><p3><pl> : pemuxsuwak
@@ -1651,3 +1663,271 @@ Tests:
     kentahkusihel<v><iv><aa><p3><pl> : kentahkusiheleyok
     kiskhokwe<v><iv><aa><p3><pl> : kiskhokweyok
     kitanunks<v><iv><aa><p3><pl> : kitanunksuwak
+    mathake<v><iv><aa><p3><pl> : mathakeyok
+    pakuwe<v><iv><aa><p3><pl> : pakuweyok
+
+  "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p1":
+    maxelemahkenim<v><iv><aa><p1><sg> : nemaxelemahkenima
+    tepihel<v><iv><aa><p1><sg> : ntepihela
+    mentam<v><iv><aa><p1><sg> : nementam
+    shenkixtu<v><iv><aa><p1><sg> : nshenkixtu
+    maehel<v><iv><aa><p1><sg> : nemaehela
+
+  "[lexc/twol] (Swat Verb Resources Group 18) iv.aa p1":
+    mahtaws<v><iv><aa><p1><sg> : nemahtawsi
+    maxkil<v><iv><aa><p1><sg> : nemaxkil
+    tolhukwen<v><iv><aa><p1><sg> : ntolhukwen
+    tolemuxw<v><iv><aa><p1><sg> : ntolemuxwe
+    ohelemamehel<v><iv><aa><p1><sg> : nohelemamehela
+
+  "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p2.sg":
+    maxelemahkenim<v><iv><aa><p2><sg> : kemaxelemahkenima
+    tepihel<v><iv><aa><p2><sg> : ktepihela
+    mentam<v><iv><aa><p2><sg> : kementam
+    shenkixtu<v><iv><aa><p2><sg> : kshenkixtu
+    maehel<v><iv><aa><p2><sg> : kemaehela
+
+  "[lexc/twol] (Swat Verb Resources Group 18) iv.aa p2.sg":
+    mahtaws<v><iv><aa><p2><sg> : kemahtawsi
+    maxkil<v><iv><aa><p2><sg> : kemaxkil
+    tolhukwen<v><iv><aa><p2><sg> : ktolhukwen
+    tolemuxw<v><iv><aa><p2><sg> : ktolemuxwe
+    ohelemamehel<v><iv><aa><p2><sg> : kohelemamehela
+
+  "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p3.sg":
+    maxelemahkenim<v><iv><aa><p3><sg> : maxelemahkenima
+    tepihel<v><iv><aa><p3><sg> : tepihele
+    mentam<v><iv><aa><p3><sg> : kementam
+    shenkixtu<v><iv><aa><p3><sg> : shenxkixtu
+    maehel<v><iv><aa><p3><sg> : maehele
+
+  "[lexc/twol] (Swat Verb Resources Group 18) iv.aa p3.sg":
+    mahtaws<v><iv><aa><p3><sg> : mahtawsu
+    maxkil<v><iv><aa><p3><sg> : maxkil
+    tolhukwen<v><iv><aa><p3><sg> : tolhukwen
+    tolemuxw<v><iv><aa><p3><sg> : tolemuxwe
+    ohelemamehel<v><iv><aa><p3><sg> : ohelemamehele
+
+  "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p1.excl.pl":
+    maxelemahkenim<v><iv><aa><p1><excl><pl> : nemaxelemahkenimahena
+    tepihel<v><iv><aa><p1><excl><pl> : ntepihelahena
+    mentam<v><iv><aa><p1><excl><pl> : nementamuhena
+    shenkixtu<v><iv><aa><p1><excl><pl> : nshenkixtuhena
+    maehel<v><iv><aa><p1><excl><pl> : nemaehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 18) iv.aa p1.excl.pl":
+    mahtaws<v><iv><aa><p1><excl><pl> : nemahtawsihena
+    maxkil<v><iv><aa><p1><excl><pl> : nemaxkilihena
+    tolhukwen<v><iv><aa><p1><excl><pl> : ntolhukwenihena
+    tolemuxw<v><iv><aa><p1><excl><pl> : ntolemuxwehena
+    ohelemamehel<v><iv><aa><p1><excl><pl> : nohelemamehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p1.incl.pl": 
+    maxelemahkenim<v><iv><aa><p1><incl><pl> : kemaxelemahkenimahena
+    tepihel<v><iv><aa><p1><incl><pl> : ktepihelahena
+    mentam<v><iv><aa><p1><incl><pl> : kementamuhena
+    shenkixtu<v><iv><aa><p1><incl><pl> : kshenkixtuhena
+    maehel<v><iv><aa><p1><incl><pl> : kemaehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 18) iv.aa p1.incl.pl": 
+    mahtaws<v><iv><aa><p1><incl><pl> :  kemahtawsihena
+    maxkil<v><iv><aa><p1><incl><pl> : kemaxkilihena
+    tolhukwen<v><iv><aa><p1><incl><pl> : ktolhukwenihena
+    tolemuxw<v><iv><aa><p1><incl><pl> : ktolemuxwehena
+    ohelemamehel<v><iv><aa><p1><incl><pl> : kohelemamehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p2.pl":
+    maxelemahkenim<v><iv><aa><p2><pl> : kemaxelemahkenimahemo
+    tepihel<v><iv><aa><p2><pl> : ktepihelahemo
+    mentam<v><iv><aa><p2><pl> : kementamuhemo
+    shenkixtu<v><iv><aa><p2><pl> : kshenkixtuhemo
+    maehel<v><iv><aa><p2><pl> : kemaehelahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 18) iv.aa p2.pl":
+    mahtaws<v><iv><aa><p2><pl> : kemahtawsihemo
+    maxkil<v><iv><aa><p2><pl> : kemaxkilihemo
+    tolhukwen<v><iv><aa><p2><pl> : ktolhukwenihemo
+    tolemuxw<v><iv><aa><p2><pl> : ktolemuxwehemo
+    ohelemamehel<v><iv><aa><p2><pl> : kohelemamehelahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 17) iv.aa p3.pl":
+    maxelemahkenim<v><iv><aa><p3><pl> : maxelemahkenimaok
+    tepihel<v><iv><aa><p3><pl> : tepiheleyok
+    mentam<v><iv><aa><p3><pl> : mwentamuwak
+    shenkixtu<v><iv><aa><p3><pl> : shenkixtuwak
+    maehel<v><iv><aa><p3><pl> : maeheleyok
+
+  "[lexc/twol] (Swat Verb Resources Group 18) iv.aa p3.pl":
+    mahtaws<v><iv><aa><p3><pl> : mahtawsuwak
+    maxkil<v><iv><aa><p3><pl> : maxkileyok
+    tolhukwen<v><iv><aa><p3><pl> : tolhukweniyok
+    tolemuxw<v><iv><aa><p3><pl> : tolemuxweneyo
+    ohelemamehel<v><iv><aa><p3><pl> : ohelemameleyok
+  
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p1":
+    takohkat<v><iv><aa><p1><sg> : ntakohkata
+    nisksit<v><iv><aa><p1><sg> : nisksita
+    pimtelinkw<v><iv><aa><p1><sg> : mpimtelinkwa
+    wetemalis<v><iv><aa><p1><sg> : newetamamalisi
+    ohelemakil<v><iv><aa><p1><sg> : nohelemakil
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p1":
+    payaxkh<v><iv><aa><p1><sg> : mpayaxkhasi
+    kshik<v><iv><aa><p1><sg> : nkeshiki
+    aholuken<v><iv><aa><p1><sg> : ntaholuken
+    chipinakws<v><iv><aa><p1><sg> : nchipinakwsi
+    welalew<v><iv><aa><p1><sg> : newelalewa
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p2.sg":
+    takohkat<v><iv><aa><p2><sg> : ktakohkata
+    nisksit<v><iv><aa><p2><sg> : kenisksita
+    pimtelinkw<v><iv><aa><p2><sg> : kpimtelinkwa
+    wetemalis<v><iv><aa><p2><sg> : kewetamamalisi
+    ohelemakil<v><iv><aa><p2><sg> : kohelemakil
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p2.sg":
+    payaxkh<v><iv><aa><p2><sg> : kpayaxkhasi
+    kshik<v><iv><aa><p2><sg> : kshiki
+    aholuken<v><iv><aa><p2><sg> : ktaholuken
+    chipinakws<v><iv><aa><p2><sg> : kchipinakwsi
+    welalew<v><iv><aa><p2><sg> : kewelalaewa
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p3.sg":
+    takohkat<v><iv><aa><p3><sg> : takohkate
+    nisksit<v><iv><aa><p3><sg> : nisksite
+    pimtelinkw<v><iv><aa><p3><sg> : pimtelinkwe
+    wetemalis<v><iv><aa><p3><sg> : wetamamalisu
+    ohelemakil<v><iv><aa><p3><sg> : ohelemakil
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p3.sg":
+    payaxkh<v><iv><aa><p3><sg> : payaxkhasu
+    kshik<v><iv><aa><p3><sg> : kshiki
+    aholuken<v><iv><aa><p3><sg> : aholuken
+    chipinakws<v><iv><aa><p3><sg> : chipinakwsu
+    welalew<v><iv><aa><p3><sg> : welalewe
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p1.excl.pl":
+    takohkat<v><iv><aa><p1><excl><pl> : ntakohkatahena
+    nisksit<v><iv><aa><p1><excl><pl> : nisksitahena
+    pimtelinkw<v><iv><aa><p1><excl><pl> : mpimtelinkwahena
+    wetemalis<v><iv><aa><p1><excl><pl> : newetamamalisihena
+    ohelemakil<v><iv><aa><p1><excl><pl> : nohelemakilhena
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p1.excl.pl":
+    payaxkh<v><iv><aa><p1><excl><pl> : mpayaxkhasihena
+    kshik<v><iv><aa><p1><excl><pl> : nkeshikihena
+    aholuken<v><iv><aa><p1><excl><pl> : ntaholukenahena
+    chipinakws<v><iv><aa><p1><excl><pl> : nchipinakwsihena
+    welalew<v><iv><aa><p1><excl><pl> : newelalewahena
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p1.incl.pl": 
+    takohkat<v><iv><aa><p1><incl><pl> :  ktakohkatahena
+    nisksit<v><iv><aa><p1><incl><pl> : kenisksitahena
+    pimtelinkw<v><iv><aa><p1><incl><pl> : kpimtelinkwahena
+    wetemalis<v><iv><aa><p1><incl><pl> : kewetamamalisihena
+    ohelemakil<v><iv><aa><p1><incl><pl> : kohelemakilhena
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p1.incl.pl": 
+    payaxkh<v><iv><aa><p1><incl><pl> :  kpayaxkhasihena
+    kshik<v><iv><aa><p1><incl><pl> : keshikihena
+    aholuken<v><iv><aa><p1><incl><pl> : ktaholukenahena
+    chipinakws<v><iv><aa><p1><incl><pl> : kchipinakwsihena
+    welalew<v><iv><aa><p1><incl><pl> : kewelalewahena
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p2.pl":
+    takohkat<v><iv><aa><p2><pl> : ktakohkatahemo
+    nisksit<v><iv><aa><p2><pl> : kenisksitahemo
+    pimtelinkw<v><iv><aa><p2><pl> : kpimtelinkwahemo
+    wetemalis<v><iv><aa><p2><pl> :  kewetamamalisihemo
+    ohelemakil<v><iv><aa><p2><pl> : kohelemakilhemo
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p2.pl":
+    payaxkh<v><iv><aa><p2><pl> : kpayaxkhasihemo
+    kshik<v><iv><aa><p2><pl> : keshikihemo
+    aholuken<v><iv><aa><p2><pl> : ktaholukenahemo
+    chipinakws<v><iv><aa><p2><pl> : kchipinakwsihemo
+    welalew<v><iv><aa><p2><pl> : kewelalewahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 19) iv.aa p3.pl":
+    takohkats<v><iv><aa><p3><pl> : takohkateyok
+    nisksit<v><iv><aa><p3><pl> : nisksiteyok
+    pimtelinkw<v><iv><aa><p3><pl> : pimtelinkweyok
+    wetemalis<v><iv><aa><p3><pl> : wetamamalisuwak
+    ohelemakil<v><iv><aa><p3><pl> : ohelemakileyok
+
+  "[lexc/twol] (Swat Verb Resources Group 20) iv.aa p3.pl":
+    payaxkh<v><iv><aa><p3><pl> : payaxkhasuwak
+    kshik<v><iv><aa><p3><pl> : kshikiyok
+    aholuken<v><iv><aa><p3><pl> : aholukeneyok
+    chipinakws<v><iv><aa><p3><pl> : chipinakwsuwak
+    welalew<v><iv><aa><p3><pl> : welaleweyok
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p1":
+    shenkixi<v><iv><aa><p1><sg> : nshenkixi
+    kwenekat<v><iv><aa><p1><sg> : nkwenekata
+    kwenalew<v><iv><aa><p1><sg> : nkwenalewa
+    aspaluwexw<v><iv><aa><p1><sg> : ntaspaluwexwa
+    pechinkwehel<v><iv><aa><p1><sg> : mpechinkwehela
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p1":
+    peminehik<v><iv><aa><p1><sg> : mpeminehika
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p2.sg":
+    shenkixi<v><iv><aa><p2><sg> : kshenkixi
+    kwenekat<v><iv><aa><p2><sg> : kwenekata
+    kwenalew<v><iv><aa><p2><sg> : kwenalewa
+    aspaluwexw<v><iv><aa><p2><sg> : ktaspaluwexwa
+    pechinkwehel<v><iv><aa><p2><sg> : kpechinkwehela
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p2.sg":
+    peminehik<v><iv><aa><p2><sg> : kpeminehika
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p3.sg":
+    shenkixi<v><iv><aa><p3><sg> : shenkixi
+    kwenekat<v><iv><aa><p3><sg> : kwenekate
+    kwenalew<v><iv><aa><p3><sg> : kwenalewe
+    aspaluwexw<v><iv><aa><p3><sg> : aspaluwexwe
+    pechinkwehel<v><iv><aa><p3><sg> : pechinkwehele
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p3.sg":
+    peminehik<v><iv><aa><p3><sg> : peminehike
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p1.excl.pl":
+    shenkixi<v><iv><aa><p1><excl><pl> : nshenkixihena
+    kwenekat<v><iv><aa><p1><excl><pl> : nkwenekatahena
+    kwenalew<v><iv><aa><p1><excl><pl> : nkwenalewahena
+    aspaluwexw<v><iv><aa><p1><excl><pl> : ntaspaluwexwahena
+    pechinkwehel<v><iv><aa><p1><excl><pl> : mpechinkwehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p1.excl.pl":
+    peminehik<v><iv><aa><p1><excl><pl> : mpeminehikahena
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p1.incl.pl": 
+    shenkixi<v><iv><aa><p1><incl><pl> :  kshenkixihena
+    kwenekat<v><iv><aa><p1><incl><pl> : kwenekatahena
+    kwenalew<v><iv><aa><p1><incl><pl> : kwenalewahena
+    aspaluwexw<v><iv><aa><p1><incl><pl> : ktaspaluwexwa
+    pechinkwehel<v><iv><aa><p1><incl><pl> : kpechinkwehelahena
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p1.incl.pl": 
+    peminehik<v><iv><aa><p1><incl><pl> :  kpeminehikahena
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p2.pl":
+    shenkixi<v><iv><aa><p2><pl> : kshenkixihemo
+    kwenekat<v><iv><aa><p2><pl> : kwenekatahemo
+    kwenalew<v><iv><aa><p2><pl> : kwenalewahemo
+    aspaluwexw<v><iv><aa><p2><pl> : ktaspaluwexwahemo
+    pechinkwehel<v><iv><aa><p2><pl> : kpechinkwehelahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p2.pl":
+    peminehik<v><iv><aa><p2><pl> : kpeminehikahemo
+
+  "[lexc/twol] (Swat Verb Resources Group 21) iv.aa p3.pl":
+    shenkixi<v><iv><aa><p3><pl> : shenkixinuk
+    kwenekat<v><iv><aa><p3><pl> : kwenekateyok
+    kwenalew<v><iv><aa><p3><pl> : kwenaleweyok
+    aspaluwexw<v><iv><aa><p3><pl> : aspaluwexweyok
+    pechinkwehel<v><iv><aa><p3><pl> : pechninkweheleyok
+
+  "[lexc/twol] (Swat Verb Resources Group 22) iv.aa p3.pl":
+    peminehik<v><iv><aa><p3><pl> : peminehikeyok
