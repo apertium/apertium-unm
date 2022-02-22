@@ -1133,3 +1133,157 @@ Tests:
   "[lexc/twol] (Swat Verb Resources Group 22) tv.aa.inv p3.pl":
     kishih<v><tv><aa><inv><p3><pl> : kishihkuwoo
     kiskh<v><tv><aa><inv><p3><pl> : kiskhkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.inv p1.s_sg":
+    muh<v><tv><aa><inv><p1><sg><s_sg> : nemuhakw
+    muh<v><tv><aa><inv><p1><pl><s_sg> : nemuhkuk
+    ulin<v><tv><aa><inv><p1><sg><s_sg> : nulinakw
+    ulin<v><tv><aa><inv><p1><pl><s_sg> : nulinkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.inv p1.s_sg":
+    kekhitahol<v><tv><aa><inv><p1><sg><s_sg> : nkekhitaholakw
+    kekhitahol<v><tv><aa><inv><p1><pl><s_sg> : nkekhitaholkuk
+    keshewipxkonen<v><tv><aa><inv><p1><sg><s_sg> : nkeshewipxkonenakw
+    keshewipxkonen<v><tv><aa><inv><p1><pl><s_sg> : nkeshewipxkonenkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.inv p2.s_sg":
+    muh<v><tv><aa><inv><p2><sg><s_sg> : kemuhakw
+    muh<v><tv><aa><inv><p2><sg><s_pl> : kemuhkuk
+    ulin<v><tv><aa><inv><p2><sg><s_sg> : kulinakw
+    ulin<v><tv><aa><inv><p2><sg><s_pl> : kulinkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.inv p2.s_sg":
+    kekhitahol<v><tv><aa><inv><p2><sg><s_sg> : kekhitaholakw
+    kekhitahol<v><tv><aa><inv><p2><sg><s_pl> : kekhitaholkuk
+    keshewipxkonen<v><tv><aa><inv><p2><sg><s_sg> : keshewipxkonenakw
+    keshewipxkonen<v><tv><aa><inv><p2><sg><s_pl> : keshewipxkonenkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.inv p3.s_sg":
+    muh<v><tv><aa><inv><p3><sg><s_sg> : muhku
+    muh<v><tv><aa><inv><p3><pl><s_sg> : muhkku
+    ulin<v><tv><aa><inv><p3><sg><s_sg> : welinku          #ulinku also possible
+    ulin<v><tv><aa><inv><p3><pl><s_sg> : welinku
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.inv p3.s_sg":
+    kekhitahol<v><tv><aa><inv><p3><sg><s_sg> : kekhitaholku
+    kekhitahol<v><tv><aa><inv><p3><pl><s_sg> : kekhitaholku
+    keshewipxkonen<v><tv><aa><inv><p3><sg><s_sg> : keshewipxkonenku
+    keshewipxkonen<v><tv><aa><inv><p3><pl><s_sg> : keshewipxkonenku
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.inv p1.excl.s_pl":
+    muh<v><tv><aa><inv><p1><excl><sg><s_pl> : nemuhkuna
+    muh<v><tv><aa><inv><p1><excl><pl><s_pl> : nemuhkunanak
+    ulin<v><tv><aa><inv><p1><excl><sg><s_pl> : nulinkuna
+    ulin<v><tv><aa><inv><p1><excl><pl><s_pl> : nulinkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.inv p1.excl.s_pl":
+    kekhitahol<v><tv><aa><inv><p1><excl><sg><s_pl> : nkekhitaholkuna
+    kekhitahol<v><tv><aa><inv><p1><excl><pl><s_pl> : nkekhitaholkunanak
+    keshewipxkonen<v><tv><aa><inv><p1><excl><sg><s_pl> : nkeshewipxkonenkuna
+    keshewipxkonen<v><tv><aa><inv><p1><excl><pl><s_pl> : nkeshewipxkonenkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.inv p1.incl.s_pl":
+    muh<v><tv><aa><inv><p1><incl><sg><s_pl> : kemuhkunanak
+    muh<v><tv><aa><inv><p1><incl><pl><s_pl> : kemuhkuna
+    ulin<v><tv><aa><inv><p1><incl><sg><s_pl> : kulinkuna
+    ulin<v><tv><aa><inv><p1><incl><pl><s_pl> : kulinkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.inv p1.incl.s_pl":
+    kekhitahol<v><tv><aa><inv><p1><incl><sg><s_pl> : kekhitaholkuna
+    kekhitahol<v><tv><aa><inv><p1><incl><pl><s_pl> : kekhitaholkunanak
+    keshewipxkonen<v><tv><aa><inv><p1><incl><sg><s_pl> : keshewipxkonenkuna
+    keshewipxkonen<v><tv><aa><inv><p1><incl><pl><s_pl> : keshewipxkonenkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.inv p2.s_pl":
+    muh<v><tv><aa><inv><p2><sg><s_pl> : kemuhkuwa
+    muh<v><tv><aa><inv><p2><pl><s_pl> : kemuhkuwaok
+    ulin<v><tv><aa><inv><p2><sg><s_pl> : kulinkuwa
+    ulin<v><tv><aa><inv><p2><pl><s_pl> : kulinkuwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.inv p2.s_pl":
+    kekhitahol<v><tv><aa><inv><p2><sg><s_pl> : kekhitaholkuwa
+    kekhitahol<v><tv><aa><inv><p2><pl><s_pl> : kekhitaholkuwaok
+    keshewipxkonen<v><tv><aa><inv><p2><sg><s_pl> : keshewipxkonenawa
+    keshewipxkonen<v><tv><aa><inv><p2><pl><s_pl> : keshewipxkonenawaok
+
+  "[lexc/twol] (Swat Verb Resources Group 23) tv.aa.inv p3.pl":
+    muh<v><tv><aa><inv><p3><pl> : muhkuwoo
+    ulin<v><tv><aa><inv><p3><pl> : welinkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 24) tv.aa.inv p3.pl":
+    kekhitahol<v><tv><aa><inv><p3><pl> : kekhitaholkuwoo
+    keshewipxkonen<v><tv><aa><inv><p3><pl> : keshewipxkonenawoo
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.inv p1.s_sg":
+    naxal<v><tv><aa><inv><p1><sg><s_sg> : naxalakw
+    naxal<v><tv><aa><inv><p1><pl><s_sg> : naxalkuk
+    nusum<v><tv><aa><inv><p1><sg><s_sg> : nusumakw
+    nusum<v><tv><aa><inv><p1><pl><s_sg> : nusumkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.inv p1.s_sg":
+    lankum<v><tv><aa><inv><p1><sg><s_sg> : ntelankumkuk
+    lankum<v><tv><aa><inv><p1><pl><s_sg> : ntelankumakw
+    winkwichem<v><tv><aa><inv><p1><sg><s_sg> : newinkwichemakw
+    winkwichem<v><tv><aa><inv><p1><pl><s_sg> : newinkwichemkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.inv p2.s_sg":
+    naxal<v><tv><aa><inv><p2><sg><s_sg> : knaxalakw
+    naxal<v><tv><aa><inv><p2><sg><s_pl> : knaxalkuk
+    nusum<v><tv><aa><inv><p2><sg><s_sg> : knusumakw
+    nusum<v><tv><aa><inv><p2><sg><s_pl> : knusumkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.inv p2.s_sg":
+    lankum<v><tv><aa><inv><p2><sg><s_sg> : ktelankumakw
+    lankum<v><tv><aa><inv><p2><sg><s_pl> : ktelankumkuk
+    winkwichem<v><tv><aa><inv><p2><sg><s_sg> : kewinkwichemakw
+    winkwichem<v><tv><aa><inv><p2><sg><s_pl> : kewinkwichemkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.inv p3.s_sg":
+    lankum<v><tv><aa><inv><p3><sg><s_sg> : lankumku
+    lankum<v><tv><aa><inv><p3><pl><s_sg> : lankumku
+    winkwichem<v><tv><aa><inv><p3><sg><s_sg> : winkwichemku
+    winkwichem<v><tv><aa><inv><p3><pl><s_sg> : winkwichemku
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.inv p1.excl.s_pl":
+    naxal<v><tv><aa><inv><p1><excl><sg><s_pl> : naxalkuna
+    naxal<v><tv><aa><inv><p1><excl><pl><s_pl> : naxalkunanak
+    nusum<v><tv><aa><inv><p1><excl><sg><s_pl> : nusumkuna
+    nusum<v><tv><aa><inv><p1><excl><pl><s_pl> : nusumkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.inv p1.excl.s_pl":
+    lankum<v><tv><aa><inv><p1><excl><sg><s_pl> : ntelankumkuna
+    lankum<v><tv><aa><inv><p1><excl><pl><s_pl> : ntelankumkunanak
+    winkwichem<v><tv><aa><inv><p1><excl><sg><s_pl> : newinkwichemkuna
+    winkwichem<v><tv><aa><inv><p1><excl><pl><s_pl> : newinkwichemkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.inv p1.incl.s_pl":
+    naxal<v><tv><aa><inv><p1><incl><sg><s_pl> : knaxalkuna
+    naxal<v><tv><aa><inv><p1><incl><pl><s_pl> : knaxalkunanak
+    nusum<v><tv><aa><inv><p1><incl><sg><s_pl> : knusumkuna
+    nusum<v><tv><aa><inv><p1><incl><pl><s_pl> : knusumkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.inv p1.incl.s_pl":
+    lankum<v><tv><aa><inv><p1><incl><sg><s_pl> : ktelankumkuna
+    lankum<v><tv><aa><inv><p1><incl><pl><s_pl> : ktelankumakunanak
+    winkwichem<v><tv><aa><inv><p1><incl><sg><s_pl> : kewinkwichemkuna
+    winkwichem<v><tv><aa><inv><p1><incl><pl><s_pl> : kewinkwichemkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.inv p2.s_pl":
+    naxal<v><tv><aa><inv><p2><sg><s_pl> : knaxalkuwa
+    naxal<v><tv><aa><inv><p2><pl><s_pl> : knaxalkuwaok
+    nusum<v><tv><aa><inv><p2><sg><s_pl> : knusumkuwa
+    nusum<v><tv><aa><inv><p2><pl><s_pl> : knusumkuwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.inv p2.s_pl":
+    lankum<v><tv><aa><inv><p2><sg><s_pl> : ktelankumkuwa
+    lankum<v><tv><aa><inv><p2><pl><s_pl> : ktelankumkuwaok
+    winkwichem<v><tv><aa><inv><p2><sg><s_pl> : kewinkwichemkuwa
+    winkwichem<v><tv><aa><inv><p2><pl><s_pl> : kewinkwichemkuwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 25) tv.aa.inv p3.pl":
+    naxal<v><tv><aa><inv><p3><pl> : naxalkuwoo
+    nusum<v><tv><aa><inv><p3><pl> : nusumkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.inv p3.pl":
+    lankum<v><tv><aa><inv><p3><pl> : lankumkuwoo
+    winkwichem<v><tv><aa><inv><p3><pl> : winkwichemkuwoo
