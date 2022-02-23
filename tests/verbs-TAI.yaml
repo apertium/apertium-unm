@@ -1287,3 +1287,84 @@ Tests:
   "[lexc/twol] (Swat Verb Resources Group 26) tv.aa.inv p3.pl":
     lankum<v><tv><aa><inv><p3><pl> : lankumkuwoo
     winkwichem<v><tv><aa><inv><p3><pl> : winkwichemkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.inv p1.s_sg":
+    peh<v><tv><aa><inv><p1><sg><s_sg> : mpehkuk
+    peh<v><tv><aa><inv><p1><pl><s_sg> : mpehakw
+    katala<v><tv><aa><inv><p1><sg><s_sg> : nkatalakw
+    katala<v><tv><aa><inv><p1><pl><s_sg> : nkatalkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.inv p1.s_sg":
+    pen<v><tv><aa><inv><p1><sg><s_sg> : mpenakw
+    pen<v><tv><aa><inv><p1><pl><s_sg> : mpenakuk
+    nachih<v><tv><aa><inv><p1><sg><s_sg> : nachihakw
+    nachih<v><tv><aa><inv><p1><pl><s_sg> : nachihkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.inv p2.s_sg":
+    peh<v><tv><aa><inv><p2><sg><s_sg> : kpehakw
+    peh<v><tv><aa><inv><p2><sg><s_pl> : kpehkuk
+    katala<v><tv><aa><inv><p2><sg><s_sg> : katalakw
+    katala<v><tv><aa><inv><p2><sg><s_pl> : katalkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.inv p2.s_sg":
+    pen<v><tv><aa><inv><p2><sg><s_sg> : kpenakw
+    pen<v><tv><aa><inv><p2><sg><s_pl> : kpenakuk
+    nachih<v><tv><aa><inv><p2><sg><s_sg> : kenachihakw
+    nachih<v><tv><aa><inv><p2><sg><s_pl> : kenachihkuk
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.inv p3.s_sg":
+    peh<v><tv><aa><inv><p3><sg><s_sg> : pehku
+    peh<v><tv><aa><inv><p3><pl><s_sg> : pehku
+    katala<v><tv><aa><inv><p3><sg><s_sg> : katalku
+    katala<v><tv><aa><inv><p3><pl><s_sg> : katalku
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.inv p3.s_sg":
+    pen<v><tv><aa><inv><p3><sg><s_sg> : penaku
+    pen<v><tv><aa><inv><p3><pl><s_sg> : penaku
+    nachih<v><tv><aa><inv><p3><sg><s_sg> : nachihku
+    nachih<v><tv><aa><inv><p3><pl><s_sg> : nachihku
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.inv p1.excl.s_pl":
+    peh<v><tv><aa><inv><p1><excl><sg><s_pl> : mpehkuna
+    peh<v><tv><aa><inv><p1><excl><pl><s_pl> : mpehkunanak
+    katala<v><tv><aa><inv><p1><excl><sg><s_pl> : nkatalkuna
+    katala<v><tv><aa><inv><p1><excl><pl><s_pl> : nkatalkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.inv p1.excl.s_pl":
+    pen<v><tv><aa><inv><p1><excl><sg><s_pl> : mpenakuna
+    pen<v><tv><aa><inv><p1><excl><pl><s_pl> : mpenakunanak
+    nachih<v><tv><aa><inv><p1><excl><sg><s_pl> : nachihkuna
+    nachih<v><tv><aa><inv><p1><excl><pl><s_pl> : nachihkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.inv p1.incl.s_pl":
+    peh<v><tv><aa><inv><p1><incl><sg><s_pl> : kpehkuna
+    peh<v><tv><aa><inv><p1><incl><pl><s_pl> : kpehkunanak
+    katala<v><tv><aa><inv><p1><incl><sg><s_pl> : katalkuna
+    katala<v><tv><aa><inv><p1><incl><pl><s_pl> : katalkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.inv p1.incl.s_pl":
+    pen<v><tv><aa><inv><p1><incl><sg><s_pl> : kpenakuna
+    pen<v><tv><aa><inv><p1><incl><pl><s_pl> : kpenakunanak
+    nachih<v><tv><aa><inv><p1><incl><sg><s_pl> : kenachihkuna
+    nachih<v><tv><aa><inv><p1><incl><pl><s_pl> : kenachihkunanak
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.inv p2.s_pl":
+    peh<v><tv><aa><inv><p2><sg><s_pl> : kpehkuwa
+    peh<v><tv><aa><inv><p2><pl><s_pl> : kpehkuwaok
+    katala<v><tv><aa><inv><p2><sg><s_pl> : katalkuwa
+    katala<v><tv><aa><inv><p2><pl><s_pl> : katalkuwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.inv p2.s_pl":
+    pen<v><tv><aa><inv><p2><sg><s_pl> : kpenakuwa
+    pen<v><tv><aa><inv><p2><pl><s_pl> : kpenakuwaok
+    nachih<v><tv><aa><inv><p2><sg><s_pl> : kenachihkuwa
+    nachih<v><tv><aa><inv><p2><pl><s_pl> : kenachihkuwaok
+
+  "[lexc/twol] (Swat Verb Resources Group 27) tv.aa.inv p3.pl":
+    peh<v><tv><aa><inv><p3><pl> : pehkuwoo
+    katala<v><tv><aa><inv><p3><pl> : pehkuwoo
+
+  "[lexc/twol] (Swat Verb Resources Group 28) tv.aa.inv p3.pl":
+    pen<v><tv><aa><inv><p3><pl> : penakuwoo
+    nachih<v><tv><aa><inv><p3><pl> : nachihkuwoo
+
