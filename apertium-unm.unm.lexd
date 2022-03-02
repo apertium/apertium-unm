@@ -37,7 +37,8 @@ NounRoot-Inan NounInfl-Inan
 
 NounRoot-Family(1) [ <n><voc>: ]
 
-N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3):
+N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3): [ <pl>:{A}k ]?
+# Just put a -k after "our", e.g, nichanenak
 
 # Intransitive
 :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
@@ -389,6 +390,12 @@ wik:wik{IU}             <iv><aa> # "to dwell"
 weskahp:weskahp{IU}     <iv><aa> # "be born"
 ahchinkx:ahchinkx{IE}   <iv><aa> # "be stubborn/disobedient"
 
+# Lesson 21
+
+kelixike:kelixike       <iv><aa> # "sew"
+ahponhe:ahponhe         <iv><aa> # "make bread"
+patam:patam             <iv><aa> # "pray"
+manaxe:manaxe           <iv><aa> # "cut/go after wood"
 
 LEXICON VerbRootTI(2)
 
@@ -409,6 +416,7 @@ tatun:tatun             <tv><nn> # "put/place it"
 meshatam:m{w}eshatam    <tv><nn> # "remember it"
 
 
+
 LEXICON VerbRootTA(2)
 
 mil:mil                 <tv><aa> # "give"
@@ -416,6 +424,10 @@ new:new                 <tv><aa> # "see"
 
 # Lesson 20
 nachih:nachih           <tv><aa> # "bother someone"
+
+# Lesson 21
+wichem:wichem           <tv><aa> # "help someone"
+
 
 LEXICON AdjLex
 
@@ -480,6 +492,11 @@ xàntki:xàntki   # "finally"
 lekhikwi:lekhikwi # "at this time"
 tamse:tamse     # "sometimes"
 àpchi:àpchi     # "always"
+
+lòmëwe:lòmëwe   # "long ago"
+kèxiti:kèxiti   # "a little; a little bit"
+
+kishkwik:kishkwik # "today"
 
 LEXICON CnjLex(2)
 
