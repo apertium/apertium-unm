@@ -139,15 +139,15 @@ LEXICON VerbInflAI(3)
 :{k}{e}>   >{½}          <p2><sg>
 :ki\ >     >{½}          <p2><sg>        # Dir/LR
 :k'>       >{½}          <p2><sg>        # Dir/LR
-:          >{³}          <p3><sg>
-:{N}{e}>   >{½}>hena     <p1><incl><pl>
+:          >{³}          <p3><sg>        # technically -w (?)
+:{N}{e}>   >{½}>hena     <p1><incl><pl>  # technically -hm-nan (MP-1.pl)
 :ni\ >     >{½}>hena     <p1><incl><pl>  # Dir/LR
 :n'>       >{½}>hena     <p1><incl><pl>  # Dir/LR
 :{k}{e}>   >{½}>hena     <p1><excl><pl>
 :ki\ >     >{½}>hena     <p1><excl><pl>  # Dir/LR
 :ki\ >     >{½}>hena     <p1><excl><pl>  # Dir/LR
 :{k}{e}>   >{½}>hemo     <p2><pl>
-:          >{³}>{y}{A}k  <p3><pl>
+:          >{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
 
 :          >tam          <opt><p1><pl>
 
@@ -244,6 +244,7 @@ chinkwe:chinkwe         # "bobcat"
 shkakw:shkakw           # "skunk"
 opalaniye:opalaniye     # "bald eagle"
 maxkalaniyat:maxkalaniyat # "hawk"
+awèn:awèn               # "person" (pl: awènik)
 
 
 LEXICON NounRoot-Inan
@@ -300,6 +301,7 @@ lokens:lokens           # "plate"
 ehukwenk:ehukwenk       # "necklace"
 tepinxkepi:tepinxkepi   # "bracelet"
 mokel:mokel             # "hammer"
+kishku:kishku           # "day"  (pl: kishko)
 
 LEXICON NounRoot-Family(2)
 
@@ -397,6 +399,13 @@ ahponhe:ahponhe         <iv><aa> # "make bread"
 patam:patam             <iv><aa> # "pray"
 manaxe:manaxe           <iv><aa> # "cut/go after wood"
 
+# Lesson 22
+
+ame:ame                 <iv><aa> # "fish" - no prefixes! (ame, ame, ame, amehena, amehena, amehemo, ameyok)
+penhatu:penhatu         <iv><aa> # "leave tracks"
+tkauxwe:tkauxwe         <iv><aa> # "walk slowly"
+
+
 LEXICON VerbRootTI(2)
 
 tankhitu:t{A}nkhitu     <tv><nn> # "lose"
@@ -415,6 +424,11 @@ tatun:tatun             <tv><nn> # "put/place it"
 
 meshatam:m{w}eshatam    <tv><nn> # "remember it"
 
+# Lesson 21
+
+kelixham:kelixham       <tv><nn> # "sew it"
+kelixham:kelixam        <tv><nn> # "sew it"  # Dir/LR
+
 
 
 LEXICON VerbRootTA(2)
@@ -422,11 +436,20 @@ LEXICON VerbRootTA(2)
 mil:mil                 <tv><aa> # "give"
 new:new                 <tv><aa> # "see"
 
+# Lesson 18
+wichëm:wichëm           <tv><aa> # "help someone"
+
 # Lesson 20
 nachih:nachih           <tv><aa> # "bother someone"
 
 # Lesson 21
-wichem:wichem           <tv><aa> # "help someone"
+kelen:kelen             <tv><aa> # "carry/hold someone"
+
+# Lesson 22
+
+wixen:wixen             <tv><aa> # "cook something animate"
+naol:naol               <tv><aa> # "follow"
+
 
 
 LEXICON AdjLex
@@ -479,6 +502,7 @@ yukwe:yukwe     # "now"
 lòkëwe:lòkëwe   # "yesterday"
 she:she         # "here"
 ika:ika         # "there"
+wëlèh:wëlèh     # "there; over there"
 konaet:konaet   # "maybe"
 xuniti:xuniti   # "soon"
 na:na           # "then"
@@ -497,6 +521,8 @@ lòmëwe:lòmëwe   # "long ago"
 kèxiti:kèxiti   # "a little; a little bit"
 
 kishkwik:kishkwik # "today"
+
+wëli:wëli       # very; good; well
 
 LEXICON CnjLex(2)
 
