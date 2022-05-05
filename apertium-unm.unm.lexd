@@ -210,6 +210,7 @@ LEXICON N-Poss(3)
 
 :{N}{e}>   :                <px1sg>
 :{k}{e}>   :                <px2sg>
+:          :>a              <px3sg>      ! Fix plurals  - technically -a is obviative
 :{N}{e}>   :>ena            <px1plincl>
 :{k}{e}>   :>ena            <px1plexcl>
 
