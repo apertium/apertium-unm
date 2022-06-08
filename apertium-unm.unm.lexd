@@ -503,34 +503,40 @@ nën:nën         <dem><dist><nn><sg>
 nàn:nàn         <dem><dist><aa><sg>
 awèn:awèn       <itg>                   # "who"
 kèku:kèku       <itg>                   # "what"
+#nëpe:nëpe                               # "me too"
+#këpe:këpe                               # "you too"
 
 LEXICON AdvLex
 
-yukwe:yukwe     # "now"
-lòkëwe:lòkëwe   # "yesterday"
-she:she         # "here"
-ika:ika         # "there"
-wëlèh:wëlèh     # "there; over there"
-konaet:konaet   # "maybe"
-xuniti:xuniti   # "soon"
-na:na           # "then"
+yukwe:yukwe       # "now"
+lòkëwe:lòkëwe     # "yesterday"
+she:she           # "here"
+ika:ika           # "there"
+wëlèh:wëlèh       # "there; over there"
+konaet:konaet     # "maybe"
+xuniti:xuniti     # "soon"
+na:na             # "then"
 
-kahti:kahti     # "almost"
-sòmi:sòmi       # "very"
+kahti:kahti       # "almost"
+sòmi:sòmi         # "very"
 
-xu:xu           # [future]
-mechi:mechi     # "already" / [perfect]
-xàntki:xàntki   # "finally"
+xu:xu             # [future]
+mechi:mechi       # "already" / [perfect]
+xàntki:xàntki     # "finally"
 lekhikwi:lekhikwi # "at this time"
-tamse:tamse     # "sometimes"
-àpchi:àpchi     # "always"
+tamse:tamse       # "sometimes"
+àpchi:àpchi       # "always"
 
-lòmëwe:lòmëwe   # "long ago"
-kèxiti:kèxiti   # "a little; a little bit"
+lòmëwe:lòmëwe     # "long ago"
+kèxiti:kèxiti     # "a little; a little bit"
 
 kishkwik:kishkwik # "today"
 
-wëli:wëli       # very; good; well
+wëli:wëli         # "very; good; well"
+
+kwiakwi:kwiakwi   # "more; still"
+nahi:nahi         # "downstream" (final stress)
+
 
 LEXICON CnjLex(2)
 
