@@ -310,19 +310,22 @@ mokel:mokel             # "hammer"
 kishku:kishku           # "day"  (pl: kishko)
 xalahputisikaon:xalahputisikaon  # "spider web"
 lehikan:lehikan         # "book; letter"
+taxàn:taxàn             # "wood, firewood"
+namès:namès             # "fish"
+amànakw:amànakw         # "fishing pole"
 
 LEXICON NounRoot-Family(2)
 
 # Vocative          Possessive stem
 ana:ana             kahes:kahes         # "mother"
-nuxa:nuxa           ux:ux             # "father"
-nkwis:nkwis         kwis:kwis         # "son"
-nichan:nichan       ichan:ichan       # "daughter"
+nuxa:nuxa           ux:ux               # "father"
+nkwis:nkwis         kwis:kwis           # "son"
+nichan:nichan       ichan:ichan         # "daughter"
 uma:uma             uhem:uhem           # "grandmother"
 mëxumsa:mëxumsa     mëxumes:mëxumes     # "grandfather"
 xatash:xatash       mis:mis             # "older sister"
 xansa:xansa         xans:xans           # "older brother"
-naxisemes:naxisemes xisemes:xisemes # "younger sister/brother/cousin"
+naxisemes:naxisemes xisemes:xisemes     # "younger sister/brother/cousin"
 
 
 LEXICON VerbRootAI(2)
@@ -363,7 +366,7 @@ pap:pap{IU}             <iv><aa> # "play"
 
 # Lesson 7
 këlëks:këlëks{IU}       <iv><aa> # "laugh"
-melimu:melimu           <iv><aa> # "cry"
+melimu:melimw{IU}       <iv><aa> # "cry"
 hakihe:{TH}akihe        <iv><aa> # "plant"
 alakihel:{t}alakihel{Æ} <iv><aa> # "jump around"
 winewe:winewe           <iv><aa> # "beg/ask"
@@ -518,7 +521,7 @@ xuniti:xuniti     # "soon"
 na:na             # "then"
 
 kahti:kahti       # "almost"
-sòmi:sòmi         # "very"
+sòmi:sòmi         # "very (too much)"
 
 xu:xu             # [future]
 mechi:mechi       # "already" / [perfect]
@@ -537,6 +540,10 @@ wëli:wëli         # "very; good; well"
 kwiakwi:kwiakwi   # "more; still"
 nahi:nahi         # "downstream" (final stress)
 piskèke:piskèke   # "tonight; last night; when night comes"
+
+tani:tani         # "where"
+kèxa:kèwa         # "how much; how many"
+chinke:chinke     # "when"
 
 
 LEXICON CnjLex(2)
