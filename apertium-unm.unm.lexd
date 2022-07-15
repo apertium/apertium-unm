@@ -210,7 +210,7 @@ LEXICON N-Poss(3)
 
 :{N}{e}>   :                <px1sg>
 :{k}{e}>   :                <px2sg>
-:          :>a              <px3sg>      ! Fix plurals  - technically -a is obviative
+:          :>a              <px3sg>      # Fix plurals  - technically -a is obviative
 :{N}{e}>   :>ena            <px1plincl>
 :{k}{e}>   :>ena            <px1plexcl>
 
@@ -235,7 +235,7 @@ LEXICON NounRoot-Anim
 ahas:ahas               # "crow" pl - ahasak
 tëme:tëme               # "wolf" pl - temeyok
 maxkw:maxkw             # "bear" pl - maxkok
-aiham:aiham             # "golden eagle" pl - aihamuk
+aihàm:aihàm             # "golden eagle" pl - aihamuk
 ketukw:ket{u}kw         # "knee" pl - ketkuk
 chahkol:chahkol         # "frog"
 chulens:chulens         # "bird"
@@ -251,6 +251,7 @@ xkwe:xkwe               # "woman"
 xkwechëch:xkwechëch     # "girl"
 pilaechëch:pilaechëch   # "boy"
 utènay:utènay           # "town"
+hopënis:hopënis         # "potato"
 
 
 LEXICON NounRoot-Inan
@@ -313,6 +314,8 @@ lehikan:lehikan         # "book; letter"
 taxàn:taxàn             # "wood, firewood"
 namès:namès             # "fish"
 amànakw:amànakw         # "fishing pole"
+lòkwënipuwakàn:lòkwënipuwakàn # "supper"
+shkul:shkul             # "school"
 
 LEXICON NounRoot-Family(2)
 
@@ -351,7 +354,7 @@ machi:mach{I}				<iv><aa>	# "go home"
 asu:{t}asu{w}{IU}       <iv><aa> # "sing"
 puhenema:puhenema       <iv><aa> # "drum"
 kentk:kentk{Æ}          <iv><aa> # "dance"
-lashim:{t}{e}lashim{w}{IU} <iv><aa> # "dream"
+lashimw:{t}{e}lashim{w}{IU} <iv><aa> # "dream"
 
 # Lesson 4
 katup:katup{w}{IU}      <iv><aa> # "be hungry"
@@ -359,6 +362,25 @@ ite:{l}ite{h}e          <iv><aa> # "think"
 mits:mits{IU}           <iv><aa> # "eat"
 mëne:mëne               <iv><aa> # "drink"
 katusëm:katusëm{w}{IU}  <iv><aa> # "be thirsty"
+
+# Lesson 5
+
+ahp:ahp                 <iv><aa>
+hate:hate               <iv><aa>
+katusamwi:katusamw{IU}  <iv><aa>
+
+# Preverbs:
+#shinki
+#winki
+#kata
+# ketemaks:ketemaks{IU}  <iv><aa> # "be pitiful"
+# patama:patama          <iv><aa> # "pray"
+# chòpwihële:chòpwihële  <iv><aa> # "fall in the water"
+# melantam:melantam      <iv><aa> # "vomit"
+# shëshkòmw:shëshkòm{w}{IU} <iv><aa> # "chew"   shëshkòmu / shëhkòmwiyòk
+# iskelenche:iskelench{Æ}   <iv><aa> # "have dirty hands/fingers"
+# pishkwt:pishkwt{IU}    <iv><aa> # "fat almost silently"
+# ukatham:ukatham        <iv><aa> # "braid it"
 
 # Lesson 6
 ashewil:ashewil         <iv><aa> # "swim"
@@ -416,6 +438,15 @@ ame:ame                 <iv><aa> # "fish" - no prefixes! (ame, ame, ame, amehena
 penhatu:penhatu         <iv><aa> # "leave tracks"
 tkauxwe:tkauxwe         <iv><aa> # "walk slowly"
 
+# Lesson 23
+
+ahkens:ahkens           <iv><aa> # "read, count"
+
+# MISC
+
+shkul:shkul{IU}         <iv><aa> # "go to school"
+
+
 
 LEXICON VerbRootTI(2)
 
@@ -425,6 +456,20 @@ kaxksem:k{A}xksem       <tv><nn> # "dry"
 
 kwetkenem:kwetkenem     <tv><nn> # "return it"
 kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
+
+
+
+# Lesson 5
+
+nem:nem                 <tv><nn> # "see it"
+penam:p{w}enam          <tv><nn> # "look at it"
+wixenin:wixenin         <tv><nn> # "cook it"
+katatam:k{A}tatam       <tv><nn> # "want it"
+katutam:katutam         <tv><nn> # "want to eat it"
+shinkatam:shinkatam     <tv><nn> # "hate it"
+ulhatu:ulhatu           <tv><nn> # "have it"
+
+# FIXME: lots of verbs go here
 
 # Lesson 10
 watun:watun             <tv><nn> # "know/know about it"
@@ -460,6 +505,10 @@ kelen:kelen             <tv><aa> # "carry/hold someone"
 
 wixen:wixen             <tv><aa> # "cook something animate"
 naol:naol               <tv><aa> # "follow"
+
+# Lesson 23
+
+uwah:uwah               <tv><aa> # "know someone"
 
 
 
@@ -594,6 +643,7 @@ telen\ txen\ kwetapxki:telen\ txen\ kwetapxki    # "one thousand"
 LEXICON IjLex
 
 yuh:yuh         # "alright, okay"
+ahikta:ahikta   # "yes, agreed; oh yes"
 
 LEXICON Punctuation
 
