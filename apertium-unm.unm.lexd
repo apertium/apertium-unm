@@ -118,6 +118,7 @@ kata<vaux>+:kata\       # "want to do"       FIXME: p3 is kota/kahta
 shinki<vaux>+:shinki\   # "dislike/hate to"
 alemi<vaux>+:{t}{w}alemi\  # "begin"
 tala<vaux>+:{t}ala\     # "cannot"
+kàski<vaux>+:kàski\     # "can"
 
 
 LEXICON NounInfl-Anim
@@ -547,7 +548,9 @@ wa:wa           <dem><prox><aa><sg>   # "this (anim)"
 yuli:yuli       <dem><prox><nn><pl>
 yuki:yuki       <dem><prox><aa><pl>
 
-nel:nel			 <dem><dist><obv><an><sp>  # sg/pl an/in obviative
+nel:nel			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
+naka:naka       <dem><dist><abs><sp>  # sg/pl deceased/absent things (animate)
+                                      # always agrees with obviative (/absentative)
 
 LEXICON Pronouns(2)
 
