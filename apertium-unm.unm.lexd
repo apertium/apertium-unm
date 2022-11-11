@@ -57,16 +57,26 @@ N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3): [ <pl>:{A}k ]?
 
 PATTERN Verbs
 
-# Intransitive
+
+# FIXME: need separate tags for (main)/subordinate/conjunct/etc.
+
+# (main)
+
+## Intransitive
 :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
-# Transitive Inanimate
+## Transitive Inanimate
 :VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTI(2) VerbInflTI(3):
-# Transitive Animate
+## Transitive Animate
 :VerbInflTA(1) Preverbs? VerbRootTA(1) [<v>:] VerbRootTA(2): :VerbInflTA(2) VerbInflTA(3):
 
 
+# Subordinate
+
+## Intransitive
 :VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) VerbInflAISub(3):
 
+
+# Conjunct
 
 
 PATTERN AdjRoot
