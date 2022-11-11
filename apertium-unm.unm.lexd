@@ -32,6 +32,20 @@
 
 PATTERNS
 
+Nouns
+Verbs
+Punctuation
+AdjRoot
+AdvRoot
+PrepRoot
+IjRoot
+DetRoot
+NumberRoot
+CnjLex(1) CnjLex(2):
+
+
+PATTERN Nouns
+
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
@@ -40,6 +54,9 @@ NounRoot-Family(1) [ <n><voc>: ]
 N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3): [ <pl>:{A}k ]?
 # Just put a -k after "our", e.g, nichanenak
 
+
+PATTERN Verbs
+
 # Intransitive
 :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
 # Transitive Inanimate
@@ -47,21 +64,9 @@ N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3): [ <pl>:{A}k ]?
 # Transitive Animate
 :VerbInflTA(1) Preverbs? VerbRootTA(1) [<v>:] VerbRootTA(2): :VerbInflTA(2) VerbInflTA(3):
 
-Punctuation
 
-AdjRoot
+:VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) VerbInflAISub(3):
 
-AdvRoot
-
-PrepRoot
-
-IjRoot
-
-DetRoot
-
-NumberRoot
-
-CnjLex(1) CnjLex(2):
 
 
 PATTERN AdjRoot
@@ -106,6 +111,14 @@ LEXICON AdjMorph
 
 
 
+PATTERN PreverbsSub
+
+PreverbSub-Lex
+
+LEXICON PreverbSub-Lex
+
+teli<cnjsub>+:teli\     # so that
+tili<cnjsub>+:tili\     # when, that, so that, as
 
 PATTERN Preverbs
 
@@ -151,6 +164,18 @@ LEXICON VerbInflAI(3)
 :          >{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
 
 :          >tam          <opt><p1><pl>
+
+LEXICON VerbInflAISub(3)
+
+:{N}{e}>   >{½}>{e}n     <p1><sg>
+:{k}{e}>   >{½}>{e}n     <p2><sg>
+:          >{₃}>{e}n     <p3><sg>
+:{N}{e}>   >{½}>{e}nen   <p1><incl><pl>
+:{k}{e}>   >{½}>{e}nen   <p1><excl><pl>
+:{k}{e}>   >{½}>{e}neyo  <p2><pl>
+:          >{₃}>{e}neyo  <p3><pl>
+
+
 
 LEXICON VerbInflTI(3)
 
@@ -515,7 +540,7 @@ uwah:uwah               <tv><aa> # "know someone"
 
 LEXICON AdjLex
 
-sek:sek                # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
+sëk:sëk                # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
 wisaw:wisaw            # be yellow    wisawsu|wisawsuwak / wisae|wisaeyo
 òp:òp                  # be white     opsu|opsuwak / ope~opek|opeyoá
 àskàskw:àskàskw        # be green
