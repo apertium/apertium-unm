@@ -132,7 +132,7 @@ tili<cnjsub>+:tili\     # when, that, so that, as
 
 PATTERN Preverbs
 
-Preverb-Lex ([hëch<qst>+:hech\ ])
+Preverb-Lex ([hëch<qst>+:hech\ ])?
 
 LEXICON Preverb-Lex
 
