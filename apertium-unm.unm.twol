@@ -35,8 +35,8 @@ Pers = %{½%} %{³%} ;
 Rules
 
 "Epenthetic vowels surface"
-Vx:Vy <=> _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
-          _ :Cons/[ :0 - [ %{e%}: | %{u%}:] ]* .#. ;
+Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
+          :Cons _ :Cons/[ :0 - [ %{e%}: | %{u%}:] ]* .#. ;
           [ %{N%}: | %{k%}: ] _ %>: m: ;
           %{N%}: _ %>: w: ;
           %{k%}: _ %>: p: ;

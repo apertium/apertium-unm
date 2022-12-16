@@ -73,7 +73,7 @@ PATTERN Verbs
 # Subordinate
 
 ## Intransitive
-:VerbInflAISub(1) PreverbsSub VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) VerbInflAISub(3):
+:VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) [<subord>:] VerbInflAISub(3):
 
 
 # Conjunct
@@ -179,11 +179,11 @@ LEXICON VerbInflAISub(3)
 
 :{N}{e}>   >{½}>{e}n     <p1><sg>
 :{k}{e}>   >{½}>{e}n     <p2><sg>
-:          >{₃}>{e}n     <p3><sg>
+:          >{½}>{e}n     <p3><sg>
 :{N}{e}>   >{½}>{e}nen   <p1><incl><pl>
 :{k}{e}>   >{½}>{e}nen   <p1><excl><pl>
 :{k}{e}>   >{½}>{e}neyo  <p2><pl>
-:          >{₃}>{e}neyo  <p3><pl>
+:          >{½}>{e}neyo  <p3><pl>
 
 
 
