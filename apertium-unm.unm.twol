@@ -6,7 +6,7 @@ Alphabet
  %{y%}:0 %{y%}:y %{y%}:w
  %{A%}:a %{A%}:o %{A%}:u
  %{k%}:k %{k%}:0
- %{N%}:n %{n%}:m
+ %{N%}:n %{N%}:m %{N%}:0
  %{t%}:t %{t%}:0
  %{TH%}:t %{TH%}:h
  %{IU%}:i %{IU%}:u
@@ -40,6 +40,7 @@ Vx:Vy <=> _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
           [ %{N%}: | %{k%}: ] _ %>: m: ;
           %{N%}: _ %>: w: ;
           %{e%}: %>: %{t%}: _ :Cons ;
+			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
       except
             _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;
       where Vx in ( %{e%} %{u%} )
@@ -102,13 +103,19 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{N} as m before p"
 %{N%}:m <=> _ :0* p: ;
 
+"{N} as 0 before n"
+%{N%}:0 <=> _ :0* n: ;
+
 "{w} as 0 if followed by u"
 %{w%}:0 <=> _ :0* %{IU%}:u ;
-            _ :0* m: ;
+            _ :0* [ m: | n: ]  ;
 
 "{w} as u"
 %{W%}:u <=> %{e%}: %>: _ %{e%}: ;
 
+!"{e} as 0"
+!%{e%}:0 <=> %{k%}: _ %>: w: ;
+!            %{N%}: _ %>: p: ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
