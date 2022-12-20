@@ -1,10 +1,10 @@
 Alphabet
- A B C D E F G H I J K L M N O P Q R S T U V W Y Z
- a b c d e f g h i j k l m n o p q r s t u v w y z
- %{e%}:0 %{e%}:e
+ A B C D E F G H I J K L M N O P Q R S T U V W Y Z À È Ë Ì Ò Ù
+ a b c d e f g h i j k l m n o p q r s t u v w y z à è ë ì ò ù
+ %{e%}:0 %{e%}:ë
  %{u%}:0 %{u%}:u
  %{y%}:0 %{y%}:y %{y%}:w
- %{A%}:a %{A%}:o %{A%}:u
+ %{A%}:à %{A%}:ò %{A%}:ù
  %{k%}:k %{k%}:0
  %{N%}:n %{N%}:m %{N%}:0
  %{t%}:t %{t%}:0
@@ -21,8 +21,8 @@ Alphabet
 
 Sets
 
-Vows = A E I O U
-       a e i o u ;
+Vows = A E I O U  À È Ë Ì Ò Ù
+       a e i o u  à è ë ì ò ù ;
 
 Cons = B C D F G H J K L M N P Q R S T V W Y Z
        b c d f g h j k l m n p q r s t v w y z ;
@@ -35,16 +35,17 @@ Pers = %{½%} %{³%} ;
 Rules
 
 "Epenthetic vowels surface"
-Vx:Vy <=> _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
-          _ :Cons/[ :0 - [ %{e%}: | %{u%}:] ]* .#. ;
+Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
+          :Cons _ :Cons/[ :0 - [ %{e%}: | %{u%}:] ]* .#. ;
           [ %{N%}: | %{k%}: ] _ %>: m: ;
           %{N%}: _ %>: w: ;
+          %{k%}: _ %>: p: ;
           %{e%}: %>: %{t%}: _ :Cons ;
 			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
       except
             _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;
       where Vx in ( %{e%} %{u%} )
-            Vy in (   e     u   )
+            Vy in (   ë     u   )
       matched ;
 
 "{y} as y after e and i"
@@ -61,12 +62,12 @@ Vx:Vy <=> _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
 !         matched ;
 
 "{A} as o after kw or eC|iC or a"
-%{A%}:o <=> [ [ :e | :i ] %{y%}: ]/[ :0 - %{y%}: ]* _ ;
+%{A%}:ò <=> [ [ :e | :i ] %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             [ k: w: %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             :a/[ :0 ]* _ ;
 
 "{A} as u after m"
-%{A%}:u <=> m:/[ :0 - %{y%}: ]* _ ;
+%{A%}:ù <=> m:/[ :0 - %{y%}: ]* _ ;
 
 "w{A} coalesces to o"
 w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
@@ -97,8 +98,11 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{TH} as h when word initial"
 %{TH%}:h <=> .#. _ ;
 
-"{k} deletes before k"
-%{k%}:0 <=> _ :0* k: ;
+"{k} and deletes before k"
+%{k%}:0 <=> _ {e}:/:0* k: ;
+
+"{N} and deletes before n"
+%{N%}:0 <=> _ {e}:/:0* n: ;
 
 "{N} as m before p"
 %{N%}:m <=> _ :0* p: ;
@@ -118,9 +122,9 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 !            %{N%}: _ %>: p: ;
 
 ! Resources:
-! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
+! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
 ! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
 ! https://github.com/hfst/
-! http://wiki.apertium.org/wiki/Twol
-! http://wiki.apertium.org/wiki/Hfst
+! https://wiki.apertium.org/wiki/Twol
+! https://wiki.apertium.org/wiki/Hfst
 

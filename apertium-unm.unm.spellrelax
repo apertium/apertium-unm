@@ -1,13 +1,23 @@
-Alphabet
+[
+	! Unify apostrophe styles
+	[ ?* [ ' (->) [ %` | ʻ | ’ | ‘ | ʼ ] ] ?* ] .o.
 
-%':%'
-%`:%` %ʻ:%`
-%ʻ:%ʻ %ʻ:%ʻ
-%’:%’ %ʻ:%’
-%‘:%‘ %ʻ:%‘
-%ʼ:%ʼ %ʻ:%ʼ ;
+	! Accept variants for à
+	[ ?* [ à (->) [ a | à | à ] ] ?* ] .o.
 
-Rules
+	! Accept variants for è
+	[ ?* [ è (->) [ e | è | è ] ] ?* ] .o.
 
-"Unify apostrophe styles"
-a => _ ;
+	! Accept variants for ë
+	[ ?* [ ë (->) [ e | ë | ë ] ] ?* ] .o.
+
+	! Accept variants for ì
+	[ ?* [ ì (->) [ i | ì | ì ] ] ?* ] .o.
+
+	! Accept variants for ò
+	[ ?* [ ò (->) [ o | ò | ò ] ] ?* ] .o.
+
+	! Accept variants for ù
+	[ ?* [ ù (->) [ u | ù | ù ] ] ?* ]
+
+]
