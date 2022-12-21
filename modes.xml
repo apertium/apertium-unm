@@ -58,5 +58,13 @@
     </pipeline>
   </mode>
 
+  <mode name="unm-paradigm" install="yes">
+    <pipeline>
+      <program name="lt-paradigm -s">
+        <file name="unm.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
 </modes>
 

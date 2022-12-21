@@ -73,7 +73,7 @@ PATTERN Verbs
 # Subordinate
 
 ## Intransitive
-:VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) VerbInflAISub(3):
+:VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) [<subord>:] VerbInflAISub(3):
 
 
 # Conjunct
@@ -132,7 +132,7 @@ tili<cnjsub>+:tili\     # when, that, so that, as
 
 PATTERN Preverbs
 
-Preverb-Lex ([hëch<qst>+:hech\ ])
+Preverb-Lex ([hëch<qst>+:hech\ ])?
 
 LEXICON Preverb-Lex
 
@@ -164,13 +164,13 @@ LEXICON VerbInflAI(3)
 :ki\ >     >{½}          <p2><sg>        # Dir/LR
 :k'>       >{½}          <p2><sg>        # Dir/LR
 :          >{³}          <p3><sg>        # technically -w (?)
-:{N}{e}>   >{½}>hena     <p1><incl><pl>  # technically -hm-nan (MP-1.pl)
-:ni\ >     >{½}>hena     <p1><incl><pl>  # Dir/LR
-:n'>       >{½}>hena     <p1><incl><pl>  # Dir/LR
-:{k}{e}>   >{½}>hena     <p1><excl><pl>
-:ki\ >     >{½}>hena     <p1><excl><pl>  # Dir/LR
-:ki\ >     >{½}>hena     <p1><excl><pl>  # Dir/LR
-:{k}{e}>   >{½}>hemo     <p2><pl>
+:{N}{e}>   >{½}>hëna     <p1><incl><pl>  # technically -hm-nan (MP-1.pl)
+:ni\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
+:n'>       >{½}>hëna     <p1><incl><pl>  # Dir/LR
+:{k}{e}>   >{½}>hëna     <p1><excl><pl>
+:ki\ >     >{½}>hëna     <p1><excl><pl>  # Dir/LR
+:ki\ >     >{½}>hëna     <p1><excl><pl>  # Dir/LR
+:{k}{e}>   >{½}>hëmo     <p2><pl>
 :          >{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
 
 :          >tam          <opt><p1><pl>
@@ -179,11 +179,11 @@ LEXICON VerbInflAISub(3)
 
 :{N}{e}>   >{½}>{e}n     <p1><sg>
 :{k}{e}>   >{½}>{e}n     <p2><sg>
-:          >{₃}>{e}n     <p3><sg>
+:          >{½}>{e}n     <p3><sg>
 :{N}{e}>   >{½}>{e}nen   <p1><incl><pl>
 :{k}{e}>   >{½}>{e}nen   <p1><excl><pl>
 :{k}{e}>   >{½}>{e}neyo  <p2><pl>
-:          >{₃}>{e}neyo  <p3><pl>
+:          >{½}>{e}neyo  <p3><pl>
 
 
 
@@ -274,7 +274,7 @@ maxkw:maxkw             # "bear" pl - maxkok
 aihàm:aihàm             # "golden eagle" pl - aihamuk
 ketukw:ket{u}kw         # "knee" pl - ketkuk
 chahkol:chahkol         # "frog"
-chulens:chulens         # "bird"
+chulëns:chulëns         # "bird"
 mwekane:mwekane         # "dog"
 xanikw:xanikw           # "squirrel"
 chinkwe:chinkwe         # "bobcat"
