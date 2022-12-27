@@ -164,12 +164,12 @@ LEXICON VerbInflAI(3)
 :ki\ >     >{½}          <p2><sg>        # Dir/LR
 :k'>       >{½}          <p2><sg>        # Dir/LR
 :          >{³}          <p3><sg>        # technically -w (?)
-:{N}{e}>   >{½}>hëna     <p1><incl><pl>  # technically -hm-nan (MP-1.pl)
-:ni\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
-:n'>       >{½}>hëna     <p1><incl><pl>  # Dir/LR
-:{k}{e}>   >{½}>hëna     <p1><excl><pl>
-:ki\ >     >{½}>hëna     <p1><excl><pl>  # Dir/LR
-:ki\ >     >{½}>hëna     <p1><excl><pl>  # Dir/LR
+:{N}{e}>   >{½}>hëna     <p1><excl><pl>  # technically -hm-nan (MP-1.pl)
+:ni\ >     >{½}>hëna     <p1><excl><pl>  # Dir/LR
+:n'>       >{½}>hëna     <p1><excl><pl>  # Dir/LR
+:{k}{e}>   >{½}>hëna     <p1><incl><pl>
+:ki\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
+:ki\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
 :{k}{e}>   >{½}>hëmo     <p2><pl>
 :          >{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
 
@@ -180,8 +180,8 @@ LEXICON VerbInflAISub(3)
 :{N}{e}>   >{½}>{e}n     <p1><sg>
 :{k}{e}>   >{½}>{e}n     <p2><sg>
 :          >{½}>{e}n     <p3><sg>
-:{N}{e}>   >{½}>{e}nen   <p1><incl><pl>
-:{k}{e}>   >{½}>{e}nen   <p1><excl><pl>
+:{N}{e}>   >{½}>{e}nen   <p1><excl><pl>
+:{k}{e}>   >{½}>{e}nen   <p1><incl><pl>
 :{k}{e}>   >{½}>{e}neyo  <p2><pl>
 :          >{½}>{e}neyo  <p3><pl>
 
@@ -195,10 +195,10 @@ LEXICON VerbInflTI(3)
 :{k}{e}>   >{e}n>a        <p2><sg><o_pl>
 :{w}       >{e}n>a        <p3><sg><o_sg>
 :{w}       >{e}n>a        <p3><sg><o_pl>
-:{N}{e}>   >{e}nen        <p1><incl><pl><o_sg>
-:{N}{e}>   >{e}nen>a      <p1><incl><pl><o_pl>
-:{k}{e}>   >{e}nen        <p1><excl><pl><o_sg>
-:{k}{e}>   >{e}nen>a      <p1><excl><pl><o_pl>
+:{N}{e}>   >{e}nen        <p1><excl><pl><o_sg>
+:{N}{e}>   >{e}nen>a      <p1><excl><pl><o_pl>
+:{k}{e}>   >{e}nen        <p1><incl><pl><o_sg>
+:{k}{e}>   >{e}nen>a      <p1><incl><pl><o_pl>
 :{k}{e}>   >{e}n>eyo      <p2><pl>
 :{w}       >{e}n>eyo      <p3><pl>
 #:{k}{e}>   >en>eyo        <p2><pl><o_sg>
@@ -215,12 +215,12 @@ LEXICON VerbInflTA(3)
 :{w}       >a>o             <dir><p3><sg><o_sg>
 :{w}       >a>o             <dir><p3><sg><o_pl>           # Dir/LR
 :{w}       >a>o>k           <dir><p3><sg><o_pl>
-:{N}{e}>   >a>w>ena         <dir><p1><incl><pl><o_sg>
-:{N}{e}>   >a>w>na          <dir><p1><incl><pl><o_sg>     # Dir/LR
-:{N}{e}>   >a>w>enanak      <dir><p1><incl><pl><o_pl>
-:{k}{e}>   >a>w>ena         <dir><p1><excl><pl><o_sg>
-:{k}{e}>   >a>w>na          <dir><p1><excl><pl><o_sg>     # Dir/LR
-:{k}{e}>   >a>w>enanak      <dir><p1><excl><pl><o_pl>
+:{N}{e}>   >a>w>ena         <dir><p1><excl><pl><o_sg>
+:{N}{e}>   >a>w>na          <dir><p1><excl><pl><o_sg>     # Dir/LR
+:{N}{e}>   >a>w>enanak      <dir><p1><excl><pl><o_pl>
+:{k}{e}>   >a>w>ena         <dir><p1><incl><pl><o_sg>
+:{k}{e}>   >a>w>na          <dir><p1><incl><pl><o_sg>     # Dir/LR
+:{k}{e}>   >a>w>enanak      <dir><p1><incl><pl><o_pl>
 :{k}{e}>   >a>w>a           <dir><p2><pl><o_sg>
 :{k}{e}>   >a>w>a           <dir><p2><pl><o_pl>
 :{w}       >a>w>oo          <dir><p3><pl>
@@ -233,10 +233,10 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >kuk>w           <inv><p2><sg><s_pl>
 :{w}       >ku              <inv><p3><sg><s_sg>
 :{w}       >ku              <inv><p3><sg><s_pl>
-:{N}{e}>   >ku>na           <inv><p1><incl><pl><s_sg>
-:{N}{e}>   >ku>nanak        <inv><p1><incl><pl><s_pl>
-:{k}{e}>   >ku>na           <inv><p1><excl><pl><s_sg>
-:{k}{e}>   >ku>nanak        <inv><p1><excl><pl><s_pl>
+:{N}{e}>   >ku>na           <inv><p1><excl><pl><s_sg>
+:{N}{e}>   >ku>nanak        <inv><p1><excl><pl><s_pl>
+:{k}{e}>   >ku>na           <inv><p1><incl><pl><s_sg>
+:{k}{e}>   >ku>nanak        <inv><p1><incl><pl><s_pl>
 :{k}{e}>   >ku>w>a          <inv><p2><pl><s_sg>
 :{k}{e}>   >ku>w>a>ok       <inv><p2><pl><s_pl>
 :{w}       >ku>w>oo         <inv><p3><pl>
@@ -247,8 +247,8 @@ LEXICON N-Poss(3)
 :{N}{e}>   :                <px1sg>
 :{k}{e}>   :                <px2sg>
 :          :>a              <px3sg>      # Fix plurals  - technically -a is obviative
-:{N}{e}>   :>ena            <px1plincl>
-:{k}{e}>   :>ena            <px1plexcl>
+:{N}{e}>   :>ena            <px1plexcl>
+:{k}{e}>   :>ena            <px1plincl>
 
 
 PATTERN DetRoot
