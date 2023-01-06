@@ -78,6 +78,9 @@ PATTERN Verbs
 
 # Conjunct
 
+## Intransitive
+VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
+
 
 PATTERN AdjRoot
 
@@ -185,7 +188,7 @@ LEXICON VerbInflAISub(3)   # Subordinative
 :{k}{e}>   >{½}>{e}neyo  <p2><pl>
 :          >{½}>{e}neyo  <p3><pl>
 
-LEXICON VerbInflAICnj(3)  # Conjunct
+LEXICON VerbInflAICnj(2)  # Conjunct
 
 >{½}>a{n}   <p1><sg>
 >{½}>an     <p2><sg>
@@ -195,10 +198,6 @@ LEXICON VerbInflAICnj(3)  # Conjunct
 >{½}>ankw   <p1><excl><pl>
 >{½}>ekw    <p2><pl>
 >{½}>htit   <p3><pl>
-
-
-
-
 
 LEXICON VerbInflTI(3)
 
