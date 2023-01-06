@@ -383,7 +383,7 @@ LEXICON VerbRootAI(2)
 
 # Lesson 1
 lamals:{w}lamals{IU}    <iv><aa> # "feel well"
-tixëm:tixëm{w}{IU}      <iv><aa> # "bathe"
+tixëm:tixëm{w}{IU}      <iv><aa> # "bathe"    # w
 tixëm:tixàm{w}{IU}      <iv><aa> # "bathe"   ! Dir/LR
 alam:{t}alam{IU}        <iv><aa> # "be frightened/scared" "корк"
 wishas:wishas{IU}       <iv><aa> # "be frightened/startled" "чочу"
@@ -402,14 +402,14 @@ machi:mach{I}				<iv><aa>	# "go home"
 asu:{t}asu{w}{IU}       <iv><aa> # "sing"
 puhenema:puhenema       <iv><aa> # "drum"
 kentk:kentk{Æ}          <iv><aa> # "dance"
-lashimw:{t}{e}lashim{w}{IU} <iv><aa> # "dream"
+lashim:{t}{e}lashim{w}{IU} <iv><aa> # "dream"   # w
 
 # Lesson 4
 katup:katup{w}{IU}      <iv><aa> # "be hungry"
-ite:{l}ite{h}e          <iv><aa> # "think"
+tite:{l}ite{h}e         <iv><aa> # "think"
 mits:mits{IU}           <iv><aa> # "eat"
 mëne:mëne               <iv><aa> # "drink"
-katusëm:katusëm{w}{IU}  <iv><aa> # "be thirsty"
+katusëm:katusëm{w}{IU}  <iv><aa> # "be thirsty"   # w
 
 # Lesson 5
 
@@ -651,8 +651,11 @@ chinke:chinke     # "when"
 LEXICON CnjLex(2)
 
 òk:òk       <cnjcoo>      # "and"
-èli:èli     <cnjsub>      # "because"
-tili:tili   <cnjsub>      # "that"
+èli:èli     <cnjsub>      # "because"         w conjunct
+tìli:tìli   <cnjsub>      # "when, so that"   w subord
+tëli:tëli   <cnjsub>      # "so that"         w subord
+ènta:ènta   <cnjsub>      # "when"            w conjunct
+nèli:nèli   <cnjsub>      # "while"           w conjunct
 
 LEXICON Prepositions
 
