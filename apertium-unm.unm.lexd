@@ -175,7 +175,7 @@ LEXICON VerbInflAI(3)
 
 :          >tam          <opt><p1><pl>
 
-LEXICON VerbInflAISub(3)
+LEXICON VerbInflAISub(3)   # Subordinative
 
 :{N}{e}>   >{½}>{e}n     <p1><sg>
 :{k}{e}>   >{½}>{e}n     <p2><sg>
@@ -184,6 +184,19 @@ LEXICON VerbInflAISub(3)
 :{k}{e}>   >{½}>{e}nen   <p1><incl><pl>
 :{k}{e}>   >{½}>{e}neyo  <p2><pl>
 :          >{½}>{e}neyo  <p3><pl>
+
+LEXICON VerbInflAICnj(3)  # Conjunct
+
+>{½}>a{n}   <p1><sg>
+>{½}>an     <p2><sg>
+>{½}>t      <p3><sg>
+>{½}>enkw   <p1><incl><pl>
+>{½}>enk    <p1><incl><pl>  # Dir/LR
+>{½}>ankw   <p1><excl><pl>
+>{½}>ekw    <p2><pl>
+>{½}>htit   <p3><pl>
+
+
 
 
 
