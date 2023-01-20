@@ -38,16 +38,20 @@ Rules
 "Epenthetic vowels surface"
 Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
           :Cons _ :Cons/[ :0 - [ %{e%}: | %{u%}:] ]* .#. ;
-          [ %{N%}: | %{k%}: ] _ %>: m: ;
-          %{N%}: _ %>: w: ;
-          %{k%}: _ %>: p: ;
-          %{e%}: %>: %{t%}: _ :Cons ;
+          [ %{N%}: | %{k%}: ] _ (%>:) m: ;
+          %{N%}: _ (%>:) w: ;
+          %{k%}: _ (%>:) p: ;
+          .#. %{w%}: _ :Cons ;
+          %{e%}: (%>:) %{t%}: _ :Cons ;
 			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
       except
             _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;
       where Vx in ( %{e%} %{u%} )
             Vy in (   ë     u   )
       matched ;
+
+"ëwë as u"
+%{e%}:u <=> .#. :Cons _ (%>:) %{w%}: %{e%}: :Cons ;
 
 "{y} as y after e and i"
 %{y%}:y <=> [ :e | :i ]/:0* _ ;
@@ -111,9 +115,10 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{N} as 0 before n"
 %{N%}:0 <=> _ :0* n: ;
 
-"{w} as 0 if followed by u"
+"{w} as 0 if followed by u or preceded by u"
 %{w%}:0 <=> _ :0* %{IU%}:u ;
             _ :0* [ m: | n: ]  ;
+            :u :0* _ ;
 
 "{w} as u"
 %{W%}:u <=> %{e%}: %>: _ %{e%}: ;

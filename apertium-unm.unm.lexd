@@ -304,58 +304,58 @@ hopënis:hopënis         # "potato"
 
 LEXICON NounRoot-Inan
 
-hempes:hemp{e}s			# "shirt, clothes" pl - hempsa
-ahkwiyàn:ahkwiyàn			# "blanket"
-chipakw:chipakw			# "shoe" pl - chipako
-shope:shope					# "shore" pl - shopeyo
-milaxk:milaxk				# "human hair"
-mixeken:mixeken			# "body hair, fur"
-mamon:mamon					# "eyebrow"
-xkwekankan:xkewkankan	# "neck"
-wananu:wananu				# "cheek" pl - wananuwa
-hwikwi:hwikwi				# "chin"
-shetun:shetun				# "lip"
-wipit:wipit					# "tooth"
-kwitsit:kwitsit			# "toe"
-wiskon:wiskon				# "elbow"
-hwikash:hwikash			# "nail, hoof, claw"
-welench:welench			# "finger"
-ahshilunkon:ahshilunkon	# "armpit"
-tukwelench:tukwelench	# "fish"
-xkelixen:xkelixen			# "rib"
-xkan:xkan					# "bone"
-mutay:mutay					# "stomach"
-weshkinkw:weshkinkw		# "eye; face" pl - weshkinko
-teh:teh						# "heart"
-pom:pom						# "thigh; ham"
-hwikxkon:hwikxkon			# "shin"
-tankat:tankat				# "ankle"
-tuhwepi:tuhwepi			# "body"
-wil:wil						# "head"
-hopikon:hopikon			# "shoulder"
-hwitaok:hwitaok			# "ear"
-tun:tun						# "mouth"
-wikiyon:wikiyon			# "nose"
-naolk:naolk					# "arm"
-naxk:naxk					# "hand"
-hwikat:hwikat				# "leg"
-wsit:wsit					# "foot"
+hempes:hemp{e}s         # "shirt, clothes" pl - hempsa
+ahkwiyàn:ahkwiyàn       # "blanket"
+chipakw:chipakw         # "shoe" pl - chipako
+shope:shope             # "shore" pl - shopeyo
+milàxk:milàxk           # "human hair"
+mixekën:mixekën         # "body hair, fur"
+mamon:mamon             # "eyebrow"
+xkwekankan:xkewkankan   # "neck"
+wananu:wananu           # "cheek" pl - wananuwa
+hwikwi:hwikwi           # "chin"
+shetun:shetun           # "lip"
+wipit:wipit             # "tooth"
+kwitsit:kwitsit         # "toe"
+wiskon:wiskon           # "elbow"
+hwikash:hwikash         # "nail, hoof, claw"
+welench:welench         # "finger"
+ahshilunkon:ahshilunkon # "armpit"
+tukwelench:tukwelench   # "fish"
+xkelixen:xkelixen       # "rib"
+xkan:xkan               # "bone"
+mutay:mutay             # "stomach"
+weshkinkw:weshkinkw     # "eye; face" pl - weshkinko
+teh:teh                 # "heart"
+pom:pom                 # "thigh; ham"
+hwikxkon:hwikxkon       # "shin"
+tankat:tankat           # "ankle"
+tuhwepi:tuhwepi         # "body"
+wil:wil                 # "head"
+hopikon:hopikon         # "shoulder"
+hwitaok:hwitaok         # "ear"
+tun:tun                 # "mouth"
+wikiyon:wikiyon         # "nose"
+naolk:naolk             # "arm"
+naxk:naxk               # "hand"
+hwikat:hwikat           # "leg"
+wsit:wsit               # "foot"
 mehemichink:mehemichink # "food"
 shakukwiyan:shakukwiyan # "coat"
 lenhaksen:lenhaksen     # "moccasin"
 mayakhwikan:mayakhwikan # "rake"
-hòkes:hokes             # "bark; box"
+hòkès:hòkès             # "bark; box"
 mënëpekw:mënëpekw       # "lake"
-muxul:muxul             # "canoe, boat"
+mùxul:mùxul             # "canoe, boat"
 tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
 ahchu:ahchu{h}{w}       # "hill, (mountain)"
 paent:paent             # "cup"
-chipakw:chipakw         # "shoe"
+chipàkw:chipàkw         # "shoe"
 ahshikan:ahshikan       # "sock"
-lokens:lokens           # "plate"
+lokèns:lokèns           # "plate"
 ehukwenk:ehukwenk       # "necklace"
 tepinxkepi:tepinxkepi   # "bracelet"
-mokel:mokel             # "hammer"
+mòkël:mòkël             # "hammer"
 kishku:kishku           # "day"  (pl: kishko)
 xalahputisikaon:xalahputisikaon  # "spider web"
 lehikan:lehikan         # "book; letter"
@@ -364,6 +364,7 @@ namès:namès             # "fish"
 amànakw:amànakw         # "fishing pole"
 lòkwënipuwakàn:lòkwënipuwakàn # "supper"
 shkul:shkul             # "school"
+mënëkòn:mënëkòn         # "rainbow"
 
 LEXICON NounRoot-Family(2)
 
@@ -382,7 +383,7 @@ naxisemes:naxisemes xisemes:xisemes     # "younger sister/brother/cousin"
 LEXICON VerbRootAI(2)
 
 # Lesson 1
-lamals:{w}lamals{IU}    <iv><aa> # "feel well"
+welamals:{w}{e}lamals{IU}    <iv><aa> # "feel well"
 tixëm:tixëm{w}{IU}      <iv><aa> # "bathe"    # w
 tixëm:tixàm{w}{IU}      <iv><aa> # "bathe"   ! Dir/LR
 alam:{t}alam{IU}        <iv><aa> # "be frightened/scared" "корк"
@@ -574,7 +575,8 @@ siskwinakw:siskwinakw  # be brown
 wipunkw:wipunkw        # be grey
 mamal:mamal            # be striped
 sësàp:sësàp            # be spotted
-wël:wël                # be pretty
+wël:wël                # be pretty    wëlesu
+# FIXME: add shiki somehow?
 
 ahpu:ahpu              # be baked
 salà:salà              # be fried
@@ -606,6 +608,10 @@ LEXICON Pronouns(2)
 
 nën:nën         <dem><dist><nn><sg>
 nàn:nàn         <dem><dist><aa><sg>
+yu:yu           <dem><prox><nn><sg>
+yu:yun          <dem><prox><nn><sg>     # Dir/LR
+wa:wa           <dem><prox><aa><sg>
+wa:wan          <dem><prox><aa><sg>     # Dir/LR
 awèn:awèn       <itg>                   # "who"
 kèku:kèku       <itg>                   # "what"
 #nëpe:nëpe                               # "me too"
