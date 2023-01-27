@@ -15,6 +15,8 @@ Alphabet
  %{w%}:w %{w%}:0
  %{W%}:w %{W%}:u
  %{I%}:i
+ %{ì%}:0 %{ì%}:ì
+ %{K%}:k %{K%}:t
  %{½%}:0
  %{³%}:0  ! triggers p3 root-initial and root-final alternations
  %{₃%}:0  ! triggers only p3 root-initial alternations (for subordinate)

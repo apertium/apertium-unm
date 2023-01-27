@@ -80,6 +80,8 @@ PATTERN Verbs
 
 ## Intransitive
 VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
+## Transitive Inanimate
+VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
 
 
 PATTERN AdjRoot
@@ -217,6 +219,17 @@ LEXICON VerbInflTI(3)
 #:{k}{e}>   >en>eyo        <p2><pl><o_pl>
 #:{w}       >en>eyo        <p3><pl><o_sg>
 #:{w}       >en>eyo        <p3><pl><o_pl>
+
+LEXICON VerbInflTICnj(2)  # Conjunct
+
+>{½}>a      <p1><sg>
+>{½}>an     <p2><sg>
+>{½}>{K}    <p3><sg>      # FIXME: penam>{½}>ank → penank
+>{½}>enkw   <p1><incl><pl>
+>{½}>ankw   <p1><excl><pl>
+>{½}>ekw    <p2><pl>
+>{½}>{ì}htit   <p3><pl>   # {i}:i after m
+
 
 LEXICON VerbInflTA(3)
 
