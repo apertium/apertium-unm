@@ -87,7 +87,10 @@ VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
 # Subjunctive
 
 ## Intransitive
-VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<sbj>:] VerbInflAICnj(2):
+VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISubj(1) [<sbj>:] VerbInflAISubj(2):
+## Transitive Inanimate
+VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTISubj(1) [<sbj>:] VerbInflTISubj(2):
+
 
 
 
@@ -247,6 +250,16 @@ LEXICON VerbInflTICnj(2)  # Conjunct
 >{½}>ankw   <p1><excl><pl>
 >{½}>ekw    <p2><pl>
 >{½}>{ì}htit   <p3><pl>   # {i}:i after m
+
+LEXICON VerbInflTISubj(2)  # Subjunctive
+
+>{½}>a{n}>e      <p1><sg>
+>{½}>an>e        <p2><sg>
+>{½}>{K}>e       <p3><sg>      # FIXME: penam>{½}>ank → penank
+>{½}>enkw>e      <p1><incl><pl>
+>{½}>ankw>e      <p1><excl><pl>
+>{½}>ekw>e       <p2><pl>
+>{½}>{ì}htit>e   <p3><pl>   # {i}:i after m
 
 
 LEXICON VerbInflTA(3)
