@@ -84,6 +84,13 @@ VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
 VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
 
 
+# Subjunctive
+
+## Intransitive
+VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<sbj>:] VerbInflAICnj(2):
+
+
+
 PATTERN AdjRoot
 
 AdjLex [<adj>:] AdjMorph
@@ -200,6 +207,17 @@ LEXICON VerbInflAICnj(2)  # Conjunct
 >{½}>ankw   <p1><excl><pl>
 >{½}>ekw    <p2><pl>
 >{½}>htit   <p3><pl>
+
+LEXICON VerbInflAISubj(2)  # Subjunctive
+
+>{½}>a{n}>e   <p1><sg>
+>{½}>an>e     <p2><sg>
+>{½}>t>e      <p3><sg>
+>{½}>enkw>e   <p1><incl><pl>
+>{½}>enk>e    <p1><incl><pl>  # Dir/LR
+>{½}>ankw>e   <p1><excl><pl>
+>{½}>ekw>e    <p2><pl>
+>{½}>htit>e   <p3><pl>
 
 LEXICON VerbInflTI(3)
 
