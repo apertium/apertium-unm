@@ -12,7 +12,8 @@ Alphabet
  %{TH%}:t %{TH%}:h
  %{IU%}:i %{IU%}:u
  %{Æ%}:a %{Æ%}:e
- %{w%}:w %{w%}:0
+ %{w%}:w %{w%}:0  ! don't appear by u
+ %{ʍ%}:w %{ʍ%}:0  ! for negative behaviour; reverse (appear after u)
  %{W%}:w %{W%}:u
  %{I%}:i
  %{ì%}:0 %{ì%}:ì
@@ -20,6 +21,7 @@ Alphabet
  %{½%}:0
  %{³%}:0  ! triggers p3 root-initial and root-final alternations
  %{₃%}:0  ! triggers only p3 root-initial alternations (for subordinate)
+ %{u%}:0 %{u%}:u
  %>:0  ;
 
 Sets
@@ -131,6 +133,12 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{n} as n only after a- and a/e-final form"
 %{n%}:n <=> [ %{Æ%}: | a: ] %>: %{½%}: %>: a: _ ;
+
+"{u}:u only after l"
+%{u%}:u <=> :l [ :0 - %{u%}: ]* _ ;
+
+"{ʍ}:w only after {u}:u"
+%{ʍ%}:w <=> %{u%}:u _ ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol

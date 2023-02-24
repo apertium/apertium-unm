@@ -190,6 +190,15 @@ LEXICON VerbInflAI(3)
 
 :          >tam          <opt><p1><pl>
 
+:{N}{e}>   >{½}>{u}{ʍ}i          <neg><p1><sg>
+:{k}{e}>   >{½}>{u}{ʍ}i          <neg><p2><sg>
+:          >{³}>{u}{ʍ}i          <neg><p3><sg>        # technically -w (?)
+:{N}{e}>   >{½}>{u}humëna        <neg><p1><excl><pl>  # technically -hm-nan (MP-1.pl)
+:{k}{e}>   >{½}>{u}humëna        <neg><p1><incl><pl>
+:{k}{e}>   >{½}>{u}humo          <neg><p2><pl>
+:          >{³}>{u}{ʍ}i>{y}{A}k  <neg><p3><pl>        # -w-ak (3-pl.anim)
+
+
 LEXICON VerbInflAISub(3)   # Subordinative
 
 :{N}{e}>   >{½}>{e}n     <p1><sg>
@@ -538,6 +547,7 @@ ahkens:ahkens           <iv><aa> # "read, count"
 # MISC
 
 shkul:shkul{IU}         <iv><aa> # "go to school"
+këshihëla:këshihël{Æ}   <iv><aa> # "run"
 
 
 
