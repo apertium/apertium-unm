@@ -190,13 +190,13 @@ LEXICON VerbInflAI(3)
 
 :          >tam          <opt><p1><pl>
 
-:{N}{e}>   >{½}>{u}{ʍ}i          <neg><p1><sg>
-:{k}{e}>   >{½}>{u}{ʍ}i          <neg><p2><sg>
-:          >{³}>{u}{ʍ}i          <neg><p3><sg>        # technically -w (?)
-:{N}{e}>   >{½}>{u}hùmëna        <neg><p1><excl><pl>  # technically -hm-nan (MP-1.pl)
-:{k}{e}>   >{½}>{u}hùmëna        <neg><p1><incl><pl>
-:{k}{e}>   >{½}>{u}hùmo          <neg><p2><pl>
-:          >{³}>{u}{ʍ}i>{y}{A}k  <neg><p3><pl>        # -w-ak (3-pl.anim)
+:{N}{e}>   >{½}>{u}{ʍ}{i}          <neg><p1><sg>
+:{k}{e}>   >{½}>{u}{ʍ}{i}          <neg><p2><sg>
+:          >{³}>{u}{ʍ}{i}          <neg><p3><sg>        # technically -w (?)
+:{N}{e}>   >{½}>{u}hùmëna          <neg><p1><excl><pl>  # technically -hm-nan (MP-1.pl)
+:{k}{e}>   >{½}>{u}hùmëna          <neg><p1><incl><pl>
+:{k}{e}>   >{½}>{u}hùmo            <neg><p2><pl>
+:          >{³}>{u}{ʍ}{i}>{y}{A}k  <neg><p3><pl>        # -w-ak (3-pl.anim)
 
 
 LEXICON VerbInflAISub(3)   # Subordinative
@@ -249,6 +249,20 @@ LEXICON VerbInflTI(3)
 #:{k}{e}>   >en>eyo        <p2><pl><o_pl>
 #:{w}       >en>eyo        <p3><pl><o_sg>
 #:{w}       >en>eyo        <p3><pl><o_pl>
+
+:{N}{e}>   >{u}{ʍ}{i}>{e}n          <neg><p1><sg><o_sg>
+:{N}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><p1><sg><o_pl>
+:{k}{e}>   >{u}{ʍ}{i}>{e}n          <neg><p2><sg><o_sg>
+:{k}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><p2><sg><o_pl>
+:{w}       >{u}{ʍ}{i}>{e}n>a        <neg><p3><sg><o_sg>
+:{w}       >{u}{ʍ}{i}>{e}n>a        <neg><p3><sg><o_pl>
+:{N}{e}>   >{u}{ʍ}{i}>{e}nen        <neg><p1><excl><pl><o_sg>
+:{N}{e}>   >{u}{ʍ}{i}>{e}nen>a      <neg><p1><excl><pl><o_pl>
+:{k}{e}>   >{u}{ʍ}{i}>{e}nen        <neg><p1><incl><pl><o_sg>
+:{k}{e}>   >{u}{ʍ}{i}>{e}nen>a      <neg><p1><incl><pl><o_pl>
+:{k}{e}>   >{u}{ʍ}{i}>{e}n>eyo      <neg><p2><pl>
+:{w}       >{u}{ʍ}{i}>{e}n>eyo      <neg><p3><pl>
+
 
 LEXICON VerbInflTICnj(2)  # Conjunct
 

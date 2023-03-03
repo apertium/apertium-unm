@@ -17,6 +17,7 @@ Alphabet
  %{W%}:w %{W%}:u
  %{I%}:i
  %{ì%}:0 %{ì%}:ì
+ %{i%}:0 %{i%}:i
  %{K%}:k %{K%}:t
  %{½%}:0
  %{³%}:0  ! triggers p3 root-initial and root-final alternations
@@ -134,8 +135,8 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{n} as n only after a- and a/e-final form"
 %{n%}:n <=> [ %{Æ%}: | a: ] %>: %{½%}: %>: a: _ ;
 
-"{u}:u only after l"
-%{u%}:u <=> :l [ :0 - %{u%}: ]* _ ;
+"{u}:u only after l, m, n"
+%{u%}:u <=> [ :l | :m | :n ] [ :0 - %{u%}: ]* _ ;
 
 "{ʍ}:w only after {u}:u"
 %{ʍ%}:w <=> %{u%}:u _ ;
