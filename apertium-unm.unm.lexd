@@ -198,6 +198,11 @@ LEXICON VerbInflAI(3)
 :{k}{e}>   >{½}>{u}hùmo            <neg><p2><pl>
 :          >{³}>{u}{ʍ}{i}>{y}{A}k  <neg><p3><pl>        # -w-ak (3-pl.anim)
 
+:          :                       <imp><p2><sg>:
+:          :>{i}{l}                <imp><p2><sg>:  # Dir/LR
+:          :>{u}kw                 <imp><p2><pl>:
+:          :>{u}tam                <imp><p1><du>:
+:          :>{u}tam>{u}kw          <imp><p1><pl>:
 
 LEXICON VerbInflAISub(3)   # Subordinative
 
@@ -222,14 +227,18 @@ LEXICON VerbInflAICnj(2)  # Conjunct
 
 LEXICON VerbInflAISubj(2)  # Subjunctive
 
->{½}>a{n}>e   <p1><sg>
->{½}>an>e     <p2><sg>
->{½}>t>e      <p3><sg>
->{½}>enkw>e   <p1><incl><pl>
->{½}>enk>e    <p1><incl><pl>  # Dir/LR
->{½}>ankw>e   <p1><excl><pl>
->{½}>ekw>e    <p2><pl>
->{½}>htit>e   <p3><pl>
+:>{½}>a{n}>e   <p1><sg>
+:>{½}>an>e     <p2><sg>
+:>{½}>t>e      <p3><sg>
+:>{½}>enkw>e   <p1><incl><pl>
+:>{½}>enk>e    <p1><incl><pl>  # Dir/LR
+:>{½}>ankw>e   <p1><excl><pl>
+:>{½}>ekw>e    <p2><pl>
+:>{½}>htit>e   <p3><pl>
+
+LEXICON VerbInflIntrImp(2)
+
+
 
 LEXICON VerbInflTI(3)
 
@@ -296,6 +305,7 @@ LEXICON VerbInflTA(3)
 :{w}       >a>o>k           <dir><p3><sg><o_pl>
 :{N}{e}>   >a>w>ëna         <dir><p1><excl><pl><o_sg>
 :{N}{e}>   >a>w>na          <dir><p1><excl><pl><o_sg>     # Dir/LR
+#:{N}{e}>   >a>o>hëna        <dir><p1><excl><pl><o_sg>     # Dir/LR  cf. nëmàxkaohëna (??)
 :{N}{e}>   >a>w>ënanàk      <dir><p1><excl><pl><o_pl>
 :{k}{e}>   >a>w>ena         <dir><p1><incl><pl><o_sg>
 :{k}{e}>   >a>w>na          <dir><p1><incl><pl><o_sg>     # Dir/LR
@@ -604,6 +614,10 @@ kelixham:kelixham       <tv><nn> # "sew it"
 kelixham:kelixam        <tv><nn> # "sew it"  # Dir/LR
 
 
+# MISC
+
+nakatàm:n{w}akatàm      <tv><nn> # "use it"
+
 
 LEXICON VerbRootTA(2)
 
@@ -721,6 +735,9 @@ piskèke:piskèke   # "tonight; last night; when night comes"
 tani:tani         # "where"
 kèxa:kèwa         # "how much; how many"
 chinke:chinke     # "when"
+
+mata:mata         # "not"
+ku:ku             # "not"
 
 
 LEXICON CnjLex(2)
