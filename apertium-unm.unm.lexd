@@ -162,12 +162,14 @@ kàski<vaux>+:kàski\     # "can"
 LEXICON NounInfl-Anim
 
 <n><aa><sg>:
+<n><aa><sg><loc>:>{i}nk
 <n><aa><pl>:>{y}{A}k
 
 
 LEXICON NounInfl-Inan
 
 <n><nn><sg>:
+<n><nn><sg><loc>:>{i}nk
 <n><nn><pl>:>{y}{A}
 
 LEXICON VerbInflAI(3)
@@ -183,6 +185,10 @@ LEXICON VerbInflAI(3)
 :ni\ >     >{½}>hëna     <p1><excl><pl>  # Dir/LR
 :n'>       >{½}>hëna     <p1><excl><pl>  # Dir/LR
 :{k}{e}>   >{½}>hëna     <p1><incl><pl>
+:{k}{e}>   >{½}>hënuk    <p1><incl><pl><coll>
+# TODO: nëmitsahtihënuk (-ahti- "all")
+# TODO: ktëlsahtihënuk (")
+# TODO: kënewtihënuk (-ëti- RECIP)
 :ki\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
 :ki\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
 :{k}{e}>   >{½}>hëmo     <p2><pl>
@@ -236,7 +242,7 @@ LEXICON VerbInflAISubj(2)  # Subjunctive
 :>{½}>ekw>e    <p2><pl>
 :>{½}>htit>e   <p3><pl>
 
-LEXICON VerbInflIntrImp(2)
+#LEXICON VerbInflIntrImp(2)
 
 
 
@@ -442,6 +448,9 @@ amànakw:amànakw         # "fishing pole"
 lòkwënipuwakàn:lòkwënipuwakàn # "supper"
 shkul:shkul             # "school"
 mënëkòn:mënëkòn         # "rainbow"
+tùkòpi:tùkòpi           # "rope"
+èhèntalipwink:èhèntalipwink  # "table"
+
 
 LEXICON NounRoot-Family(2)
 
@@ -573,6 +582,8 @@ ahkens:ahkens           <iv><aa> # "read, count"
 shkul:shkul{IU}         <iv><aa> # "go to school"
 këshihëla:këshihël{Æ}   <iv><aa> # "run"
 taonkël:taonkël         <iv><aa> # "be lost"
+wews:wewsi{IU}          <iv><aa> # "find out; be notified"
+tapamuha:tapamuh{Æ}     <iv><aa> # "drink something with one's meal"  ! CHECK: might be just tapamuhe?
 
 
 
