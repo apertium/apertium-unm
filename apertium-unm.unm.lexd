@@ -450,6 +450,9 @@ shkul:shkul             # "school"
 mënëkòn:mënëkòn         # "rainbow"
 tùkòpi:tùkòpi           # "rope"
 èhèntalipwink:èhèntalipwink  # "table"
+shinkèk:shinkèk         # "woods, timberland, forest"
+tèkëne:tèkëne           # "forest, woods"
+aptunakàn:aptunakàn     # "word"
 
 
 LEXICON NounRoot-Family(2)
@@ -585,6 +588,9 @@ taonkël:taonkël         <iv><aa> # "be lost"
 wews:wewsi{IU}          <iv><aa> # "find out; be notified"
 tapamuha:tapamuh{Æ}     <iv><aa> # "drink something with one's meal"  ! CHECK: might be just tapamuhe?
 katënami:katënami       <iv><aa> # "to be years old"
+sësalamu:sësalamu       <iv><aa> # "scream"  ! CHECK: might be with {IU}
+amihële:amihële         <iv><aa> # "fall down, blow down, blow over"
+àspintxke:àspintxke     <iv><aa> # "raise one's hand" < àspi-nxk-e raise-hand-VB
 
 
 
@@ -657,6 +663,7 @@ naol:naol               <tv><aa> # "follow"
 
 uwah:uwah               <tv><aa> # "know someone"
 
+ahkw:ahkw               <tv><aa> # "wear"
 
 
 LEXICON AdjLex
@@ -747,6 +754,7 @@ wëli:wëli         # "very; good; well"
 kwiakwi:kwiakwi   # "more; still"
 nahi:nahi         # "downstream" (final stress)
 piskèke:piskèke   # "tonight; last night; when night comes"
+piskèk:piskèk     # "at night; when it is dark"
 
 tani:tani         # "where"
 kèxa:kèwa         # "how much; how many"
@@ -754,6 +762,9 @@ chinke:chinke     # "when"
 
 mata:mata         # "not"
 ku:ku             # "not"
+
+òpànke:òpànke     # "the next morning; tomorrow morning"
+et:et             # "perhaps, probably"
 
 
 LEXICON CnjLex(2)
