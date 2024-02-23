@@ -108,11 +108,11 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{TH} as h when word initial"
 %{TH%}:h <=> .#. _ ;
 
-"{k} and deletes before k"
-%{k%}:0 <=> _ {e}:/:0* k: ;
+"{k} deletes before k"
+%{k%}:0 <=> _ %{e%}:/:0* k: ;
 
 "{N} and deletes before n"
-%{N%}:0 <=> _ {e}:/:0* n: ;
+%{N%}:0 <=> _ %{e%}:/:0* n: ;
 
 "{N} as m before p"
 %{N%}:m <=> _ :0* p: ;
