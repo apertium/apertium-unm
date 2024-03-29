@@ -163,13 +163,16 @@ LEXICON NounInfl-Anim
 
 <n><aa><sg>:
 <n><aa><sg><loc>:>{i}nk
+<n><aa><sg><gen>:>i
 <n><aa><pl>:>{y}{A}k
+<n><aa><sp><obv>:>{y}{A}
 
 
 LEXICON NounInfl-Inan
 
 <n><nn><sg>:
 <n><nn><sg><loc>:>{i}nk
+<n><aa><sg><gen>:>i
 <n><nn><pl>:>{y}{A}
 
 LEXICON VerbInflAI(3)
@@ -383,6 +386,7 @@ xkwechëch:xkwechëch     # "girl"
 pilaechëch:pilaechëch   # "boy"
 utènay:utènay           # "town"
 hopënis:hopënis         # "potato"
+ila:ila                 # "warrior" (pl: ilaok)
 
 
 LEXICON NounRoot-Inan
@@ -719,7 +723,12 @@ yu:yu           <dem><prox><nn><sg>
 yu:yun          <dem><prox><nn><sg>     # Dir/LR
 wa:wa           <dem><prox><aa><sg>
 wa:wan          <dem><prox><aa><sg>     # Dir/LR
+
 awèn:awèn       <itg>                   # "who"
+awèn:awèni      <itg><gen>              # "who"
+awèn:awènik     <itg><pl>               # "who"
+awèn:awèniki    <itg><pl><gen>          # "who"
+
 kèku:kèku       <itg>                   # "what"
 #nëpe:nëpe                               # "me too"
 #këpe:këpe                               # "you too"
