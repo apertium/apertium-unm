@@ -708,6 +708,7 @@ nel:nel			 <dem><dist><nn><pl>
 nek:nek         <dem><dist><aa><pl>
 nek:neki        <dem><dist><aa><pl>   # Dir/LR
 yu:yu           <dem><prox><nn><sg>   # "this (inan)"
+yu:yushe        <dem><prox><nn><sg>+she<adv>   # "this here (inan)"
 wa:wa           <dem><prox><aa><sg>   # "this (anim)"
 yuli:yuli       <dem><prox><nn><pl>
 yuki:yuki       <dem><prox><aa><pl>
