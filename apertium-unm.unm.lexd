@@ -340,6 +340,15 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >ku>w>a>ok       <inv><p2><pl><s_pl>
 :{w}       >ku>w>oo         <inv><p3><pl>
 
+:{k}{e}>   >el              <p1><sg><o_p2><o_sg>
+:{k}{e}>   >el>humo         <p1><sg><o_p2><o_pl>
+:{k}{e}>   >i               <p2><sg><o_p1><o_sg>
+:{k}{e}>   >i>hëna          <p2><o_p1><o_pl>
+:{k}{e}>   >el>uhëna        <p1><pl><o_p2><o_sg>
+:{k}{e}>   >el>humëna       <p1><pl><o_p2><o_pl>
+:{k}{e}>   >i>hëmo          <p2><pl><o_p1><o_sg>
+
+
 
 LEXICON N-Poss(3)
 
