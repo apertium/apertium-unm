@@ -43,6 +43,7 @@ DetRoot
 PronRoot
 NumberRoot
 CnjLex(1) CnjLex(2):
+Misc
 
 
 PATTERN Nouns
@@ -148,7 +149,8 @@ tili<cnjsub>+:tili\     # when, that, so that, as
 
 PATTERN Preverbs
 
-Preverb-Lex ([hëch<qst>+:hech\ ])?
+Preverb-Lex ([hëch<qst>+:hëch\ ])?
+Preverb-Lex ([hëch<qst>+:hàch\ ])? # Dir/LR
 
 LEXICON Preverb-Lex
 
@@ -397,6 +399,7 @@ pilaechëch:pilaechëch   # "boy"
 utènay:utènay           # "town"
 hopënis:hopënis         # "potato"
 ila:ila                 # "warrior" (pl: ilaok)
+lënu:lënu               # "man"
 
 
 LEXICON NounRoot-Inan
@@ -467,6 +470,7 @@ tùkòpi:tùkòpi           # "rope"
 shinkèk:shinkèk         # "woods, timberland, forest"
 tèkëne:tèkëne           # "forest, woods"
 aptunakàn:aptunakàn     # "word"
+mësakw:mësakw           # "log"
 
 
 LEXICON NounRoot-Family(2)
@@ -714,16 +718,16 @@ LEXICON Determiners(2)
 
 në:në				 <dem><dist><nn><sg>
 na:na				 <dem><dist><aa><sg>
-nel:nel			 <dem><dist><nn><pl>
-nek:nek         <dem><dist><aa><pl>
-nek:neki        <dem><dist><aa><pl>   # Dir/LR
+nèl:nèl			 <dem><dist><nn><pl>
+nèk:nèk         <dem><dist><aa><pl>
+nèk:nèki        <dem><dist><aa><pl>   # Dir/LR
 yu:yu           <dem><prox><nn><sg>   # "this (inan)"
 yu:yushe        <dem><prox><nn><sg>+she<adv>   # "this here (inan)"
 wa:wa           <dem><prox><aa><sg>   # "this (anim)"
 yuli:yuli       <dem><prox><nn><pl>
 yuki:yuki       <dem><prox><aa><pl>
 
-nel:nel			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
+nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
 naka:naka       <dem><dist><abs><sp>  # sg/pl deceased/absent things (animate)
                                       # always agrees with obviative (/absentative)
 
@@ -750,7 +754,7 @@ LEXICON AdvLex
 yukwe:yukwe       # "now"
 lòkëwe:lòkëwe     # "yesterday"
 she:she           # "here"
-ika:ika           # "there"
+ìka:ìka           # "there"
 wëlèh:wëlèh       # "there; over there"
 konaet:konaet     # "maybe"
 xuniti:xuniti     # "soon"
@@ -799,6 +803,13 @@ tìli:tìli   <cnjsub>      # "when, so that"   w subord
 tëli:tëli   <cnjsub>      # "so that"         w subord
 ènta:ènta   <cnjsub>      # "when"            w conjunct
 nèli:nèli   <cnjsub>      # "while"           w conjunct
+
+LEXICON Misc
+hëch<qst>:hëch
+hëch<qst>:hàch # Dir/LR
+hùnt<mod>:hùnt
+ta<mod>:ta
+èt<mod>:èt
 
 LEXICON Prepositions
 
