@@ -400,6 +400,7 @@ utènay:utènay           # "town"
 hopënis:hopënis         # "potato"
 ila:ila                 # "warrior" (pl: ilaok)
 lënu:lënu               # "man"
+sisawin:sisawin         # "oyster"
 
 
 LEXICON NounRoot-Inan
@@ -611,6 +612,10 @@ amihële:amihële         <iv><aa> # "fall down, blow down, blow over"
 àspintxke:àspintxke     <iv><aa> # "raise one's hand" < àspi-nxk-e raise-hand-VB
 kishiki:kishiki         <iv><aa> # "be grown; grow up"
 luwe:{e}luwe            <iv><aa> # "say"
+ànkël:ànkël             <iv><aa> # "die" - 3pl: ànkëluk
+xahows:xahows{IU}       <iv><aa> # "lead a bad life"
+xahowehòs:xahowehòs{IU} <iv><aa> # "act badly"
+màskt:màskt{IU}         <iv><aa> # "defecate"
 
 
 
@@ -623,6 +628,7 @@ kaxksem:k{A}xksem       <tv><nn> # "dry"
 kwetkenem:kwetkenem     <tv><nn> # "return it"
 kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
 
+alënëm:alënëm           <tv><nn> # "touch it"
 
 
 # Lesson 5
@@ -676,7 +682,7 @@ kelen:kelen             <tv><aa> # "carry/hold someone"
 
 # Lesson 22
 
-wixen:wixen             <tv><aa> # "cook something animate"
+wixën:wixën             <tv><aa> # "cook something animate"
 naol:naol               <tv><aa> # "follow"
 
 # Lesson 23
@@ -724,8 +730,9 @@ nèk:nèki        <dem><dist><aa><pl>   # Dir/LR
 yu:yu           <dem><prox><nn><sg>   # "this (inan)"
 yu:yushe        <dem><prox><nn><sg>+she<adv>   # "this here (inan)"
 wa:wa           <dem><prox><aa><sg>   # "this (anim)"
-yuli:yuli       <dem><prox><nn><pl>
-yuki:yuki       <dem><prox><aa><pl>
+yuli:yuli       <dem><prox><nn><pl>   # "these (inam)"
+yuki:yuki       <dem><prox><aa><pl>   # "these (anim)
+yuki:yukishe    <dem><prox><aa><pl>+she<adv> # "these here (anim)"
 
 nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
 naka:naka       <dem><dist><abs><sp>  # sg/pl deceased/absent things (animate)
