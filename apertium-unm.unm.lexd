@@ -308,7 +308,7 @@ LEXICON VerbInflTISubj(2)  # Subjunctive
 
 LEXICON VerbInflTA(3)
 
-:{N}{e}>   >a               <dir><p1><sg><o_sg>
+:{N}{e}>   >a               <dir><p1><sg><o_sg>      # -dir-3  -a-w
 :{N}{e}>   >a>o>k           <dir><p1><sg><o_pl>
 :{k}{e}>   >a               <dir><p2><sg><o_sg>
 :{k}{e}>   >a>o>k           <dir><p2><sg><o_pl>
@@ -329,9 +329,13 @@ LEXICON VerbInflTA(3)
 
 
 :{N}{e}>   >ùk>w            <inv><p1><sg><s_sg>
-:{N}{e}>   >kùk>w           <inv><p1><sg><s_pl>
+:{N}{e}>   >ùk              <inv><p1><sg><s_sg>    # Dir/LR
+:{N}{e}>   >{ù}kùk>w        <inv><p1><sg><s_pl>    # -ëk-w-àk -inv-3-pl.anim
+:{N}{e}>   >{ù}kùk          <inv><p1><sg><s_pl>    # Dir/LR
 :{k}{e}>   >ùk>w            <inv><p2><sg><s_sg>
-:{k}{e}>   >kùk>w           <inv><p2><sg><s_pl>
+:{k}{e}>   >ùk              <inv><p2><sg><s_sg>    # Dir/LR
+:{k}{e}>   >{ù}kùk>w        <inv><p2><sg><s_pl>
+:{k}{e}>   >{ù}kùk          <inv><p2><sg><s_pl>    # Dir/LR
 :{w}       >ku              <inv><p3><sg><s_sg>
 :{w}       >ku              <inv><p3><sg><s_pl>
 :{N}{e}>   >ku>na           <inv><p1><excl><pl><s_sg>
@@ -690,6 +694,9 @@ naol:naol               <tv><aa> # "follow"
 uwah:uwah               <tv><aa> # "know someone"
 
 ahkw:ahkw               <tv><aa> # "wear"
+
+
+wishal:wishal           <tv><aa> # "scare, frighten"
 
 
 LEXICON AdjLex

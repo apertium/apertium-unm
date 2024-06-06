@@ -3,6 +3,7 @@ Alphabet
  a b c d e f g h i j k l m n o p q r s t u v w y z à è ë ì ò ù
  %{e%}:0 %{e%}:ë
  %{u%}:0 %{u%}:u
+ %{ù%}:0 %{ù%}:ù
  %{y%}:0 %{y%}:y %{y%}:w
  %{A%}:à %{A%}:ò %{A%}:ù
  %{k%}:k %{k%}:0
@@ -22,7 +23,6 @@ Alphabet
  %{½%}:0
  %{³%}:0  ! triggers p3 root-initial and root-final alternations
  %{₃%}:0  ! triggers only p3 root-initial alternations (for subordinate)
- %{u%}:0 %{u%}:u
  %>:0  ;
 
 Sets
@@ -36,13 +36,15 @@ Cons = B C D F G H J K L M N P Q R S T V W Y Z
 Stop = P T K
        p t k ;
 
+EpentheticVs = %{ë%} %{u%} %{ù%} ;
+
 Pers = %{½%} %{³%} ;
 
 Rules
 
 "Epenthetic vowels surface"
-Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
-          :Cons _ :Cons/[ :0 - [ %{e%}: | %{u%}:] ]* .#. ;
+Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
+          :Cons _ :Cons/[ :0 - [ EpentheticVs: ] ]* .#. ;
           [ %{N%}: | %{k%}: ] _ (%>:) m: ;
           %{N%}: _ (%>:) w: ;
           %{k%}: _ (%>:) [ p: | n: | w: ] ;
@@ -51,8 +53,8 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ %{e%}: | %{u%}:] ]* ;
 			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
       except
             _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;
-      where Vx in ( %{e%} %{u%} )
-            Vy in (   ë     u   )
+      where Vx in ( %{e%} %{u%} %{ù%} )
+            Vy in (   ë     u     ù   )
       matched ;
 
 "ëwë as u"
@@ -137,6 +139,11 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{u}:u only after l, m, n"
 %{u%}:u <=> [ :l | :m | :n ] [ :0 - %{u%}: ]* _ ;
+
+"{ù}:ù only after l, m, n"
+%{ù%}:ù <=> [ :l | :m | :n ] [ :0 - %{ù%}: ]* _ ;
+
+
 
 "{ʍ}:w only after {u}:u"
 %{ʍ%}:w <=> %{u%}:u _ ;
