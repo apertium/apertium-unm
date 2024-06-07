@@ -337,7 +337,7 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >{ù}kùk>w        <inv><p2><sg><s_pl>
 :{k}{e}>   >{ù}kùk          <inv><p2><sg><s_pl>    # Dir/LR
 :{w}       >ku              <inv><p3><sg><s_sg>
-:{w}       >ku              <inv><p3><sg><s_pl>
+:{w}       >ku              <inv><p3><sg><s_pl>    # CHECK: extra -k?
 :{N}{e}>   >ku>na           <inv><p1><excl><pl><s_sg>
 :{N}{e}>   >ku>nanàk        <inv><p1><excl><pl><s_pl>
 :{k}{e}>   >ku>na           <inv><p1><incl><pl><s_sg>
