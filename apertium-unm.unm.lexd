@@ -181,35 +181,37 @@ LEXICON NounInfl-Inan
 
 LEXICON VerbInflAI(3)
 
-:{N}{e}>   >{½}          <p1><sg>
-:ni\ >     >{½}          <p1><sg>        # Dir/LR
-:n'>       >{½}          <p1><sg>        # Dir/LR
-:{k}{e}>   >{½}          <p2><sg>
-:ki\ >     >{½}          <p2><sg>        # Dir/LR
-:k'>       >{½}          <p2><sg>        # Dir/LR
-:          >{³}          <p3><sg>        # technically -w (?)
-:{N}{e}>   >{½}>hëna     <p1><excl><pl>  # technically -hm-nan (MP-1.pl)
-:ni\ >     >{½}>hëna     <p1><excl><pl>  # Dir/LR
-:n'>       >{½}>hëna     <p1><excl><pl>  # Dir/LR
-:{k}{e}>   >{½}>hëna     <p1><incl><pl>
-:{k}{e}>   >{½}>hënuk    <p1><incl><pl><coll>
+:{N}{e}>   :>{½}          <p1><sg>
+:ni\ >     :>{½}          <p1><sg>        # Dir/LR
+:n'>       :>{½}          <p1><sg>        # Dir/LR
+:{k}{e}>   :>{½}          <p2><sg>
+:ki\ >     :>{½}          <p2><sg>        # Dir/LR
+:k'>       :>{½}          <p2><sg>        # Dir/LR
+:          :>{³}          <p3><sg>        # technically -w (?)
+:{N}{e}>   :>{½}>hëna     <p1><excl><pl>  # technically -hm-nan (MP-1.pl)
+:ni\ >     :>{½}>hëna     <p1><excl><pl>  # Dir/LR
+:n'>       :>{½}>hëna     <p1><excl><pl>  # Dir/LR
+:{n}{e}>   :>{½}>hënuk    <p1><excl><pl><coll>
+:{k}{e}>   :>{½}>hëna     <p1><incl><pl>
+:{k}{e}>   :>{½}>hënuk    <p1><incl><pl><coll>
 # TODO: nëmitsahtihënuk (-ahti- "all")
 # TODO: ktëlsahtihënuk (")
 # TODO: kënewtihënuk (-ëti- RECIP)
-:ki\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
-:ki\ >     >{½}>hëna     <p1><incl><pl>  # Dir/LR
-:{k}{e}>   >{½}>hëmo     <p2><pl>
-:          >{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
+:ki\ >     :>{½}>hëna     <p1><incl><pl>  # Dir/LR
+:ki\ >     :>{½}>hëna     <p1><incl><pl>  # Dir/LR
+:{k}{e}>   :>{½}>hëmo     <p2><pl>
+:          :>{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
+:          :>{³}ltu>{y}{A}k  <p3><pl><coll>        # -w-ak (3-pl.anim)
 
 :          >tam          <opt><p1><pl>
 
-:{N}{e}>   >{½}>{u}{ʍ}{i}          <neg><p1><sg>
-:{k}{e}>   >{½}>{u}{ʍ}{i}          <neg><p2><sg>
-:          >{³}>{u}{ʍ}{i}          <neg><p3><sg>        # technically -w (?)
-:{N}{e}>   >{½}>{u}hùmëna          <neg><p1><excl><pl>  # technically -hm-nan (MP-1.pl)
-:{k}{e}>   >{½}>{u}hùmëna          <neg><p1><incl><pl>
-:{k}{e}>   >{½}>{u}hùmo            <neg><p2><pl>
-:          >{³}>{u}{ʍ}{i}>{y}{A}k  <neg><p3><pl>        # -w-ak (3-pl.anim)
+:{N}{e}>   :>{½}>{u}{ʍ}{i}          <neg><p1><sg>
+:{k}{e}>   :>{½}>{u}{ʍ}{i}          <neg><p2><sg>
+:          :>{³}>{u}{ʍ}{i}          <neg><p3><sg>        # technically -w (?)
+:{N}{e}>   :>{½}>{u}hùmëna          <neg><p1><excl><pl>  # technically -hm-nan (MP-1.pl)
+:{k}{e}>   :>{½}>{u}hùmëna          <neg><p1><incl><pl>
+:{k}{e}>   :>{½}>{u}hùmo            <neg><p2><pl>
+:          :>{³}>{u}{ʍ}{i}>{y}{A}k  <neg><p3><pl>        # -w-ak (3-pl.anim)
 
 :          :                       <imp><p2><sg>:
 :          :>{i}{l}                <imp><p2><sg>:  # Dir/LR
@@ -622,6 +624,7 @@ xahows:xahows{IU}       <iv><aa> # "lead a bad life"
 xahowehòs:xahowehòs{IU} <iv><aa> # "act badly"
 màskt:màskt{IU}         <iv><aa> # "defecate"
 alàpilahtu:alàpilahtu   <iv><aa> # "do something quickly"
+kch:kch{IU}             <iv><aa> # "go out(side)
 
 
 
@@ -669,6 +672,7 @@ kelixham:kelixam        <tv><nn> # "sew it"  # Dir/LR
 nakatàm:n{w}akatàm      <tv><nn> # "use it"
 pëmëxòhtun:pëmëxòhtun   <tv><nn> # "carry it on"
 ànkhìtun:ànkhìtun       <tv><nn> # "lose it"
+k{w}ëchkënëm:këchkënëm  <tv><nn> # "detach it"
 
 
 
