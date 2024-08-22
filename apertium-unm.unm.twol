@@ -53,7 +53,7 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
           .#. %{w%}: _ :Cons ;
           %{e%}: (%>:) %{t%}: _ :Cons ;
 			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
-          .#. [ :Cons | :0 ]* %{t%}: _ :l ;  ! tëlao
+          .#. [ :Cons | :0 ]* %{t%}:t _ :l ;  ! tëlao
       except
             _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;
       where Vx in ( %{e%} %{u%} %{ù%} )
