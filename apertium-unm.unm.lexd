@@ -261,8 +261,8 @@ LEXICON VerbInflTI(3)
 :{N}{e}>   >{e}n>a        <p1><sg><o_pl>
 :{k}{e}>   >{e}n          <p2><sg><o_sg>
 :{k}{e}>   >{e}n>a        <p2><sg><o_pl>
-:{w}       >{e}n>a        <p3><sg><o_sg>
-:{w}       >{e}n>a        <p3><sg><o_pl>
+:{w}>      >{e}n>a        <p3><sg><o_sg>
+:{w}>      >{e}n>a        <p3><sg><o_pl>
 :{N}{e}>   >{e}nen        <p1><excl><pl><o_sg>
 :{N}{e}>   >{e}nen>a      <p1><excl><pl><o_pl>
 :{k}{e}>   >{e}nen        <p1><incl><pl><o_sg>
@@ -619,7 +619,7 @@ sësalamu:sësalamu       <iv><aa> # "scream"  ! CHECK: might be with {IU}
 amihële:amihële         <iv><aa> # "fall down, blow down, blow over"
 àspintxke:àspintxke     <iv><aa> # "raise one's hand" < àspi-nxk-e raise-hand-VB
 kishiki:kishiki         <iv><aa> # "be grown; grow up"
-luwe:{e}luwe            <iv><aa> # "say"
+luwe:{t}{e}luwe         <iv><aa> # "say"
 ànkël:ànkël             <iv><aa> # "die" - 3pl: ànkëluk
 xahows:xahows{IU}       <iv><aa> # "lead a bad life"
 xahowehòs:xahowehòs{IU} <iv><aa> # "act badly"
@@ -674,6 +674,7 @@ nakatàm:n{w}akatàm      <tv><nn> # "use it"
 pëmëxòhtun:pëmëxòhtun   <tv><nn> # "carry it on"
 ànkhìtun:ànkhìtun       <tv><nn> # "lose it"
 k{w}ëchkënëm:këchkënëm  <tv><nn> # "detach it"
+luwen:{t}{e}luwen       <tv><nn> # "say it"
 
 
 
@@ -704,7 +705,7 @@ ahkw:ahkw               <tv><aa> # "wear"
 
 
 wishal:wishal           <tv><aa> # "scare, frighten"
-ël:{t}ël                <tv><aa> # say, tell
+l:{t}{e}l               <tv><aa> # say, tell
 
 
 LEXICON AdjLex
@@ -728,6 +729,8 @@ ahpu:ahpu              # be baked
 salà:salà              # be fried
 kah:kah                # be dry
 
+pahs:pahs              # be half ?
+
 LEXICON AdjLex-Cooking
 
 salà:salà              # be fried
@@ -750,6 +753,7 @@ yuki:yuki       <dem><prox><aa><pl>   # "these (anim)
 yuki:yukishe    <dem><prox><aa><pl>+she<adv> # "these here (anim)"
 
 nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
+nèl:nèla			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)  Dir/LR
 naka:naka       <dem><dist><abs><sp>  # sg/pl deceased/absent things (animate)
                                       # always agrees with obviative (/absentative)
 
