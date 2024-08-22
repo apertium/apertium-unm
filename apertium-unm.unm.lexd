@@ -479,6 +479,7 @@ shinkèk:shinkèk         # "woods, timberland, forest"
 tèkëne:tèkëne           # "forest, woods"
 aptunakàn:aptunakàn     # "word"
 mësakw:mësakw           # "log"
+wiyus:wiyus             # "meat"
 
 
 LEXICON NounRoot-Family(2)
@@ -703,6 +704,7 @@ ahkw:ahkw               <tv><aa> # "wear"
 
 
 wishal:wishal           <tv><aa> # "scare, frighten"
+ël:{t}ël                <tv><aa> # say, tell
 
 
 LEXICON AdjLex
@@ -813,6 +815,7 @@ ku:ku             # "not"
 et:et             # "perhaps, probably"
 
 làpi:làpi         # "again"
+xaheli:xaheli     # "much, many"
 
 
 LEXICON CnjLex(2)
