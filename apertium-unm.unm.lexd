@@ -44,6 +44,7 @@ PronRoot
 NumberRoot
 CnjLex(1) CnjLex(2):
 Misc
+Number
 
 
 PATTERN Nouns
@@ -892,6 +893,13 @@ LEXICON IjLex
 
 yuh:yuh         # "alright, okay"
 ahikta:ahikta   # "yes, agreed; oh yes"
+
+PATTERN Number
+Numeral [<num>:]
+
+LEXICON Numeral
+/([0123456789])+/
+/([0123456789])+[.,]([0123456789])+/
 
 LEXICON Punctuation
 
