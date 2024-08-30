@@ -46,7 +46,7 @@ Rules
 
 "Epenthetic vowels surface"
 Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
-          :Cons _ :Cons/[ :0 - [ EpentheticVs: ] ]* .#. ;
+          :Cons _ :Cons/[ :0 - [ EpentheticVs: ] ]* .#. ;  ! hitukw
           [ %{N%}: | %{k%}: ] _ (%>:) m: ;
           %{N%}: _ (%>:) w: ;
           %{k%}: _ (%>:) [ p: | n: | w: ] ;
@@ -54,8 +54,8 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
           %{e%}: (%>:) %{t%}: _ :Cons ;
 			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
           .#. [ :Cons | :0 ]* %{t%}:t _ :l ;  ! tëlao
-      except
-            _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;
+      ! except
+      !      _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;    ! this makes hitukw fail; what was it for?
       where Vx in ( %{e%} %{u%} %{ù%} )
             Vy in (   ë     u     ù   )
       matched ;

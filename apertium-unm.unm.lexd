@@ -480,6 +480,8 @@ tèkëne:tèkëne           # "forest, woods"
 aptunakàn:aptunakàn     # "word"
 mësakw:mësakw           # "log"
 wiyus:wiyus             # "meat"
+mhuwe:mhuwe             # "The Cannibal"
+mhuwe:hmuwe             # "The Cannibal"
 
 
 LEXICON NounRoot-Family(2)
@@ -524,7 +526,7 @@ lashim:{t}{e}lashim{w}{IU} <iv><aa> # "dream"   # w
 # Lesson 4
 katup:katup{w}{IU}      <iv><aa> # "be hungry"
 tite:{l}ite{h}e         <iv><aa> # "think"
-mits:mits{IU}           <iv><aa> # "eat"
+mits:mits{IU}           <iv><aa> # "eat; dine"
 mëne:mëne               <iv><aa> # "drink"
 katusëm:katusëm{w}{IU}  <iv><aa> # "be thirsty"   # w
 
@@ -675,6 +677,7 @@ pëmëxòhtun:pëmëxòhtun   <tv><nn> # "carry it on"
 ànkhìtun:ànkhìtun       <tv><nn> # "lose it"
 k{w}ëchkënëm:këchkënëm  <tv><nn> # "detach it"
 luwen:{t}{e}luwe        <tv><nn> # "say it"
+michi:michi             <tv><nn> # "eat it"
 
 
 
@@ -706,6 +709,10 @@ ahkw:ahkw               <tv><aa> # "wear"
 
 wishal:wishal           <tv><aa> # "scare, frighten"
 l:{t}{e}l               <tv><aa> # say, tell
+mimh:mimh               <tv><aa> # "eat (experiential)"
+mhuw:hmuw               <tv><aa> # "eat" Dir/LR
+mhuw:mhuw               <tv><aa> # "eat"
+mhuw:muhw               <tv><aa> # "eat" Dir/LR
 
 
 LEXICON AdjLex
@@ -750,6 +757,7 @@ yu:yushe        <dem><prox><nn><sg>+she<adv>   # "this here (inan)"
 wa:wa           <dem><prox><aa><sg>   # "this (anim)"
 yuli:yuli       <dem><prox><nn><pl>   # "these (inam)"
 yuki:yuki       <dem><prox><aa><pl>   # "these (anim)
+yuki:yuk        <dem><prox><aa><pl>   # "these (anim)
 yuki:yukishe    <dem><prox><aa><pl>+she<adv> # "these here (anim)"
 
 nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
@@ -761,6 +769,7 @@ LEXICON Pronouns(2)
 
 nën:nën         <dem><dist><nn><sg>
 nàn:nàn         <dem><dist><aa><sg>
+nàn:nànë        <dem><dist><aa><sg>     # Dir/LR
 yu:yu           <dem><prox><nn><sg>
 yu:yun          <dem><prox><nn><sg>     # Dir/LR
 wa:wa           <dem><prox><aa><sg>
@@ -830,6 +839,8 @@ tìli:tìli   <cnjsub>      # "when, so that"   w subord
 tëli:tëli   <cnjsub>      # "so that"         w subord
 ènta:ènta   <cnjsub>      # "when"            w conjunct
 nèli:nèli   <cnjsub>      # "while"           w conjunct
+nèli:nëli   <cnjsub>      # "while"   Dir/LR  w conjunct
+wënchi:wënchi <cnjsub>    # "because; from"
 
 LEXICON Misc
 hëch<qst>:hëch
