@@ -12,7 +12,7 @@ Alphabet
  %{t%}:t %{t%}:0
  %{TH%}:t %{TH%}:h
  %{IU%}:i %{IU%}:u
- %{Æ%}:a %{Æ%}:e
+ %{Æ%}:a %{Æ%}:e %{Æ%}:ò
  %{w%}:w %{w%}:0  ! don't appear by u
  %{ʍ%}:w %{ʍ%}:0  ! for negative behaviour; reverse (appear after u)
  %{W%}:w %{W%}:u

@@ -18,6 +18,12 @@
 	[ ?* [ ò (->) [ o | ò | ò ] ] ?* ] .o.
 
 	! Accept variants for ù
-	[ ?* [ ù (->) [ u | ù | ù ] ] ?* ]
+	[ ?* [ ù (->) [ u | ù | ù ] ] ?* ] .o.
+
+   ! Accept u for ë when before w    ! lomuwe
+   [ ?* ( [ [ [ ë ] (->) [ ë | u ] ] [ w ] ] ) ?* ] .o.
+
+   ! Accept o for ë when before l    ! oholemi
+   [ ?* ( [ [ [ ë ] (->) [ ë | o ] ] [ l ] ] ) ?* ]
 
 ]

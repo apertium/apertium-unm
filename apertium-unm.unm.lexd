@@ -364,7 +364,7 @@ LEXICON N-Poss(3)
 
 :{N}{e}>   :                <px1sg>
 :{k}{e}>   :                <px2sg>
-:          :>a              <px3sg>      # Fix plurals  - technically -a is obviative
+:{w}       :>a              <px3sg>      # Fix plurals  - technically -a is obviative
 :{N}{e}>   :>ena            <px1plexcl>
 :{k}{e}>   :>ena            <px1plincl>
 
@@ -497,7 +497,7 @@ mëxumsa:mëxumsa     mëxumes:mëxumes     # "grandfather"
 xatash:xatash       mis:mis             # "older sister"
 xansa:xansa         xans:xans           # "older brother"
 naxisemes:naxisemes xisemes:xisemes     # "younger sister/brother/cousin"
-
+itis:itis           itis:itis           # "friend"
 
 LEXICON VerbRootAI(2)
 
@@ -629,6 +629,7 @@ xahowehòs:xahowehòs{IU} <iv><aa> # "act badly"
 màskt:màskt{IU}         <iv><aa> # "defecate"
 alàpilahtu:alàpilahtu   <iv><aa> # "do something quickly"
 kch:kch{IU}             <iv><aa> # "go out(side)
+tëpchehëlasʼhama:tëpchehëlasʼham{Æ} <iv><aa> # "travel by car"
 
 
 
@@ -748,11 +749,14 @@ lu:lu                  # be burned
 
 LEXICON Determiners(2)
 
-në:në				 <dem><dist><nn><sg>
-na:na				 <dem><dist><aa><sg>
-nèl:nèl			 <dem><dist><nn><pl>
+në:në	          <dem><dist><nn><sg>
+na:na           <dem><dist><aa><sg>
+na:nana         <dem><dist><aa><sg>   # Dir/LR
+nèl:nèl         <dem><dist><nn><pl>
+nèl:nèli        <dem><dist><nn><pl>
 nèk:nèk         <dem><dist><aa><pl>
 nèk:nèki        <dem><dist><aa><pl>   # Dir/LR
+nèk:nèkik       <dem><dist><aa><pl>   # Dir/LR
 yu:yu           <dem><prox><nn><sg>   # "this (inan)"
 yu:yushe        <dem><prox><nn><sg>+she<adv>   # "this here (inan)"
 wa:wa           <dem><prox><aa><sg>   # "this (anim)"
@@ -764,6 +768,8 @@ yuki:yukishe    <dem><prox><aa><pl>+she<adv> # "these here (anim)"
 nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
 nèl:nèla			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)  Dir/LR
 naka:naka       <dem><dist><abs><sp>  # sg/pl deceased/absent things (animate)
+nikahke:nikahke <dem><dist><abs><obv><sp>  # sg/pl deceased/absent things (animate)
+nikahke:nëkahke <dem><dist><abs><obv><sp>  # sg/pl deceased/absent things (animate)
                                       # always agrees with obviative (/absentative)
 
 LEXICON Pronouns(2)
@@ -831,6 +837,10 @@ et:et             # "perhaps, probably"
 làpi:làpi         # "again"
 xaheli:xaheli     # "much, many"
 
+nëke:nëke         # "at this/that time" CHECK: not a form of a determiner
+ohëlëmi:ohëlëmi   # "far away"
+mèchi:mèchi       # "now; already"
+
 
 LEXICON CnjLex(2)
 
@@ -849,6 +859,9 @@ hëch<qst>:hàch # Dir/LR
 hùnt<mod>:hùnt
 ta<mod>:ta
 èt<mod>:èt
+
+mèchi<adv>+ta<mod>:mèchita
+na<adv>+na<det><dem><dist><aa><sg>:nana
 
 LEXICON Prepositions
 
