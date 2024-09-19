@@ -413,6 +413,7 @@ ila:ila                 # "warrior" (pl: ilaok)
 lënu:lënu               # "man"
 sisawin:sisawin         # "oyster"
 mësinkw:mësinkw         # "Game Spirit; False Face"
+hilusës:hilusës         # "old man"
 
 
 LEXICON NounRoot-Inan
@@ -795,6 +796,8 @@ awèn:awèniki    <itg><pl><gen>          # "who"
 kèku:kèku       <itg>                   # "what"
 #nëpe:nëpe                               # "me too"
 #këpe:këpe                               # "you too"
+nèpe:ni         <prn><pers><p1><sg><also>  # "me too"
+kèpe:ki         <prn><pers><p2><sg><also>  # "you too"
 
 LEXICON AdvLex
 
@@ -868,6 +871,7 @@ ta<mod>:ta
 mèchi<adv>+ta<mod>:mèchita
 na<adv>+na<det><dem><dist><aa><sg>:nana
 yukwe<adv>+ta<mod>:yukweta
+na<adv>+làpi<adv>:nalàpi
 
 LEXICON Prepositions
 
@@ -912,6 +916,7 @@ LEXICON IjLex
 
 yuh:yuh         # "alright, okay"
 ahikta:ahikta   # "yes, agreed; oh yes"
+nëpe:nëpe       # "all right!"
 
 PATTERN Number
 Numeral [<num>:]
