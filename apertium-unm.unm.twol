@@ -1,6 +1,6 @@
 Alphabet
- A B C D E F G H I J K L M N O P Q R S T U V W Y Z À È Ë Ì Ò Ù
- a b c d e f g h i j k l m n o p q r s t u v w y z à è ë ì ò ù
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z À È Ë Ì Ò Ù
+ a b c d e f g h i j k l m n o p q r s t u v w x y z à è ë ì ò ù
  %{e%}:0 %{e%}:ë
  %{u%}:0 %{u%}:u
  %{ù%}:0 %{ù%}:ù
@@ -15,6 +15,7 @@ Alphabet
  %{Æ%}:a %{Æ%}:e %{Æ%}:ò
  %{w%}:w %{w%}:0  ! don't appear by u
  %{ʍ%}:w %{ʍ%}:0  ! for negative behaviour; reverse (appear after u)
+ %{%_w%}:w %{%_w%}:0  ! space holder for metathesised 3rd person w
  %{W%}:w %{W%}:u
  %{I%}:i
  %{ì%}:0 %{ì%}:ì
@@ -30,8 +31,8 @@ Sets
 Vows = A E I O U  À È Ë Ì Ò Ù
        a e i o u  à è ë ì ò ù ;
 
-Cons = B C D F G H J K L M N P Q R S T V W Y Z
-       b c d f g h j k l m n p q r s t v w y z ;
+Cons = B C D F G H J K L M N P Q R S T V W X Y Z
+       b c d f g h j k l m n p q r s t v w x y z ;
 
 Stop = P T K
        p t k ;
@@ -130,6 +131,10 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
             _ :0* [ m: | n: ]  ;
             :u :0* _ ;
             _ :0* ConsWithNoW: ;
+            _ :Cons/[ :0 - %{w%}: ]* %{%_w%}: ;
+
+"realise {w} in metathesised position"
+%{%_w%}:w <=> %{w%}: :Cons/[ :0 - %{%_w%}: ]* _ ;
 
 "{w} as u"
 %{W%}:u <=> %{e%}: %>: _ %{e%}: ;

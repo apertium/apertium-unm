@@ -158,7 +158,7 @@ LEXICON Preverb-Lex
 kati<vaux>+:kati\       # "almost do"
 kata<vaux>+:kata\       # "want to do"       FIXME: p3 is kota/kahta
 shinki<vaux>+:shinki\   # "dislike/hate to"
-alemi<vaux>+:{t}{w}alemi\  # "begin"
+alemi<vaux>+:{t}{_w}alemi\  # "begin"
 tala<vaux>+:{t}ala\     # "cannot"
 kàski<vaux>+:kàski\     # "can"
 kìshi<vaux>+:kìshi\     # "finish"
@@ -364,9 +364,12 @@ LEXICON N-Poss(3)
 
 :{N}{e}>   :                <px1sg>
 :{k}{e}>   :                <px2sg>
-:{w}       :>a              <px3sg>      # Fix plurals  - technically -a is obviative
+:{w}>      :>a              <px3sg>      # Fix plurals  - technically -a is obviative
 :{N}{e}>   :>ena            <px1plexcl>
 :{k}{e}>   :>ena            <px1plincl>
+:{k}{e}>   :>ewao           <px2pl>
+:{k}{e}>   :>uwa            <px2pl>      # Dir/LR
+:{w}>      :>ëwoo           <px3pl>
 
 
 PATTERN DetRoot
@@ -409,6 +412,7 @@ hopënis:hopënis         # "potato"
 ila:ila                 # "warrior" (pl: ilaok)
 lënu:lënu               # "man"
 sisawin:sisawin         # "oyster"
+mësinkw:mësinkw         # "Game Spirit; False Face"
 
 
 LEXICON NounRoot-Inan
@@ -496,7 +500,7 @@ uma:uma             uhem:uhem           # "grandmother"
 mëxumsa:mëxumsa     mëxumes:mëxumes     # "grandfather"
 xatash:xatash       mis:mis             # "older sister"
 xansa:xansa         xans:xans           # "older brother"
-naxisemes:naxisemes xisemes:xisemes     # "younger sister/brother/cousin"
+naxisëmës:naxisëmës xisëmës:x{_w}isëmës # "younger sister/brother/cousin"
 itis:itis           itis:itis           # "friend"
 
 LEXICON VerbRootAI(2)
@@ -640,7 +644,7 @@ maxkam:m{A}xkam         <tv><nn> # "find"
 kaxksem:k{A}xksem       <tv><nn> # "dry"
 
 kwetkenem:kwetkenem     <tv><nn> # "return it"
-kelenem:k{w}elenem      <tv><nn> # "carry/hold it"
+kelenem:k{_w}elenem      <tv><nn> # "carry/hold it"
 
 alënëm:alënëm           <tv><nn> # "touch it"
 
@@ -648,7 +652,7 @@ alënëm:alënëm           <tv><nn> # "touch it"
 # Lesson 5
 
 nem:nem                 <tv><nn> # "see it"
-penam:p{w}enam          <tv><nn> # "look at it"
+penam:p{_w}enam          <tv><nn> # "look at it"
 wixenin:wixenin         <tv><nn> # "cook it"
 katatam:k{A}tatam       <tv><nn> # "want it"
 katutam:katutam         <tv><nn> # "want to eat it"
@@ -664,7 +668,7 @@ tatun:tatun             <tv><nn> # "put/place it"
 
 # Lesson 20
 
-meshatam:m{w}eshatam    <tv><nn> # "remember it"
+meshatam:m{_w}eshatam   <tv><nn> # "remember it"
 
 # Lesson 21
 
@@ -674,10 +678,10 @@ kelixham:kelixam        <tv><nn> # "sew it"  # Dir/LR
 
 # MISC
 
-nakatàm:n{w}akatàm      <tv><nn> # "use it"
+nakatàm:n{_w}akatàm     <tv><nn> # "use it"
 pëmëxòhtun:pëmëxòhtun   <tv><nn> # "carry it on"
 ànkhìtun:ànkhìtun       <tv><nn> # "lose it"
-k{w}ëchkënëm:këchkënëm  <tv><nn> # "detach it"
+këchkënëm:k{_w}ëchkënëm <tv><nn> # "detach it"
 luwen:{t}{e}luwe        <tv><nn> # "say it"
 michi:michi             <tv><nn> # "eat it"
 
@@ -779,6 +783,7 @@ nàn:nàn         <dem><dist><aa><sg>
 nàn:nànë        <dem><dist><aa><sg>     # Dir/LR
 yu:yu           <dem><prox><nn><sg>
 yu:yun          <dem><prox><nn><sg>     # Dir/LR
+yu:yuni         <dem><prox><nn><sg>     # Dir/LR
 wa:wa           <dem><prox><aa><sg>
 wa:wan          <dem><prox><aa><sg>     # Dir/LR
 
@@ -809,7 +814,7 @@ xu:xu             # [future]
 mechi:mechi       # "already" / [perfect]
 xàntki:xàntki     # "finally"
 lekhikwi:lekhikwi # "at this time"
-tamse:tamse       # "sometimes"
+tamse:tamse       # "sometimes; perhaps, maybe"
 àpchi:àpchi       # "always"
 
 lòmëwe:lòmëwe     # "long ago"
@@ -862,6 +867,7 @@ ta<mod>:ta
 
 mèchi<adv>+ta<mod>:mèchita
 na<adv>+na<det><dem><dist><aa><sg>:nana
+yukwe<adv>+ta<mod>:yukweta
 
 LEXICON Prepositions
 
