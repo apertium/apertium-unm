@@ -123,6 +123,8 @@ NumberLex [<num>:]
 
 LEXICON AdjMorph
 
+# FIXME: actually verbs
+
 <aa><pred><sg>:>su
 <aa><pred><pl>:>su>{y}{A}k
 
@@ -133,7 +135,8 @@ LEXICON AdjMorph
 <aa><attr><pl>:>sit>chik
 
 <nn><attr><sg>:>e
-<nn><attr><sg>:>ek        # Dir/LR
+<nn><attr><sg>:>ek        # Dir/LR  FIXME: conjunct!
+<nn><attr><sg>:>ek>e      # Dir/LR  FIXME: subjunctive!
 <nn><attr><pl>:>e>{y}{A}
 <nn><attr><pl>:>e>{y}{A}k # Dir/LR  FIXME: CHECK
 
@@ -414,7 +417,9 @@ lënu:lënu               # "man"
 sisawin:sisawin         # "oyster"
 mësinkw:mësinkw         # "Game Spirit; False Face"
 hilusës:hilusës         # "old man"
-
+manëtu:manëtu           # "Spirit"
+mimëns:mimëns           # "child"
+mimëntët:mimëntët       # "baby"   FIXME: <dim>
 
 LEXICON NounRoot-Inan
 
@@ -488,6 +493,7 @@ mësakw:mësakw           # "log"
 wiyus:wiyus             # "meat"
 mhuwe:mhuwe             # "The Cannibal"
 mhuwe:hmuwe             # "The Cannibal"
+pëmi:pëmi               # "grease, fat, lard"
 
 
 LEXICON NounRoot-Family(2)
@@ -744,6 +750,7 @@ salà:salà              # be fried
 kah:kah                # be dry
 
 pahs:pahs              # be half ?
+pisk:pisk              # be dark
 
 LEXICON AdjLex-Cooking
 
@@ -764,6 +771,7 @@ nèk:nèki        <dem><dist><aa><pl>   # Dir/LR
 nèk:nèkik       <dem><dist><aa><pl>   # Dir/LR
 yu:yu           <dem><prox><nn><sg>   # "this (inan)"
 yu:yushe        <dem><prox><nn><sg>+she<adv>   # "this here (inan)"
+yu:yusheli      <dem><prox><nn><sg>+she<adv>   # "this here (inan)"  # Dir/LR
 wa:wa           <dem><prox><aa><sg>   # "this (anim)"
 yuli:yuli       <dem><prox><nn><pl>   # "these (inam)"
 yuki:yuki       <dem><prox><aa><pl>   # "these (anim)
@@ -872,6 +880,8 @@ mèchi<adv>+ta<mod>:mèchita
 na<adv>+na<det><dem><dist><aa><sg>:nana
 yukwe<adv>+ta<mod>:yukweta
 na<adv>+làpi<adv>:nalàpi
+xu<adv>+làpi<adv>:xulàpi
+xu<adv>+mata<adv>:xumata
 
 LEXICON Prepositions
 
