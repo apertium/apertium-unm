@@ -82,9 +82,9 @@ PATTERN Verbs
 # Conjunct
 
 ## Intransitive
-VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
+( [ ènta<cnjsub>:ènta ] )? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
 ## Transitive Inanimate
-VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
+( [ ènta<cnjsub>+:ènta ] )? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
 
 
 # Subjunctive
@@ -602,7 +602,9 @@ shixhems:shixhemps{Æ}   <iv><aa> # "wash clothes"
 alai:{t}alai            <iv><aa> # "hunt"
 wik:wik{IU}             <iv><aa> # "to dwell"
 weskahp:weskahp{IU}     <iv><aa> # "be born"
-ahchinkx:ahchinkx{IE}   <iv><aa> # "be stubborn/disobedient"
+ahchinkxe:ahchinkx{IE}  <iv><aa> # "be stubborn/disobedient" # Dir/LR CHECK
+ahchinkxe:ahchinkx{Æ}   <iv><aa> # "be stubborn/disobedient"
+ahchinkxe:ahchinkh{Æ}   <iv><aa> # "be stubborn/disobedient" # Dir/LR
 
 # Lesson 21
 
@@ -780,10 +782,12 @@ yuki:yukishe    <dem><prox><aa><pl>+she<adv> # "these here (anim)"
 
 nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
 nèl:nèla			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)  Dir/LR
-naka:naka       <dem><dist><abs><sp>  # sg/pl deceased/absent things (animate)
-nikahke:nikahke <dem><dist><abs><obv><sp>  # sg/pl deceased/absent things (animate)
-nikahke:nëkahke <dem><dist><abs><obv><sp>  # sg/pl deceased/absent things (animate)
+naka:naka       <dem><dist><aa><abs><sp>  # sg/pl deceased/absent things (animate)
+nikahke:nikahke <dem><dist><aa><abs><obv><sp>  # sg/pl deceased/absent things (animate)
+nikahke:nëkahke <dem><dist><aa><abs><obv><sp>  # sg/pl deceased/absent things (animate)
                                       # always agrees with obviative (/absentative)
+naka:na         <dem><dist><aa><abs><sg>
+waka:wa         <dem><prox><aa><abs><sg>   # "this (anim)"
 
 LEXICON Pronouns(2)
 
