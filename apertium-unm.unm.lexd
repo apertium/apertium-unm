@@ -82,7 +82,7 @@ PATTERN Verbs
 # Conjunct
 
 ## Intransitive
-( [ ènta<cnjsub>:ènta ] )? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
+( [ ènta<cnjsub>+:ènta ] )? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
 ## Transitive Inanimate
 ( [ ènta<cnjsub>+:ènta ] )? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
 
