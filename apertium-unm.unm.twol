@@ -157,6 +157,10 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{ʍ}:w only after {u}:u"
 %{ʍ%}:w <=> %{u%}:u _ ;
 
+"{K} as k only after n"
+%{K%}:k <=> :n :0* _ ;
+
+
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
 ! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome

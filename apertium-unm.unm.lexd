@@ -237,7 +237,7 @@ LEXICON VerbInflAICnj(2)  # Conjunct
 
 >{½}>a{n}   <p1><sg>
 >{½}>an     <p2><sg>
->{½}>t      <p3><sg>
+>{½}>{K}    <p3><sg>
 >{½}>enkw   <p1><incl><pl>
 >{½}>enk    <p1><incl><pl>  # Dir/LR
 >{½}>ankw   <p1><excl><pl>
@@ -643,6 +643,8 @@ màskt:màskt{IU}         <iv><aa> # "defecate"
 alàpilahtu:alàpilahtu   <iv><aa> # "do something quickly"
 kch:kch{IU}             <iv><aa> # "go out(side)
 tëpchehëlasʼhama:tëpchehëlasʼham{Æ} <iv><aa> # "travel by car"
+shenkixi:shenkixi       <iv><aa> # "lie down"
+shenkixi:shenkixin      <iv><aa> # "lie down" # Dir/LR
 
 
 
