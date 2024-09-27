@@ -17,6 +17,7 @@ Alphabet
  %{ʍ%}:w %{ʍ%}:0  ! for negative behaviour; reverse (appear after u)
  %{%_w%}:w %{%_w%}:0  ! space holder for metathesised 3rd person w
  %{W%}:w %{W%}:u
+ %{Y%}:w %{Y%}:y
  %{I%}:i
  %{ì%}:0 %{ì%}:ì
  %{i%}:0 %{i%}:i
@@ -81,6 +82,7 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
 %{A%}:ò <=> [ [ :e | :i ] %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             [ k: w: %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             :a/[ :0 ]* _ ;
+            %{Y%}:/[ :0 ]* _ ;
 
 "{A} as u after m"
 %{A%}:ù <=> m:/[ :0 - %{y%}: ]* _ ;
@@ -160,6 +162,8 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{K} as k only after n"
 %{K%}:k <=> :n :0* _ ;
 
+"Y as w before a"       ! FIXME: check how neyo/new- works
+%{Y%}:w <=> _ :0* [ :a | :e ] ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
