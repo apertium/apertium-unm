@@ -319,9 +319,9 @@ LEXICON VerbInflTA(3)
 :{N}{e}>   >a>o>k           <dir><p1><sg><o_pl>
 :{k}{e}>   >a               <dir><p2><sg><o_sg>
 :{k}{e}>   >a>o>k           <dir><p2><sg><o_pl>
-:{w}       >a>o             <dir><p3><sg><o_sg>
-:{w}       >a>o             <dir><p3><sg><o_pl>           # Dir/LR
-:{w}       >a>o>k           <dir><p3><sg><o_pl>
+:{w}{e}>   >a>o             <dir><p3><sg><o_sg>
+:{w}{e}>   >a>o             <dir><p3><sg><o_pl>           # Dir/LR
+:{w}{e}>   >a>o>k           <dir><p3><sg><o_pl>
 :{N}{e}>   >a>w>ëna         <dir><p1><excl><pl><o_sg>
 :{N}{e}>   >a>w>na          <dir><p1><excl><pl><o_sg>     # Dir/LR
 #:{N}{e}>   >a>o>hëna        <dir><p1><excl><pl><o_sg>     # Dir/LR  cf. nëmàxkaohëna (??)
@@ -330,9 +330,10 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >a>w>na          <dir><p1><incl><pl><o_sg>     # Dir/LR
 :{k}{e}>   >a>w>ënanàk      <dir><p1><incl><pl><o_pl>
 :{k}{e}>   >a>w>a           <dir><p2><pl><o_sg>
-:{k}{e}>   >a>w>a           <dir><p2><pl><o_pl>
-:{w}       >a>w>oo          <dir><p3><pl>
-:{w}       >a>w>ao          <dir><p3><pl>                # Dir/LR
+:{k}{e}>   >a>w>aok         <dir><p2><pl><o_pl>          # Dir/LR CHECK: was >a>w>a
+:{k}{e}>   >a>w>aok         <dir><p2><pl><o_pl>          # CHECK
+:{w}{e}>   >a>w>oo          <dir><p3><pl>
+:{w}{e}>   >a>w>ao          <dir><p3><pl>                # Dir/LR
 
 
 :{N}{e}>   >ùk>w            <inv><p1><sg><s_sg>
@@ -343,15 +344,15 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >ùk              <inv><p2><sg><s_sg>    # Dir/LR
 :{k}{e}>   >{ù}kùk>w        <inv><p2><sg><s_pl>
 :{k}{e}>   >{ù}kùk          <inv><p2><sg><s_pl>    # Dir/LR
-:{w}       >ku              <inv><p3><sg><s_sg>
-:{w}       >ku              <inv><p3><sg><s_pl>    # CHECK: extra -k?
+:{w}{e}>   >ku              <inv><p3><sg><s_sg>
+:{w}{e}>   >ku              <inv><p3><sg><s_pl>    # CHECK: extra -k?
 :{N}{e}>   >ku>na           <inv><p1><excl><pl><s_sg>
 :{N}{e}>   >ku>nanàk        <inv><p1><excl><pl><s_pl>
 :{k}{e}>   >ku>na           <inv><p1><incl><pl><s_sg>
 :{k}{e}>   >ku>nanàk        <inv><p1><incl><pl><s_pl>
 :{k}{e}>   >ku>w>a          <inv><p2><pl><s_sg>
 :{k}{e}>   >ku>w>a>ok       <inv><p2><pl><s_pl>
-:{w}       >ku>w>oo         <inv><p3><pl>
+:{w}{e}>   >ku>w>oo         <inv><p3><pl>
 
 :{k}{e}>   >el              <p1><sg><o_p2><o_sg>
 :{k}{e}>   >el>humo         <p1><sg><o_p2><o_pl>

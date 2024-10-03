@@ -52,7 +52,7 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
           [ %{N%}: | %{k%}: ] _ (%>:) m: ;
           %{N%}: _ (%>:) w: ;
           %{k%}: _ (%>:) [ p: | n: | w: ] ;
-          .#. %{w%}: _ :Cons ;
+          .#. %{w%}:w _ %>: :Cons ;
           %{e%}: (%>:) %{t%}: _ :Cons ;
 			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
           .#. [ :Cons | :0 ]* %{t%}:t _ :l ;  ! tëlao
@@ -129,11 +129,11 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 %{N%}:0 <=> _ :0* n: ;
 
 "{w} as 0 if followed by u or preceded by u or preceding certain consonants"
-%{w%}:0 <=> _ :0* %{IU%}:u ;
-            _ :0* [ m: | n: ]  ;
+%{w%}:0 <=> _ %{e%}:? :0* %{IU%}:u ;
+            _ %{e%}:? :0* [ m: ]  ;  ! | n:
             :u :0* _ ;
-            _ :0* ConsWithNoW: ;
-            _ :Cons/[ :0 - %{w%}: ]* %{%_w%}: ;
+            _ %{e%}:? :0* ConsWithNoW: ;
+            _ %{e%}:? :Cons/[ :0 - %{w%}: ]* %{%_w%}: ;
 
 "realise {w} in metathesised position"
 %{%_w%}:w <=> %{w%}: :Cons/[ :0 - %{%_w%}: ]* _ ;
@@ -164,6 +164,9 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "Y as w before a"       ! FIXME: check how neyo/new- works
 %{Y%}:w <=> _ :0* [ :a | :e ] ;
+
+"a as o after {Y}"
+a:o <=> %{Y%}: %>: _ ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
