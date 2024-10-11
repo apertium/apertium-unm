@@ -79,6 +79,8 @@ PATTERN Verbs
 :VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) [<subord>:] VerbInflAISub(3):
 
 
+:VerbInflTASub(1) PreverbsSub? VerbRootTA(1) [<v>:] VerbRootTA(2): :VerbInflTASub(2) [<subord>:] VerbInflTASub(3):
+
 # Conjunct
 
 ## Intransitive
@@ -102,6 +104,9 @@ PATTERN AdjRoot
 AdjLex [<adj>:] AdjMorph
 AdjLex-Cooking [<adj>:] AdjMorph
 AdjLex-Cooking [<adj><??>:sasik]  # ! FIXME: what are these forms?
+
+( [ ènta<cnjsub>+:ènta ] )? AdjLex [<v><ii>:] :VerbInflIICnj(1) [<cnj>:] VerbInflIICnj(2):
+
 
 PATTERN AdvRoot
 
@@ -139,7 +144,6 @@ LEXICON AdjMorph
 <nn><attr><sg>:>ek>e      # Dir/LR  FIXME: subjunctive!
 <nn><attr><pl>:>e>{y}{A}
 <nn><attr><pl>:>e>{y}{A}k # Dir/LR  FIXME: CHECK
-
 
 
 PATTERN PreverbsSub
@@ -182,6 +186,11 @@ LEXICON NounInfl-Inan
 <n><nn><sg><loc>:>{i}nk
 <n><aa><sg><gen>:>i
 <n><nn><pl>:>{y}{A}
+
+LEXICON VerbInflIICnj(2)  # Conjunct
+
+:>ek        <p3><sg>:
+
 
 LEXICON VerbInflAI(3)
 
@@ -235,14 +244,14 @@ LEXICON VerbInflAISub(3)   # Subordinative
 
 LEXICON VerbInflAICnj(2)  # Conjunct
 
->{½}>a{n}   <p1><sg>
->{½}>an     <p2><sg>
->{½}>{K}    <p3><sg>
->{½}>enkw   <p1><incl><pl>
->{½}>enk    <p1><incl><pl>  # Dir/LR
->{½}>ankw   <p1><excl><pl>
->{½}>ekw    <p2><pl>
->{½}>htit   <p3><pl>
+:>{½}>a{n}   <p1><sg>
+:>{½}>an     <p2><sg>
+:>{½}>{K}    <p3><sg>
+:>{½}>enkw   <p1><incl><pl>
+:>{½}>enk    <p1><incl><pl>  # Dir/LR
+:>{½}>ankw   <p1><excl><pl>
+:>{½}>ekw    <p2><pl>
+:>{½}>htit   <p3><pl>
 
 LEXICON VerbInflAISubj(2)  # Subjunctive
 
@@ -256,8 +265,6 @@ LEXICON VerbInflAISubj(2)  # Subjunctive
 :>{½}>htit>e   <p3><pl>
 
 #LEXICON VerbInflIntrImp(2)
-
-
 
 LEXICON VerbInflTI(3)
 
@@ -294,23 +301,23 @@ LEXICON VerbInflTI(3)
 
 LEXICON VerbInflTICnj(2)  # Conjunct
 
->{½}>a      <p1><sg>
->{½}>an     <p2><sg>
->{½}>{K}    <p3><sg>      # FIXME: penam>{½}>ank → penank
->{½}>enkw   <p1><incl><pl>
->{½}>ankw   <p1><excl><pl>
->{½}>ekw    <p2><pl>
->{½}>{ì}htit   <p3><pl>   # {i}:i after m
+:>{½}>a      <p1><sg>
+:>{½}>an     <p2><sg>
+:>{½}>{K}    <p3><sg>      # FIXME: penam>{½}>ank → penank
+:>{½}>enkw   <p1><incl><pl>
+:>{½}>ankw   <p1><excl><pl>
+:>{½}>ekw    <p2><pl>
+:>{½}>{ì}htit   <p3><pl>   # {i}:i after m
 
 LEXICON VerbInflTISubj(2)  # Subjunctive
 
->{½}>a{n}>e      <p1><sg>
->{½}>an>e        <p2><sg>
->{½}>{K}>e       <p3><sg>      # FIXME: penam>{½}>ank → penank
->{½}>enkw>e      <p1><incl><pl>
->{½}>ankw>e      <p1><excl><pl>
->{½}>ekw>e       <p2><pl>
->{½}>{ì}htit>e   <p3><pl>   # {i}:i after m
+:>{½}>a{n}>e      <p1><sg>
+:>{½}>an>e        <p2><sg>
+:>{½}>{K}>e       <p3><sg>      # FIXME: penam>{½}>ank → penank
+:>{½}>enkw>e      <p1><incl><pl>
+:>{½}>ankw>e      <p1><excl><pl>
+:>{½}>ekw>e       <p2><pl>
+:>{½}>{ì}htit>e   <p3><pl>   # {i}:i after m
 
 
 LEXICON VerbInflTA(3)
@@ -363,7 +370,22 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >i>hëmo          <p2><pl><o_p1><o_sg>
 
 :{N}{e}>   >an              <cnj><dir><p1><sg><o_sg>      # -dir-inan a-ne
+:{k}{e}>   >aneyo           <cnj><dir><p2><pl><o_sp>
+:{k}{e}>   >aneyo           <cnj><dir><p2><pl><o_sp>
 :{w}{e}>   >{e}n            <subord><dir><p3><sg><o_sg>   #
+
+
+LEXICON VerbInflTASub(3)   # Subordinative
+
+# FIXME: need object specification
+:{N}{e}>   >an     <p1><sg>
+:{k}{e}>   >an     <p2><sg>
+:{w}{e}>   >an     <p3><sg>
+:{N}{e}>   >anen   <p1><excl><pl>
+:{k}{e}>   >anen   <p1><incl><pl>
+:{k}{e}>   >aneyo  <p2><pl>
+:{w}{e}>   >aneyo  <p3><pl>
+
 
 
 LEXICON N-Poss(3)
@@ -375,7 +397,7 @@ LEXICON N-Poss(3)
 :{k}{e}>   :>ena            <px1plincl>
 :{k}{e}>   :>ewao           <px2pl>
 :{k}{e}>   :>uwa            <px2pl>      # Dir/LR
-:{w}{e}>      :>ëwoo           <px3pl>
+:{w}{e}>   :>ëwoo           <px3pl>
 
 
 PATTERN DetRoot
@@ -499,6 +521,7 @@ mhuwe:hmuwe             # "The Cannibal"
 pëmi:pëmi               # "grease, fat, lard"
 phake:phake             # "piece"  CHECK inam
 phake:phakee            # "piece"  CHECK inam  Dir/LR
+wënchi:wënchi           # "reason"
 
 
 LEXICON NounRoot-Family(2)
@@ -760,6 +783,7 @@ kah:kah                # be dry
 
 pahs:pahs              # be half ?
 pisk:pisk              # be dark
+nisk:nisk              # be dirty
 
 LEXICON AdjLex-Cooking
 
@@ -892,10 +916,12 @@ ta<mod>:ta
 
 mèchi<adv>+ta<mod>:mèchita
 na<adv>+na<det><dem><dist><aa><sg>:nana
+na<adv>+tëli<cnjsub>:natëli
 yukwe<adv>+ta<mod>:yukweta
 na<adv>+làpi<adv>:nalàpi
 xu<adv>+làpi<adv>:xulàpi
 xu<adv>+mata<adv>:xumata
+në<det><dem>+wënchi<n><nn>:nënchi           # "the reason"
 
 LEXICON Prepositions
 
