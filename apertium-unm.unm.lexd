@@ -236,33 +236,33 @@ LEXICON VerbInflAISub(3)   # Subordinative
 
 :{N}{e}>   >{½}>{e}n     <p1><sg>
 :{k}{e}>   >{½}>{e}n     <p2><sg>
-:          >{½}>{e}n     <p3><sg>
+:{w}{e}>   >{₃}>{e}n     <p3><sg>
 :{N}{e}>   >{½}>{e}nen   <p1><excl><pl>
 :{k}{e}>   >{½}>{e}nen   <p1><incl><pl>
 :{k}{e}>   >{½}>{e}neyo  <p2><pl>
-:          >{½}>{e}neyo  <p3><pl>
+:{w}{e}>   >{₃}>{e}neyo  <p3><pl>
 
 LEXICON VerbInflAICnj(2)  # Conjunct
 
 :>{½}>a{n}   <p1><sg>
 :>{½}>an     <p2><sg>
-:>{½}>{K}    <p3><sg>
+:>{₃}>{K}    <p3><sg>
 :>{½}>enkw   <p1><incl><pl>
 :>{½}>enk    <p1><incl><pl>  # Dir/LR
 :>{½}>ankw   <p1><excl><pl>
 :>{½}>ekw    <p2><pl>
-:>{½}>htit   <p3><pl>
+:>{₃}>htit   <p3><pl>
 
 LEXICON VerbInflAISubj(2)  # Subjunctive
 
 :>{½}>a{n}>e   <p1><sg>
 :>{½}>an>e     <p2><sg>
-:>{½}>t>e      <p3><sg>
+:>{₃}>t>e      <p3><sg>
 :>{½}>enkw>e   <p1><incl><pl>
 :>{½}>enk>e    <p1><incl><pl>  # Dir/LR
 :>{½}>ankw>e   <p1><excl><pl>
 :>{½}>ekw>e    <p2><pl>
-:>{½}>htit>e   <p3><pl>
+:>{₃}>htit>e   <p3><pl>
 
 #LEXICON VerbInflIntrImp(2)
 
@@ -301,23 +301,23 @@ LEXICON VerbInflTI(3)
 
 LEXICON VerbInflTICnj(2)  # Conjunct
 
-:>{½}>a      <p1><sg>
-:>{½}>an     <p2><sg>
-:>{½}>{K}    <p3><sg>      # FIXME: penam>{½}>ank → penank
-:>{½}>enkw   <p1><incl><pl>
-:>{½}>ankw   <p1><excl><pl>
-:>{½}>ekw    <p2><pl>
-:>{½}>{ì}htit   <p3><pl>   # {i}:i after m
+:>{½}>a           <p1><sg>
+:>{½}>an          <p2><sg>
+:>{³}>{K}         <p3><sg>      # FIXME: penam>{½}>ank → penank
+:>{½}>enkw        <p1><incl><pl>
+:>{½}>ankw        <p1><excl><pl>
+:>{½}>ekw         <p2><pl>
+:>{³}>{ì}htit     <p3><pl>   # {i}:i after m
 
 LEXICON VerbInflTISubj(2)  # Subjunctive
 
 :>{½}>a{n}>e      <p1><sg>
 :>{½}>an>e        <p2><sg>
-:>{½}>{K}>e       <p3><sg>      # FIXME: penam>{½}>ank → penank
+:>{³}>{K}>e       <p3><sg>      # FIXME: penam>{½}>ank → penank
 :>{½}>enkw>e      <p1><incl><pl>
 :>{½}>ankw>e      <p1><excl><pl>
 :>{½}>ekw>e       <p2><pl>
-:>{½}>{ì}htit>e   <p3><pl>   # {i}:i after m
+:>{³}>{ì}htit>e   <p3><pl>   # {i}:i after m
 
 
 LEXICON VerbInflTA(3)
@@ -380,11 +380,11 @@ LEXICON VerbInflTASub(3)   # Subordinative
 # FIXME: need object specification
 :{N}{e}>   >an     <p1><sg>
 :{k}{e}>   >an     <p2><sg>
-:{w}{e}>   >an     <p3><sg>
+:{w}{e}{³}>   >an     <p3><sg>
 :{N}{e}>   >anen   <p1><excl><pl>
 :{k}{e}>   >anen   <p1><incl><pl>
 :{k}{e}>   >aneyo  <p2><pl>
-:{w}{e}>   >aneyo  <p3><pl>
+:{w}{e}{³}>   >aneyo  <p3><pl>
 
 
 
@@ -609,7 +609,7 @@ lelintam:{W}{e}lelintam <iv><aa> # "be glad"   ! FIXME
 # Lesson 10
 
 a:{Æ}                   <iv><aa> # "go"
-pa:p{Æ}                 <iv><aa> # "come"
+pa:p{_w}{Æ}             <iv><aa> # "come"
 welinakws:welinakws     <iv><aa> # "look good"
 um:um                   <iv><aa> # "come from"
 watu:watu               <iv><aa> # "know something"
@@ -673,6 +673,7 @@ kch:kch{IU}             <iv><aa> # "go out(side)
 tëpchehëlasʼhama:tëpchehëlasʼham{Æ} <iv><aa> # "travel by car"
 shenkixi:shenkixi       <iv><aa> # "lie down"
 shenkixi:shenkixin      <iv><aa> # "lie down" # Dir/LR
+wik:wik{IU}             <iv><aa> # "live"
 
 
 
@@ -795,6 +796,7 @@ lu:lu                  # be burned
 LEXICON Determiners(2)
 
 në:në	          <dem><dist><nn><sg>
+në:nëni         <dem><dist><nn><sg>   # Dir/LR
 na:na           <dem><dist><aa><sg>
 na:nana         <dem><dist><aa><sg>   # Dir/LR
 nèl:nèl         <dem><dist><nn><pl>
@@ -826,13 +828,16 @@ xeli:xèli       <qnt>   # "many"  Dir/LR CHECK
 LEXICON Pronouns(2)
 
 nën:nën         <dem><dist><nn><sg>
+nën:nanëni      <dem><dist><nn><sg>
 nàn:nàn         <dem><dist><aa><sg>
 nàn:nànë        <dem><dist><aa><sg>     # Dir/LR
+nàn:nàni        <dem><dist><aa><sg>     # "that one" Dir/LR
 yu:yu           <dem><prox><nn><sg>
 yu:yun          <dem><prox><nn><sg>     # Dir/LR
 yu:yuni         <dem><prox><nn><sg>     # Dir/LR
 wa:wa           <dem><prox><aa><sg>
 wa:wan          <dem><prox><aa><sg>     # Dir/LR
+wa:wani         <dem><prox><aa><sg>     # "this one" Dir/LR
 
 awèn:awèn       <itg>                   # "who"
 awèn:awèni      <itg><gen>              # "who"

@@ -40,9 +40,9 @@ Stop = P T K
 
 EpentheticVs = %{ë%} %{u%} %{ù%} ;
 
-Pers = %{½%} %{³%} ;
+Pers = %{½%} %{³%} %{₃%} ;
 
-ConsWithNoW = %{t%} t ;
+ConsWithNoW = %{t%} t w ;
 
 Rules
 
@@ -95,18 +95,18 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
           except
               :u %{w%}: _ [ :0 - %{y%}: ]* %{y%}: ;
           where
-              Vx in (   i     u   )
-              Px in ( %{½%} %{³%} )
+              Vx in (   i     i     u   )
+              Px in ( %{½%} %{₃%} %{³%} )
           matched ;
 
 "{IU} deletes if between u{w} and {y}"
 %{IU%}:0 <=> :u %{w%}: _ [ :0 - %{y%}: ]* %{y%}: ;
 
 "{Æ} as a in p1 and p2, e in p3"
-%{Æ%}:Vx <=> _ [ :0 - Pers: ]* Px: ;
+%{Æ%}:Vx <=> _ [ :0 - [ Pers: ] ]* Px: ;
           where
-              Vx in (   a     e   )
-              Px in ( %{½%} %{³%} )
+              Vx in (   a     o     e   )
+              Px in ( %{½%} %{₃%} %{³%} )
           matched ;
 
 "{t} deletes when word initial etc."
@@ -137,6 +137,8 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "realise {w} in metathesised position"
 %{%_w%}:w <=> %{w%}: :Cons/[ :0 - %{%_w%}: ]* _ ;
+          except
+              _ %{Æ%}: %>: %{₃%}: ;   ! {w}{e}>p{_w}{Æ}>{₃}>{e}n:pon
 
 "{w} as u"
 %{W%}:u <=> %{e%}: %>: _ %{e%}: ;
