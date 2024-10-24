@@ -52,9 +52,9 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
           [ %{N%}: | %{k%}: ] _ (%>:) m: ;
           %{N%}: _ (%>:) w: ;
           %{k%}: _ (%>:) [ p: | n: | w: ] ;
-          .#. %{w%}:w _ %>: :Cons ;
+          .#. %{w%}:w _ [ :0 - [ %{e%}: | %{u%}: ] ]* %>: :Cons ;
           %{e%}: (%>:) %{t%}: _ :Cons ;
-			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;
+			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;   ! wëneyoo
           .#. [ :Cons | :0 ]* %{t%}:t _ :l ;  ! tëlao
       ! except
       !      _ [ [ :c :h ] | [ :Stop :w ] ]/:0* ;    ! this makes hitukw fail; what was it for?
