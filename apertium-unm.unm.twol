@@ -5,7 +5,7 @@ Alphabet
  %{u%}:0 %{u%}:u
  %{ù%}:0 %{ù%}:ù
  %{y%}:0 %{y%}:y %{y%}:w
- %{A%}:à %{A%}:ò %{A%}:ù
+ %{A%}:à %{A%}:ò %{A%}:ù %{A%}:o
  %{k%}:k %{k%}:0
  %{N%}:n %{N%}:m %{N%}:0
  %{n%}:n %{n%}:0
@@ -68,8 +68,9 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
 "{y} as y after e and i"
 %{y%}:y <=> [ :e | :i ]/:0* _ ;
 
-"{y} as w after u"
+"{y} as w after u or between a and {A} .#. "
 %{y%}:w <=> :u/:0* _ ;
+            :a/:0* _ %{A%}: .#. ;  ! sakimawo
 
 !"non-a values of {A}"
 !%{A%}:Vx <=> [ Sx: %{y%}: ]/[ :0 - %{y%}: ]* _ ;
@@ -78,11 +79,14 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
 !             Vx in ( o o u )
 !         matched ;
 
-"{A} as o after kw or eC|iC or a"
+"{A} as à after kw or eC|iC or a"
 %{A%}:ò <=> [ [ :e | :i ] %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             [ k: w: %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             :a/[ :0 ]* _ ;
             %{Y%}:/[ :0 ]* _ ;
+
+"{A} as o after a>{y}"
+%{A%}:o <=> [ :a %{y%}: ]/:0* _ .#. ;  ! sakimawo
 
 "{A} as u after m"
 %{A%}:ù <=> m:/[ :0 - %{y%}: ]* _ ;

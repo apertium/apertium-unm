@@ -445,6 +445,7 @@ hilusës:hilusës         # "old man"
 manëtu:manëtu           # "Spirit"
 mimëns:mimëns           # "child"
 mimëntët:mimëntët       # "baby"   FIXME: <dim>
+sakima:sakima           # "chief"
 
 LEXICON NounRoot-Inan
 
@@ -922,11 +923,13 @@ ta<mod>:ta
 mèchi<adv>+ta<mod>:mèchita
 na<adv>+na<det><dem><dist><aa><sg>:nana
 na<adv>+tëli<cnjsub>:natëli
+na<adv>+nèl<dem><dist><nn><pl>:nanel
 yukwe<adv>+ta<mod>:yukweta
 na<adv>+làpi<adv>:nalàpi
 xu<adv>+làpi<adv>:xulàpi
 xu<adv>+mata<adv>:xumata
 në<det><dem>+wënchi<n><nn>:nënchi           # "the reason"
+nàn<dem><dist><aa><sg>+awèn<n><aa><sg>:nàniawen
 
 LEXICON Prepositions
 
