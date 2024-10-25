@@ -1,0 +1,11 @@
+lemma	POS	tags	context	pref	suff
+_	v	_	_	_	v
+_	_	tv	_	_	.tv
+_	_	iv	_	_	.iv
+_	_	aa	_	_	.anim
+_	_	nn	_	_	.inan
+_	_	dir	_	_	_
+_	_	p3.sg	_	_	-3
+_	_	p3.pl	_	_	-3pl
+_	_	o_pl	_	_	-pl
+_	_	p3	v.iv.nn	0-	_
