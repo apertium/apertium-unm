@@ -801,6 +801,7 @@ në:në	          <dem><dist><nn><sg>
 në:nëni         <dem><dist><nn><sg>   # Dir/LR
 na:na           <dem><dist><aa><sg>
 na:nana         <dem><dist><aa><sg>   # Dir/LR
+na:nali         <dem><dist><aa><sg>   # Dir/LR
 nèl:nèl         <dem><dist><nn><pl>
 nèl:nèli        <dem><dist><nn><pl>
 nèk:nèk         <dem><dist><aa><pl>
@@ -902,6 +903,8 @@ nëke:nëke         # "at this/that time" CHECK: not a form of a determiner
 ohëlëmi:ohëlëmi   # "far away"
 mèchi:mèchi       # "now; already"
 
+shëkw:shëkw       # "only; but"
+
 
 LEXICON CnjLex(2)
 
@@ -932,6 +935,7 @@ xu<adv>+mata<adv>:xumata
 në<det><dem>+wënchi<n><nn>:nënchi           # "the reason"
 nàn<dem><dist><aa><sg>+awèn<n><aa><sg>:nàniawen
 kèku<itg>+hëch<itg>:kèkuhëch                # "what?"
+na<prn><dem><dist><aa><sg>+yu<prn><dem><prox><nn><sg>+shëkw<adv>:naliyushëkw
 
 LEXICON Prepositions
 

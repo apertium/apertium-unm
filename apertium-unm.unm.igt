@@ -1,11 +1,16 @@
-lemma	POS	tags	context	pref	suff
-_	v	_	_	_	v
-_	_	tv	_	_	.tv
-_	_	iv	_	_	.iv
-_	_	aa	_	_	.anim
-_	_	nn	_	_	.inan
+lemma	POS	tags	context	pref	suff	entryPOS
+_	v	_	_	_	_	v.
+_	_	tv.aa	_	_	_	ta.
+_	_	tv.nn	_	_	_	ti.
+_	_	iv.aa	_	_	_	ai.
+_	_	iv.nn	_	_	_	ii.
+_	n	_	_	_	_	n.
+_	_	nn	_	_	_	i.
+_	_	aa	_	_	_	a.
 _	_	dir	_	_	_
 _	_	p3.sg	_	_	-3
 _	_	p3.pl	_	_	-3pl
 _	_	o_pl	_	_	-pl
 _	_	p3	v.iv.nn	0-	_
+_	prn	pers	_	_	pron.
+_	adv	_	_	_	advb.
