@@ -216,7 +216,7 @@ LEXICON VerbInflAI(3)
 :          :>{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
 :          :>{³}ltu>{y}{A}k  <p3><pl><coll>        # -w-ak (3-pl.anim)
 
-:          >tam          <opt><p1><pl>
+:          :>tam          <opt><p1><pl>
 
 :{N}{e}>   :>{½}>{u}{ʍ}{i}          <neg><p1><sg>
 :{k}{e}>   :>{½}>{u}{ʍ}{i}          <neg><p2><sg>
@@ -263,6 +263,15 @@ LEXICON VerbInflAISubj(2)  # Subjunctive
 :>{½}>ankw>e   <p1><excl><pl>
 :>{½}>ekw>e    <p2><pl>
 :>{₃}>htit>e   <p3><pl>
+
+:>{½}>a{n}>pàn>e   <pst><p1><sg>
+:>{½}>an>pàn>e     <pst><p2><sg>
+:>{₃}>t>pàn>e      <pst><p3><sg>
+:>{½}>enkw>pàn>e   <pst><p1><incl><pl>
+:>{½}>enk>pàn>e    <pst><p1><incl><pl>  # Dir/LR
+:>{½}>ankw>pàn>e   <pst><p1><excl><pl>
+:>{½}>ekw>pàn>e    <pst><p2><pl>
+:>{₃}>htit>pàn>e   <pst><p3><pl>
 
 #LEXICON VerbInflIntrImp(2)
 
@@ -319,6 +328,13 @@ LEXICON VerbInflTISubj(2)  # Subjunctive
 :>{½}>ekw>e       <p2><pl>
 :>{³}>{ì}htit>e   <p3><pl>   # {i}:i after m
 
+:>{½}>a{n}>pàn>e      <pst><p1><sg>
+:>{½}>ant>pàn>e       <pst><p2><sg>
+:>{³}>{K}>pàn>e       <pst><p3><sg>      # FIXME: penam>{½}>ank → penank
+:>{½}>enkw>pàn>e      <pst><p1><incl><pl>
+:>{½}>ankw>pàn>e      <pst><p1><excl><pl>
+:>{½}>ekw>pàn>e       <pst><p2><pl>
+:>{³}>{ì}htit>pàn>e   <pst><p3><pl>   # {i}:i after m
 
 LEXICON VerbInflTA(3)
 
@@ -556,7 +572,7 @@ pals:pals{IU}				<iv><aa>	# "be sick"
 wikwihel:wikwihel{Æ}		<iv><aa>	# "be tired"
 kes:kes{IU}					<iv><aa>	# "be hot"
 akohch:{t}akohch{IU}		<iv><aa>	# "be cold"
-alemsk:{t}alëmsk{Æ}		<iv><aa>	# "leave/go away"
+alëmsk:{t}alëmsk{Æ}		<iv><aa>	# "leave/go away"
 machi:mach{I}				<iv><aa>	# "go home"
 
 # Lesson 3

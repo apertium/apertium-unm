@@ -109,7 +109,7 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{Æ} as a in p1 and p2, e in p3"
 %{Æ%}:Vx <=> _ [ :0 - [ Pers: ] ]* Px: ;
           where
-              Vx in (   a     o     e   )
+              Vx in (   a     a     e   )   ! talëmsk_a_neyo
               Px in ( %{½%} %{₃%} %{³%} )
           matched ;
 
