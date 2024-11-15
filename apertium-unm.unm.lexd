@@ -431,7 +431,7 @@ shkakw:shkakw           # "skunk"
 opalaniye:opalaniye     # "bald eagle"
 maxkalaniyat:maxkalaniyat # "hawk"
 awèn:awèn               # "person" (pl: awènik)
-hitukw:hit{u}kw         # "tree"
+hìtukw:hìt{u}kw         # "tree"
 xkwe:xkwe               # "woman"
 xkwechëch:xkwechëch     # "girl"
 pilaechëch:pilaechëch   # "boy"
@@ -523,6 +523,7 @@ pëmi:pëmi               # "grease, fat, lard"
 phake:phake             # "piece"  CHECK inam
 phake:phakee            # "piece"  CHECK inam  Dir/LR
 wënchi:wënchi           # "reason"
+hàki:hàki               # "dirt; ground; earth; land"
 
 
 LEXICON NounRoot-Family(2)
@@ -818,6 +819,7 @@ yuki:yukishe    <dem><prox><aa><pl>+she<adv> # "these here (anim)"
 
 nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
 nèl:nèla			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)  Dir/LR
+nèl:nèlë			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)  Dir/LR
 naka:naka       <dem><dist><aa><abs><sp>  # sg/pl deceased/absent things (animate)
 nikahke:nikahke <dem><dist><aa><abs><obv><sp>  # sg/pl deceased/absent things (animate)
 nikahke:nëkahke <dem><dist><aa><abs><obv><sp>  # sg/pl deceased/absent things (animate)
@@ -905,6 +907,8 @@ mèchi:mèchi       # "now; already"
 
 shëkw:shëkw       # "only; but"
 
+tènta:tènta       # "there"
+
 
 LEXICON CnjLex(2)
 
@@ -916,6 +920,7 @@ tëli:tëli   <cnjsub>      # "so that"         w subord
 nèli:nèli   <cnjsub>      # "while"           w conjunct
 nèli:nëli   <cnjsub>      # "while"   Dir/LR  w conjunct
 wënchi:wënchi <cnjsub>    # "because; from"
+sëki:sëki   <cnjsub>      # "while; since"    w conjunct
 
 LEXICON Misc
 hëch<qst>:hëch

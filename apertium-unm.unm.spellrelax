@@ -27,5 +27,8 @@
    [ ?* ( [ [ [ ë ] (->) [ ë | o ] ] [ l ] ] ) ?* ] .o.
 
 	! Accept a for aa
-	[ ?* [ [ a a ] (->) a ] ?* ]
+	[ ?* [ [ a a ] (->) a ] ?* ] .o.
+
+	! Accept nothing for w at end of word after k (e.g., hituk)
+	[ ?* ( [ [ k ] [ [ w ] (->) 0 ] ] ) ]
 ]
