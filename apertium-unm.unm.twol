@@ -51,7 +51,7 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
           :Cons _ :Cons/[ :0 - [ EpentheticVs: ] ]* .#. ;  ! hitukw
           [ %{N%}: | %{k%}: ] _ (%>:) m: ;
           %{N%}: _ (%>:) w: ;
-          %{k%}: _ (%>:) [ p: | n: | w: ] ;
+          %{k%}: _ (%>:) [ n: | w: ] ;  ! kpa
           .#. %{w%}:w _ [ :0 - [ %{e%}: | %{u%}: ] ]* %>: :Cons ;
           %{e%}: (%>:) %{t%}: _ :Cons ;
 			 :Cons/[ :0 - [ %{e%}: | %{u%}: ] ]* _ n: ;   ! wëneyoo

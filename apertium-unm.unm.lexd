@@ -46,6 +46,7 @@ CnjLex(1) CnjLex(2):
 Misc
 Number
 
+NumberRoot [+:] Nouns # Dir/LR
 
 PATTERN Nouns
 
@@ -626,7 +627,7 @@ lelintam:{W}{e}lelintam <iv><aa> # "be glad"   ! FIXME
 
 # Lesson 10
 
-a:{Æ}                   <iv><aa> # "go"
+a:{t}{Æ}                <iv><aa> # "go"
 pa:p{_w}{Æ}             <iv><aa> # "come"
 welinakws:welinakws     <iv><aa> # "look good"
 um:um                   <iv><aa> # "come from"
@@ -945,18 +946,19 @@ hùnt<mod>:hùnt
 ta<mod>:ta
 èt<mod>:èt
 
-mèchi<adv>+ta<mod>:mèchita
-na<adv>+na<det><dem><dist><aa><sg>:nana
-na<adv>+tëli<cnjsub>:natëli
-na<adv>+nèl<dem><dist><nn><pl>:nanel
-yukwe<adv>+ta<mod>:yukweta
-na<adv>+làpi<adv>:nalàpi
-xu<adv>+làpi<adv>:xulàpi
-xu<adv>+mata<adv>:xumata
-në<det><dem>+wënchi<n><nn>:nënchi           # "the reason"
-nàn<dem><dist><aa><sg>+awèn<n><aa><sg>:nàniawen
+mèchi<adv>+ta<mod>:mèchita                   # Dir/LR
+na<adv>+na<det><dem><dist><aa><sg>:nana      # Dir/LR
+na<adv>+tëli<cnjsub>:natëli                  # Dir/LR
+na<adv>+nèl<dem><dist><nn><pl>:nanel         # Dir/LR
+yukwe<adv>+ta<mod>:yukweta                   # Dir/LR
+na<adv>+làpi<adv>:nalàpi                     # Dir/LR
+xu<adv>+làpi<adv>:xulàpi                     # Dir/LR
+xu<adv>+mata<adv>:xumata                     # Dir/LR
+në<det><dem>+wënchi<n><nn>:nënchi           # "the reason" Dir/LR
+nàn<dem><dist><aa><sg>+awèn<n><aa><sg>:nàniawen # Dir/LR
 kèku<itg>+hëch<itg>:kèkuhëch                # "what?"
-na<prn><dem><dist><aa><sg>+yu<prn><dem><prox><nn><sg>+shëkw<adv>:naliyushëkw
+na<prn><dem><dist><aa><sg>+yu<prn><dem><prox><nn><sg>+shëkw<adv>:naliyushëkw # Dir/LR
+nëke<adv>+lòmëwe<adv>:nëkelòmëwe             # Dir/LR
 
 LEXICON Prepositions
 
