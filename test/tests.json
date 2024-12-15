@@ -1,0 +1,10 @@
+{
+  "morph": {
+    "input": "verbs-ti-conjuct-morph-input.txt",
+    "mode": "unm-morph"
+  },
+  "morph": {
+    "input": "verbs-ti-conjuct-gener-input.txt",
+    "mode": "unm-gener"
+  }
+}

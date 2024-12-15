@@ -1,0 +1,45 @@
+penama       # look at 1sg
+meshenema    # get 1sg
+petao        # bring 1sg
+michia       # eat 1sg 
+nema         # see 1sg
+penaman      # look at 2sg
+mesheneman   # get 2sg
+petaon       # bring 2sg
+michian      # eat 2sg
+neman        # see 2sg
+penank       # look at 3sg
+meshenink    # get 3sg
+petakw       # bring 3sg
+michit       # eat 3sg
+nenk         # see 3sg
+penamelit    # 3’
+meshenemelit # 3’
+petulit # 3’
+michilit # 3’
+nemelit # 3’
+penamenk # 1p
+meshenemenk # 1p
+petaenk # 1p
+michienk # 1p
+nemenk # 1p
+penamankw # 12
+meshenemankw # 12
+petaonkw # 12
+michiankw # 12
+nemankw # 12
+penamekw # 2p
+meshenemekw # 2p
+petaekw # 2p
+michiekw # 2p
+nemekw # 2p
+penamihtit # 3p
+meshenemihtit # 3p
+petuhtit # 3p
+michihtit # 3p
+nemhitit # 3p
+penamink # X
+meshenemink # X
+petunk # X
+michink # X
+nemink # X
