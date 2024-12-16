@@ -1,45 +1,49 @@
-penama       # look at 1sg
-meshenema    # get 1sg
-petao        # bring 1sg
-michia       # eat 1sg 
-nema         # see 1sg
-penaman      # look at 2sg
-mesheneman   # get 2sg
-petaon       # bring 2sg
-michian      # eat 2sg
-neman        # see 2sg
-penank       # look at 3sg
-meshenink    # get 3sg
-petakw       # bring 3sg
-michit       # eat 3sg
-nenk         # see 3sg
-penamelit    # 3’
-meshenemelit # 3’
-petulit # 3’
-michilit # 3’
-nemelit # 3’
-penamenk # 1p
-meshenemenk # 1p
-petaenk # 1p
-michienk # 1p
-nemenk # 1p
-penamankw # 12
-meshenemankw # 12
-petaonkw # 12
-michiankw # 12
-nemankw # 12
-penamekw # 2p
-meshenemekw # 2p
-petaekw # 2p
-michiekw # 2p
-nemekw # 2p
-penamihtit # 3p
-meshenemihtit # 3p
-petuhtit # 3p
-michihtit # 3p
-nemhitit # 3p
-penamink # X
-meshenemink # X
-petunk # X
-michink # X
-nemink # X
+penama        # look at 1sg
+penaman       # look at 2sg
+penank        # look at 3sg
+penamelit     # look at 3’
+penamenk      # look at 1p
+penamankw     # look at 12
+penamekw      # look at 2p
+penamihtit    # look at 3p
+penamink      # look at X
+
+meshenema     # get 1sg
+mesheneman    # get 2sg
+meshenink     # get 3sg
+meshenemelit  # get 3’
+meshenemenk   # get 1p
+meshenemankw  # get 12
+meshenemekw   # get 2p
+meshenemihtit # get 3p
+meshenemink   # get X
+
+petao         # bring 1sg
+petaon        # bring 2sg
+petakw        # bring 3sg
+petulit       # bring 3’
+petaenk       # bring 1p
+petaonkw      # bring 12
+petaekw       # bring 2p
+petuhtit      # bring 3p
+petunk        # bring X
+
+nema          # see 1sg
+neman         # see 2sg
+nenk          # see 3sg
+nemelit       # see 3’
+nemenk        # see 1p
+nemankw       # see 12
+nemekw        # see 2p
+nemhitit      # see 3p
+nemink        # see X
+
+michia        # eat 1sg 
+michian       # eat 2sg
+michit        # eat 3sg
+michilit      # eat 3’
+michienk      # eat 1p
+michiankw     # eat 12
+michiekw      # eat 2p
+michihtit     # eat 3p
+michink       # eat X

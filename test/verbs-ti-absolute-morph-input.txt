@@ -1,0 +1,41 @@
+mpenam        # look at 1sg
+kepenam       # look at 2sg
+penam         # look at 3sg
+mpenamuhena   # look at 1p
+kpenamuhena   # look at 12
+kpenamuhemo   # look at 2p
+penamuk       # look at 3p
+
+nemeshenem        # get 1sg
+kemeshenem        # get 2sg
+meshenem          # get 3sg
+nemeshenemhumena  # get 1p
+kemeshenemhumena  # get 12
+kemeshenemhumo    # get 2p
+meshenemuk        # get 3p
+
+mpetu         # bring 1sg
+kpetu         # bring 2sg
+petu          # bring 3sg
+mpetuhena     # bring 1p
+kpetuhena     # bring 12
+kpetuhemo     # bring 2p
+petuwak       # bring 3p
+
+nem           # see 1sg
+nnem          # see 1sg
+kenem         # see 2sg
+nem           # see 3sg
+nemhumena     # see 1p
+nnemhumena    # see 1p
+kenemhumena   # see 12
+kenemhumo     # see 2p
+nemuk         # see 3p
+
+nemichi       # eat 1sg 
+kemichi       # eat 2sg
+michu         # eat 3sg
+nemichihena   # eat 1p
+kemichihena   # eat 12
+kemichihemo   # eat 2p
+michewak      # eat 3p

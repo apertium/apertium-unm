@@ -6,5 +6,13 @@
   "morph": {
     "input": "verbs-ti-conjuct-gener-input.txt",
     "mode": "unm-gener"
+  },
+  "morph": {
+    "input": "verbs-ti-absolute-morph-input.txt",
+    "mode": "unm-morph"
+  },
+  "morph": {
+    "input": "verbs-ti-objective-morph-input.txt",
+    "mode": "unm-morph"
   }
 }
