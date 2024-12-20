@@ -1,32 +1,32 @@
-penama        # look at 1sg
-penaman       # look at 2sg
-penank        # look at 3sg
-penamelit     # look at 3’
-penamenk      # look at 1p
-penamankw     # look at 12
-penamekw      # look at 2p
-penamihtit    # look at 3p
-penamink      # look at X
+pënama        # look at 1sg
+pënaman       # look at 2sg
+pënank        # look at 3sg
+pënamelit     # look at 3’ - 3rd person animate obviative
+pënamenk      # look at 1p
+pënamankw     # look at 12
+pënamekw      # look at 2p
+pënamihtit    # look at 3p
+pënamink      # look at X - indefinite
 
-meshenema     # get 1sg
-mesheneman    # get 2sg
-meshenink     # get 3sg
-meshenemelit  # get 3’
-meshenemenk   # get 1p
-meshenemankw  # get 12
-meshenemekw   # get 2p
-meshenemihtit # get 3p
-meshenemink   # get X
+mëshënëma     # get 1sg
+mëshënëman    # get 2sg
+mëshënink     # get 3sg
+mëshënëmelit  # get 3’
+mëshënëmenk   # get 1p
+mëshënëmankw  # get 12
+mëshënëmekw   # get 2p
+mëshënëmihtit # get 3p
+mëshënëmink   # get X
 
-petao         # bring 1sg
-petaon        # bring 2sg
-petakw        # bring 3sg
-petulit       # bring 3’
-petaenk       # bring 1p
-petaonkw      # bring 12
-petaekw       # bring 2p
-petuhtit      # bring 3p
-petunk        # bring X
+pètao         # bring 1sg
+pètaon        # bring 2sg
+pètakw        # bring 3sg
+pètulit       # bring 3’
+pètaenk       # bring 1p
+pètaonkw      # bring 12
+pètaekw       # bring 2p
+pètuhtit      # bring 3p
+pètunk        # bring X
 
 nema          # see 1sg
 neman         # see 2sg

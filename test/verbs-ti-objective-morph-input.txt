@@ -1,51 +1,51 @@
-mpenamen        # look at 1sg > 3s.nn
-kepenamen       # look at 2sg > 3s.nn
-pwenamen        # look at 3sg > 3s.nn
-pwenamelin      # look at 3’ > 3s.nn
-mpenamenen      # look at 1p > 3s.nn
-kpenamenen      # look at 12 > 3s.nn
-kpenameneyo     # look at 2p > 3s.nn
-pwenameneyo     # look at 3p > 3s.nn
-penamen         # look at X > 3s.nn
+mpënamën        # look at 1sg > 3s.nn
+këpënamën       # look at 2sg > 3s.nn
+pwënamën        # look at 3sg > 3s.nn
+pwënamëlin      # look at 3’ > 3s.nn
+mpënamënën      # look at 1p > 3s.nn
+kpënamënën      # look at 12 > 3s.nn
+kpënamëneyo     # look at 2p > 3s.nn
+pwënamëneyo     # look at 3p > 3s.nn
+pënamën         # look at X > 3s.nn
 
-nemeshenemen     # get 1sg > 3s.nn
-kemweshenemen    # get 2sg > 3s.nn
-mweshenemen      # get 3sg > 3s.nn
-mweshenemelin    # get 3’ > 3s.nn
-nemeshenemenen   # get 1p > 3s.nn
-kemeshenemenen   # get 12 > 3s.nn
-kemeshenemeneyo  # get 2p > 3s.nn
-mweshenemeneyo   # get 3p > 3s.nn
-meshenemen       # get X > 3s.nn
+nëmëshënëmën     # get 1sg > 3s.nn
+këmëshënëmën     # get 2sg > 3s.nn
+mwëshënëmën      # get 3sg > 3s.nn
+mwëshënëmelin    # get 3’ > 3s.nn
+nemëshënëmenën   # get 1p > 3s.nn
+këmëshënëmenën   # get 12 > 3s.nn
+këmëshënëmeneyo  # get 2p > 3s.nn
+mwëshënëmeneyo   # get 3p > 3s.nn
+mëshënëmën       # get X > 3s.nn
 
-mpetun         # bring 1sg > 3s.nn
-kpetun         # bring 2sg > 3s.nn
-pwetun         # bring 3sg > 3s.nn
-pwetulin       # bring 3’ > 3s.nn
-mpetunen       # bring 1p > 3s.nn
-kpetunen       # bring 12 > 3s.nn
-kpetuneyo      # bring 2p > 3s.nn
-pwetuneyo      # bring 3p > 3s.nn
-petun          # bring X > 3s.nn
+mpètun         # bring 1sg > 3s.nn
+kpètun         # bring 2sg > 3s.nn
+pwètun         # bring 3sg > 3s.nn
+pwètulin       # bring 3’ > 3s.nn
+mpètunën       # bring 1p > 3s.nn
+kpètunën       # bring 12 > 3s.nn
+kpètuneyo      # bring 2p > 3s.nn
+pwètuneyo      # bring 3p > 3s.nn
+pètun          # bring X > 3s.nn
 
-nemen          # see 1sg > 3s.nn
-nnemen         # see 1sg > 3s.nn
-kenemen        # see 2sg > 3s.nn
-wenemen        # see 3sg > 3s.nn
-wenemelin      # see 3’ > 3s.nn
-nemenen        # see 1p > 3s.nn
-nnemenen       # see 1p > 3s.nn
-kenemenen      # see 12 > 3s.nn
-kenemeneyo     # see 2p > 3s.nn
-wenemeneyo     # see 3p > 3s.nn
-nemen          # see X > 3s.nn
+nemën          # see 1sg > 3s.nn
+nnemën         # see 1sg > 3s.nn
+kënemën        # see 2sg > 3s.nn
+wënemën        # see 3sg > 3s.nn
+wënemëlin      # see 3’ > 3s.nn
+nemenën        # see 1p > 3s.nn
+nnemënën       # see 1p > 3s.nn
+kënemënën      # see 12 > 3s.nn
+kënemëneyo     # see 2p > 3s.nn
+wënemëneyo     # see 3p > 3s.nn
+nemën          # see X > 3s.nn
 
-nemichin       # eat 1sg  > 3s.nn
-kemichin       # eat 2sg > 3s.nn
+nëmichin       # eat 1sg  > 3s.nn
+këmichin       # eat 2sg > 3s.nn
 mwichin        # eat 3sg > 3s.nn
 mwichilin      # eat 3’ > 3s.nn
-nemichinen     # eat 1p > 3s.nn
-kemichinen     # eat 12 > 3s.nn
-kemichineyo    # eat 2p > 3s.nn
+nëmichinën     # eat 1p > 3s.nn
+këmichinën     # eat 12 > 3s.nn
+këmichineyo    # eat 2p > 3s.nn
 mwichineyo     # eat 3p > 3s.nn
 michin         # eat X > 3s.nn

@@ -1,17 +1,17 @@
 {
-  "morph": {
-    "input": "verbs-ti-conjuct-morph-input.txt",
+  "verbs-ti-conjunct-morph": {
+    "input": "verbs-ti-conjunct-morph-input.txt",
     "mode": "unm-morph"
   },
-  "morph": {
-    "input": "verbs-ti-conjuct-gener-input.txt",
+  "verbs-ti-conjunct-gener": {
+    "input": "verbs-ti-conjunct-gener-input.txt",
     "mode": "unm-gener"
   },
-  "morph": {
+  "verbs-ti-absolute-morph": {
     "input": "verbs-ti-absolute-morph-input.txt",
     "mode": "unm-morph"
   },
-  "morph": {
+  "verbs-ti-objective-morph": {
     "input": "verbs-ti-objective-morph-input.txt",
     "mode": "unm-morph"
   }
