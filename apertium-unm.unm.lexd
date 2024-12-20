@@ -85,9 +85,9 @@ PATTERN Verbs
 # Conjunct
 
 ## Intransitive
-( [ ènta<cnjsub>+:ènta ] )? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
+( PrePreVerbStuff )? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAICnj(1) [<cnj>:] VerbInflAICnj(2):
 ## Transitive Inanimate
-( [ ènta<cnjsub>+:ènta ] )? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
+( PrePreVerbStuff )? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTICnj(1) [<cnj>:] VerbInflTICnj(2):
 
 
 # Subjunctive
@@ -98,7 +98,10 @@ VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISubj(1) [<sbj>:] VerbInflAISubj(2
 VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTISubj(1) [<sbj>:] VerbInflTISubj(2):
 
 
+LEXICON PrePreVerbStuff
 
+kahti<adv>+:kahti
+ènta<cnjsub>+:ènta
 
 PATTERN AdjRoot
 
@@ -694,6 +697,7 @@ shenkixi:shenkixi       <iv><aa> # "lie down"
 shenkixi:shenkixin      <iv><aa> # "lie down" # Dir/LR
 wik:wik{IU}             <iv><aa> # "live"
 kànchix:kànchix         <iv><aa> # "be hidden"
+pùt:pùt{IU}             <iv><aa> # "poop"
 
 
 
@@ -712,7 +716,7 @@ alënëm:alënëm           <tv><nn> # "touch it"
 # Lesson 5
 
 nem:nem                 <tv><nn> # "see it"
-penam:p{_w}enam          <tv><nn> # "look at it"
+penam:p{_w}enam         <tv><nn> # "look at it"
 wixenin:wixenin         <tv><nn> # "cook it"
 katatam:k{A}tatam       <tv><nn> # "want it"
 katutam:katutam         <tv><nn> # "want to eat it"
@@ -743,7 +747,9 @@ pëmëxòhtun:pëmëxòhtun   <tv><nn> # "carry it on"
 ànkhìtun:ànkhìtun       <tv><nn> # "lose it"
 këchkënëm:k{_w}ëchkënëm <tv><nn> # "detach it"
 luwen:{t}{e}luwe        <tv><nn> # "say it"
-michi:michi             <tv><nn> # "eat it"
+michi:m{_w}ich{IU}      <tv><nn> # "eat it"
+pètu:p{_w}ètu           <tv><nn> # "put it"
+mëshënëm:m{_w}ëshënëm   <tv><nn> # "get it"
 
 
 
@@ -887,7 +893,7 @@ kahti:kahti       # "almost"
 sòmi:sòmi         # "very (too much)"
 
 xu:xu             # [future]
-mechi:mechi       # "already" / [perfect]
+mèchi:mèchi       # "now; already" / [perfect]
 xàntki:xàntki     # "finally"
 lekhikwi:lekhikwi # "at this time"
 tamse:tamse       # "sometimes; perhaps, maybe"
@@ -920,11 +926,13 @@ xaheli:xaheli     # "much, many"
 
 nëke:nëke         # "at this/that time" CHECK: not a form of a determiner
 ohëlëmi:ohëlëmi   # "far away"
-mèchi:mèchi       # "now; already"
 
 shëkw:shëkw       # "only; but"
 
 tènta:tènta       # "there"
+
+alàshi:alàshi     # "somewhat; like; as" [окшойт]
+pëna:pëna         # "even"
 
 
 LEXICON CnjLex(2)
@@ -945,6 +953,7 @@ hëch<qst>:hàch # Dir/LR
 hùnt<mod>:hùnt
 ta<mod>:ta
 èt<mod>:èt
+a<mod>:a      # "should"
 
 mèchi<adv>+ta<mod>:mèchita                   # Dir/LR
 na<adv>+na<det><dem><dist><aa><sg>:nana      # Dir/LR
@@ -959,6 +968,7 @@ nàn<dem><dist><aa><sg>+awèn<n><aa><sg>:nàniawen # Dir/LR
 kèku<itg>+hëch<itg>:kèkuhëch                # "what?"
 na<prn><dem><dist><aa><sg>+yu<prn><dem><prox><nn><sg>+shëkw<adv>:naliyushëkw # Dir/LR
 nëke<adv>+lòmëwe<adv>:nëkelòmëwe             # Dir/LR
+alàshi<adv>+a<mod>:alàshia                   # Dir/LR
 
 LEXICON Prepositions
 
