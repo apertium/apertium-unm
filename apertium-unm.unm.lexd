@@ -555,9 +555,10 @@ nkwis:nkwis         kwis:kwis           # "son"
 nichan:nichan       ichan:ichan         # "daughter"
 uma:uma             uhem:uhem           # "grandmother"
 mëxumsa:mëxumsa     mëxumes:mëxumes     # "grandfather"
-xatash:xatash       mis:mis             # "older sister"
+xatash:xatash       mis:m{_w}is         # "older sister"
 xansa:xansa         xans:xans           # "older brother"
 naxisëmës:naxisëmës xisëmës:x{_w}isëmës # "younger sister/brother/cousin"
+naxisëmës:naxisëmës xisëmës:x{_w}ësëmës # "younger sister/brother/cousin" ! Dir/LR
 itis:itis           itis:itis           # "friend"
 
 LEXICON VerbRootAI(2)
@@ -698,6 +699,7 @@ shenkixi:shenkixin      <iv><aa> # "lie down" # Dir/LR
 wik:wik{IU}             <iv><aa> # "live"
 kànchix:kànchix         <iv><aa> # "be hidden"
 pùt:pùt{IU}             <iv><aa> # "poop"
+ëlësi:ëlësi             <iv><aa> # "do in a way, do what"
 
 
 
