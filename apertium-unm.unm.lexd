@@ -67,7 +67,7 @@ PATTERN Verbs
 # (main)
 
 ## Intransitive
-:VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
+( PrePreVerbStuff )? :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
 ## Transitive Inanimate
 :VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTI(2) VerbInflTI(3):
 ## Transitive Animate
@@ -77,7 +77,7 @@ PATTERN Verbs
 # Subordinate
 
 ## Intransitive
-:VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) [<subord>:] VerbInflAISub(3):
+( PrePreVerbStuff )? :VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) [<subord>:] VerbInflAISub(3):
 
 
 :VerbInflTASub(1) PreverbsSub? VerbRootTA(1) [<v>:] VerbRootTA(2): :VerbInflTASub(2) [<subord>:] VerbInflTASub(3):
@@ -100,8 +100,8 @@ VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTISubj(1) [<sbj>:] VerbInflTISubj(2
 
 LEXICON PrePreVerbStuff
 
-kahti<adv>+:kahti
-ènta<cnjsub>+:ènta
+kahti<adv>+:kahti>
+ènta<cnjsub>+:ènta>
 
 PATTERN AdjRoot
 
@@ -785,6 +785,8 @@ mimh:mimh               <tv><aa> # "eat (experiential)"
 mhuw:hmuw               <tv><aa> # "eat" Dir/LR
 mhuw:mhuw               <tv><aa> # "eat"
 mhuw:muhw               <tv><aa> # "eat" Dir/LR
+
+wètën:wètën             <tv><aa> # "pick up"
 
 
 LEXICON AdjLex
