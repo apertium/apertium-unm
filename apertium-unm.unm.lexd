@@ -938,7 +938,8 @@ tènta:tènta       # "there"
 
 alàshi:alàshi     # "somewhat; like; as" [окшойт]
 pëna:pëna         # "even"
-
+kwënayki:kwënayki # "finally"
+kwënayki:kwenaeke # "finally"  ! Dir/LR
 
 LEXICON CnjLex(2)
 
@@ -974,6 +975,7 @@ kèku<itg>+hëch<itg>:kèkuhëch                # "what?"
 na<prn><dem><dist><aa><sg>+yu<prn><dem><prox><nn><sg>+shëkw<adv>:naliyushëkw # Dir/LR
 nëke<adv>+lòmëwe<adv>:nëkelòmëwe             # Dir/LR
 alàshi<adv>+a<mod>:alàshia                   # Dir/LR
+yu<dem><prox><nn><sg>+she<adv>+wèmi<det><qnt>:yushewèmi  # Dir/LR
 
 LEXICON Prepositions
 
