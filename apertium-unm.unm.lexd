@@ -701,7 +701,8 @@ wik:wik{IU}             <iv><aa> # "live"
 kànchix:kànchix         <iv><aa> # "be hidden"
 pùt:pùt{IU}             <iv><aa> # "poop"
 ëlësi:ëlësi             <iv><aa> # "do in a way, do what"
-
+ksihëwe:ksihëw{Æ}       <iv><aa> # "win"
+mësiliahàn:mësiliahàn   <iv><aa> # "go here and there"??
 
 
 LEXICON VerbRootTI(2)
@@ -790,6 +791,8 @@ mhuw:mhuw               <tv><aa> # "eat"
 mhuw:muhw               <tv><aa> # "eat" Dir/LR
 
 wètën:wètën             <tv><aa> # "pick up"
+
+penkòkho:penkòkho       <tv><aa> # "rub, dry"
 
 
 LEXICON AdjLex
@@ -961,6 +964,11 @@ ta<mod>:ta
 èt<mod>:èt
 a<mod>:a      # "should"
 
+hàkay<prn><refl><p3><sg>:hòkay
+hàkay<prn><refl><p3><sg>:hòkaya    # Dir/LR
+hàkay<prn><refl><p3><pl>:hòkayëwa
+hàkay<prn><refl><p3><pl>:hòkayuwa  # Dir/LR
+
 mèchi<adv>+ta<mod>:mèchita                   # Dir/LR
 na<adv>+na<det><dem><dist><aa><sg>:nana      # Dir/LR
 na<adv>+tëli<cnjsub>:natëli                  # Dir/LR
@@ -976,6 +984,7 @@ na<prn><dem><dist><aa><sg>+yu<prn><dem><prox><nn><sg>+shëkw<adv>:naliyushëkw #
 nëke<adv>+lòmëwe<adv>:nëkelòmëwe             # Dir/LR
 alàshi<adv>+a<mod>:alàshia                   # Dir/LR
 yu<dem><prox><nn><sg>+she<adv>+wèmi<det><qnt>:yushewèmi  # Dir/LR
+nali<det><dem><dist><aa><sg>+ta<mod>+yuki<det><dem><prox><aa><pl>+wa<det><dem><prox><aa><sg>+she<adv>:naltayukewashe         # Dir/LR
 
 LEXICON Prepositions
 
