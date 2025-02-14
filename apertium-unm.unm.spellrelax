@@ -2,6 +2,12 @@
 	! Unify apostrophe styles
 	[ ?* [ ' (->) [ %` | ʻ | ’ | ‘ | ʼ ] ] ?* ] .o.
 
+	! Accept b for mp
+	[ ?* [ [ m p ] (->) [ b ] ] ?* ] .o.
+
+	! Accept d for nt
+	[ ?* [ [ n t ] (->) [ d ] ] ?* ] .o.
+
 	! Accept variants for à
 	[ ?* [ à (->) [ a | à | à ] ] ?* ] .o.
 

@@ -545,6 +545,7 @@ phake:phake             # "piece"  CHECK inam
 phake:phakee            # "piece"  CHECK inam  Dir/LR
 wënchi:wënchi           # "reason"
 hàki:hàki               # "dirt; ground; earth; land"
+mpi:mpi                 # "water"
 
 
 LEXICON NounRoot-Family(2)
@@ -628,7 +629,7 @@ winewe:winewe           <iv><aa> # "beg/ask"
 kenthw:kenthw{IU}       <iv><aa> # "fly"
 pus:pus{IU}             <iv><aa> # "get into a boat"
 shielintam:shielintam   <iv><aa> # "be sad"
-lelintam:{W}{e}lelintam <iv><aa> # "be glad"   ! FIXME
+welelintam:{W}{e}lelìntàm <iv><aa> # "be glad"   ! FIXME
 
 # Lesson 10
 
@@ -703,6 +704,8 @@ pùt:pùt{IU}             <iv><aa> # "poop"
 ëlësi:ëlësi             <iv><aa> # "do in a way, do what"
 ksihëwe:ksihëw{Æ}       <iv><aa> # "win"
 mësiliahàn:mësiliahàn   <iv><aa> # "go here and there"??
+pëmëska:pëmësk{Æ}       <iv><aa> # "walk"
+nutike:nutike           <iv><aa> # "stay home"
 
 
 LEXICON VerbRootTI(2)
@@ -909,6 +912,8 @@ tamse:tamse       # "sometimes; perhaps, maybe"
 àpchi:àpchi       # "always"
 
 lòmëwe:lòmëwe     # "long ago"
+lòmëwe:lòmwe      # "long ago" Dir/LR
+
 kèxiti:kèxiti     # "a little; a little bit"
 
 kishkwik:kishkwik # "today"
