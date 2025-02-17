@@ -61,11 +61,19 @@ If you are in the source directory after running make, the following
 commands should work:
 
 ```console
-$ echo "TODO: test sentence" | apertium -d . unm-morph
-TODO: test analysis result
+$ echo "Ktalënixsihëmo hàch?" | apertium -d . unm-morph
+^Ktalënixsihëmo/alënixsi<v><iv><aa><p2><pl>$ ^hàch/hëch<qst>$^?/?<sent>$^./.<sent>$
 
-$ echo "TODO: test sentence" | apertium -d . unm-tagger
-TODO: test tagger result
+$ echo "^alënixsi<v><iv><aa><p2><pl>$ ^hëch<qst>$" | apertium -d . -f none unm-gener
+ktalënixsihëmo hëch
+
+$ echo "Ktalënixsihëmo hàch?" | apertium -d . unm-tagger | cg-conv -a
+"<Ktalënixsihëmo>"
+	"Alënixsi" v iv aa p2 pl
+"<hàch>"
+	"hëch" qst
+"<?>"
+	"?" sent
 ```
 
 Files and data
