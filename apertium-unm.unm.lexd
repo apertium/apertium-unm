@@ -1039,6 +1039,7 @@ LEXICON IjLex
 yuh:yuh         # "alright, okay"
 ahikta:ahikta   # "yes, agreed; oh yes"
 nëpe:nëpe       # "all right!"
+wanìshi:wanìshi # "thank you"
 
 PATTERN Number
 Numeral [<num>:]
