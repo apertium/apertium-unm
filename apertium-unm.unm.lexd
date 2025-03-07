@@ -711,6 +711,7 @@ mësiliahàn:mësiliahàn   <iv><aa> # "go here and there"??
 pëmëska:pëmësk{Æ}       <iv><aa> # "walk"
 nutike:nutike           <iv><aa> # "stay home"
 alënixsi:{t}alënixsi    <iv><aa> # "speak Lënape"
+luwènsi:{t}{e}luwèns{IU}  <iv><aa> # "be called"
 
 
 LEXICON VerbRootTI(2)
@@ -964,7 +965,7 @@ tëli:tëli   <cnjsub>      # "so that"         w subord
 ènta:ènta   <cnjsub>      # "when"            w conjunct
 nèli:nèli   <cnjsub>      # "while"           w conjunct
 nèli:nëli   <cnjsub>      # "while"   Dir/LR  w conjunct
-wënchi:wënchi <cnjsub>    # "because; from"
+wënchi:wënchi <cnjsub>    # "because; from"   w subord
 sëki:sëki   <cnjsub>      # "while; since"    w conjunct
 
 LEXICON Misc
