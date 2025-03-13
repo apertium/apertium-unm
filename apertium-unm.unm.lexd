@@ -193,218 +193,218 @@ LEXICON NounInfl-Inan
 
 LEXICON VerbInflIICnj(2)  # Conjunct
 
-:>ek        <p3><sg>:
+:>ek        <s_3sg>:
 
 
 LEXICON VerbInflAI(3)
 
-:{N}{e}>   :>{½}          <p1><sg>
-:ni\ >     :>{½}          <p1><sg>        # Dir/LR
-:n'>       :>{½}          <p1><sg>        # Dir/LR
-:{k}{e}>   :>{½}          <p2><sg>
-:ki\ >     :>{½}          <p2><sg>        # Dir/LR
-:k'>       :>{½}          <p2><sg>        # Dir/LR
-:          :>{³}          <p3><sg>        # technically -w (?)
-:{N}{e}>   :>{½}>hëna     <p1><excl><pl>  # technically -hm-nan (MP-1.pl)
-:ni\ >     :>{½}>hëna     <p1><excl><pl>  # Dir/LR
-:n'>       :>{½}>hëna     <p1><excl><pl>  # Dir/LR
-:{n}{e}>   :>{½}>hënuk    <p1><excl><pl><coll>
-:{k}{e}>   :>{½}>hëna     <p1><incl><pl>
-:{k}{e}>   :>{½}>hënuk    <p1><incl><pl><coll>
+:{N}{e}>   :>{½}          <s_1sg>
+:ni\ >     :>{½}          <s_1sg>        # Dir/LR
+:n'>       :>{½}          <s_1sg>        # Dir/LR
+:{k}{e}>   :>{½}          <s_2sg>
+:ki\ >     :>{½}          <s_2sg>        # Dir/LR
+:k'>       :>{½}          <s_2sg>        # Dir/LR
+:          :>{³}          <s_3sg>        # technically -w (?)
+:{N}{e}>   :>{½}>hëna     <s_11pl>  # technically -hm-nan (MP-1.pl)
+:ni\ >     :>{½}>hëna     <s_11pl>  # Dir/LR
+:n'>       :>{½}>hëna     <s_11pl>  # Dir/LR
+:{n}{e}>   :>{½}>hënuk    <s_11pl><coll>
+:{k}{e}>   :>{½}>hëna     <s_12pl>
+:{k}{e}>   :>{½}>hënuk    <s_12pl><coll>
 # TODO: nëmitsahtihënuk (-ahti- "all")
 # TODO: ktëlsahtihënuk (")
 # TODO: kënewtihënuk (-ëti- RECIP)
-:ki\ >     :>{½}>hëna     <p1><incl><pl>  # Dir/LR
-:ki\ >     :>{½}>hëna     <p1><incl><pl>  # Dir/LR
-:{k}{e}>   :>{½}>hëmo     <p2><pl>
-:          :>{³}>{y}{A}k  <p3><pl>        # -w-ak (3-pl.anim)
-:          :>{³}ltu>{y}{A}k  <p3><pl><coll>        # -w-ak (3-pl.anim)
+:ki\ >     :>{½}>hëna     <s_12pl>  # Dir/LR
+:ki\ >     :>{½}>hëna     <2_12pl>  # Dir/LR
+:{k}{e}>   :>{½}>hëmo     <s_2pl>
+:          :>{³}>{y}{A}k  <s_3pl>        # -w-ak (3-pl.anim)
+:          :>{³}ltu>{y}{A}k  <s_3pl><coll>        # -w-ak (3-pl.anim)
 
-:          :>tam          <opt><p1><pl>
 
-:{N}{e}>   :>{½}>{u}{ʍ}{i}          <neg><p1><sg>
-:{k}{e}>   :>{½}>{u}{ʍ}{i}          <neg><p2><sg>
-:          :>{³}>{u}{ʍ}{i}          <neg><p3><sg>        # technically -w (?)
-:{N}{e}>   :>{½}>{u}hùmëna          <neg><p1><excl><pl>  # technically -hm-nan (MP-1.pl)
-:{k}{e}>   :>{½}>{u}hùmëna          <neg><p1><incl><pl>
-:{k}{e}>   :>{½}>{u}hùmo            <neg><p2><pl>
-:          :>{³}>{u}{ʍ}{i}>{y}{A}k  <neg><p3><pl>        # -w-ak (3-pl.anim)
+:{N}{e}>   :>{½}>{u}{ʍ}{i}          <neg><s_1sg>
+:{k}{e}>   :>{½}>{u}{ʍ}{i}          <neg><s_2sg>
+:          :>{³}>{u}{ʍ}{i}          <neg><s_3sg>        # technically -w (?)
+:{N}{e}>   :>{½}>{u}hùmëna          <neg><s_11pl>       # technically -hm-nan (MP-1.pl)
+:{k}{e}>   :>{½}>{u}hùmëna          <neg><s_12pl>
+:{k}{e}>   :>{½}>{u}hùmo            <neg><s_2pl>
+:          :>{³}>{u}{ʍ}{i}>{y}{A}k  <neg><s_3pl>        # -w-ak (3-pl.anim)
 
-:          :                       <imp><p2><sg>:
-:          :>{i}{l}                <imp><p2><sg>:  # Dir/LR
-:          :>{u}kw                 <imp><p2><pl>:
-:          :>{u}tam                <imp><p1><du>:
-:          :>{u}tam>{u}kw          <imp><p1><pl>:
+:          :                       <imp><s_2sg>:
+:          :>{i}{l}                <imp><s_2sg>:  # Dir/LR
+:          :>{u}kw                 <imp><s_2pl>:
+:          :>{u}tam                <imp><s_1du>:
+:          :>{u}tam>{u}kw          <imp><s_1pl>:
+#:          :>tam          <opt><s_1pl>
 
 LEXICON VerbInflAISub(3)   # Subordinative
 
-:{N}{e}>   >{½}>{e}n     <p1><sg>
-:{k}{e}>   >{½}>{e}n     <p2><sg>
-:{w}{e}>   >{₃}>{e}n     <p3><sg>
-:{N}{e}>   >{½}>{e}nen   <p1><excl><pl>
-:{k}{e}>   >{½}>{e}nen   <p1><incl><pl>
-:{k}{e}>   >{½}>{e}neyo  <p2><pl>
-:{w}{e}>   >{₃}>{e}neyo  <p3><pl>
+:{N}{e}>   >{½}>{e}n     <s_1sg>
+:{k}{e}>   >{½}>{e}n     <s_2sg>
+:{w}{e}>   >{₃}>{e}n     <s_3sg>
+:{N}{e}>   >{½}>{e}nen   <s_11pl>
+:{k}{e}>   >{½}>{e}nen   <s_12pl>
+:{k}{e}>   >{½}>{e}neyo  <s_2pl>
+:{w}{e}>   >{₃}>{e}neyo  <s_3pl>
 
 LEXICON VerbInflAICnj(2)  # Conjunct
 
-:>{½}>a{n}   <p1><sg>
-:>{½}>an     <p2><sg>
-:>{₃}>{K}    <p3><sg>
-:>{½}>enkw   <p1><incl><pl>
-:>{½}>enk    <p1><incl><pl>  # Dir/LR
-:>{½}>ankw   <p1><excl><pl>
-:>{½}>ekw    <p2><pl>
-:>{₃}>htit   <p3><pl>
+:>{½}>a{n}   <s_1sg>
+:>{½}>an     <s_2sg>
+:>{₃}>{K}    <s_3sg>
+:>{½}>enkw   <s_11pl>
+:>{½}>enk    <s_11pl>  # Dir/LR
+:>{½}>ankw   <s_12pl>
+:>{½}>ekw    <s_2pl>
+:>{₃}>htit   <s_3pl>
 
 LEXICON VerbInflAISubj(2)  # Subjunctive
 
-:>{½}>a{n}>e   <p1><sg>
-:>{½}>an>e     <p2><sg>
-:>{₃}>t>e      <p3><sg>
-:>{½}>enkw>e   <p1><incl><pl>
-:>{½}>enk>e    <p1><incl><pl>  # Dir/LR
-:>{½}>ankw>e   <p1><excl><pl>
-:>{½}>ekw>e    <p2><pl>
-:>{₃}>htit>e   <p3><pl>
+:>{½}>a{n}>e   <s_1sg>
+:>{½}>an>e     <s_2sg>
+:>{₃}>t>e      <s_3sg>
+:>{½}>enkw>e   <s_11pl>
+:>{½}>enk>e    <s_11pl>  # Dir/LR
+:>{½}>ankw>e   <s_12pl>
+:>{½}>ekw>e    <s_2pl>
+:>{₃}>htit>e   <s_3pl>
 
-:>{½}>a{n}>pàn>e   <pst><p1><sg>
-:>{½}>an>pàn>e     <pst><p2><sg>
-:>{₃}>t>pàn>e      <pst><p3><sg>
-:>{½}>enkw>pàn>e   <pst><p1><incl><pl>
-:>{½}>enk>pàn>e    <pst><p1><incl><pl>  # Dir/LR
-:>{½}>ankw>pàn>e   <pst><p1><excl><pl>
-:>{½}>ekw>pàn>e    <pst><p2><pl>
-:>{₃}>htit>pàn>e   <pst><p3><pl>
+:>{½}>a{n}>pàn>e   <pst><s_1sg>
+:>{½}>an>pàn>e     <pst><s_2sg>
+:>{₃}>t>pàn>e      <pst><s_3sg>
+:>{½}>enkw>pàn>e   <pst><s_11pl>
+:>{½}>enk>pàn>e    <pst><s_11pl>  # Dir/LR
+:>{½}>ankw>pàn>e   <pst><s_12pl>
+:>{½}>ekw>pàn>e    <pst><s_2pl>
+:>{₃}>htit>pàn>e   <pst><s_3pl>
 
 #LEXICON VerbInflIntrImp(2)
 
 LEXICON VerbInflTI(3)
 
-:{N}{e}>   >{e}n          <p1><sg><o_sg>
-:{N}{e}>   >{e}n>a        <p1><sg><o_pl>
-:{k}{e}>   >{e}n          <p2><sg><o_sg>
-:{k}{e}>   >{e}n>a        <p2><sg><o_pl>
-:{w}{e}>   >{e}n>a        <p3><sg><o_sg>
-:{w}{e}>   >{e}n>a        <p3><sg><o_pl>
-:{N}{e}>   >{e}nen        <p1><excl><pl><o_sg>
-:{N}{e}>   >{e}nen>a      <p1><excl><pl><o_pl>
-:{k}{e}>   >{e}nen        <p1><incl><pl><o_sg>
-:{k}{e}>   >{e}nen>a      <p1><incl><pl><o_pl>
-:{k}{e}>   >{e}n>eyo      <p2><pl>
-:{w}{e}>   >{e}n>eyo      <p3><pl>
-#:{k}{e}>   >en>eyo        <p2><pl><o_sg>
-#:{k}{e}>   >en>eyo        <p2><pl><o_pl>
-#:{w}       >en>eyo        <p3><pl><o_sg>
-#:{w}       >en>eyo        <p3><pl><o_pl>
+:{N}{e}>   >{e}n          <s_1sg><o_sg>
+:{N}{e}>   >{e}n>a        <s_1sg><o_pl>
+:{k}{e}>   >{e}n          <s_2sg><o_sg>
+:{k}{e}>   >{e}n>a        <s_2sg><o_pl>
+:{w}{e}>   >{e}n>a        <s_3sg><o_sg>
+:{w}{e}>   >{e}n>a        <s_3sg><o_pl>
+:{N}{e}>   >{e}nen        <s_11pl><o_sg>
+:{N}{e}>   >{e}nen>a      <s_11pl><o_pl>
+:{k}{e}>   >{e}nen        <s_12pl><o_sg>
+:{k}{e}>   >{e}nen>a      <s_12pl><o_pl>
+:{k}{e}>   >{e}n>eyo      <s_2pl>
+:{w}{e}>   >{e}n>eyo      <s_3pl>
+#:{k}{e}>   >en>eyo        <s_2pl><o_sg>
+#:{k}{e}>   >en>eyo        <s_2pl><o_pl>
+#:{w}       >en>eyo        <s_3pl><o_sg>
+#:{w}       >en>eyo        <s_3pl><o_pl>
 
-:{N}{e}>   >{u}{ʍ}{i}>{e}n          <neg><p1><sg><o_sg>
-:{N}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><p1><sg><o_pl>
-:{k}{e}>   >{u}{ʍ}{i}>{e}n          <neg><p2><sg><o_sg>
-:{k}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><p2><sg><o_pl>
-:{w}{e}>   >{u}{ʍ}{i}>{e}n          <neg><p3><sg><o_sg>
-:{w}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><p3><sg><o_pl>
-:{N}{e}>   >{u}{ʍ}{i}>{e}nen        <neg><p1><excl><pl><o_sg>
-:{N}{e}>   >{u}{ʍ}{i}>{e}nen>a      <neg><p1><excl><pl><o_pl>
-:{k}{e}>   >{u}{ʍ}{i}>{e}nen        <neg><p1><incl><pl><o_sg>
-:{k}{e}>   >{u}{ʍ}{i}>{e}nen>a      <neg><p1><incl><pl><o_pl>
-:{k}{e}>   >{u}{ʍ}{i}>{e}n>eyo      <neg><p2><pl>
-:{w}{e}>   >{u}{ʍ}{i}>{e}n>eyo      <neg><p3><pl>
+:{N}{e}>   >{u}{ʍ}{i}>{e}n          <neg><s_1sg><o_sg>
+:{N}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><s_1sg><o_pl>
+:{k}{e}>   >{u}{ʍ}{i}>{e}n          <neg><s_2sg><o_sg>
+:{k}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><s_2sg><o_pl>
+:{w}{e}>   >{u}{ʍ}{i}>{e}n          <neg><s_3sg><o_sg>
+:{w}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><s_3sg><o_pl>
+:{N}{e}>   >{u}{ʍ}{i}>{e}nen        <neg><s_11pl><o_sg>
+:{N}{e}>   >{u}{ʍ}{i}>{e}nen>a      <neg><s_11pl><o_pl>
+:{k}{e}>   >{u}{ʍ}{i}>{e}nen        <neg><s_12pl><o_sg>
+:{k}{e}>   >{u}{ʍ}{i}>{e}nen>a      <neg><s_12pl><o_pl>
+:{k}{e}>   >{u}{ʍ}{i}>{e}n>eyo      <neg><s_2pl>
+:{w}{e}>   >{u}{ʍ}{i}>{e}n>eyo      <neg><s_3pl>
 
 
 LEXICON VerbInflTICnj(2)  # Conjunct
 
-:>{½}>a           <p1><sg>
-:>{½}>an          <p2><sg>
-:>{³}>{K}         <p3><sg>      # FIXME: penam>{½}>ank → penank
-:>{½}>enkw        <p1><incl><pl>
-:>{½}>ankw        <p1><excl><pl>
-:>{½}>ekw         <p2><pl>
-:>{³}>{ì}htit     <p3><pl>   # {i}:i after m
+:>{½}>a           <s_1sg>
+:>{½}>an          <s_2sg>
+:>{³}>{K}         <s_3sg>      # FIXME: penam>{½}>ank → penank
+:>{½}>enkw        <s_11pl>
+:>{½}>ankw        <s_12pl>
+:>{½}>ekw         <s_2pl>
+:>{³}>{ì}htit     <s_3pl>   # {i}:i after m
 
 LEXICON VerbInflTISubj(2)  # Subjunctive
 
-:>{½}>a{n}>e      <p1><sg>
-:>{½}>an>e        <p2><sg>
-:>{³}>{K}>e       <p3><sg>      # FIXME: penam>{½}>ank → penank
-:>{½}>enkw>e      <p1><incl><pl>
-:>{½}>ankw>e      <p1><excl><pl>
-:>{½}>ekw>e       <p2><pl>
-:>{³}>{ì}htit>e   <p3><pl>   # {i}:i after m
+:>{½}>a{n}>e      <s_1sg>
+:>{½}>an>e        <s_2sg>
+:>{³}>{K}>e       <s_3sg>      # FIXME: penam>{½}>ank → penank
+:>{½}>enkw>e      <s_11pl>
+:>{½}>ankw>e      <s_12pl>
+:>{½}>ekw>e       <s_2pl>
+:>{³}>{ì}htit>e   <s_3pl>   # {i}:i after m
 
-:>{½}>a{n}>pàn>e      <pst><p1><sg>
-:>{½}>ant>pàn>e       <pst><p2><sg>
-:>{³}>{K}>pàn>e       <pst><p3><sg>      # FIXME: penam>{½}>ank → penank
-:>{½}>enkw>pàn>e      <pst><p1><incl><pl>
-:>{½}>ankw>pàn>e      <pst><p1><excl><pl>
-:>{½}>ekw>pàn>e       <pst><p2><pl>
-:>{³}>{ì}htit>pàn>e   <pst><p3><pl>   # {i}:i after m
+:>{½}>a{n}>pàn>e      <pst><s_1sg>
+:>{½}>ant>pàn>e       <pst><s_2sg>
+:>{³}>{K}>pàn>e       <pst><s_3sg>      # FIXME: penam>{½}>ank → penank
+:>{½}>enkw>pàn>e      <pst><s_11pl>
+:>{½}>ankw>pàn>e      <pst><s_12pl>
+:>{½}>ekw>pàn>e       <pst><s_2pl>
+:>{³}>{ì}htit>pàn>e   <pst><s_3pl>   # {i}:i after m
 
 LEXICON VerbInflTA(3)
 
-:{N}{e}>   >a               <dir><p1><sg><o_sg>      # -dir-3  -a-w
-:{N}{e}>   >a>o>k           <dir><p1><sg><o_pl>
-:{k}{e}>   >a               <dir><p2><sg><o_sg>
-:{k}{e}>   >a>o>k           <dir><p2><sg><o_pl>
-:{w}{e}>   >a>o             <dir><p3><sg><o_sg>
-:{w}{e}>   >a>o             <dir><p3><sg><o_pl>           # Dir/LR
-:{w}{e}>   >a>o>k           <dir><p3><sg><o_pl>
-:{N}{e}>   >a>w>ëna         <dir><p1><excl><pl><o_sg>
-:{N}{e}>   >a>w>na          <dir><p1><excl><pl><o_sg>     # Dir/LR
-#:{N}{e}>   >a>o>hëna        <dir><p1><excl><pl><o_sg>     # Dir/LR  cf. nëmàxkaohëna (??)
-:{N}{e}>   >a>w>ënanàk      <dir><p1><excl><pl><o_pl>
-:{k}{e}>   >a>w>ena         <dir><p1><incl><pl><o_sg>
-:{k}{e}>   >a>w>na          <dir><p1><incl><pl><o_sg>     # Dir/LR
-:{k}{e}>   >a>w>ënanàk      <dir><p1><incl><pl><o_pl>
-:{k}{e}>   >a>w>a           <dir><p2><pl><o_sg>
-:{k}{e}>   >a>w>aok         <dir><p2><pl><o_pl>          # Dir/LR CHECK: was >a>w>a
-:{k}{e}>   >a>w>aok         <dir><p2><pl><o_pl>          # CHECK
-:{w}{e}>   >a>w>oo          <dir><p3><pl>
-:{w}{e}>   >a>w>ao          <dir><p3><pl>                # Dir/LR
+:{N}{e}>   >a               <dir><s_1sg><o_3sg>      # -dir-3  -a-w
+:{N}{e}>   >a>o>k           <dir><s_1sg><o_3pl>
+:{k}{e}>   >a               <dir><s_2sg><o_3sg>
+:{k}{e}>   >a>o>k           <dir><s_2sg><o_3pl>
+:{w}{e}>   >a>o             <dir><s_3sg><o_3sg>
+:{w}{e}>   >a>o             <dir><s_3sg><o_3pl>           # Dir/LR
+:{w}{e}>   >a>o>k           <dir><s_3sg><o_3pl>
+:{N}{e}>   >a>w>ëna         <dir><s_11pl><o_3sg>
+:{N}{e}>   >a>w>na          <dir><s_11pl><o_3sg>          # Dir/LR
+#:{N}{e}>   >a>o>hëna        <dir><s_11pl><o_3sg>     # Dir/LR  cf. nëmàxkaohëna (??)
+:{N}{e}>   >a>w>ënanàk      <dir><s_11pl><o_3pl>
+:{k}{e}>   >a>w>ena         <dir><s_12pl><o_3sg>
+:{k}{e}>   >a>w>na          <dir><s_12pl><o_3sg>         # Dir/LR
+:{k}{e}>   >a>w>ënanàk      <dir><s_12pl><o_3pl>
+:{k}{e}>   >a>w>a           <dir><s_2pl><o_3sg>
+:{k}{e}>   >a>w>aok         <dir><s_2pl><o_3pl>          # Dir/LR CHECK: was >a>w>a
+:{k}{e}>   >a>w>aok         <dir><s_2pl><o_3pl>          # CHECK
+:{w}{e}>   >a>w>oo          <dir><s_3pl>
+:{w}{e}>   >a>w>ao          <dir><s_3pl>                # Dir/LR
 
 
-:{N}{e}>   >ùk>w            <inv><p1><sg><s_sg>
-:{N}{e}>   >ùk              <inv><p1><sg><s_sg>    # Dir/LR
-:{N}{e}>   >{ù}kùk>w        <inv><p1><sg><s_pl>    # -ëk-w-àk -inv-3-pl.anim
-:{N}{e}>   >{ù}kùk          <inv><p1><sg><s_pl>    # Dir/LR
-:{k}{e}>   >ùk>w            <inv><p2><sg><s_sg>
-:{k}{e}>   >ùk              <inv><p2><sg><s_sg>    # Dir/LR
-:{k}{e}>   >{ù}kùk>w        <inv><p2><sg><s_pl>
-:{k}{e}>   >{ù}kùk          <inv><p2><sg><s_pl>    # Dir/LR
-:{w}{e}>   >ku              <inv><p3><sg><s_sg>
-:{w}{e}>   >ku              <inv><p3><sg><s_pl>    # CHECK: extra -k?
-:{N}{e}>   >ku>na           <inv><p1><excl><pl><s_sg>
-:{N}{e}>   >ku>nanàk        <inv><p1><excl><pl><s_pl>
-:{k}{e}>   >ku>na           <inv><p1><incl><pl><s_sg>
-:{k}{e}>   >ku>nanàk        <inv><p1><incl><pl><s_pl>
-:{k}{e}>   >ku>w>a          <inv><p2><pl><s_sg>
-:{k}{e}>   >ku>w>a>ok       <inv><p2><pl><s_pl>
-:{w}{e}>   >ku>w>oo         <inv><p3><pl>
+:{N}{e}>   >ùk>w            <inv><o_1sg><s_sg>
+:{N}{e}>   >ùk              <inv><o_1sg><s_sg>    # Dir/LR
+:{N}{e}>   >{ù}kùk>w        <inv><o_1sg><s_pl>    # -ëk-w-àk -inv-3-pl.anim
+:{N}{e}>   >{ù}kùk          <inv><o_1sg><s_pl>    # Dir/LR
+:{k}{e}>   >ùk>w            <inv><o_2sg><s_sg>
+:{k}{e}>   >ùk              <inv><o_2sg><s_sg>    # Dir/LR
+:{k}{e}>   >{ù}kùk>w        <inv><o_2sg><s_pl>
+:{k}{e}>   >{ù}kùk          <inv><o_2sg><s_pl>    # Dir/LR
+:{w}{e}>   >ku              <inv><o_3sg><s_sg>
+:{w}{e}>   >ku              <inv><o_3sg><s_pl>    # CHECK: extra -k?
+:{N}{e}>   >ku>na           <inv><o_11pl><s_sg>
+:{N}{e}>   >ku>nanàk        <inv><o_11pl><s_pl>
+:{k}{e}>   >ku>na           <inv><o_12pl><s_sg>
+:{k}{e}>   >ku>nanàk        <inv><o_12pl><s_pl>
+:{k}{e}>   >ku>w>a          <inv><o_2pl><s_sg>
+:{k}{e}>   >ku>w>a>ok       <inv><o_2pl><s_pl>
+:{w}{e}>   >ku>w>oo         <inv><o_3pl>
 
-:{k}{e}>   >el              <p1><sg><o_p2><o_sg>
-:{k}{e}>   >el>humo         <p1><sg><o_p2><o_pl>
-:{k}{e}>   >i               <p2><sg><o_p1><o_sg>
-:{k}{e}>   >i>hëna          <p2><o_p1><o_pl>
-:{k}{e}>   >el>uhëna        <p1><pl><o_p2><o_sg>
-:{k}{e}>   >el>humëna       <p1><pl><o_p2><o_pl>
-:{k}{e}>   >i>hëmo          <p2><pl><o_p1><o_sg>
+:{k}{e}>   >el              <dir><s_1sg><o_2sg>
+:{k}{e}>   >el>humo         <dir><s_1sg><o_2pl>
+:{k}{e}>   >i               <dir><s_2sg><o_1sg>
+:{k}{e}>   >i>hëna          <dir><s_2sg><o_1pl>
+:{k}{e}>   >el>uhëna        <dir><s_1pl><o_2sg>
+:{k}{e}>   >el>humëna       <dir><s_1pl><o_2pl>
+:{k}{e}>   >i>hëmo          <dir><s_2pl><o_1sg>
 
-:{N}{e}>   >an              <cnj><dir><p1><sg><o_sg>      # -dir-inan a-ne
-:{k}{e}>   >aneyo           <cnj><dir><p2><pl><o_sp>
-:{k}{e}>   >aneyo           <cnj><dir><p2><pl><o_sp>
-:{w}{e}>   >{e}n            <subord><dir><p3><sg><o_sg>   #
+:{N}{e}>   >an              <cnj><dir><s_1sg><o_3sg>      # -dir-inan a-ne
+:{k}{e}>   >aneyo           <cnj><dir><s_2pl><o_3sp>
+:{k}{e}>   >aneyo           <cnj><dir><s_2pl><o_3sp>
+:{w}{e}>   >{e}n            <subord><dir><s_3sg><o_3sg>   #
 
 
 LEXICON VerbInflTASub(3)   # Subordinative
 
 # FIXME: need object specification
-:{N}{e}>   >an     <p1><sg>
-:{k}{e}>   >an     <p2><sg>
-:{w}{e}{³}>   >an     <p3><sg>
-:{N}{e}>   >anen   <p1><excl><pl>
-:{k}{e}>   >anen   <p1><incl><pl>
-:{k}{e}>   >aneyo  <p2><pl>
-:{w}{e}{³}>   >aneyo  <p3><pl>
+:{N}{e}>   >an     <s_1sg>
+:{k}{e}>   >an     <s_2sg>
+:{w}{e}{³}>   >an     <s_3sg>
+:{N}{e}>   >anen   <s_1excl><pl>
+:{k}{e}>   >anen   <s_1incl><pl>
+:{k}{e}>   >aneyo  <s_2pl>
+:{w}{e}{³}>   >aneyo  <s_3pl>
 
 
 
@@ -591,7 +591,7 @@ kentk:kentk{Æ}          <iv><aa> # "dance"
 lashim:{t}{e}lashim{w}{IU} <iv><aa> # "dream"   # w
 
 # Lesson 4
-katup:katup{w}{IU}      <iv><aa> # "be hungry"
+katupw:katup{w}{IU}     <iv><aa> # "be hungry"
 tite:{l}ite{h}e         <iv><aa> # "think"
 mits:mits{IU}           <iv><aa> # "eat; dine"
 mëne:mëne               <iv><aa> # "drink"
@@ -599,7 +599,7 @@ katusëm:katusëm{w}{IU}  <iv><aa> # "be thirsty"   # w
 
 # Lesson 5
 
-ahp:ahp                 <iv><aa>
+ahp:ahp{IU}             <iv><aa> # "exist"
 hate:hate               <iv><aa>
 katusamwi:katusamw{IU}  <iv><aa>
 
