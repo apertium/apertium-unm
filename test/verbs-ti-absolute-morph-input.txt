@@ -1,3 +1,12 @@
+### Indefinite object forms
+mpënam        # look at 1sg
+këpënam       # look at 2sg
+pënam         # look at 3sg
+mpënamuhëna   # look at 1p
+kpënamuhëna   # look at 12
+kpënamuhëmo   # look at 2p
+pënamùk       # look at 3p
+
 mpenam        # look at 1sg
 kepenam       # look at 2sg
 penam         # look at 3sg
@@ -5,6 +14,15 @@ mpenamuhena   # look at 1p
 kpenamuhena   # look at 12
 kpenamuhemo   # look at 2p
 penamuk       # look at 3p
+
+
+nëmëshënëm        # gët 1sg
+këmëshënëm        # gët 2sg
+mëshënëm          # gët 3sg
+nëmëshënëmhumëna  # gët 1p
+këmëshënëmhumëna  # gët 12
+këmëshënëmhumo    # gët 2p
+mëshënëmùk        # gët 3p
 
 nemeshenem        # get 1sg
 kemeshenem        # get 2sg
@@ -14,6 +32,15 @@ kemeshenemhumena  # get 12
 kemeshenemhumo    # get 2p
 meshenemuk        # get 3p
 
+
+mpetu         # bring 1sg
+kpetu         # bring 2sg
+petu          # bring 3sg
+mpetuhëna     # bring 1p
+kpetuhëna     # bring 12
+kpetuhëmo     # bring 2p
+petuwàk       # bring 3p
+
 mpetu         # bring 1sg
 kpetu         # bring 2sg
 petu          # bring 3sg
@@ -21,6 +48,17 @@ mpetuhena     # bring 1p
 kpetuhena     # bring 12
 kpetuhemo     # bring 2p
 petuwak       # bring 3p
+
+
+nem           # see 1sg
+nnem          # see 1sg
+kënem         # see 2sg
+nem           # see 3sg
+nemhumëna     # see 1p
+nnemhumëna    # see 1p
+kënemhumëna   # see 12
+kënemhumo     # sëë 2p
+nëmùk         # sëë 3p
 
 nem           # see 1sg
 nnem          # see 1sg
@@ -32,6 +70,16 @@ kenemhumena   # see 12
 kenemhumo     # see 2p
 nemuk         # see 3p
 
+
+nëmichi       # ëat 1sg 
+këmichi       # ëat 2sg
+michu         # ëat 3sg
+nëmichihëna   # ëat 1p
+këmichihëna   # ëat 12
+këmichihëmo   # ëat 2p
+michëwàk      # eat 3p
+michuwàk      # eat 3p
+
 nemichi       # eat 1sg 
 kemichi       # eat 2sg
 michu         # eat 3sg
@@ -39,3 +87,46 @@ nemichihena   # eat 1p
 kemichihena   # eat 12
 kemichihemo   # eat 2p
 michewak      # eat 3p
+michuwak      # eat 3p
+
+
+### Singular object forms
+mpënamën
+kpënamën
+pwënamën
+mpënamënën
+kpënamënën
+kpënamëneyo
+pwënamëneyo
+
+nëmëshënëmën
+këmëshënëmën
+mëshënëmën
+nëmëshënëmënën
+këmëshënëmënën
+këmëshënëmëneyo
+mëshënëmëneyo
+
+mpetun
+kpetun
+pwetun
+mpetunën
+kpetunën
+kpetuneyo
+pwetuneyo
+
+nemën
+kënemën
+wënemën
+nemënën
+kënemënën
+kënemëneyo
+wënemëneyo
+
+nëmichin
+këmichin
+mwichin
+nëmichinën
+këmichinën
+këmichineyo
+mwichineyo
