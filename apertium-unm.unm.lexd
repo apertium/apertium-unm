@@ -4,6 +4,53 @@
 # <n>      # Noun
 # <v>      # Verb
 # <adj>    # Adjective
+# <num>    # Numeral
+# <cnjcoo> # coordinating conjunction
+# <cnjsub> # subordinating conjunction
+# <det>    # determiner
+# <np>     # proper noun
+# <mod>    # "modal word" (discourse particles)
+# <pr>     # preposition
+# <prn>    # pronoun
+# <adv>    # adverb
+
+# verb subcategories
+# <tv>     # transitive
+# <iv>     # intransitive
+
+# proper noun subcategories
+# <ant>    # anthroponym (personal name)
+# <cog>    # cogonem (family name)
+# <top>    # toponym (place name)
+
+# pronoun subcategories
+# <pers>   # personal
+# <itg>    # interrogative
+
+# Verb grammatical tags
+# - subject person
+# <s_1sg>
+# <s_2sg>
+# <s_3sg>
+# <s_11pl>
+# <s_12pl>
+# <s_2pl>
+# <s_3pl>
+# - object person
+# <o_1sg>
+# <o_2sg>
+# <o_3sg>
+# <o_11pl>
+# <o_12pl>
+# <o_2pl>
+# <o_3pl>
+# - tense
+# <past>    # Past
+# <subord>  # Subordinative
+# <cnj>     # Conjunct
+# <sbj>     # Subjunctive
+# - other
+# <neg>     # Negative
 
 # <sent>   # Sentence-ending punctuation
 # <guio>   # Hyphen
@@ -22,6 +69,21 @@
 # Animacy
 # <aa>  # Animate
 # <nn>  # Inanimate
+
+# Noun grammatical tags
+## possession
+# <px1sg>	
+# <px2sg>
+# <px3sg>
+# <px11pl>
+# <px12pl>
+# <px2pl>
+# <px3pl>
+#
+## case
+# <abs>   # Absentative
+# <obv>   # Obviative
+# <loc>   # Locative
 
 # Other symbols
 # >      # Morpheme boundary
