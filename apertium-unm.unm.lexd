@@ -3,6 +3,7 @@
 # Part of speech categories
 # <n>      # Noun
 # <v>      # Verb
+# <vaux>   # Preverb ("verbal auxiliary")
 # <adj>    # Adjective
 # <num>    # Numeral
 # <cnjcoo> # coordinating conjunction
@@ -10,6 +11,7 @@
 # <det>    # determiner
 # <np>     # proper noun
 # <mod>    # "modal word" (discourse particles)
+# <qst>    # polar question particle
 # <pr>     # preposition
 # <prn>    # pronoun
 # <adv>    # adverb
