@@ -345,6 +345,15 @@ LEXICON VerbInflAISubj(2)  # Subjunctive
 
 LEXICON VerbInflTI(3)
 
+# bare (indefinite object)
+:{N}{e}>   :>{½}                <s_1sg>:
+:{k}{e}>   :>{½}                <s_2sg>:
+:          :>{₃}                <s_3sg>:
+:{N}{e}>   :>{½}>{ù}h{u}{m}ëna  <s_11pl>:
+:{k}{e}>   :>{½}>{ù}h{u}{m}ëna  <s_12pl>:
+:{k}{e}>   :>{½}>{ù}h{Ë}mo      <s_2pl>:
+:          :>{₃}>{y}{A}k        <s_3pl>:
+
 :{N}{e}>   >{e}n          <s_1sg><o_sg>
 :{N}{e}>   >{e}n>a        <s_1sg><o_pl>
 :{k}{e}>   >{e}n          <s_2sg><o_sg>
@@ -355,12 +364,16 @@ LEXICON VerbInflTI(3)
 :{N}{e}>   >{e}nen>a      <s_11pl><o_pl>
 :{k}{e}>   >{e}nen        <s_12pl><o_sg>
 :{k}{e}>   >{e}nen>a      <s_12pl><o_pl>
-:{k}{e}>   >{e}n>eyo      <s_2pl>
-:{w}{e}>   >{e}n>eyo      <s_3pl>
+:{k}{e}>   >{e}n>eyo      <s_2pl><o_sg>
+:{k}{e}>   >{e}n>eyo      <s_2pl><o_pl>
+:{w}{e}>   >{e}n>eyo      <s_3pl><o_sg>
+:{w}{e}>   >{e}n>eyo      <s_3pl><o_pl>
 #:{k}{e}>   >en>eyo        <s_2pl><o_sg>
 #:{k}{e}>   >en>eyo        <s_2pl><o_pl>
 #:{w}       >en>eyo        <s_3pl><o_sg>
 #:{w}       >en>eyo        <s_3pl><o_pl>
+
+
 
 :{N}{e}>   >{u}{ʍ}{i}>{e}n          <neg><s_1sg><o_sg>
 :{N}{e}>   >{u}{ʍ}{i}>{e}n>a        <neg><s_1sg><o_pl>
@@ -829,6 +842,7 @@ michi:m{_w}ich{IU}      <tv><nn> # "eat it"
 pètu:p{_w}ètu           <tv><nn> # "put it"
 mëshënëm:m{_w}ëshënëm   <tv><nn> # "get it"
 màxkàm:màxkàm           <tv><nn> # "find it"
+wiàmxkhàmën:wiàmxkhàmën <tv><nn> # "stir it"
 
 
 

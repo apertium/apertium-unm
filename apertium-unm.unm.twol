@@ -2,6 +2,7 @@ Alphabet
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z À È Ë Ì Ò Ù
  a b c d e f g h i j k l m n o p q r s t u v w x y z à è ë ì ò ù
  %{e%}:0 %{e%}:ë
+ %{Ë%}:ë %{Ë%}:u  ! hëmo/humo
  %{u%}:0 %{u%}:u
  %{ù%}:0 %{ù%}:ù
  %{y%}:0 %{y%}:y %{y%}:w
@@ -9,6 +10,7 @@ Alphabet
  %{k%}:k %{k%}:0
  %{N%}:n %{N%}:m %{N%}:0
  %{n%}:n %{n%}:0
+ %{m%}:m %{m%}:0
  %{t%}:t %{t%}:0
  %{TH%}:t %{TH%}:h
  %{IU%}:i %{IU%}:u
@@ -159,7 +161,8 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{ù}:ù only after l, m, n"
 %{ù%}:ù <=> [ :l | :m | :n ] [ :0 - %{ù%}: ]* _ ;
-
+        except
+          [ [ :e | :ë ] :m ] [ :0 - %{ù%}: ]* _ ;  ! nemhumëna, nëmëshënëmhumëna
 
 
 "{ʍ}:w only after {u}:u"
@@ -176,6 +179,13 @@ a:o <=> %{Y%}: %>: _ ;
 
 "{i} as a i after {IU} or i-final verb"
 %{i%}:i <=> [ %{IU%}: | i: ] %>: [ %{½%}: | %{³%}: ] %>: %{u%}: %{ʍ%}: _ ;
+
+"{m} as m only after ëm/em"  ! nemhumëna, mpetuhëna
+%{m%}:m <=> [ :ë | :e ] :m %>: h %{u%}: _ ;
+
+"{Ë} as u only when there's an m since the previous vowel"  ! (otherwise ë)
+%{Ë%}:u <=> :m [ :Cons* ]/:0* _ ;
+! këmëshënëmhumo, kënemhumo but kpënamùhëmo, kpetuhëmo
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
