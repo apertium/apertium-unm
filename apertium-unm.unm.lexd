@@ -707,8 +707,8 @@ winewe:winewe           <iv><aa> # "beg/ask"
 # 
 kenthw:kenthw{IU}       <iv><aa> # "fly"
 pus:pus{IU}             <iv><aa> # "get into a boat"
-shielintam:shielintam   <iv><aa> # "be sad"
-welelintam:{W}{e}lelìntàm <iv><aa> # "be glad"   ! FIXME
+shielìntàm:shielìntàm   <iv><aa> # "be sad"
+welelìntàm:{W}{e}lelìntàm <iv><aa> # "be glad"   ! FIXME
 
 # Lesson 10
 

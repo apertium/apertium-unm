@@ -100,6 +100,7 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 %{IU%}:Vx <=> _ [ :0 - Pers: ]* Px: ;
           except
               :u %{w%}: _ [ :0 - %{y%}: ]* %{y%}: ;
+              _ %>: %{³%}: %>: %{u%}: %{ʍ%}: %{i%}: ;
           where
               Vx in (   i     i     u   )
               Px in ( %{½%} %{₃%} %{³%} )
@@ -107,6 +108,9 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{IU} deletes if between u{w} and {y}"
 %{IU%}:0 <=> :u %{w%}: _ [ :0 - %{y%}: ]* %{y%}: ;
+
+"{IU} as i in 3rd person negative"
+%{IU%}:i => _ %>: %{³%}: %>: %{u%}: %{ʍ%}: %{i%}: ;
 
 "{Æ} as a in p1 and p2, e in p3"
 %{Æ%}:Vx <=> _ [ :0 - [ Pers: ] ]* Px: ;
