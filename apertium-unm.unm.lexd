@@ -242,7 +242,7 @@ kìshi<vaux>+:kìshi\     # "finish"
 LEXICON NounInfl-Anim
 
 <n><aa><sg>:
-<n><aa><sg><loc>:>{i}nk
+<n><aa><sg><loc>:>{I}nk
 <n><aa><sg><gen>:>i
 <n><aa><pl>:>{y}{A}k
 <n><aa><sp><obv>:>{y}{A}
@@ -251,7 +251,7 @@ LEXICON NounInfl-Anim
 LEXICON NounInfl-Inan
 
 <n><nn><sg>:
-<n><nn><sg><loc>:>{i}nk
+<n><nn><sg><loc>:>{I}nk
 <n><aa><sg><gen>:>i
 <n><nn><pl>:>{y}{A}
 
@@ -360,10 +360,10 @@ LEXICON VerbInflTI(3)
 :{k}{e}>   >{e}n>a        <s_2sg><o_pl>
 :{w}{e}>   >{e}n>a        <s_3sg><o_sg>
 :{w}{e}>   >{e}n>a        <s_3sg><o_pl>
-:{N}{e}>   >{e}nen        <s_11pl><o_sg>
-:{N}{e}>   >{e}nen>a      <s_11pl><o_pl>
-:{k}{e}>   >{e}nen        <s_12pl><o_sg>
-:{k}{e}>   >{e}nen>a      <s_12pl><o_pl>
+:{N}{e}>   >{e}nën        <s_11pl><o_sg>
+:{N}{e}>   >{e}nën>a      <s_11pl><o_pl>
+:{k}{e}>   >{e}nën        <s_12pl><o_sg>
+:{k}{e}>   >{e}nën>a      <s_12pl><o_pl>
 :{k}{e}>   >{e}n>eyo      <s_2pl><o_sg>
 :{k}{e}>   >{e}n>eyo      <s_2pl><o_pl>
 :{w}{e}>   >{e}n>eyo      <s_3pl><o_sg>
@@ -547,7 +547,7 @@ nehënaonkès:nehënaonkès # "horse"
 
 LEXICON NounRoot-Inan
 
-hempes:hemp{e}s         # "shirt, clothes" pl - hempsa
+hèmpës:hèmp{e}s         # "shirt, clothes" pl - hempsa
 ahkwiyàn:ahkwiyàn       # "blanket"
 chipakw:chipakw         # "shoe" pl - chipako
 shope:shope             # "shore" pl - shopeyo
@@ -578,13 +578,16 @@ wil:wil                 # "head"
 hopikon:hopikon         # "shoulder"
 hwitaok:hwitaok         # "ear"
 tun:tun                 # "mouth"
-wikiyon:wikiyon         # "nose"
+wìkiyon:wìkiyon         # "nose"
 naolk:naolk             # "arm"
 naxk:naxk               # "hand"
 hwikat:hwikat           # "leg"
 wsit:wsit               # "foot"
 mehemichink:mehemichink # "food"
-shakukwiyan:shakukwiyan # "coat"
+shakhùkwiyàn:shakùkwiyàn # "coat"  Conversations version  # Dir/LR
+shakhùkwiyàn:shakùkwiàn # "coat"                 # Dir/LR
+shakhùkwiyàn:shakhùkwiyàn # "coat"  compromise version?
+shakhùkwiyàn:shakhùkwiàn # "coat"  LTD version   # Dir/LR
 lenhaksen:lenhaksen     # "moccasin"
 mayakhwikan:mayakhwikan # "rake"
 hòkès:hòkès             # "bark; box"
@@ -659,7 +662,7 @@ wikwihel:wikwihel{Æ}		<iv><aa>	# "be tired"
 kes:kes{IU}					<iv><aa>	# "be hot"
 akohch:{t}akohch{IU}		<iv><aa>	# "be cold"
 alëmsk:{t}alëmsk{Æ}		<iv><aa>	# "leave/go away"
-machi:mach{I}				<iv><aa>	# "go home"
+machi:machi 				<iv><aa>	# "go home"
 
 # Lesson 3
 asu:{t}asu{w}{IU}       <iv><aa> # "sing"
@@ -843,6 +846,7 @@ pètu:p{_w}ètu           <tv><nn> # "put it"
 mëshënëm:m{_w}ëshënëm   <tv><nn> # "get it"
 màxkàm:màxkàm           <tv><nn> # "find it"
 wiàmxkhàmën:wiàmxkhàmën <tv><nn> # "stir it"
+këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
 
 
 
@@ -882,6 +886,7 @@ mhuw:muhw               <tv><aa> # "eat" Dir/LR
 wètën:wètën             <tv><aa> # "pick up"
 
 penkòkho:penkòkho       <tv><aa> # "rub, dry"
+pèsxama:pèsxama         <tv><aa> # "pass"
 
 
 LEXICON AdjLex

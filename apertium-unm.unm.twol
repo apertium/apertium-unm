@@ -6,7 +6,7 @@ Alphabet
  %{u%}:0 %{u%}:u
  %{ù%}:0 %{ù%}:ù
  %{y%}:0 %{y%}:y %{y%}:w
- %{A%}:à %{A%}:ò %{A%}:ù %{A%}:o
+ %{A%}:a %{A%}:ò %{A%}:ù %{A%}:o
  %{k%}:k %{k%}:0
  %{N%}:n %{N%}:m %{N%}:0
  %{n%}:n %{n%}:0
@@ -20,7 +20,7 @@ Alphabet
  %{%_w%}:w %{%_w%}:0  ! space holder for metathesised 3rd person w
  %{W%}:w %{W%}:u
  %{Y%}:w %{Y%}:y
- %{I%}:i
+ %{I%}:i %{I%}:0 ! locative
  %{ì%}:0 %{ì%}:ì
  %{i%}:0 %{i%}:i
  %{K%}:k %{K%}:t
@@ -162,6 +162,7 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{u}:u only after l, m, n"
 %{u%}:u <=> [ :l | :m | :n ] [ :0 - %{u%}: ]* _ ;
+            [ [ :e | :ë ] :m ] :0* :h _ %{m%}: ;  ! nemhumëna, nëmëshënëmhumëna
 
 "{ù}:ù only after l, m, n"
 %{ù%}:ù <=> [ :l | :m | :n ] [ :0 - %{ù%}: ]* _ ;
@@ -185,11 +186,14 @@ a:o <=> %{Y%}: %>: _ ;
 %{i%}:i <=> [ %{IU%}: | i: ] %>: [ %{½%}: | %{³%}: ] %>: %{u%}: %{ʍ%}: _ ;
 
 "{m} as m only after ëm/em"  ! nemhumëna, mpetuhëna
-%{m%}:m <=> [ :ë | :e ] :m %>: h %{u%}: _ ;
+%{m%}:m <=> [ :ë | :e ] :m :0* h %{u%}: _ ;
 
 "{Ë} as u only when there's an m since the previous vowel"  ! (otherwise ë)
 %{Ë%}:u <=> :m [ :Cons* ]/:0* _ ;
 ! këmëshënëmhumo, kënemhumo but kpënamùhëmo, kpetuhëmo
+
+"{I} deletes after a vowel"
+%{I%}:0 <=> :Vows :0* _ ;
 
 ! Resources:
 ! https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
