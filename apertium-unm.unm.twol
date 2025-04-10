@@ -172,6 +172,7 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 
 "{ʍ}:w only after {u}:u"
 %{ʍ%}:w <=> %{u%}:u _ ;
+            :u %>: %{u%}: _ ;
 
 "{K} as k only after n"
 %{K%}:k <=> :n :0* _ ;
