@@ -170,9 +170,9 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
           [ [ :e | :ë ] :m ] [ :0 - %{ù%}: ]* _ ;  ! nemhumëna, nëmëshënëmhumëna
 
 
-"{ʍ}:w only after {u}:u"
-%{ʍ%}:w <=> %{u%}:u _ ;
-            :u %>: %{u%}: _ ;
+"{ʍ}:w only after {u}:u and before a vowel"
+%{ʍ%}:w <=> %{u%}:u _ :0* :Vows ;
+            :u %>: %{u%}: _ [ :0 - %{e%}: ]* [ :Vows | %{e%}: ] ;
 
 "{K} as k only after n"
 %{K%}:k <=> :n :0* _ ;
