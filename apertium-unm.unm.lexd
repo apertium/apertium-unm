@@ -628,6 +628,7 @@ hàki:hàki               # "dirt; ground; earth; land"
 mpi:mpi                 # "water"
 kshitay:kshitay         # "soup"
 kshitay:shitay          # "soup"  Dir/LR
+kaxeya:kaxeya           # "dried pumpkin" (PL: kaxeyaya)
 
 
 LEXICON NounRoot-Family(2)
@@ -793,6 +794,9 @@ nutike:nutike           <iv><aa> # "stay home"
 alënixsi:{t}alënixsi    <iv><aa> # "speak Lënape"
 luwènsi:{t}{e}luwèns{IU}  <iv><aa> # "be called"
 ëpchèhëla:{t}ëpchèhëla  <iv><aa> # "roll"
+kònshiphuwe:kònshiphuwe <iv><aa> # "hide"
+kiwsëwinakwsi:kiwsëwinakwsi <iv><aa> # "look drunk"  # kiwsuwi-nakwsi
+palaihòsi:palaihòs{IU}  <iv><aa> # "make a mistake"
 
 
 LEXICON VerbRootTI(2)
