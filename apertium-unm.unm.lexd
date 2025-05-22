@@ -544,6 +544,8 @@ mimëns:mimëns           # "child"
 mimëntët:mimëntët       # "baby"   FIXME: <dim>
 sakima:sakima           # "chief"
 nehënaonkès:nehënaonkès # "horse"
+kawiya:kawiya           # "porcupine" CHECK anim?
+shëwanàkw:shëwanàkw     # "white person"
 
 LEXICON NounRoot-Inan
 
@@ -619,7 +621,7 @@ aptunakàn:aptunakàn     # "word"
 mësakw:mësakw           # "log"
 wiyus:wiyus             # "meat"
 mhuwe:mhuwe             # "The Cannibal"
-mhuwe:hmuwe             # "The Cannibal"
+mhuwe:hmuwe             # "The Cannibal"  Dir/LR
 pëmi:pëmi               # "grease, fat, lard"
 phake:phake             # "piece"  CHECK inam
 phake:phakee            # "piece"  CHECK inam  Dir/LR
@@ -629,6 +631,8 @@ mpi:mpi                 # "water"
 kshitay:kshitay         # "soup"
 kshitay:shitay          # "soup"  Dir/LR
 kaxeya:kaxeya           # "dried pumpkin" (PL: kaxeyaya)
+xàskwim:xàskwim         # "corn"
+lehëlexeokàn:lehëlexeokàn  # "life"
 
 
 LEXICON NounRoot-Family(2)
@@ -797,6 +801,13 @@ luwènsi:{t}{e}luwèns{IU}  <iv><aa> # "be called"
 kònshiphuwe:kònshiphuwe <iv><aa> # "hide"
 kiwsëwinakwsi:kiwsëwinakwsi <iv><aa> # "look drunk"  # kiwsuwi-nakwsi
 palaihòsi:palaihòs{IU}  <iv><aa> # "make a mistake"
+pakalënchi:pakalënch{IU}  <iv><aa> # "clap (hands)"
+òkèksëne:òkèksëne       <iv><aa> # "be sockless"
+nima:nima               <iv><aa> # "bring lunch"
+nipai:nip{a}{IU}        <iv><aa> # "stand; stand up"  nipay/nipai | nipu | conjunct nipaia, nipait
+lehëlexe:lehëlexe       <iv><aa> # "be alive"
+chpixsu:chpixs{IU}      <iv><aa> # "talk different (inconsistently)"
+ntahkënsi:ntahkëns{IU}  <iv><aa> # "read"  # CHECK: {IU} or i
 
 
 LEXICON VerbRootTI(2)
@@ -891,38 +902,40 @@ wètën:wètën             <tv><aa> # "pick up"
 
 penkòkho:penkòkho       <tv><aa> # "rub, dry"
 pèsxama:pèsxama         <tv><aa> # "pass"
+naxkum:naxkum           <tv><aa> # "answer" 1>2 kënaxkumël
 
 
 LEXICON AdjLex
 
-sëk:sëk                # be black     seksu|seksuwak (an) / seke|sekeyo (inan)
-wisaw:wisaw            # be yellow    wisawsu|wisawsuwak / wisae|wisaeyo
-òp:òp                  # be white     opsu|opsuwak / ope~opek|opeyoá
-àskàskw:àskàskw        # be green
-aon:aon                # be blue      aonsu / aone
-wipunkw:wipunkw        # be grey
-màxk:màxk              # be red
-likt:likt              # be a/its colour  liksu / likte
-siskwinakw:siskwinakw  # be brown
-wipunkw:wipunkw        # be grey
-mamal:mamal            # be striped
-sësàp:sësàp            # be spotted
-wël:wël                # be pretty    wëlesu
+sëk:sëk                # "be black"     seksu|seksuwak (an) / seke|sekeyo (inan)
+wisaw:wisaw            # "be yellow"    wisawsu|wisawsuwak / wisae|wisaeyo
+òp:òp                  # "be white"     opsu|opsuwak / ope~opek|opeyoá
+àskàskw:àskàskw        # "be green"
+aon:aon                # "be blue"      aonsu / aone
+wipunkw:wipunkw        # "be grey"
+màxk:màxk              # "be red"
+likt:likt              # "be a colour; be its colour"  liksu / likte
+siskwinakw:siskwinakw  # "be brown"
+wipunkw:wipunkw        # "be grey"
+mamal:mamal            # "be striped"
+sësàp:sësàp            # "be spotted"
+wël:wël                # "be pretty"    wëlesu
 # FIXME: add shiki somehow?
 
-ahpu:ahpu              # be baked
-salà:salà              # be fried
-kah:kah                # be dry
+ahpu:ahpu              # "be baked"
+salà:salà              # "be fried"
+kah:kah                # "be dry"
 
-pahs:pahs              # be half ?
-pisk:pisk              # be dark
-nisk:nisk              # be dirty
+pahs:pahs              # "be half" ?
+pisk:pisk              # "be dark"
+nisk:nisk              # "be dirty"
+chpi:chpi              # "be different; be strange"
 
 LEXICON AdjLex-Cooking
 
-salà:salà              # be fried
-wën:wën                # be boiled
-lu:lu                  # be burned
+salà:salà              # "be fried"
+wën:wën                # "be boiled"
+lu:lu                  # "be burned"
 
 
 LEXICON Determiners(2)
