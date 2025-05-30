@@ -645,16 +645,16 @@ wënspi:wënspi           # "juice"
 LEXICON NounRoot-Family(2)
 
 # Vocative          Possessive stem
-ana:ana             kahes:kahes         # "mother"
-nuxa:nuxa           ux:ux               # "father"
-nkwis:nkwis         kwis:kwis           # "son"
-nichan:nichan       ichan:ichan         # "daughter"
-uma:uma             uhem:uhem           # "grandmother"
-mëxumsa:mëxumsa     mëxumes:mëxumes     # "grandfather"
-xatash:xatash       mis:m{_w}is         # "older sister"
-xansa:xansa         xans:xans           # "older brother"
-naxisëmës:naxisëmës xisëmës:x{_w}isëmës # "younger sister/brother/cousin"
-naxisëmës:naxisëmës xisëmës:x{_w}ësëmës # "younger sister/brother/cousin" ! Dir/LR
+kahes:ana           kahes:kahes         # "mother"
+ux:nuxa             ux:ux               # "father"
+kwis:nkwis          kwis:kwis           # "son"
+ichan:nichan        ichan:ichan         # "daughter"
+uehm:uma            uhem:uhem           # "grandmother"
+mëxumes:mëxumsa     mëxumes:mëxumes     # "grandfather"
+mis:xatash          mis:m{_w}is         # "older sister"
+xans:xansa          xans:xans           # "older brother"
+xisëmës:naxisëmës   xisëmës:x{_w}isëmës # "younger sister/brother/cousin"
+xisëmës:naxisëmës   xisëmës:x{_w}ësëmës # "younger sister/brother/cousin" ! Dir/LR
 itis:itis           itis:itis           # "friend"
 
 LEXICON VerbRootAI(2)
