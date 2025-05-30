@@ -21,7 +21,7 @@ taglist = {
 	"AdjLex": (["v", "iv", "nn"], ["vblex"]),
 	"AdjLex-Cooking": (["v", "iv", "nn"], ["vblex"]),
 	"Determiners(2)": (["det"], ["det"]),  # get subcat from second column
-	"Pronouns(2)": (["prn"], ["prn"]),
+	"Pronouns(2)": (["prn"], ["prn"]), # get subcats from second column
 	"AdvLex": (["adv"], ["adv"]),
 	"CnjLex(2)": (),  # get cat from second column
 	"Misc": (),
@@ -29,6 +29,9 @@ taglist = {
 	"NumberLex": (["num"], ["num"]),
 	"IjLex": (["ij"], ["ij"]),
 }
+
+# tags from 2nd column
+extraTags = ["Determiners(2)", "Pronouns(2)", "CnjLex(2)"]
 
 with open(os.path.join("../", "apertium-"+lang1+"."+lang1+".lexd"), 'r') as lexd:
 	tags = None
