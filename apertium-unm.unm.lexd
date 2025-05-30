@@ -546,6 +546,8 @@ sakima:sakima           # "chief"
 nehënaonkès:nehënaonkès # "horse"
 kawiya:kawiya           # "porcupine" CHECK anim?
 shëwanàkw:shëwanàkw     # "white person"
+kèhkitënikèt:kèhkitënikèt  # "doctor"
+welathakèt:welathakèt   # "doctor"
 
 LEXICON NounRoot-Inan
 
@@ -633,6 +635,11 @@ kshitay:shitay          # "soup"  Dir/LR
 kaxeya:kaxeya           # "dried pumpkin" (PL: kaxeyaya)
 xàskwim:xàskwim         # "corn"
 lehëlexeokàn:lehëlexeokàn  # "life"
+lamamenxke:lamamenxke   # "yard (around a house)"
+shaèim:shaèim           # "nut; fruit (from a tree)" CHECK: INAN
+mpiapu:mpiapu           # "juice"  CHECK:INAN
+suti:suti               # "soda; baking soda"
+wënspi:wënspi           # "juice"
 
 
 LEXICON NounRoot-Family(2)
@@ -808,6 +815,7 @@ nipai:nip{a}{IU}        <iv><aa> # "stand; stand up"  nipay/nipai | nipu | conju
 lehëlexe:lehëlexe       <iv><aa> # "be alive"
 chpixsu:chpixs{IU}      <iv><aa> # "talk different (inconsistently)"
 ntahkënsi:ntahkëns{IU}  <iv><aa> # "read"  # CHECK: {IU} or i
+piyuntàm:piyuntàm       <iv><aa> # "eat leftovers"
 
 
 LEXICON VerbRootTI(2)
@@ -862,6 +870,7 @@ mëshënëm:m{_w}ëshënëm   <tv><nn> # "get it"
 màxkàm:màxkàm           <tv><nn> # "find it"
 wiàmxkhàmën:wiàmxkhàmën <tv><nn> # "stir it"
 këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
+nihëlatàmën:nihëlatàmën <tv><nn> # "own it"
 
 
 
@@ -902,7 +911,7 @@ wètën:wètën             <tv><aa> # "pick up"
 
 penkòkho:penkòkho       <tv><aa> # "rub, dry"
 pèsxama:pèsxama         <tv><aa> # "pass"
-naxkum:naxkum           <tv><aa> # "answer" 1>2 kënaxkumël
+naxkum:n{A}xkum         <tv><aa> # "answer" 1>2 kënaxkumël
 
 
 LEXICON AdjLex
@@ -1056,6 +1065,8 @@ alàshi:alàshi     # "somewhat; like; as" [окшойт]
 pëna:pëna         # "even"
 kwënayki:kwënayki # "finally"
 kwënayki:kwenaeke # "finally"  ! Dir/LR
+
+alëwi:alëwi       # "more; most"
 
 LEXICON CnjLex(2)
 
