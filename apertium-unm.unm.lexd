@@ -220,8 +220,8 @@ PreverbSub-Lex
 
 LEXICON PreverbSub-Lex
 
-teli<cnjsub>+:teli\     # so that
-tili<cnjsub>+:tili\     # when, that, so that, as
+teli<cnjsub>+:teli\     # "so that"
+tili<cnjsub>+:tili\     # "when, that, so that, as"
 
 PATTERN Preverbs
 
@@ -230,12 +230,12 @@ Preverb-Lex ([hëch<qst>+:hàch\ ])? # Dir/LR
 
 LEXICON Preverb-Lex
 
-kati<vaux>+:kati\       # "almost do"
-kata<vaux>+:kata\       # "want to do"       FIXME: p3 is kota/kahta
+kati<vaux>+:kati\       # "almost (do)"
+kata<vaux>+:kata\       # "want to (do)"       FIXME: p3 is kota/kahta
 shinki<vaux>+:shinki\   # "dislike/hate to"
 alemi<vaux>+:{t}{_w}alemi\  # "begin"
-tala<vaux>+:{t}ala\     # "cannot"
-kàski<vaux>+:kàski\     # "can"
+tala<vaux>+:{t}ala\     # "cannot, be unable to"
+kàski<vaux>+:kàski\     # "can, be able to"
 kìshi<vaux>+:kìshi\     # "finish"
 
 
