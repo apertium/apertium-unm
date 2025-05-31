@@ -85,7 +85,7 @@ Files and data
 * [`apertium-unm.post-unm.dix`](apertium-unm.post-unm.dix) - Post-generator
 * [`unm.prob`](unm.prob) - Tagger model
 * [`apertium-unm.unm.spellrelax`](apertium-unm.unm.spellrelax) - Typographical variance rules
-* [`modes.xml`](modes.xml) - Translation modes
+* [`modes.xml`](modes.xml) - Usage modes
 
 For more information
 -------------------------------------------------------------------------------
