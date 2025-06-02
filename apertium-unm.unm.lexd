@@ -950,23 +950,23 @@ lu:lu                  # "be burned"
 
 LEXICON Determiners(2)
 
-në:në	          <dem><dist><nn><sg>
+në:në	          <dem><dist><nn><sg>   # "that (inan); the"
 në:nëni         <dem><dist><nn><sg>   # Dir/LR
-na:na           <dem><dist><aa><sg>
+na:na           <dem><dist><aa><sg>   # "that (anim); the"
 na:nana         <dem><dist><aa><sg>   # Dir/LR
 na:nali         <dem><dist><aa><sg>   # Dir/LR
-nèl:nèl         <dem><dist><nn><pl>
-nèl:nèli        <dem><dist><nn><pl>
-nèk:nèk         <dem><dist><aa><pl>
+nèl:nèl         <dem><dist><nn><pl>   # "that" #"those (inan)"
+nèl:nèli        <dem><dist><nn><pl>   # Dir/LR
+nèk:nèk         <dem><dist><aa><pl>   # "that" #"those (anim)"
 nèk:nèki        <dem><dist><aa><pl>   # Dir/LR
 nèk:nèkik       <dem><dist><aa><pl>   # Dir/LR
 yu:yu           <dem><prox><nn><sg>   # "this (inan)"
 yu:yushe        <dem><prox><nn><sg>+she<adv>   # "this here (inan)"
 yu:yusheli      <dem><prox><nn><sg>+she<adv>   # "this here (inan)"  # Dir/LR
 wa:wa           <dem><prox><aa><sg>   # "this (anim)"
-yuli:yuli       <dem><prox><nn><pl>   # "these (inam)"
-yuki:yuki       <dem><prox><aa><pl>   # "these (anim)
-yuki:yuk        <dem><prox><aa><pl>   # "these (anim)
+yuli:yuli       <dem><prox><nn><pl>   # "this" #"these (inam)"
+yuki:yuki       <dem><prox><aa><pl>   # "this" #"these (anim)
+yuki:yuk        <dem><prox><aa><pl>   # "this" #"these (anim)
 yuki:yukishe    <dem><prox><aa><pl>+she<adv> # "these here (anim)"
 
 nèl:nèl			 <dem><dist><obv><sp>  # sg/pl obviative (only animate?)
@@ -984,28 +984,28 @@ xeli:xèli       <qnt>   # "many"  Dir/LR CHECK
 
 LEXICON Pronouns(2)
 
-nën:nën         <dem><dist><nn><sg>
-nën:nanëni      <dem><dist><nn><sg>
-nàn:nàn         <dem><dist><aa><sg>
+nën:nën         <dem><dist><nn><sg>     # "that"
+nën:nanëni      <dem><dist><nn><sg>     # Dir/LR
+nàn:nàn         <dem><dist><aa><sg>     # "that"
 nàn:nànë        <dem><dist><aa><sg>     # Dir/LR
 nàn:nàni        <dem><dist><aa><sg>     # "that one" Dir/LR
-yu:yu           <dem><prox><nn><sg>
+yu:yu           <dem><prox><nn><sg>     # "this"
 yu:yun          <dem><prox><nn><sg>     # Dir/LR
 yu:yuni         <dem><prox><nn><sg>     # Dir/LR
-wa:wa           <dem><prox><aa><sg>
+wa:wa           <dem><prox><aa><sg>     # "this"
 wa:wan          <dem><prox><aa><sg>     # Dir/LR
 wa:wani         <dem><prox><aa><sg>     # "this one" Dir/LR
 
 awèn:awèn       <itg>                   # "who"
-awèn:awèni      <itg><gen>              # "who"
-awèn:awènik     <itg><pl>               # "who"
-awèn:awèniki    <itg><pl><gen>          # "who"
+awèn:awèni      <itg><gen>              # #"who" (GEN of above)
+awèn:awènik     <itg><pl>               # #"who" (PL of above)
+awèn:awèniki    <itg><pl><gen>          # #"who" (GEN PL of above)
 
 kèku:kèku       <itg>                   # "what"
 #nëpe:nëpe                               # "me too"
 #këpe:këpe                               # "you too"
-nèpe:ni         <prn><pers><p1><sg><also>  # "me too"
-kèpe:ki         <prn><pers><p2><sg><also>  # "you too"
+nèpe:ni         <prn><pers><p1><sg><also>  # #"me too"
+kèpe:ki         <prn><pers><p2><sg><also>  # #"you too"
 
 LEXICON AdvLex
 

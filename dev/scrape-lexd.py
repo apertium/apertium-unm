@@ -5,8 +5,8 @@ import re
 
 lang1="unm"
 lang2="eng"
-reGloss = re.compile("\"(.*)\"")
-re2ndCol = re.compile("")
+reGloss = re.compile(r"\"(.*)\"")
+re2ndCol = re.compile(r".*?\s+(<.*>)")
 entryline = "<e><l>{}{}</l><r>{}{}</r></e>"
 tagtemplate = "<s n=\"{}\"/>"
 
@@ -63,13 +63,17 @@ with open(os.path.join("../", "apertium-"+lang1+"."+lang1+".lexd"), 'r') as lexd
 						lang1lemma = uncommentedline.split(':')[0]
 						lang1lemma = lang1lemma.replace("\\ ", "<b/>")
 						if len(line)>1:
-							if lexname in extraTags:
-								re2ndCol.search(line[0])
+							if lexname in extraTags and " " in line[0]:
+								#print(line[0])
+								tagblock = re2ndCol.search(line[0]).group(1)
+								for tag in tagblock.split("><"):
+									lang1tags += tagtemplate.format(tag.strip("<>"))
+									lang2tags += tagtemplate.format(tag.strip("<>"))
 							result = reGloss.search(line[1].strip())
 							if result:
 								lang2lemmas = result.group(1)
 								for lemma in re.split("[,;]", lang2lemmas):
-									lemma = re.sub("\(.*?\)", "", lemma)
+									lemma = re.sub(r"\(.*?\)", "", lemma)
 									lemma = lemma.strip(' !')
 									lang2lemma = lemma.replace(" ", "<b/>")
 									outline = entryline.format(lang1lemma, lang1tags, lang2lemma, lang2tags)
