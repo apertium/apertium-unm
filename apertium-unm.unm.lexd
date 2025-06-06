@@ -548,6 +548,7 @@ kawiya:kawiya           # "porcupine" CHECK anim?
 shëwanàkw:shëwanàkw     # "white person"
 kèhkitënikèt:kèhkitënikèt  # "doctor"
 welathakèt:welathakèt   # "doctor"
+tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
 
 LEXICON NounRoot-Inan
 
@@ -597,7 +598,6 @@ mayakhwikan:mayakhwikan # "rake"
 hòkès:hòkès             # "bark; box"
 mënëpekw:mënëpekw       # "lake"
 mùxul:mùxul             # "canoe, boat"
-tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
 ahchu:ahchu{h}{w}       # "hill, (mountain)"
 paent:paent             # "cup"
 chipàkw:chipàkw         # "shoe"
@@ -816,6 +816,9 @@ lehëlexe:lehëlexe       <iv><aa> # "be alive"
 chpixsu:chpixs{IU}      <iv><aa> # "talk different (inconsistently)"
 ntahkënsi:ntahkëns{IU}  <iv><aa> # "read"  # CHECK: {IU} or i
 piyuntàm:piyuntàm       <iv><aa> # "eat leftovers"
+alëmskuse:{t}alëmskuse  <iv><aa> # "drive"
+pëmëtunhe:pëmëtunhe     <iv><aa> # "speak well"
+tënte-tëpchehëlasʼhama:tënte-tëpchehëlasʼhama  <iv><aa> # "travel by train"
 
 
 LEXICON VerbRootTI(2)
@@ -1068,6 +1071,7 @@ kwënayki:kwënayki # "finally"
 kwënayki:kwenaeke # "finally"  ! Dir/LR
 
 alëwi:alëwi       # "more; most"
+nishën:nishën     # "twice"
 
 LEXICON CnjLex(2)
 
