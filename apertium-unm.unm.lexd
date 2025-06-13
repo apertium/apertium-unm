@@ -549,6 +549,9 @@ shëwanàkw:shëwanàkw     # "white person"
 kèhkitënikèt:kèhkitënikèt  # "doctor"
 welathakèt:welathakèt   # "doctor"
 tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
+kèhkëlixikèt:kèhkëlixikèt  # "seamstress"
+mèxèlkatèlis:mèxèlkatèlis  # "water strider"
+èhës:èh{e}s             # "clam"
 
 LEXICON NounRoot-Inan
 
@@ -819,6 +822,14 @@ piyuntàm:piyuntàm       <iv><aa> # "eat leftovers"
 alëmskuse:{t}alëmskuse  <iv><aa> # "drive"
 pëmëtunhe:pëmëtunhe     <iv><aa> # "speak well"
 tënte-tëpchehëlasʼhama:tënte-tëpchehëlasʼhama  <iv><aa> # "travel by train"
+sëkàpsi:sëkàpsi         <iv><aa> # "be wet" # CHECK: {IU} or i?
+chìpilësi:chìpilës{IU}  <iv><aa> # "have supernatural powers"
+nisktëlinkwe:nisktëlinkwe  <iv><aa> # "have a dirty face"
+wiàkskashimw:wiàkskashim{w}{IU}  <iv><aa> # "dream a mixed-up dream"
+mètxika:mètxika         <iv><aa> # "be late"
+ayëhelunkòm:{t}ayëhelunkòm <iv><aa> # "sleep late"
+manunksi:manunks{IU}    <iv><aa> # "be mad; be angry"
+manunkihële:manunkihële <iv><aa> # "get angry quickly"  # CHECK {Æ} or e
 
 
 LEXICON VerbRootTI(2)
@@ -874,6 +885,7 @@ màxkàm:màxkàm           <tv><nn> # "find it"
 wiàmxkhàmën:wiàmxkhàmën <tv><nn> # "stir it"
 këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
 nihëlatàmën:nihëlatàmën <tv><nn> # "own it"
+wànin:wànin             <tv><nn> # "forget it"
 
 
 
@@ -916,6 +928,9 @@ penkòkho:penkòkho       <tv><aa> # "rub, dry"
 pèsxama:pèsxama         <tv><aa> # "pass"
 naxkum:n{A}xkum         <tv><aa> # "answer" 1>2 kënaxkumël
 winkal:winkal           <tv><aa> # "like"
+chëchëphw:chëchëphw     <tv><aa> # "strike repeatedly" # chëchëpho
+manunksit:manunksit     <tv><aa> # "be mad at; be angry with"
+ònkum:ònkum             <tv><aa> # "show respect; honour; esteem; invoke blessing; greet; shake hands with" (see Speck)
 
 
 LEXICON AdjLex
@@ -943,6 +958,8 @@ pahs:pahs              # "be half" ?
 pisk:pisk              # "be dark"
 nisk:nisk              # "be dirty"
 chpi:chpi              # "be different; be strange"
+
+òsëlehël:òsëlehël      # "be iridescent, be shimmering"
 
 LEXICON AdjLex-Cooking
 
@@ -1072,6 +1089,7 @@ kwënayki:kwenaeke # "finally"  ! Dir/LR
 
 alëwi:alëwi       # "more; most"
 nishën:nishën     # "twice"
+tpukwe:tpukwe     # "last night"
 
 LEXICON CnjLex(2)
 
@@ -1121,6 +1139,7 @@ wichi:wichi     # "with"
 hapi:hapi       # "with"
 naxpi:naxpi     # "with"
 wénchi:wénchi
+alàshi:alàshi   # "like; as"
 
 LEXICON NumberLex
 
