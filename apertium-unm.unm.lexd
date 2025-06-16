@@ -847,44 +847,44 @@ alënëm:alënëm           <tv><nn> # "touch it"
 # Lesson 5
 
 nem:nem                 <tv><nn> # "see it"
-penam:p{_w}enam         <tv><nn> # "look at it"
-wixenin:wixenin         <tv><nn> # "cook it"
-katatam:k{A}tatam       <tv><nn> # "want it"
-katutam:katutam         <tv><nn> # "want to eat it"
-shinkatam:shinkatam     <tv><nn> # "hate it"
+pënam:p{_w}ënam         <tv><nn> # "look at it"
+wixeni:wixeni           <tv><nn> # "cook it"
+katatàm:k{A}tatàm       <tv><nn> # "want it"
+katutàm:katutàm         <tv><nn> # "want to eat it"
+shinkatàm:shinkatàm     <tv><nn> # "hate it"
 ulhatu:ulhatu           <tv><nn> # "have it"
 
 # FIXME: lots of verbs go here
 
 # Lesson 10
-watun:watun             <tv><nn> # "know/know about it"
-lamhitam:lamhitam       <tv><nn> # "believe it"
-tatun:tatun             <tv><nn> # "put/place it"
+watu:watu               <tv><nn> # "know/know about it"
+lamhìtàm:lamhìtàm       <tv><nn> # "believe it"
+tatu:tatu               <tv><nn> # "put/place it"
 
 # Lesson 20
 
-meshatam:m{_w}eshatam   <tv><nn> # "remember it"
+meshatàm:m{_w}ëshatàm   <tv><nn> # "remember it"
 
 # Lesson 21
 
-kelixham:kelixham       <tv><nn> # "sew it"
-kelixham:kelixam        <tv><nn> # "sew it"  # Dir/LR
+këlixham:këlixham       <tv><nn> # "sew it"
+këlixham:këlixam        <tv><nn> # "sew it"  # Dir/LR
 
 
 # MISC
 
 nakatàm:n{_w}akatàm     <tv><nn> # "use it"
-pëmëxòhtun:pëmëxòhtun   <tv><nn> # "carry it on"
-ànkhìtun:ànkhìtun       <tv><nn> # "lose it"
+pëmëxòhtu:pëmëxòhtu     <tv><nn> # "carry it on"
+ànkhìtu:ànkhìtu         <tv><nn> # "lose it"
 këchkënëm:k{_w}ëchkënëm <tv><nn> # "detach it"
 luwen:{t}{e}luwe        <tv><nn> # "say it"
 michi:m{_w}ich{IU}      <tv><nn> # "eat it"
 pètu:p{_w}ètu           <tv><nn> # "bring it; wait for it"
 mëshënëm:m{_w}ëshënëm   <tv><nn> # "get it"
-wiàmxkhàmën:wiàmxkhàmën <tv><nn> # "stir it"
+wiàmxkhàm:wiàmxkhàm     <tv><nn> # "stir it"
 këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
-nihëlatàmën:nihëlatàmën <tv><nn> # "own it"
-wànin:wànin             <tv><nn> # "forget it"
+nihëlatàm:nihëlatàm     <tv><nn> # "own it"
+wàni:wàni               <tv><nn> # "forget it"
 
 
 
