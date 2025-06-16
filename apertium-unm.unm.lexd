@@ -834,12 +834,12 @@ manunkihële:manunkihële <iv><aa> # "get angry quickly"  # CHECK {Æ} or e
 
 LEXICON VerbRootTI(2)
 
-tankhitu:t{A}nkhitu     <tv><nn> # "lose"
-maxkam:m{A}xkam         <tv><nn> # "find"
-kaxksem:k{A}xksem       <tv><nn> # "dry"
+tankhitu:t{A}nkhitu     <tv><nn> # "lose it"
+màxkàm:m{A}xkàm         <tv><nn> # "find it"
+kaxksem:k{A}xksem       <tv><nn> # "dry it"
 
-kwetkenem:kwetkenem     <tv><nn> # "return it"
-kelenem:k{_w}elenem      <tv><nn> # "carry it; hold it"
+kwëtkënëm:kwëtkënëm     <tv><nn> # "return it"
+këlënëm:k{_w}ëlënëm     <tv><nn> # "carry it; hold it"
 
 alënëm:alënëm           <tv><nn> # "touch it"
 
@@ -879,9 +879,8 @@ pëmëxòhtun:pëmëxòhtun   <tv><nn> # "carry it on"
 këchkënëm:k{_w}ëchkënëm <tv><nn> # "detach it"
 luwen:{t}{e}luwe        <tv><nn> # "say it"
 michi:m{_w}ich{IU}      <tv><nn> # "eat it"
-pètu:p{_w}ètu           <tv><nn> # "put it"
+pètu:p{_w}ètu           <tv><nn> # "bring it; wait for it"
 mëshënëm:m{_w}ëshënëm   <tv><nn> # "get it"
-màxkàm:màxkàm           <tv><nn> # "find it"
 wiàmxkhàmën:wiàmxkhàmën <tv><nn> # "stir it"
 këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
 nihëlatàmën:nihëlatàmën <tv><nn> # "own it"
