@@ -205,7 +205,8 @@ LEXICON AdjMorph
 <nn><pred><pl>:>e>{y}{A}
 
 <aa><attr><sg>:>sit
-<aa><attr><pl>:>sit>chik
+<aa><attr><pl>:>sitch>ik # Dir/LR
+<aa><attr><pl>:>sich>ik
 
 <nn><attr><sg>:>e
 <nn><attr><sg>:>ek        # Dir/LR  FIXME: conjunct!
@@ -552,13 +553,16 @@ tënte-tëpchehëlas:tënte-tëpchehëlas # "train" (CHECK - inan)
 kèhkëlixikèt:kèhkëlixikèt  # "seamstress"
 mèxèlkatèlis:mèxèlkatèlis  # "water strider"
 èhës:èh{e}s             # "clam"
+xkuk:xkuk               # "snake"
+mikwën:mikwën           # "feather"
 
 LEXICON NounRoot-Inan
 
 hèmpës:hèmp{e}s         # "shirt, clothes" pl - hempsa
 ahkwiyàn:ahkwiyàn       # "blanket"
 chipakw:chipakw         # "shoe" pl - chipako
-shope:shope             # "shore" pl - shopeyo
+shohpe:shope            # "shore" pl - shopeyo  Dir/LR
+shohpe:shohpe           # "shore"
 milàxk:milàxk           # "human hair"
 mixekën:mixekën         # "body hair, fur"
 mamon:mamon             # "eyebrow"
@@ -643,6 +647,8 @@ shaèim:shaèim           # "nut; fruit (from a tree)" CHECK: INAN
 mpiapu:mpiapu           # "juice"  CHECK:INAN
 suti:suti               # "soda; baking soda"
 wënspi:wënspi           # "juice"
+mënànchi:mënànchi       # "left; left-hand side"
+ahsën:ahsën             # "rock; stone"
 
 
 LEXICON NounRoot-Family(2)
@@ -831,6 +837,11 @@ ayëhelunkòm:{t}ayëhelunkòm <iv><aa> # "sleep late"
 manunksi:manunks{IU}    <iv><aa> # "be mad; be angry"
 manunkihële:manunkihële <iv><aa> # "get angry quickly"  # CHECK {Æ} or e
 chipaxkwinalìti:chipaxkwinalìt{IU}  <iv><aa> # "play the moccasin game"
+mëshake:mëshake         <iv><aa> # "sit (on the ground)"  # CHECK {Æ} or e
+kwëchkwi:kwëchkwi       <iv><aa> # "move; budge"
+tkauxwe:tkauxwe         <iv><aa> # "walk slowly"
+
+
 
 LEXICON VerbRootTI(2)
 
@@ -885,6 +896,7 @@ wiàmxkhàm:wiàmxkhàm     <tv><nn> # "stir it"
 këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
 nihëlatàm:nihëlatàm     <tv><nn> # "own it"
 wàni:wàni               <tv><nn> # "forget it"
+kahpàtu:kahpàtu         <tv><nn> # "pull it out of the water"
 
 
 
@@ -959,6 +971,10 @@ nisk:nisk              # "be dirty"
 chpi:chpi              # "be different; be strange"
 
 òsëlehël:òsëlehël      # "be iridescent, be shimmering"
+
+# Figure out what to do with:
+# - mahtapàn - be bad weather
+# - sukëlan - rain
 
 LEXICON AdjLex-Cooking
 
@@ -1089,6 +1105,13 @@ kwënayki:kwenaeke # "finally"  ! Dir/LR
 alëwi:alëwi       # "more; most"
 nishën:nishën     # "twice"
 tpukwe:tpukwe     # "last night"
+chëweyunk:chëweyunk  # "up the hill"
+kwëni:kwëni       # "long; for a long time"
+nochi:nochi       # "since then"
+salàxki:salàxki   # "suddenly"
+làhpi:làhpi       # "quickly"
+matanake:matanake # "after a while"
+lahapa:lahapa     # "for a while"
 
 LEXICON CnjLex(2)
 
@@ -1139,6 +1162,8 @@ hapi:hapi       # "with"
 naxpi:naxpi     # "with"
 wénchi:wénchi
 alàshi:alàshi   # "like; as"
+nochi:nochi     # "for (time); since"
+èkwii:èkwii     # "under"
 
 LEXICON NumberLex
 
