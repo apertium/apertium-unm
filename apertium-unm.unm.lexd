@@ -273,7 +273,7 @@ LEXICON VerbInflAI(3)
 :{N}{e}>   :>{½}>hëna     <s_11pl>  # technically -hm-nan (MP-1.pl)
 :ni\ >     :>{½}>hëna     <s_11pl>  # Dir/LR
 :n'>       :>{½}>hëna     <s_11pl>  # Dir/LR
-:{n}{e}>   :>{½}>hënuk    <s_11pl><coll>
+:{N}{e}>   :>{½}>hënuk    <s_11pl><coll>
 :{k}{e}>   :>{½}>hëna     <s_12pl>
 :{k}{e}>   :>{½}>hënuk    <s_12pl><coll>
 # TODO: nëmitsahtihënuk (-ahti- "all")
@@ -682,7 +682,7 @@ pals:pals{IU}				<iv><aa>	# "be sick"
 wikwihel:wikwihel{Æ}		<iv><aa>	# "be tired"
 kes:kes{IU}					<iv><aa>	# "be hot"
 akohch:{t}akohch{IU}		<iv><aa>	# "be cold"
-alëmsk:{t}alëmsk{Æ}		<iv><aa>	# "leave/go away"
+alëmsk:{t}alëmsk{Æ}		<iv><aa>	# "leave, go away, depart, set out"
 machi:machi 				<iv><aa>	# "go home"
 
 # Lesson 3
@@ -971,6 +971,8 @@ nisk:nisk              # "be dirty"
 chpi:chpi              # "be different; be strange"
 
 òsëlehël:òsëlehël      # "be iridescent, be shimmering"
+
+ahw:ahw                # "be a thicket; be timber?"
 
 # Figure out what to do with:
 # - mahtapàn - be bad weather

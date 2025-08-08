@@ -158,8 +158,11 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 !%{e%}:0 <=> %{k%}: _ %>: w: ;
 !            %{N%}: _ %>: p: ;
 
-"{n} as n only after a- and a/e-final form"
-%{n%}:n <=> [ %{Æ%}: | a: ] %>: %{½%}: %>: a: _ ;
+!"{n} as n only after a- and a/e-final form"
+!%{n%}:n <=> [ %{Æ%}: | a: ] %>: %{½%}: %>: a: _ ;
+
+"{n} as n only before a vowel"
+%{n%}:n <=> _ %>: :Vows ; 
 
 "{u}:u only after l, m, n"
 %{u%}:u <=> [ :l | :m | :n ] [ :0 - %{u%}: ]* _ ;
