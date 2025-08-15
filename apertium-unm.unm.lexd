@@ -322,6 +322,16 @@ LEXICON VerbInflAICnj(2)  # Conjunct
 :>{½}>ekw    <s_2pl>
 :>{₃}>htit   <s_3pl>
 
+:>{½}>{u}w>a{n}   <neg><s_1sg>
+:>{½}>{u}w>an     <neg><s_2sg>
+:>{₃}>{u}>kw      <neg><s_3sg>
+:>{½}>{u}w>enk    <neg><s_11pl>
+:>{½}>{u}w>ankw   <neg><s_12pl>
+:>{½}>{u}w>ekw    <neg><s_2pl>
+:>{₃}>hëtikw      <neg><s_3pl>
+
+
+
 LEXICON VerbInflAISubj(2)  # Subjunctive
 
 :>{½}>a{n}>e   <s_1sg>
@@ -341,6 +351,15 @@ LEXICON VerbInflAISubj(2)  # Subjunctive
 :>{½}>ankw>pàn>e   <pst><s_12pl>
 :>{½}>ekw>pàn>e    <pst><s_2pl>
 :>{₃}>htit>pàn>e   <pst><s_3pl>
+
+:>{½}>{u}w>a{n}>e   <neg><s_1sg>
+:>{½}>{u}w>an>e     <neg><s_2sg>
+:>{₃}>{u}>kw>e      <neg><s_3sg>
+:>{½}>{u}w>enk>e    <neg><s_11pl>
+:>{½}>{u}w>ankw>e   <neg><s_12pl>
+:>{½}>{u}w>ekw>e    <neg><s_2pl>
+:>{₃}>hëtikw>e      <neg><s_3pl>
+
 
 #LEXICON VerbInflIntrImp(2)
 
@@ -555,6 +574,7 @@ mèxèlkatèlis:mèxèlkatèlis  # "water strider"
 èhës:èh{e}s             # "clam"
 xkuk:xkuk               # "snake"
 mikwën:mikwën           # "feather"
+xès:xès                 # "skin"
 
 LEXICON NounRoot-Inan
 
@@ -840,6 +860,7 @@ chipaxkwinalìti:chipaxkwinalìt{IU}  <iv><aa> # "play the moccasin game"
 mëshake:mëshake         <iv><aa> # "sit (on the ground)"  # CHECK {Æ} or e
 kwëchkwi:kwëchkwi       <iv><aa> # "move; budge"
 tkauxwe:tkauxwe         <iv><aa> # "walk slowly"
+këchaxkihela:këchaxkihel{Æ} <iv><aa> # "come off"
 
 
 
