@@ -575,6 +575,9 @@ mèxèlkatèlis:mèxèlkatèlis  # "water strider"
 xkuk:xkuk               # "snake"
 mikwën:mikwën           # "feather"
 xès:xès                 # "skin"
+pèhpichkwik:pèhpichkwik # "(wild) carrot" CHECK: diacritics
+òhtas:òhtas             # "doll"
+
 
 LEXICON NounRoot-Inan
 
@@ -669,6 +672,9 @@ suti:suti               # "soda; baking soda"
 wënspi:wënspi           # "juice"
 mënànchi:mënànchi       # "left; left-hand side"
 ahsën:ahsën             # "rock; stone"
+lakeokàn:lakeokàn       # "(tribal) rite; (tribal) ceremony"
+chëphìk:chëphìk         # "root; radish"
+tëmètos:tëmètos         # "tomato"
 
 
 LEXICON NounRoot-Family(2)
@@ -861,7 +867,8 @@ mëshake:mëshake         <iv><aa> # "sit (on the ground)"  # CHECK {Æ} or e
 kwëchkwi:kwëchkwi       <iv><aa> # "move; budge"
 tkauxwe:tkauxwe         <iv><aa> # "walk slowly"
 këchaxkihela:këchaxkihel{Æ} <iv><aa> # "come off"
-
+mùxulhama:mùxulhama     <iv><aa> # "go by canoe; go by boat"
+mùxulhe:mùxulhe         <iv><aa> # "make a canoe; make a boat"
 
 
 LEXICON VerbRootTI(2)
@@ -994,6 +1001,7 @@ chpi:chpi              # "be different; be strange"
 òsëlehël:òsëlehël      # "be iridescent, be shimmering"
 
 ahw:ahw                # "be a thicket; be timber?"
+làhpiku:làhpiku        # "grow fast"
 
 # Figure out what to do with:
 # - mahtapàn - be bad weather
@@ -1135,6 +1143,8 @@ salàxki:salàxki   # "suddenly"
 làhpi:làhpi       # "quickly"
 matanake:matanake # "after a while"
 lahapa:lahapa     # "for a while"
+ahsenike:ahsenike # "among the rocks" # FIXME: technically compositional
+
 
 LEXICON CnjLex(2)
 
