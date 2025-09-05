@@ -675,6 +675,7 @@ ahsën:ahsën             # "rock; stone"
 lakeokàn:lakeokàn       # "(tribal) rite; (tribal) ceremony"
 chëphìk:chëphìk         # "root; radish"
 tëmètos:tëmètos         # "tomato"
+òsʼhakame:òsʼhakame     # "heaven" CHECK: N-INAN
 
 
 LEXICON NounRoot-Family(2)
@@ -916,7 +917,7 @@ nakatàm:n{_w}akatàm     <tv><nn> # "use it"
 pëmëxòhtu:pëmëxòhtu     <tv><nn> # "carry it on"
 ànkhìtu:ànkhìtu         <tv><nn> # "lose it"
 këchkënëm:k{_w}ëchkënëm <tv><nn> # "detach it"
-luwen:{t}{e}luwe        <tv><nn> # "say it"
+luwe:{t}{e}luwe         <tv><nn> # "say it"
 michi:m{_w}ich{IU}      <tv><nn> # "eat it"
 pètu:p{_w}ètu           <tv><nn> # "bring it; wait for it"
 mëshënëm:m{_w}ëshënëm   <tv><nn> # "get it"
@@ -925,6 +926,7 @@ këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
 nihëlatàm:nihëlatàm     <tv><nn> # "own it"
 wàni:wàni               <tv><nn> # "forget it"
 kahpàtu:kahpàtu         <tv><nn> # "pull it out of the water"
+mëne:m{_w}ëne           <iv><nn> # "drink it"  # mwënèn
 
 
 
@@ -1187,6 +1189,8 @@ nëke<adv>+lòmëwe<adv>:nëkelòmëwe             # Dir/LR
 alàshi<adv>+a<mod>:alàshia                   # Dir/LR
 yu<dem><prox><nn><sg>+she<adv>+wèmi<det><qnt>:yushewèmi  # Dir/LR
 nali<det><dem><dist><aa><sg>+ta<mod>+yuki<det><dem><prox><aa><pl>+wa<det><dem><prox><aa><sg>+she<adv>:naltayukewashe         # Dir/LR
+nal<adv>+ch<mod>:nalch                       # "then" Dir/LR
+làpi<adv>+ch<mod>:làpich                     # "again" Dir/LR
 
 LEXICON Prepositions
 
