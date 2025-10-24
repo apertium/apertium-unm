@@ -494,15 +494,23 @@ LEXICON VerbInflTA(3)
 
 LEXICON VerbInflTASub(3)   # Subordinative
 
-# FIXME: need object specification
-:{N}{e}>   >an     <s_1sg>
-:{k}{e}>   >an     <s_2sg>
-:{w}{e}{³}>   >an     <s_3sg>
-:{N}{e}>   >anen   <s_1excl><pl>
-:{k}{e}>   >anen   <s_1incl><pl>
-:{k}{e}>   >aneyo  <s_2pl>
-:{w}{e}{³}>   >aneyo  <s_3pl>
+:{N}{e}>      >an           <dir><s_1sg><o_3sg>
+:{N}{e}>      >an>eyo       <dir><s_1sg><o_3pl>
+:{k}{e}>      >an           <dir><s_2sg><o_3sg>
+:{k}{e}>      >an>eyo       <dir><s_2sg><o_3pl>
+:{w}{e}{³}>   >an           <dir><s_3sg><o_3sg>
+:{w}{e}{³}>   >an>eyo       <dir><s_3sg><o_3pl>
+:{N}{e}>      >an>en        <dir><s_11><o_3sg>
+:{N}{e}>      >an>en>eyo    <dir><s_11><o_3pl>
+:{k}{e}>      >an>en        <dir><s_12><o_3sg>
+:{k}{e}>      >an>en>eyo    <dir><s_12><o_3pl>
+:{k}{e}>      >an>eyo       <dir><s_2pl><o_3sg>
+:{k}{e}>      >an>eyo       <dir><s_2pl><o_3pl>
+:{w}{e}{³}>   >an>eyo       <dir><s_3pl><o_3sg>
+:{w}{e}{³}>   >an>eyo       <dir><s_3pl><o_3pl>
 
+
+# FIXME: add inverse and local
 
 
 LEXICON N-Poss(3)
