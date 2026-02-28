@@ -16,13 +16,13 @@ kpenamuhemo   # look at 2p
 penamuk       # look at 3p
 
 
-nëmëshënëm        # gët 1sg
-këmëshënëm        # gët 2sg
-mëshënëm          # gët 3sg
-nëmëshënëmhumëna  # gët 1p
-këmëshënëmhumëna  # gët 12
-këmëshënëmhumo    # gët 2p
-mëshënëmùk        # gët 3p
+nëmëshënëm        # get 1sg
+këmëshënëm        # get 2sg
+mëshënëm          # get 3sg
+nëmëshënëmhumëna  # get 1p
+këmëshënëmhumëna  # get 12
+këmëshënëmhumo    # get 2p
+mëshënëmùk        # get 3p
 
 nemeshenem        # get 1sg
 kemeshenem        # get 2sg
@@ -57,8 +57,8 @@ nem           # see 3sg
 nemhumëna     # see 1p
 nnemhumëna    # see 1p
 kënemhumëna   # see 12
-kënemhumo     # sëë 2p
-nëmùk         # sëë 3p
+kënemhumo     # see 2p
+nëmùk         # see 3p
 
 nem           # see 1sg
 nnem          # see 1sg
@@ -71,12 +71,12 @@ kenemhumo     # see 2p
 nemuk         # see 3p
 
 
-nëmichi       # ëat 1sg 
-këmichi       # ëat 2sg
-michu         # ëat 3sg
-nëmichihëna   # ëat 1p
-këmichihëna   # ëat 12
-këmichihëmo   # ëat 2p
+nëmichi       # eat 1sg 
+këmichi       # eat 2sg
+michu         # eat 3sg
+nëmichihëna   # eat 1p
+këmichihëna   # eat 12
+këmichihëmo   # eat 2p
 michëwàk      # eat 3p
 michuwàk      # eat 3p
 
@@ -91,21 +91,21 @@ michuwak      # eat 3p
 
 
 ### Singular object forms
-mpënamën
-kpënamën
-pwënamën
-mpënamënën
-kpënamënën
-kpënamëneyo
-pwënamëneyo
+mpënamën         # look at 1sg→sg
+kpënamën         # look at 2sg→sg
+pwënamën         # look at 3sg→sg
+mpënamënën       # look at 11→sg
+kpënamënën       # look at 12→sg
+kpënamëneyo      # look at 2pl→sg
+pwënamëneyo      # look at 3pl→sg
 
-nëmëshënëmën
-këmëshënëmën
-mëshënëmën
-nëmëshënëmënën
-këmëshënëmënën
-këmëshënëmëneyo
-mëshënëmëneyo
+nëmëshënëmën     # get 1sg→sg
+këmëshënëmën     # get 2sg→sg
+mëshënëmën       # get 3sg→sg
+nëmëshënëmënën   # get 11→sg
+këmëshënëmënën   # get 12→sg
+këmëshënëmëneyo  # get 2pl→sg
+mëshënëmëneyo    # get 3pl→sg
 
 mpetun
 kpetun

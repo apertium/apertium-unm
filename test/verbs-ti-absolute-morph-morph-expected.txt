@@ -1,166 +1,166 @@
-[-ndI9K9F28M1#0] ^kemichi/*kemichi$
+[-ndI9K9F28M1#0] ^kemichi/michi<v><tv><nn><s_2sg>$
 [/-ndI9K9F28M1]
-[0Ug5Yjq09YFi#0] ^nemeshenem/*nemeshenem$
+[0Ug5Yjq09YFi#0] ^nemeshenem/mëshënëm<v><tv><nn><s_1sg>$
 [/0Ug5Yjq09YFi]
-[1AlUxM54e6Rt#0] ^mpetuhena/*mpetuhena$
+[1AlUxM54e6Rt#0] ^mpetuhena/pètu<v><tv><nn><s_11pl>$
 [/1AlUxM54e6Rt]
-[1An8HEa4tzXo#0] ^këmëshënëm/*këmëshënëm$
+[1An8HEa4tzXo#0] ^këmëshënëm/mëshënëm<v><tv><nn><s_2sg>$
 [/1An8HEa4tzXo]
 [2DZXX4Jm4QR1#0] ^michuwàk/*michuwàk$
 [/2DZXX4Jm4QR1]
 [2qhEDPn9jC1x#0] ^mëshënëmùk/*mëshënëmùk$
 [/2qhEDPn9jC1x]
-[3RPhRKqw0yZM#0] ^meshenem/*meshenem$
+[3RPhRKqw0yZM#0] ^meshenem/mëshënëm<v><tv><nn><s_3sg>$
 [/3RPhRKqw0yZM]
-[4sAZKZOQarQ0#0] ^kpetunën/*kpetunën$
+[4sAZKZOQarQ0#0] ^kpetunën/pètu<v><tv><nn><s_12pl><o_sg>$
 [/4sAZKZOQarQ0]
 [59PwpEN4oW-e#0] ^michu/*michu$
 [/59PwpEN4oW-e]
 [5YJPmPPllK4V#0] ^nnem/*nnem$
 [/5YJPmPPllK4V]
-[6Jl_fe8d4g-j#0] ^kpënamëneyo/*kpënamëneyo$
+[6Jl_fe8d4g-j#0] ^kpënamëneyo/pënam<v><tv><nn><s_2pl><o_pl>/pënam<v><tv><nn><s_2pl><o_sg>$
 [/6Jl_fe8d4g-j]
-[8PdtuTIwAtPx#0] ^nëmëshënëmhumëna/*nëmëshënëmhumëna$
+[8PdtuTIwAtPx#0] ^nëmëshënëmhumëna/mëshënëm<v><tv><nn><s_11pl>$
 [/8PdtuTIwAtPx]
-[8ZMDuGexdCp0#0] ^mpënamuhëna/*mpënamuhëna$
+[8ZMDuGexdCp0#0] ^mpënamuhëna/pënam<v><tv><nn><s_11pl>$
 [/8ZMDuGexdCp0]
-[8mnFZ8OrLrYQ#0] ^mëshënëm/*mëshënëm$
+[8mnFZ8OrLrYQ#0] ^mëshënëm/mëshënëm<v><tv><nn><s_3sg>$
 [/8mnFZ8OrLrYQ]
-[AemTJ8IhV814#0] ^këmëshënëmënën/*këmëshënëmënën$
+[AemTJ8IhV814#0] ^këmëshënëmënën/mëshënëm<v><tv><nn><s_12pl><o_sg>$
 [/AemTJ8IhV814]
-[B1ikGU63RXPe#0] ^mpënamën/*mpënamën$
+[B1ikGU63RXPe#0] ^mpënamën/pënam<v><tv><nn><s_1sg><o_sg>$
 [/B1ikGU63RXPe]
-[CT8nkH1HS3Gb#0] ^nëmichi/*nëmichi$
+[CT8nkH1HS3Gb#0] ^nëmichi/michi<v><tv><nn><s_1sg>$
 [/CT8nkH1HS3Gb]
 [D22XdifdPcfo#0] ^nnemhumëna/*nnemhumëna$
 [/D22XdifdPcfo]
-[DdGbhEJhDJkL#0] ^kemichihena/*kemichihena$
+[DdGbhEJhDJkL#0] ^kemichihena/michi<v><tv><nn><s_12pl>$
 [/DdGbhEJhDJkL]
 [E9qY-gbtfBfv#0] ^nemën/nem<v><tv><nn><s_1sg><o_sg>$
 [/E9qY-gbtfBfv]
 [EAF5n3VE2Ob3#0] ^pwënamën/*pwënamën$
 [/EAF5n3VE2Ob3]
-[EBMBwhGf2Rm7#0] ^kpetun/pètu<v><tv><nn><s_2sg><o_sg>/pètu<v><tv><nn><neg><s_2sg><o_sg>$
+[EBMBwhGf2Rm7#0] ^kpetun/pètu<v><tv><nn><s_2sg><o_sg>$
 [/EBMBwhGf2Rm7]
 [FDNXgS5wEOAz#0] ^nëmëshënëmën/mëshënëm<v><tv><nn><s_1sg><o_sg>$
 [/FDNXgS5wEOAz]
-[FFnYZBfCym-I#0] ^mpetuhëna/*mpetuhëna$
+[FFnYZBfCym-I#0] ^mpetuhëna/pètu<v><tv><nn><s_11pl>$
 [/FFnYZBfCym-I]
 [Fqm79A-lAaeD#0] ^këmichineyo/*këmichineyo$
 [/Fqm79A-lAaeD]
 [GK1ybPcpxQxm#0] ^kënemën/nem<v><tv><nn><s_2sg><o_sg>$
 [/GK1ybPcpxQxm]
-[GM4VzJ07qyh5#0] ^nem/*nem$
+[GM4VzJ07qyh5#0] ^nem/nem<v><tv><nn><s_3sg>/nem<v><tv><nn><s_1sg>$
 [/GM4VzJ07qyh5]
 [Gjh4KgcGLPFF#0] ^petuwàk/*petuwàk$
 [/Gjh4KgcGLPFF]
-[GqX0Yh5WdD9b#0] ^petuwak/*petuwak$
+[GqX0Yh5WdD9b#0] ^petuwak/pètu<v><tv><nn><s_3pl>$
 [/GqX0Yh5WdD9b]
 [IQeoHwPH03JD#0] ^mwichin/*mwichin$
 [/IQeoHwPH03JD]
-[JSPy7lXofHQ2#0] ^kpetuneyo/pètu<v><tv><nn><s_2pl>/pètu<v><tv><nn><neg><s_2pl>$
+[JSPy7lXofHQ2#0] ^kpetuneyo/pètu<v><tv><nn><s_2pl><o_pl>/pètu<v><tv><nn><s_2pl><o_sg>$
 [/JSPy7lXofHQ2]
 [K0XPgv_s03py#0] ^kepenam/*kepenam$
 [/K0XPgv_s03py]
-[L-1Vw0dHbKbf#0] ^pwetuneyo/pètu<v><tv><nn><s_3pl>/pètu<v><tv><nn><neg><s_3pl>$
+[L-1Vw0dHbKbf#0] ^pwetuneyo/pètu<v><tv><nn><s_3pl><o_pl>/pètu<v><tv><nn><s_3pl><o_sg>$
 [/L-1Vw0dHbKbf]
-[Lf4lrk0ppScv#0] ^kpetu/*kpetu$
+[Lf4lrk0ppScv#0] ^kpetu/pètu<v><tv><nn><s_2sg>$
 [/Lf4lrk0ppScv]
-[LqpdMFIIHbwD#0] ^wënemëneyo/nem<v><tv><nn><s_3pl>$
+[LqpdMFIIHbwD#0] ^wënemëneyo/nem<v><tv><nn><s_3pl><o_pl>/nem<v><tv><nn><s_3pl><o_sg>$
 [/LqpdMFIIHbwD]
-[MJyRuJiwGEP-#0] ^nemichihena/*nemichihena$
+[MJyRuJiwGEP-#0] ^nemichihena/michi<v><tv><nn><s_11pl>$
 [/MJyRuJiwGEP-]
 [NgzdDCoIbK-v#0] ^mwichineyo/*mwichineyo$
 [/NgzdDCoIbK-v]
-[NlzP7j4snAX6#0] ^kpenamuhemo/*kpenamuhemo$
+[NlzP7j4snAX6#0] ^kpenamuhemo/pënam<v><tv><nn><s_2pl>$
 [/NlzP7j4snAX6]
-[Nu8TmmwAIpsq#0] ^kpënamënën/*kpënamënën$
+[Nu8TmmwAIpsq#0] ^kpënamënën/pënam<v><tv><nn><s_12pl><o_sg>$
 [/Nu8TmmwAIpsq]
-[OOomINQDdEAU#0] ^kemeshenem/*kemeshenem$
+[OOomINQDdEAU#0] ^kemeshenem/mëshënëm<v><tv><nn><s_2sg>$
 [/OOomINQDdEAU]
-[Oqv-VjbNzdfk#0] ^mpenamuhena/*mpenamuhena$
+[Oqv-VjbNzdfk#0] ^mpenamuhena/pënam<v><tv><nn><s_11pl>$
 [/Oqv-VjbNzdfk]
-[P-PNWuAmbhY0#0] ^këmichihëna/*këmichihëna$
+[P-PNWuAmbhY0#0] ^këmichihëna/michi<v><tv><nn><s_12pl>$
 [/P-PNWuAmbhY0]
 [PETfSS0YpHnb#0] ^penamuk/*penamuk$
 [/PETfSS0YpHnb]
 [Pb8QJvEHMncs#0] ^nëmichin/*nëmichin$
 [/Pb8QJvEHMncs]
-[QevpiOCBRA2r#0] ^mpetu/*mpetu$
+[QevpiOCBRA2r#0] ^mpetu/pètu<v><tv><nn><s_1sg>$
 [/QevpiOCBRA2r]
-[Qp6VZSK8G0WX#0] ^petu/*petu$
+[Qp6VZSK8G0WX#0] ^petu/pètu<v><tv><nn><s_3sg>$
 [/Qp6VZSK8G0WX]
-[SHqI9NxreIPt#0] ^kpënamuhëna/*kpënamuhëna$
+[SHqI9NxreIPt#0] ^kpënamuhëna/pënam<v><tv><nn><s_12pl>$
 [/SHqI9NxreIPt]
-[TNTwDT4CE4Aq#0] ^nemichi/*nemichi$
+[TNTwDT4CE4Aq#0] ^nemichi/michi<v><tv><nn><s_1sg>$
 [/TNTwDT4CE4Aq]
-[TVpNpz_3sij4#0] ^mpetunën/*mpetunën$
+[TVpNpz_3sij4#0] ^mpetunën/pètu<v><tv><nn><s_11pl><o_sg>$
 [/TVpNpz_3sij4]
-[ULv5dn7TWIa5#0] ^nemeshenemhumena/*nemeshenemhumena$
+[ULv5dn7TWIa5#0] ^nemeshenemhumena/mëshënëm<v><tv><nn><s_11pl>$
 [/ULv5dn7TWIa5]
-[UqUcmublK534#0] ^kënemëneyo/nem<v><tv><nn><s_2pl>$
+[UqUcmublK534#0] ^kënemëneyo/nem<v><tv><nn><s_2pl><o_pl>/nem<v><tv><nn><s_2pl><o_sg>$
 [/UqUcmublK534]
 [V5mStdnAggYW#0] ^nëmùk/*nëmùk$
 [/V5mStdnAggYW]
-[VUXnWyPjrTj5#0] ^kpënamën/*kpënamën$
+[VUXnWyPjrTj5#0] ^kpënamën/pënam<v><tv><nn><s_2sg><o_sg>$
 [/VUXnWyPjrTj5]
-[Vo1sCvyBFQfw#0] ^nemhumëna/*nemhumëna$
+[Vo1sCvyBFQfw#0] ^nemhumëna/nem<v><tv><nn><s_11pl>$
 [/Vo1sCvyBFQfw]
-[W6fLEmpWWnU-#0] ^këmëshënëmhumëna/*këmëshënëmhumëna$
+[W6fLEmpWWnU-#0] ^këmëshënëmhumëna/mëshënëm<v><tv><nn><s_12pl>$
 [/W6fLEmpWWnU-]
-[WXlbPpBlZeXs#0] ^kemeshenemhumo/*kemeshenemhumo$
+[WXlbPpBlZeXs#0] ^kemeshenemhumo/mëshënëm<v><tv><nn><s_2pl>$
 [/WXlbPpBlZeXs]
-[WqFrCJLovOJn#0] ^pwënamëneyo/*pwënamëneyo$
+[WqFrCJLovOJn#0] ^pwënamëneyo/pënam<v><tv><nn><s_3pl><o_pl>/pënam<v><tv><nn><s_3pl><o_sg>$
 [/WqFrCJLovOJn]
-[WsN1UW_ntChP#0] ^kenem/*kenem$
+[WsN1UW_ntChP#0] ^kenem/nem<v><tv><nn><s_2sg>$
 [/WsN1UW_ntChP]
-[X0j1QBPbLtk5#0] ^kënemhumëna/*kënemhumëna$
+[X0j1QBPbLtk5#0] ^kënemhumëna/nem<v><tv><nn><s_12pl>$
 [/X0j1QBPbLtk5]
 [Y6EsO8iqkuDZ#0] ^nëmichinën/*nëmichinën$
 [/Y6EsO8iqkuDZ]
-[Z4w2twQ2EcpJ#0] ^kpetuhena/*kpetuhena$
+[Z4w2twQ2EcpJ#0] ^kpetuhena/pètu<v><tv><nn><s_12pl>$
 [/Z4w2twQ2EcpJ]
-[ZCYg4OVu7a6m#0] ^kenemhumena/*kenemhumena$
+[ZCYg4OVu7a6m#0] ^kenemhumena/nem<v><tv><nn><s_12pl>$
 [/ZCYg4OVu7a6m]
-[ZPEX5cHjfnmr#0] ^kenemhumo/*kenemhumo$
+[ZPEX5cHjfnmr#0] ^kenemhumo/nem<v><tv><nn><s_2pl>$
 [/ZPEX5cHjfnmr]
 [ZxMc6K00_rNT#0] ^këmëshënëmën/mëshënëm<v><tv><nn><s_2sg><o_sg>$
 [/ZxMc6K00_rNT]
 [aNFV3wtvSk8v#0] ^këpënam/*këpënam$
 [/aNFV3wtvSk8v]
-[aYa-HMFpwb0y#0] ^kpenamuhena/*kpenamuhena$
+[aYa-HMFpwb0y#0] ^kpenamuhena/pënam<v><tv><nn><s_12pl>$
 [/aYa-HMFpwb0y]
-[at2CwSjayd51#0] ^mpënam/*mpënam$
+[at2CwSjayd51#0] ^mpënam/pënam<v><tv><nn><s_1sg>$
 [/at2CwSjayd51]
-[cGQJ5bs3wAck#0] ^këmichi/*këmichi$
+[cGQJ5bs3wAck#0] ^këmichi/michi<v><tv><nn><s_2sg>$
 [/cGQJ5bs3wAck]
-[d5ar6CkUeDpl#0] ^kpetuhëna/*kpetuhëna$
+[d5ar6CkUeDpl#0] ^kpetuhëna/pètu<v><tv><nn><s_12pl>$
 [/d5ar6CkUeDpl]
-[d5bGN1-F4t_P#0] ^penam/*penam$
+[d5bGN1-F4t_P#0] ^penam/pënam<v><tv><nn><s_3sg>$
 [/d5bGN1-F4t_P]
 [e0_c6G3gLhQm#0] ^këmichin/*këmichin$
 [/e0_c6G3gLhQm]
-[fMq-gz3WKz5L#0] ^nemënën/*nemënën$
+[fMq-gz3WKz5L#0] ^nemënën/nem<v><tv><nn><s_11pl><o_sg>$
 [/fMq-gz3WKz5L]
-[huJrJ5_nhOso#0] ^nemhumena/*nemhumena$
+[huJrJ5_nhOso#0] ^nemhumena/nem<v><tv><nn><s_11pl>$
 [/huJrJ5_nhOso]
 [hw9v12C0Kr4w#0] ^mëshënëmën/*mëshënëmën$
 [/hw9v12C0Kr4w]
-[idfewbgX_gxZ#0] ^mpenam/*mpenam$
+[idfewbgX_gxZ#0] ^mpenam/pënam<v><tv><nn><s_1sg>$
 [/idfewbgX_gxZ]
 [j18tI4n55yCW#0] ^wënemën/*wënemën$
 [/j18tI4n55yCW]
-[j63oXv5vWsEz#0] ^kpetuhëmo/*kpetuhëmo$
+[j63oXv5vWsEz#0] ^kpetuhëmo/pètu<v><tv><nn><s_2pl>$
 [/j63oXv5vWsEz]
-[jX8l5RPsqj1P#0] ^kemeshenemhumena/*kemeshenemhumena$
+[jX8l5RPsqj1P#0] ^kemeshenemhumena/mëshënëm<v><tv><nn><s_12pl>$
 [/jX8l5RPsqj1P]
-[kC59ooLwhWIo#0] ^këmëshënëmëneyo/mëshënëm<v><tv><nn><s_2pl>$
+[kC59ooLwhWIo#0] ^këmëshënëmëneyo/mëshënëm<v><tv><nn><s_2pl><o_pl>/mëshënëm<v><tv><nn><s_2pl><o_sg>$
 [/kC59ooLwhWIo]
-[l7Dpq3H9eflU#0] ^kpënamuhëmo/*kpënamuhëmo$
+[l7Dpq3H9eflU#0] ^kpënamuhëmo/pënam<v><tv><nn><s_2pl>$
 [/l7Dpq3H9eflU]
 [lVryAcj5m4n4#0] ^michëwàk/*michëwàk$
 [/lVryAcj5m4n4]
-[ltqwgInTFLbZ#0] ^kënemhumo/*kënemhumo$
+[ltqwgInTFLbZ#0] ^kënemhumo/nem<v><tv><nn><s_2pl>$
 [/ltqwgInTFLbZ]
 [mTncO5jKvXuW#0] ^nemuk/*nemuk$
 [/mTncO5jKvXuW]
@@ -168,39 +168,39 @@
 [/meKo4rQecR1Z]
 [oNtLocDN8072#0] ^nnemhumena/*nnemhumena$
 [/oNtLocDN8072]
-[onvnYkuOj_zB#0] ^pwetun/pètu<v><tv><nn><neg><s_3sg><o_sg>$
+[onvnYkuOj_zB#0] ^pwetun/*pwetun$
 [/onvnYkuOj_zB]
-[pfdTjNyv2OW9#0] ^kënem/*kënem$
+[pfdTjNyv2OW9#0] ^kënem/nem<v><tv><nn><s_2sg>$
 [/pfdTjNyv2OW9]
-[q5VAfl7doy_G#0] ^nëmëshënëmënën/*nëmëshënëmënën$
+[q5VAfl7doy_G#0] ^nëmëshënëmënën/mëshënëm<v><tv><nn><s_11pl><o_sg>$
 [/q5VAfl7doy_G]
-[qK_Oz9ZqBX84#0] ^mpënamënën/*mpënamënën$
+[qK_Oz9ZqBX84#0] ^mpënamënën/pënam<v><tv><nn><s_11pl><o_sg>$
 [/qK_Oz9ZqBX84]
 [qU9N0OTPZXPd#0] ^meshenemuk/*meshenemuk$
 [/qU9N0OTPZXPd]
 [qtHO-sd7LUsl#0] ^michewak/*michewak$
 [/qtHO-sd7LUsl]
-[sWjsAsBr3eLT#0] ^kpetuhemo/*kpetuhemo$
+[sWjsAsBr3eLT#0] ^kpetuhemo/pètu<v><tv><nn><s_2pl>$
 [/sWjsAsBr3eLT]
-[skucpz7fagna#0] ^kemichihemo/*kemichihemo$
+[skucpz7fagna#0] ^kemichihemo/michi<v><tv><nn><s_2pl>$
 [/skucpz7fagna]
-[sxStqk82pHgK#0] ^nëmichihëna/*nëmichihëna$
+[sxStqk82pHgK#0] ^nëmichihëna/michi<v><tv><nn><s_11pl>$
 [/sxStqk82pHgK]
-[tYl0wob1VfcA#0] ^këmichihëmo/*këmichihëmo$
+[tYl0wob1VfcA#0] ^këmichihëmo/michi<v><tv><nn><s_2pl>$
 [/tYl0wob1VfcA]
-[u8agZ4RGtJfy#0] ^kënemënën/*kënemënën$
+[u8agZ4RGtJfy#0] ^kënemënën/nem<v><tv><nn><s_12pl><o_sg>$
 [/u8agZ4RGtJfy]
 [vWB_aKpkJaWU#0] ^mëshënëmëneyo/*mëshënëmëneyo$
 [/vWB_aKpkJaWU]
-[vcfIcaCY3CfW#0] ^pënam/*pënam$
+[vcfIcaCY3CfW#0] ^pënam/pënam<v><tv><nn><s_3sg>$
 [/vcfIcaCY3CfW]
-[vmYEyn2PejgH#0] ^mpetun/pètu<v><tv><nn><s_1sg><o_sg>/pètu<v><tv><nn><neg><s_1sg><o_sg>$
+[vmYEyn2PejgH#0] ^mpetun/pètu<v><tv><nn><s_1sg><o_sg>$
 [/vmYEyn2PejgH]
 [wxepT2o9rQV6#0] ^këmichinën/*këmichinën$
 [/wxepT2o9rQV6]
-[xjWJds3y8Qd2#0] ^nëmëshënëm/*nëmëshënëm$
+[xjWJds3y8Qd2#0] ^nëmëshënëm/mëshënëm<v><tv><nn><s_1sg>$
 [/xjWJds3y8Qd2]
-[yW-RyprsQtE_#0] ^këmëshënëmhumo/*këmëshënëmhumo$
+[yW-RyprsQtE_#0] ^këmëshënëmhumo/mëshënëm<v><tv><nn><s_2pl>$
 [/yW-RyprsQtE_]
 [zVbLmaYA108Q#0] ^pënamùk/*pënamùk$
 [/zVbLmaYA108Q]

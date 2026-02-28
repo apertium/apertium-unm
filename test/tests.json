@@ -11,7 +11,7 @@
     "input": "verbs-ti-absolute-morph-input.txt",
     "mode": "unm-morph"
   },
-  "verbs-ti-absolute-morph": {
+  "verbs-ti-absolute-gener": {
     "input": "verbs-ti-absolute-gener-input.txt",
     "mode": "unm-gener"
   },

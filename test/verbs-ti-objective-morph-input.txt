@@ -8,14 +8,23 @@ kpënamëneyo     # look at 2p > 3s.nn
 pwënamëneyo     # look at 3p > 3s.nn
 pënamën         # look at X > 3s.nn
 
+mpënamëna       # look at 1sg > 3pl.nn
+kpënamëna       # look at 2sg > 3pl.nn
+pwënamëna       # look at 3sg > 3pl.nn
+mpënamënëna     # look at 11 > 3pl.nn
+kpënamënëna     # look at 12 > 3pl.nn
+kpënamëneyo     # look at 2pl > 3pl.nn
+pwënamëneyo     # look at 3pl > 3pl.nn
+
+
 nëmëshënëmën     # get 1sg > 3s.nn
 këmëshënëmën     # get 2sg > 3s.nn
 mwëshënëmën      # get 3sg > 3s.nn
 mwëshënëmelin    # get 3’ > 3s.nn
-nemëshënëmenën   # get 1p > 3s.nn
-këmëshënëmenën   # get 12 > 3s.nn
-këmëshënëmeneyo  # get 2p > 3s.nn
-mwëshënëmeneyo   # get 3p > 3s.nn
+nemëshënëmënën   # get 1p > 3s.nn
+këmëshënëmënën   # get 12 > 3s.nn
+këmëshënëmëneyo  # get 2p > 3s.nn
+mwëshënëmëneyo   # get 3p > 3s.nn
 mëshënëmën       # get X > 3s.nn
 
 mpètun         # bring 1sg > 3s.nn
