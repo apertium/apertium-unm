@@ -5,6 +5,12 @@
 LANG1=unm
 BASENAME=apertium-$(LANG1)
 
+VAR1=Dict
+VAR2=Simp
+
+LANG1VAR1=$(LANG1)@$(VAR1)
+LANG1VAR2=$(LANG1)@$(VAR2)
+
 TARGETS_COMMON =			\
 	$(LANG1).automorf.hfst		\
 	$(LANG1).automorf.bin		\
@@ -12,7 +18,11 @@ TARGETS_COMMON =			\
 	$(LANG1).autogen.hfst		\
 	$(LANG1).autogen.bin		\
 	$(LANG1).autogen.att.gz		\
+	$(LANG1VAR2).autogen.hfst		\
+	$(LANG1VAR2).autogen.bin		\
+	$(LANG1VAR2).autogen.att.gz		\
 	$(LANG1).autopgen.bin		\
+	$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).hfst \
 	$(LANG1).prob                   \
 	$(LANG1).rlx.bin
 
@@ -43,13 +53,26 @@ LEXCFLAGS=-v --Werror
 	lexd $< | hfst-txt2fst -o $@
 
 
-.deps/$(LANG1).RL.hfst: .deps/$(LANG1).RL.lexd.hfst .deps/$(LANG1).twol.hfst
+.deps/$(LANG1VAR1).RL.hfst: .deps/$(LANG1).RL.lexd.hfst .deps/$(LANG1).twol.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).RL.lexd.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
-.deps/$(LANG1).LR.hfst: .deps/$(LANG1).LR.lexd.hfst .deps/$(LANG1).twol.hfst
+.deps/$(LANG1VAR1).LR.hfst: .deps/$(LANG1).LR.lexd.hfst .deps/$(LANG1).twol.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).LR.lexd.hfst -2 .deps/$(LANG1).twol.hfst -o $@
 
-$(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
+.deps/$(LANG1VAR2).RL.hfst: .deps/$(LANG1VAR1).RL.hfst .deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).twoc.hfst
+	hfst-compose-intersect -1 .deps/$(LANG1VAR1).RL.hfst -2 .deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).twoc.hfst -o $@
+
+.deps/$(LANG1VAR2).LR.hfst: .deps/$(LANG1VAR1).LR.hfst .deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).twoc.hfst
+	hfst-compose-intersect -1 .deps/$(LANG1VAR1).LR.hfst -2 .deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).twoc.hfst -o $@
+
+# the analyser is a combination of the two orthographies' analysers
+.deps/$(LANG1).LR.hfst: .deps/$(LANG1VAR1).LR.hfst .deps/$(LANG1VAR2).LR.hfst
+	hfst-union -1 $< -2 .deps/$(LANG1VAR2).LR.hfst > $@	
+
+$(LANG1).autogen.hfst: .deps/$(LANG1VAR1).RL.hfst
+	hfst-fst2fst -O $< -o $@
+
+$(LANG1VAR2).autogen.hfst: .deps/$(LANG1VAR2).RL.hfst
 	hfst-fst2fst -O $< -o $@
 
 .deps/spellrelax.hfst: $(BASENAME).$(LANG1).spellrelax .deps/.d
@@ -61,6 +84,9 @@ $(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/spellrelax.hfst
 $(LANG1).autogen.att.gz: $(LANG1).autogen.hfst
 	hfst-fst2txt $< | gzip -9 -c -n > $@
 
+$(LANG1VAR2).autogen.att.gz: $(LANG1VAR2).autogen.hfst
+	hfst-fst2txt $< | gzip -9 -c -n > $@
+
 $(LANG1).automorf.att.gz: $(LANG1).automorf.hfst
 	hfst-fst2txt $< | gzip -9 -c -n > $@
 
@@ -68,12 +94,29 @@ $(LANG1).autogen.bin: $(LANG1).autogen.att.gz .deps/.d
 	zcat < $< > .deps/$(LANG1).autogen.att
 	lt-comp lr .deps/$(LANG1).autogen.att $@
 
+$(LANG1VAR2).autogen.bin: $(LANG1VAR2).autogen.att.gz .deps/.d
+	zcat < $< > .deps/$(LANG1VAR2).autogen.att
+	lt-comp lr .deps/$(LANG1VAR2).autogen.att $@
+
 $(LANG1).automorf.bin: $(LANG1).automorf.att.gz .deps/.d
 	zcat < $< > .deps/$(LANG1).automorf.att
 	lt-comp lr .deps/$(LANG1).automorf.att $@
 
 $(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	lt-comp lr $< $@
+
+###############################################################################
+## Orthography conversion
+###############################################################################
+
+.deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).lexc.hfst: $(BASENAME).$(LANG1VAR1)-$(LANG1VAR2).lexc .deps/.d
+	hfst-lexc $< -o $@
+
+.deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).twoc.hfst: $(BASENAME).$(LANG1VAR1)-$(LANG1VAR2).twol .deps/.d
+	hfst-twolc $< -o $@
+
+$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).hfst: .deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).lexc.hfst .deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).twoc.hfst
+	hfst-compose-intersect -1 $< -2 .deps/$(LANG1).$(LANG1VAR1)-$(LANG1VAR2).twoc.hfst | hfst-fst2fst -w -o $@
 
 ###############################################################################
 ## Debugging transducers (for testvoc)
