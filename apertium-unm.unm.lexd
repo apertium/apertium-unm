@@ -1162,6 +1162,9 @@ matanake:matanake # "after a while"
 lahapa:lahapa     # "for a while"
 ahsenike:ahsenike # "among the rocks" # FIXME: technically compositional
 
+alàpae:alàpae     # "early in the morning"
+alàpa:alàpa       # "tomorrow"
+
 
 LEXICON CnjLex(2)
 
@@ -1223,30 +1226,33 @@ kwëti:kwëti           # "one"
 nisha:nisha           # "two"
 naxa:naxa             # "three"
 newa:newa             # "four"
-palenaxk:palenaxk     # "five"
-kwetash:kwetash       # "six"
+palenàxk:palenàxk     # "five"
+kwëtash:kwëtash       # "six"
 nishash:nishash       # "seven"
 xash:xash             # "eight"
-peshkunk:peshkunk     # "nine"
-telen:telen           # "ten"
+pèshkunk:pèshkunk     # "nine"
+tèlën:tèlën           # "ten"
 nishinxke:nishinxke   # "twenty"
-xinxke:xinxke         # "thirty"
+xintxke:xintxke       # "thirty"
 neinxke:neinxke       # "forty"
-palenaxk\ txintxke:palenaxk\ txintxke  # "fifty"  FIXME: CHECK
-kwetash\ txinxke:kwetash\ txinxke      # "sixty"
+palenàxk\ txintxke:palenàxk\ txintxke  # "fifty"  FIXME: CHECK
+kwëtash\ txinxke:kwëtash\ txinxke      # "sixty"
 nishash\ txinxke:nishash\ txinxke      # "seventy"
 xash\ txinxke:xash\ txinxke            # "eighty"
-peshkunk\ txinxke:peshkunk\ txinxke    # "ninety"
-kwetapxki:kwetapxki                    # "one hundred"
+pèshkunk\ txintxke:pèshkunk\ txintxke  # "ninety"
+kwëtapxki:kwëtapxki                    # "one hundred"
 nishapxki:nishapxki                    # "two hundred"
 naxapxki:naxapxki                      # "three hundred"
-neopxki:neopxki                        # "four hundred"
-palenaxk\ txapxki:palenaxk\ txapxki    # "five hundred"
-kwetash\ txapxki:kwetash\ txapxki      # "six hundred"
+neòpxki:neòpxki                        # "four hundred"
+palenàxk\ txapxki:palenàxk\ txapxki    # "five hundred"
+kwëtash\ txapxki:kwëtash\ txapxki      # "six hundred"
 nishash\ txapxki:nishash\ txapxki      # "seven hundred"
 xash\ txapxki:xash\ txapxki            # "eight hundred"
-peshkunk\ txapxki:peshkunk\ txapxki    # "nine hundred"
-telen\ txen\ kwetapxki:telen\ txen\ kwetapxki    # "one thousand"
+pèshkunk\ txapxki:pèshkunk\ txapxki    # "nine hundred"
+tèlën\ txën\ kwëtapxki:tèlën\ txën\ kwëtapxki  # "one thousand"
+tèlën\ txën\ txapxki:tèlën\ txën\ txapxki      # "one thousand"
+tèlën\ txapxki:tèlën\ txapxki                  # "one thousand"
+
 
 
 LEXICON IjLex
