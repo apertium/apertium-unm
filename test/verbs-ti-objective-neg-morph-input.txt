@@ -1,0 +1,24 @@
+mpètuwën         # bring 1sg > 3s.nn NEG
+
+këlënëmuwën      # carry 3sg > 3sg.nn NEG
+
+nëmëshënëmuwën   # receive 1sg > 3sg.nn NEG
+këmëshënëmuwën   # receive 2sg > 3sg.nn NEG
+mwëshënëmuwën    # receive 3sg > 3sg.nn NEG
+
+kwëtàntàmuwën    # taste 3sg > 3sg.nn NEG
+
+nhakatàmu        # use 3sg NEG
+kënakatamuwën    # use 2sg > 3sg.nn NEG
+nakatamuwën      # use 3sg > 3sg.nn NEG
+nakatamuwënèn    # use 1pl > 3sg.nn NEG
+nòkatamuwëneyo   # use 3pl > 3sg.nn NEG
+
+ntëlsiwën        # do 1sg > 3sg.nn NEG
+
+noniwën          # forget 1sg > 3sg.nn NEG
+kwànihùmo        # forget 2pl (>?) NEG
+
+mpàkamuwën       # hit 1sg > 3sg.nn NEG
+
+nëmuwën          # see 1sg > 3sg.nn NEG

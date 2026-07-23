@@ -64,8 +64,6 @@
 [/_SQ7TB-UYqTD]
 [_U0imwfPY54b#0] ^michin/*michin$
 [/_U0imwfPY54b]
-[czHZkETOfDkW#0] ^nemëshënëmënën/mëshënëm<v><tv><nn><s_11pl><o_sg>$
-[/czHZkETOfDkW]
 [dwhNI0-VY_Kp#0] ^mpënamëna/pënam<v><tv><nn><s_1sg><o_pl>$
 [/dwhNI0-VY_Kp]
 [e0_c6G3gLhQm#0] ^këmichin/*këmichin$
@@ -88,6 +86,8 @@
 [/md7ThVadbFp1]
 [nNNS_vSkgfzN#0] ^mwëshënëmelin/*mwëshënëmelin$
 [/nNNS_vSkgfzN]
+[q5VAfl7doy_G#0] ^nëmëshënëmënën/mëshënëm<v><tv><nn><s_11pl><o_sg>$
+[/q5VAfl7doy_G]
 [qK_Oz9ZqBX84#0] ^mpënamënën/pënam<v><tv><nn><s_11pl><o_sg>$
 [/qK_Oz9ZqBX84]
 [t52WtfNwNOrb#0] ^pwètuneyo/pètu<v><tv><nn><s_3pl><o_pl>/pètu<v><tv><nn><s_3pl><o_sg>$

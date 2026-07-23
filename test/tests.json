@@ -18,5 +18,10 @@
   "verbs-ti-objective-morph": {
     "input": "verbs-ti-objective-morph-input.txt",
     "mode": "unm-morph"
+  },
+  "verbs-ti-objective-neg-morph": {
+    "input": "verbs-ti-objective-neg-morph-input.txt",
+    "mode": "unm-morph"
   }
+
 }

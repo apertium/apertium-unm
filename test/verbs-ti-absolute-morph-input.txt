@@ -33,13 +33,13 @@ kemeshenemhumo    # get 2p
 meshenemuk        # get 3p
 
 
-mpetu         # bring 1sg
-kpetu         # bring 2sg
-petu          # bring 3sg
-mpetuhëna     # bring 1p
-kpetuhëna     # bring 12
-kpetuhëmo     # bring 2p
-petuwàk       # bring 3p
+mpètu         # bring 1sg
+kpètu         # bring 2sg
+pètu          # bring 3sg
+mpètuhëna     # bring 1p
+kpètuhëna     # bring 12
+kpètuhëmo     # bring 2p
+pètuwàk       # bring 3p
 
 mpetu         # bring 1sg
 kpetu         # bring 2sg
@@ -88,45 +88,3 @@ kemichihena   # eat 12
 kemichihemo   # eat 2p
 michewak      # eat 3p
 michuwak      # eat 3p
-
-
-### Singular object forms
-mpënamën         # look at 1sg→sg
-kpënamën         # look at 2sg→sg
-pwënamën         # look at 3sg→sg
-mpënamënën       # look at 11→sg
-kpënamënën       # look at 12→sg
-kpënamëneyo      # look at 2pl→sg
-pwënamëneyo      # look at 3pl→sg
-
-nëmëshënëmën     # get 1sg→sg
-këmëshënëmën     # get 2sg→sg
-mëshënëmën       # get 3sg→sg
-nëmëshënëmënën   # get 11→sg
-këmëshënëmënën   # get 12→sg
-këmëshënëmëneyo  # get 2pl→sg
-mëshënëmëneyo    # get 3pl→sg
-
-mpetun
-kpetun
-pwetun
-mpetunën
-kpetunën
-kpetuneyo
-pwetuneyo
-
-nemën
-kënemën
-wënemën
-nemënën
-kënemënën
-kënemëneyo
-wënemëneyo
-
-nëmichin
-këmichin
-mwichin
-nëmichinën
-këmichinën
-këmichineyo
-mwichineyo
