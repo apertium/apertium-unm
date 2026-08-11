@@ -1,24 +1,24 @@
-[773SNNRPmEGk#0] itis<n><aa><px2pl><sg>
-[/773SNNRPmEGk]
-[J4WBhcINP7EA#0] itis<n><aa><px11pl><pl>
-[/J4WBhcINP7EA]
-[MtJNErwBE7Ua#0] itis<n><aa><px12pl><pl>
-[/MtJNErwBE7Ua]
-[Ry9_pgNji9pY#0] itis<n><aa><px11pl><sg>
-[/Ry9_pgNji9pY]
-[URgjxiR0vIOe#0] itis<n><aa><px12pl><sg>
-[/URgjxiR0vIOe]
-[YP0N9W5Vm103#0] itis<n><aa><px3sg><pl>
-[/YP0N9W5Vm103]
-[_6x8zr3LPD1K#0] itis<n><aa><px1sg><sg>
-[/_6x8zr3LPD1K]
-[_yMHS5ADP6mw#0] itis<n><aa><px3pl><sg>
-[/_yMHS5ADP6mw]
-[coDF0_MEPGm5#0] itis<n><aa><px3sg><sg>
-[/coDF0_MEPGm5]
-[vBsDaiSO8JBF#0] itis<n><aa><px1sg><abs>
-[/vBsDaiSO8JBF]
-[vNJib4_G5IsQ#0] itis<n><aa><px1sg><pl>
-[/vNJib4_G5IsQ]
-[wCVF93fS0FIV#0] itis<n><aa><px2sg><sg>
-[/wCVF93fS0FIV]
+[49XxpSd0ea-e#0] nitisëna
+[/49XxpSd0ea-e]
+[CjbpxX4jkH_L#0] kitis
+[/CjbpxX4jkH_L]
+[FWZy4-QZ3Ds6#0] kitisënanàk
+[/FWZy4-QZ3Ds6]
+[M0nY8EmkDPHu#0] witisëwoo
+[/M0nY8EmkDPHu]
+[MzzieAB0KsgV#0] nitis
+[/MzzieAB0KsgV]
+[Wd5fibEYWKZp#0] nitisàk
+[/Wd5fibEYWKZp]
+[WujojBbetTXG#0] kitisëna
+[/WujojBbetTXG]
+[Y-SgPZFiw2bs#0] witisa
+[/Y-SgPZFiw2bs]
+[ewY_gv78f28P#0] nitisa
+[/ewY_gv78f28P]
+[pmizylfR-6WO#0] witisaòk
+[/pmizylfR-6WO]
+[xM1vDelowft8#0] kitisëwao
+[/xM1vDelowft8]
+[ymyHfyxVYMPD#0] nitisënanàk
+[/ymyHfyxVYMPD]

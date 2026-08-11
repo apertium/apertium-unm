@@ -117,9 +117,9 @@ PATTERN Nouns
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
-NounRoot-Family(1) [ <n><voc>: ]
+NounRoot-Family(1) [ <n><aa><voc>: ]
 
-N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3): [ <pl>:{A}k ]?
+N-Poss(1) NounRoot-Family(2) [ <n><aa>: ] N-Poss(2) N-Poss(3): N-Poss-Infl
 # Just put a -k after "our", e.g, nichanenak
 
 
@@ -518,11 +518,19 @@ LEXICON N-Poss(3)
 :{N}{e}>   :                <px1sg>
 :{k}{e}>   :                <px2sg>
 :{w}{e}>   :>a              <px3sg>      # Fix plurals  - technically -a is obviative
-:{N}{e}>   :>ena            <px11pl>
-:{k}{e}>   :>ena            <px12pl>
-:{k}{e}>   :>ewao           <px2pl>
+:{N}{e}>   :>ëna{n}         <px11pl>
+:{k}{e}>   :>ëna{n}         <px12pl>
+:{k}{e}>   :>ëwao           <px2pl>
 :{k}{e}>   :>uwa            <px2pl>      # Dir/LR
+:{k}{e}>   :>ëwa            <px2pl>      # Dir/LR  kitisëwa
 :{w}{e}>   :>ëwoo           <px3pl>
+
+
+LEXICON N-Poss-Infl
+
+<sg>:
+<pl>:>{A}k
+<abs>:>a
 
 
 PATTERN DetRoot
