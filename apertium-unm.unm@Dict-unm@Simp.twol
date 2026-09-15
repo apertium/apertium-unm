@@ -1,0 +1,33 @@
+Alphabet
+
+À:A
+È:E
+Ë:E
+Ì:I
+Ò:O
+Ù:U
+à:a
+è:e
+ë:e
+ì:i
+ò:o
+ù:u
+
+A E I O U
+a e i o u
+
+B C D F G H J K L M N P Q R S T V W X Y Z
+b c d f g h j k l m n p q r s t v w x y z
+
+;
+
+
+Sets
+
+Vow = A E I O U
+      a e i o u ;
+
+Rules
+
+"Rule that does nothing"
+A:B <=> x x _ y y ;

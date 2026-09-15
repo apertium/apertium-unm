@@ -8,7 +8,7 @@
 [/2aE5a2jNj8oD]
 [2xymvL2OQSiF#0] #pètu
 [/2xymvL2OQSiF]
-[4DofZoMJweZK#0] nema
+[4DofZoMJweZK#0] #nem
 [/4DofZoMJweZK]
 [689aZE9TLZty#0] #pëna
 [/689aZE9TLZty]
@@ -18,11 +18,11 @@
 [/76DvD3YzeFYt]
 [7KcuaV4920FC#0] #mëshënëm
 [/7KcuaV4920FC]
-[8nD6aAk8eH5l#0] michihtit/michiìhtit
+[8nD6aAk8eH5l#0] #michi
 [/8nD6aAk8eH5l]
-[DIDmQTFr5FBz#0] nemenkw
+[DIDmQTFr5FBz#0] #nem
 [/DIDmQTFr5FBz]
-[E-mqeY82WL2T#0] michia
+[E-mqeY82WL2T#0] #michi
 [/E-mqeY82WL2T]
 [Gqg_rdVJ8QsD#0] #pètu
 [/Gqg_rdVJ8QsD]
@@ -30,7 +30,7 @@
 [/HXxhyLKMsMKH]
 [IDPpITwNP-LZ#0] #pëna
 [/IDPpITwNP-LZ]
-[KmHD3tjiOkJD#0] michiekw
+[KmHD3tjiOkJD#0] #michi
 [/KmHD3tjiOkJD]
 [LUK9HRcYBIZX#0] #pètu
 [/LUK9HRcYBIZX]
@@ -38,13 +38,13 @@
 [/SC3_RYHlWBm2]
 [UDkf2IrYj5zs#0] #pètu
 [/UDkf2IrYj5zs]
-[VTLpD6-NlmNh#0] neman
+[VTLpD6-NlmNh#0] #nem
 [/VTLpD6-NlmNh]
 [WuakJXjN9gEk#0] #mëshënëm
 [/WuakJXjN9gEk]
 [Yw1LkhrU2eAw#0] #michi
 [/Yw1LkhrU2eAw]
-[_RvNAdgfnVZR#0] nemhtit/nemìhtit
+[_RvNAdgfnVZR#0] #nem
 [/_RvNAdgfnVZR]
 [bCPv_B065_qM#0] #mëshënëm
 [/bCPv_B065_qM]
@@ -60,21 +60,21 @@
 [/hgz1Nve_4qwI]
 [jcixaK5w2Xnh#0] #pëna
 [/jcixaK5w2Xnh]
-[kR3Ww7TlbCgJ#0] nemekw
+[kR3Ww7TlbCgJ#0] #nem
 [/kR3Ww7TlbCgJ]
 [qhQmwwe-NKQP#0] #mëshënëm
 [/qhQmwwe-NKQP]
 [tS7hdWuW0eyr#0] #pëna
 [/tS7hdWuW0eyr]
-[tkZLddxUd8ys#0] michian
+[tkZLddxUd8ys#0] #michi
 [/tkZLddxUd8ys]
 [um1GVAe2wDQM#0] #mëshënëm
 [/um1GVAe2wDQM]
-[uz5_keC73bSg#0] michiankw
+[uz5_keC73bSg#0] #michi
 [/uz5_keC73bSg]
-[v0f4a8XQ6MJK#0] michienkw
+[v0f4a8XQ6MJK#0] #michi
 [/v0f4a8XQ6MJK]
-[w2abPykISlzs#0] nemankw
+[w2abPykISlzs#0] #nem
 [/w2abPykISlzs]
 [wsANCI8AqjNz#0] #pètu
 [/wsANCI8AqjNz]

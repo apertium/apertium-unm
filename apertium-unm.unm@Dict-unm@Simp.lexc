@@ -1,0 +1,107 @@
+Multichar_Symbols 
+
+%{e%}
+
+LEXICON Root 
+
+Alpha ; 
+Punct ; 
+!Exceptions ;
+Digits ;
+
+LEXICON AlphaLoop 
+
+Alpha ;
+!Punct ; 
+ # ;
+
+LEXICON Alpha
+
+A:A AlphaLoop "weight: 1.0" ; 
+À:À AlphaLoop "weight: 1.0" ;
+E:E AlphaLoop "weight: 1.0" ;
+È:È AlphaLoop "weight: 1.0" ;
+Ë:Ë AlphaLoop "weight: 1.0" ;
+I:I AlphaLoop "weight: 1.0" ;
+Ì:Ì AlphaLoop "weight: 1.0" ;
+O:O AlphaLoop "weight: 1.0" ;
+Ò:Ò AlphaLoop "weight: 1.0" ;
+U:U AlphaLoop "weight: 1.0" ;
+Ù:Ù AlphaLoop "weight: 1.0" ;
+
+a:a AlphaLoop "weight: 1.0" ;
+à:à AlphaLoop "weight: 1.0" ;
+e:e AlphaLoop "weight: 1.0" ;
+è:è AlphaLoop "weight: 1.0" ;
+ë:ë AlphaLoop "weight: 1.0" ;
+i:i AlphaLoop "weight: 1.0" ;
+ì:ì AlphaLoop "weight: 1.0" ;
+o:o AlphaLoop "weight: 1.0" ;
+ò:ò AlphaLoop "weight: 1.0" ;
+u:u AlphaLoop "weight: 1.0" ;
+ù:ù AlphaLoop "weight: 1.0" ;
+
+B:B AlphaLoop "weight: 1.0" ;
+C:C AlphaLoop "weight: 1.0" ;
+D:D AlphaLoop "weight: 1.0" ;
+F:F AlphaLoop "weight: 1.0" ;
+G:G AlphaLoop "weight: 1.0" ;
+H:H AlphaLoop "weight: 1.0" ;
+J:J AlphaLoop "weight: 1.0" ;
+K:K AlphaLoop "weight: 1.0" ;
+L:L AlphaLoop "weight: 1.0" ;
+M:M AlphaLoop "weight: 1.0" ;
+N:N AlphaLoop "weight: 1.0" ;
+P:P AlphaLoop "weight: 1.0" ;
+Q:Q AlphaLoop "weight: 1.0" ;
+R:R AlphaLoop "weight: 1.0" ;
+S:S AlphaLoop "weight: 1.0" ;
+T:T AlphaLoop "weight: 1.0" ;
+V:V AlphaLoop "weight: 1.0" ;
+W:W AlphaLoop "weight: 1.0" ;
+X:X AlphaLoop "weight: 1.0" ;
+Y:Y AlphaLoop "weight: 1.0" ;
+Z:Z AlphaLoop "weight: 1.0" ;
+
+b:b AlphaLoop "weight: 1.0" ;
+c:c AlphaLoop "weight: 1.0" ;
+d:d AlphaLoop "weight: 1.0" ;
+f:f AlphaLoop "weight: 1.0" ;
+g:g AlphaLoop "weight: 1.0" ;
+h:h AlphaLoop "weight: 1.0" ;
+j:j AlphaLoop "weight: 1.0" ;
+k:k AlphaLoop "weight: 1.0" ;
+l:l AlphaLoop "weight: 1.0" ;
+m:m AlphaLoop "weight: 1.0" ;
+n:n AlphaLoop "weight: 1.0" ;
+p:p AlphaLoop "weight: 1.0" ;
+q:q AlphaLoop "weight: 1.0" ;
+r:r AlphaLoop "weight: 1.0" ;
+s:s AlphaLoop "weight: 1.0" ;
+t:t AlphaLoop "weight: 1.0" ;
+v:v AlphaLoop "weight: 1.0" ;
+w:w AlphaLoop "weight: 1.0" ;
+x:x AlphaLoop "weight: 1.0" ;
+y:y AlphaLoop "weight: 1.0" ;
+z:z AlphaLoop "weight: 1.0" ;
+
+LEXICON Digits
+
+<[%0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9]+> # ;
+
+LEXICON Punct
+
+%.:%. # ; 
+%-:%- # ; 
+%,:%, # ; 
+%;:%; # ; 
+%::%: # ; 
+%!:%! # ; 
+%?:%? # ; 
+%“:%“ # ; 
+%”:%” # ; 
+%«:%« # ; 
+%»:%» # ; 
+%(:%( # ; 
+%):%) # ; 
+%–:%– # ; 

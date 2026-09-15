@@ -7,7 +7,7 @@ Alphabet
  %{u%}:0 %{u%}:u
  %{ù%}:0 %{ù%}:ù
  %{y%}:0 %{y%}:y %{y%}:w
- %{A%}:a %{A%}:ò %{A%}:ù %{A%}:o
+ %{A%}:à %{A%}:ò %{A%}:ù %{A%}:o
  %{k%}:k %{k%}:0
  %{N%}:n %{N%}:m %{N%}:0
  %{n%}:n %{n%}:0
@@ -82,10 +82,10 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
 !             Vx in ( o o u )
 !         matched ;
 
-"{A} as à after kw or eC|iC or a"
+"{A} as ò after kw or eC|iC or a"
 %{A%}:ò <=> [ [ :e | :i ] %{y%}: ]/[ :0 - %{y%}: ]* _ ;
             [ k: w: %{y%}: ]/[ :0 - %{y%}: ]* _ ;
-            :a/[ :0 ]* _ ;
+            :a/[ :0 - %{n%}: ]* _ ;  ! allow "na{n}>{A}k:nanàk"
             %{Y%}:/[ :0 ]* _ ;
 
 "{A} as o after a>{y}"

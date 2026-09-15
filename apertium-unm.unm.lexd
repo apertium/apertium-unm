@@ -117,9 +117,9 @@ PATTERN Nouns
 NounRoot-Anim NounInfl-Anim
 NounRoot-Inan NounInfl-Inan
 
-NounRoot-Family(1) [ <n><voc>: ]
+NounRoot-Family(1) [ <n><aa><voc>: ]
 
-N-Poss(1) NounRoot-Family(2) [ <n>: ] N-Poss(2) N-Poss(3): [ <pl>:{A}k ]?
+N-Poss(1) NounRoot-Family(2) [ <n><aa>: ] N-Poss(2) N-Poss(3): N-Poss-Infl
 # Just put a -k after "our", e.g, nichanenak
 
 
@@ -500,10 +500,10 @@ LEXICON VerbInflTASub(3)   # Subordinative
 :{k}{e}>      >an>eyo       <dir><s_2sg><o_3pl>
 :{w}{e}{³}>   >an           <dir><s_3sg><o_3sg>
 :{w}{e}{³}>   >an>eyo       <dir><s_3sg><o_3pl>
-:{N}{e}>      >an>en        <dir><s_11><o_3sg>
-:{N}{e}>      >an>en>eyo    <dir><s_11><o_3pl>
-:{k}{e}>      >an>en        <dir><s_12><o_3sg>
-:{k}{e}>      >an>en>eyo    <dir><s_12><o_3pl>
+:{N}{e}>      >an>en        <dir><s_11pl><o_3sg>
+:{N}{e}>      >an>en>eyo    <dir><s_11pl><o_3pl>
+:{k}{e}>      >an>en        <dir><s_12pl><o_3sg>
+:{k}{e}>      >an>en>eyo    <dir><s_12pl><o_3pl>
 :{k}{e}>      >an>eyo       <dir><s_2pl><o_3sg>
 :{k}{e}>      >an>eyo       <dir><s_2pl><o_3pl>
 :{w}{e}{³}>   >an>eyo       <dir><s_3pl><o_3sg>
@@ -518,11 +518,19 @@ LEXICON N-Poss(3)
 :{N}{e}>   :                <px1sg>
 :{k}{e}>   :                <px2sg>
 :{w}{e}>   :>a              <px3sg>      # Fix plurals  - technically -a is obviative
-:{N}{e}>   :>ena            <px1plexcl>
-:{k}{e}>   :>ena            <px1plincl>
-:{k}{e}>   :>ewao           <px2pl>
+:{N}{e}>   :>ëna{n}         <px11pl>
+:{k}{e}>   :>ëna{n}         <px12pl>
+:{k}{e}>   :>ëwao           <px2pl>
 :{k}{e}>   :>uwa            <px2pl>      # Dir/LR
+:{k}{e}>   :>ëwa            <px2pl>      # Dir/LR  kitisëwa
 :{w}{e}>   :>ëwoo           <px3pl>
+
+
+LEXICON N-Poss-Infl
+
+<sg>:
+<pl>:>{A}k
+<abs>:>a
 
 
 PATTERN DetRoot
@@ -1164,6 +1172,9 @@ matanake:matanake # "after a while"
 lahapa:lahapa     # "for a while"
 ahsenike:ahsenike # "among the rocks" # FIXME: technically compositional
 
+alàpae:alàpae     # "early in the morning"
+alàpa:alàpa       # "tomorrow"
+
 
 LEXICON CnjLex(2)
 
@@ -1225,30 +1236,33 @@ kwëti:kwëti           # "one"
 nisha:nisha           # "two"
 naxa:naxa             # "three"
 newa:newa             # "four"
-palenaxk:palenaxk     # "five"
-kwetash:kwetash       # "six"
+palenàxk:palenàxk     # "five"
+kwëtash:kwëtash       # "six"
 nishash:nishash       # "seven"
 xash:xash             # "eight"
-peshkunk:peshkunk     # "nine"
-telen:telen           # "ten"
+pèshkunk:pèshkunk     # "nine"
+tèlën:tèlën           # "ten"
 nishinxke:nishinxke   # "twenty"
-xinxke:xinxke         # "thirty"
+xintxke:xintxke       # "thirty"
 neinxke:neinxke       # "forty"
-palenaxk\ txintxke:palenaxk\ txintxke  # "fifty"  FIXME: CHECK
-kwetash\ txinxke:kwetash\ txinxke      # "sixty"
+palenàxk\ txintxke:palenàxk\ txintxke  # "fifty"  FIXME: CHECK
+kwëtash\ txinxke:kwëtash\ txinxke      # "sixty"
 nishash\ txinxke:nishash\ txinxke      # "seventy"
 xash\ txinxke:xash\ txinxke            # "eighty"
-peshkunk\ txinxke:peshkunk\ txinxke    # "ninety"
-kwetapxki:kwetapxki                    # "one hundred"
+pèshkunk\ txintxke:pèshkunk\ txintxke  # "ninety"
+kwëtapxki:kwëtapxki                    # "one hundred"
 nishapxki:nishapxki                    # "two hundred"
 naxapxki:naxapxki                      # "three hundred"
-neopxki:neopxki                        # "four hundred"
-palenaxk\ txapxki:palenaxk\ txapxki    # "five hundred"
-kwetash\ txapxki:kwetash\ txapxki      # "six hundred"
+neòpxki:neòpxki                        # "four hundred"
+palenàxk\ txapxki:palenàxk\ txapxki    # "five hundred"
+kwëtash\ txapxki:kwëtash\ txapxki      # "six hundred"
 nishash\ txapxki:nishash\ txapxki      # "seven hundred"
 xash\ txapxki:xash\ txapxki            # "eight hundred"
-peshkunk\ txapxki:peshkunk\ txapxki    # "nine hundred"
-telen\ txen\ kwetapxki:telen\ txen\ kwetapxki    # "one thousand"
+pèshkunk\ txapxki:pèshkunk\ txapxki    # "nine hundred"
+tèlën\ txën\ kwëtapxki:tèlën\ txën\ kwëtapxki  # "one thousand"
+tèlën\ txën\ txapxki:tèlën\ txën\ txapxki      # "one thousand"
+tèlën\ txapxki:tèlën\ txapxki                  # "one thousand"
+
 
 
 LEXICON IjLex
