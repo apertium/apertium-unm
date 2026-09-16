@@ -693,6 +693,9 @@ chëphìk:chëphìk         # "root; radish"
 tëmètos:tëmètos         # "tomato"
 òsʼhakame:òsʼhakame     # "heaven" CHECK: N-INAN
 ahpikòn:ahpikòn         # "flute; musical instrument"
+skonteamenaxk:skonteamenaxk  # "gate"  CHECK: N-INAN
+àskàskikw:àskàskikw     # "green vegetables"
+këlëkënikàn:këlëkënikàn # "smoking mixture"
 
 
 LEXICON NounRoot-Family(2)
@@ -896,9 +899,9 @@ khitaptune:khitaptune   <iv><aa> # "insist"
 
 LEXICON VerbRootTI(2)
 
-tankhitu:t{A}nkhitu     <tv><nn> # "lose it"
-màxkàm:m{A}xkàm         <tv><nn> # "find it"
-kaxksem:k{A}xksem       <tv><nn> # "dry it"
+tankhitu:t{Å}nkhitu     <tv><nn> # "lose it"
+màxkàm:m{Å}xkàm         <tv><nn> # "find it"
+kaxksem:k{Å}xksem       <tv><nn> # "dry it"
 
 kwëtkënëm:kwëtkënëm     <tv><nn> # "return it"
 këlënëm:k{_w}ëlënëm     <tv><nn> # "carry it; hold it"
@@ -911,7 +914,7 @@ alënëm:alënëm           <tv><nn> # "touch it"
 nem:nem                 <tv><nn> # "see it"
 pënam:p{_w}ënam         <tv><nn> # "look at it"
 wixeni:wixeni           <tv><nn> # "cook it"
-katatàm:k{A}tatàm       <tv><nn> # "want it"
+katatàm:k{Å}tatàm       <tv><nn> # "want it"
 katutàm:katutàm         <tv><nn> # "want to eat it"
 shinkatàm:shinkatàm     <tv><nn> # "hate it"
 ulhatu:ulhatu           <tv><nn> # "have it"
@@ -948,7 +951,8 @@ këchilahtu:k{_w}ëchilahtu <tv><nn> # "pull it out"
 nihëlatàm:nihëlatàm     <tv><nn> # "own it"
 wàni:wàni               <tv><nn> # "forget it"
 kahpàtu:kahpàtu         <tv><nn> # "pull it out of the water"
-mëne:m{_w}ëne           <iv><nn> # "drink it"  # mwënèn
+mëne:m{_w}ëne           <tv><nn> # "drink it"  # mwënèn
+manitu:m{Å}nitu         <tv><nn> # "make it"
 
 
 
@@ -989,7 +993,7 @@ wètën:wètën             <tv><aa> # "pick up"
 
 penkòkho:penkòkho       <tv><aa> # "rub, dry"
 pèsxama:pèsxama         <tv><aa> # "pass"
-naxkum:n{A}xkum         <tv><aa> # "answer" 1>2 kënaxkumël
+naxkum:n{Å}xkum         <tv><aa> # "answer" 1>2 kënaxkumël
 winkal:winkal           <tv><aa> # "like"
 chëchëphw:chëchëphw     <tv><aa> # "strike repeatedly" # chëchëpho
 manunksit:manunksit     <tv><aa> # "be mad at; be angry with"
@@ -997,6 +1001,7 @@ manunksit:manunksit     <tv><aa> # "be mad at; be angry with"
 nën:nën                 <tv><aa> # "recognise; know (someone)"
 wùntama:wùntama{w}      <tv><aa> # "teach"
 ulhal:ulhal             <tv><aa> # "have"
+katupw:katup{w}         <tv><aa> # "want to eat"
 
 
 LEXICON AdjLex

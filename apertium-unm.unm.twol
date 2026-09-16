@@ -88,6 +88,9 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
             :a/[ :0 - %{n%}: ]* _ ;  ! allow "na{n}>{A}k:nanàk"
             %{Y%}:/[ :0 ]* _ ;
 
+"{Å} as ò after third person (in metathesis environments)"
+%{Å%}:ò <=> %{w%}: %{e%}: %>: : _ ;
+
 "{A} as o after a>{y}"
 %{A%}:o <=> [ :a %{y%}: ]/:0* _ .#. ;  ! sakimawo
 
