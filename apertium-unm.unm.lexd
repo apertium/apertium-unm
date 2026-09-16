@@ -378,7 +378,7 @@ LEXICON VerbInflTI(3)
 :{N}{e}>   >{e}n>a        <s_1sg><o_pl>
 :{k}{e}>   >{e}n          <s_2sg><o_sg>
 :{k}{e}>   >{e}n>a        <s_2sg><o_pl>
-:{w}{e}>   >{e}n>a        <s_3sg><o_sg>
+:{w}{e}>   >{e}n>         <s_3sg><o_sg>
 :{w}{e}>   >{e}n>a        <s_3sg><o_pl>
 :{N}{e}>   >{e}nën        <s_11pl><o_sg>
 :{N}{e}>   >{e}nën>a      <s_11pl><o_pl>
