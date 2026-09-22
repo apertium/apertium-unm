@@ -595,45 +595,45 @@ pèhpichkwik:pèhpichkwik # "(wild) carrot" CHECK: diacritics
 òhtas:òhtas             # "doll"
 
 
-LEXICON NounRoot-Inan
+LEXICON NounRoot-Inan[optPoss]
 
 hèmpës:hèmp{e}s         # "shirt, clothes" pl - hempsa
 ahkwiyàn:ahkwiyàn       # "blanket"
 chipakw:chipakw         # "shoe" pl - chipako
 shohpe:shope            # "shore" pl - shopeyo  Dir/LR
 shohpe:shohpe           # "shore"
-milàxk:milàxk           # "human hair"
+milàxk:milàxk[-optPoss,inherPoss]           # "human hair"
 mixekën:mixekën         # "body hair, fur"
-mamon:mamon             # "eyebrow"
-xkwekankan:xkewkankan   # "neck"
-wananu:wananu           # "cheek" pl - wananuwa
-hwikwi:hwikwi           # "chin"
-shetun:shetun           # "lip"
-wipit:wipit             # "tooth"
-kwitsit:kwitsit         # "toe"
-wiskon:wiskon           # "elbow"
-hwikash:hwikash         # "nail, hoof, claw"
-welench:welench         # "finger"
-ahshilunkon:ahshilunkon # "armpit"
+mamon:mamon[-optPoss,inherPoss]             # "eyebrow"
+xkwekankan:xkewkankan[-optPoss,inherPoss]   # "neck"
+wananu:wananu[-optPoss,inherPoss]           # "cheek" pl - wananuwa
+hwikwi:hwikwi[-optPoss,inherPoss]           # "chin"
+shetun:shetun[-optPoss,inherPoss]           # "lip"
+wipit:wipit[-optPoss,inherPoss]             # "tooth"
+kwitsit:kwitsit[-optPoss,inherPoss]         # "toe"
+wiskon:wiskon[-optPoss,inherPoss]           # "elbow"
+hwikash:hwikash[-optPoss,inherPoss]         # "nail, hoof, claw"
+welench:welench[-optPoss,inherPoss]         # "finger"
+ahshilunkon:ahshilunkon[-optPoss,inherPoss] # "armpit"
 tukwelench:tukwelench   # "fish"
-xkelixen:xkelixen       # "rib"
-xkan:xkan               # "bone"
-mutay:mutay             # "stomach"
-weshkinkw:weshkinkw     # "eye; face" pl - weshkinko
-teh:teh                 # "heart"
-pom:pom                 # "thigh; ham"
-hwikxkon:hwikxkon       # "shin"
-tankat:tankat           # "ankle"
-tuhwepi:tuhwepi         # "body"
-wil:wil                 # "head"
-hopikon:hopikon         # "shoulder"
-hwitaok:hwitaok         # "ear"
-tun:tun                 # "mouth"
-wìkiyon:wìkiyon         # "nose"
-naolk:naolk             # "arm"
-naxk:naxk               # "hand"
-hwikat:hwikat           # "leg"
-wsit:wsit               # "foot"
+xkelixen:xkelixen[-optPoss,inherPoss]       # "rib"
+xkan:xkan[-optPoss,inherPoss]               # "bone"
+mutay:mutay[-optPoss,inherPoss]             # "stomach"
+weshkinkw:weshkinkw[-optPoss,inherPoss]     # "eye; face" pl - weshkinko
+teh:teh[-optPoss,inherPoss]                 # "heart"
+pom:pom[-optPoss,inherPoss]                 # "thigh; ham"
+hwikxkon:hwikxkon[-optPoss,inherPoss]       # "shin"
+tankat:tankat[-optPoss,inherPoss]           # "ankle"
+tuhwepi:tuhwepi[-optPoss,inherPoss]         # "body"
+wil:wil[-optPoss,inherPoss]                 # "head"
+hopikon:hopikon[-optPoss,inherPoss]         # "shoulder"
+hwitaok:hwitaok[-optPoss,inherPoss]         # "ear"
+tun:tun[-optPoss,inherPoss]                 # "mouth"
+wìkiyon:wìkiyon[-optPoss,inherPoss]         # "nose"
+naolk:naolk[-optPoss,inherPoss]             # "arm"
+naxk:naxk[-optPoss,inherPoss]               # "hand"
+hwikat:hwikat[-optPoss,inherPoss]           # "leg"
+wsit:wsit[-optPoss,inherPoss]               # "foot"
 mehemichink:mehemichink # "food"
 shakhùkwiyàn:shakùkwiyàn # "coat"  Conversations version  # Dir/LR
 shakhùkwiyàn:shakùkwiàn # "coat"                 # Dir/LR
