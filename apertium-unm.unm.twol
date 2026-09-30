@@ -46,7 +46,7 @@ EpentheticVs = %{ë%} %{u%} %{ù%} ;
 
 Pers = %{½%} %{³%} %{₃%} ;
 
-ConsWithNoW = %{t%} t w ;
+ConsWithNoW = %{t%} t k w ;
 
 Rules
 
