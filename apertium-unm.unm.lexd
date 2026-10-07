@@ -114,13 +114,17 @@ NumberRoot [+:] Nouns # Dir/LR
 
 PATTERN Nouns
 
-NounRoot-Anim NounInfl-Anim
-NounRoot-Inan NounInfl-Inan
+NounRoot-Anim [ <n><aa>: ] NounInfl-Anim
+NounRoot-Inan [ <n><nn>: ] NounInfl-Inan
 
 NounRoot-Family(1) [ <n><aa><voc>: ]
 
 N-Poss(1) NounRoot-Family(2) [ <n><aa>: ] N-Poss(2) N-Poss(3): N-Poss-Infl
 # Just put a -k after "our", e.g, nichanenak
+
+( N-Poss(1) NounRoot-Inan [ <n><nn>: ] N-Poss(2) N-Poss(3): NounInfl-Inan )[^[inherPoss]]
+( N-Poss(1) NounRoot-Inan [ <n><nn>:{y}ëm ] N-Poss(2) N-Poss(3): NounInfl-Inan )[^[optPoss]]
+( N-Poss(1) NounRoot-Inan [ <n><nn>: ] N-Poss(2) N-Poss(3): NounInfl-Inan )[^[optPoss]] # Dir/LR
 
 
 PATTERN Verbs
@@ -242,19 +246,19 @@ kìshi<vaux>+:kìshi\     # "finish"
 
 LEXICON NounInfl-Anim
 
-<n><aa><sg>:
-<n><aa><sg><loc>:>{I}nk
-<n><aa><sg><gen>:>i
-<n><aa><pl>:>{y}{A}k
-<n><aa><sp><obv>:>{y}{A}
+<sg>:
+<sg><loc>:>{I}nk
+<sg><gen>:>i
+<pl>:>{y}{A}k
+<sp><obv>:>{y}{A}
 
 
 LEXICON NounInfl-Inan
 
-<n><nn><sg>:
-<n><nn><sg><loc>:>{I}nk
-<n><aa><sg><gen>:>i
-<n><nn><pl>:>{y}{A}
+<sg>:
+<sg><loc>:>{I}nk
+<sg><gen>:>i
+<pl>:>{y}{A}
 
 LEXICON VerbInflIICnj(2)  # Conjunct
 
@@ -631,7 +635,7 @@ hwitaok:hwitaok[-optPoss,inherPoss]         # "ear"
 tun:tun[-optPoss,inherPoss]                 # "mouth"
 wìkiyon:wìkiyon[-optPoss,inherPoss]         # "nose"
 naolk:naolk[-optPoss,inherPoss]             # "arm"
-naxk:naxk[-optPoss,inherPoss]               # "hand"
+nàxk:n{w}àxk[-optPoss,inherPoss]            # "hand"
 hwikat:hwikat[-optPoss,inherPoss]           # "leg"
 wsit:wsit[-optPoss,inherPoss]               # "foot"
 mehemichink:mehemichink # "food"
@@ -895,6 +899,7 @@ tukihële:tukihële       <iv><aa> # "wake up"
 ahpikwe:ahpikwe         <iv><aa> # "play a musical instrument"
 #kehtapetune
 khitaptune:khitaptune   <iv><aa> # "insist"
+chipànkël:chipànkël     <iv><aa> # "be sick with some strange disease"
 
 
 LEXICON VerbRootTI(2)
