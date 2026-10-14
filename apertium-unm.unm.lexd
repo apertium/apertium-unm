@@ -526,7 +526,7 @@ LEXICON N-Poss(3)
 :{k}{e}>   :>ëna{n}         <px12pl>
 :{k}{e}>   :>ëwao           <px2pl>
 :{k}{e}>   :>uwa            <px2pl>      # Dir/LR
-:{k}{e}>   :>ëwa            <px2pl>      # Dir/LR  kitisëwa
+:{k}{e}>   :>ëwa            <px2pl>      # Dir/LR  kitisëwa, këmisëwa, kahèsëwa
 :{w}{e}>   :>ëwoo           <px3pl>
 
 
@@ -597,6 +597,7 @@ mikwën:mikwën           # "feather"
 xès:xès                 # "skin"
 pèhpichkwik:pèhpichkwik # "(wild) carrot" CHECK: diacritics
 òhtas:òhtas             # "doll"
+tipas:tipas             # "chicken"
 
 
 LEXICON NounRoot-Inan[optPoss]
@@ -700,6 +701,12 @@ ahpikòn:ahpikòn         # "flute; musical instrument"
 skonteamenaxk:skonteamenaxk  # "gate"  CHECK: N-INAN
 àskàskikw:àskàskikw     # "green vegetables"
 këlëkënikàn:këlëkënikàn # "smoking mixture"
+shukëlàpòn:shukëlàpòn   # "cake"
+panʼkuk:panʼkuk         # "pancake"
+kenamëwakàn:kenamëwakàn # "thankfulness"
+wëlatenamëwakàn:wëlatenamëwakàn  # "happiness"
+wëlamàlsëwakàn:wëlamàlsëwakàn  # "good health"
+pèmihëlak:pèmihëlak     # "airplane"
 
 
 LEXICON NounRoot-Family(2)
@@ -709,10 +716,10 @@ kahes:ana           kahes:k{Å}hes       # "mother"
 ux:nuxa             ux:ux               # "father"
 kwis:nkwis          kwis:kwis           # "son"
 ichan:nichan        ichan:ichan         # "daughter"
-uehm:uma            uhem:uhem           # "grandmother"
+uhem:uma            uhem:uhem           # "grandmother"
 mëxumes:mëxumsa     mëxumes:mëxumes     # "grandfather"
 mis:xatash          mis:m{_w}is         # "older sister"
-xans:xansa          xans:xans           # "older brother"
+xans:xansa          xans:x{Å}ns         # "older brother"
 xisëmës:naxisëmës   xisëmës:x{_w}isëmës # "younger sister/brother/cousin"
 xisëmës:naxisëmës   xisëmës:x{_w}ësëmës # "younger sister/brother/cousin" ! Dir/LR
 itis:itis           itis:itis           # "friend"
@@ -900,6 +907,9 @@ ahpikwe:ahpikwe         <iv><aa> # "play a musical instrument"
 #kehtapetune
 khitaptune:khitaptune   <iv><aa> # "insist"
 chipànkël:chipànkël     <iv><aa> # "be sick with some strange disease"
+pakuwe:pakuwe           <iv><aa> # "make a lot of noise"
+nshukëlàpònhe:nshukëlàpònhe  <iv><aa> # "bake cake"
+pëmihëla:pëmihëla       <iv><aa> # "fly; go by airplane"
 
 
 LEXICON VerbRootTI(2)
