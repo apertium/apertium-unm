@@ -135,7 +135,7 @@ PATTERN Verbs
 # (main)
 
 ## Intransitive
-( PrePreVerbStuff )? :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
+( PrePreVerbStuff [ :\  ] )? :VerbInflAI(1) Preverbs? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAI(2) VerbInflAI(3):
 ## Transitive Inanimate
 :VerbInflTI(1) Preverbs? VerbRootTI(1) [<v>:] VerbRootTI(2): :VerbInflTI(2) VerbInflTI(3):
 ## Transitive Animate
@@ -145,7 +145,7 @@ PATTERN Verbs
 # Subordinate
 
 ## Intransitive
-( PrePreVerbStuff )? :VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) [<subord>:] VerbInflAISub(3):
+( PrePreVerbStuff [ :\  ] )? :VerbInflAISub(1) PreverbsSub? VerbRootAI(1) [<v>:] VerbRootAI(2): :VerbInflAISub(2) [<subord>:] VerbInflAISub(3):
 
 
 :VerbInflTASub(1) PreverbsSub? VerbRootTA(1) [<v>:] VerbRootTA(2): :VerbInflTASub(2) [<subord>:] VerbInflTASub(3):
@@ -299,7 +299,7 @@ LEXICON VerbInflAI(3)
 :          :>{³}>{u}{ʍ}{i}>{y}{A}k  <neg><s_3pl>        # -w-ak (3-pl.anim)
 
 :          :                       <imp><s_2sg>:
-:          :>{i}{l}                <imp><s_2sg>:  # Dir/LR
+:          :>{i}l                  <imp><s_2sg><emph>:
 :          :>{u}kw                 <imp><s_2pl>:
 :          :>{u}tam                <imp><s_1du>:
 :          :>{u}tam>{u}kw          <imp><s_1pl>:
@@ -494,6 +494,14 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >aneyo           <cnj><dir><s_2pl><o_3sp>
 :{k}{e}>   >aneyo           <cnj><dir><s_2pl><o_3sp>
 :{w}{e}>   >{e}n            <subord><dir><s_3sg><o_3sg>   #
+
+:          :>ukw            <imp><s_1pl>
+:          :>i              <imp><s_2sg><o_1sg>
+:          :>inen           <imp><s_2sg><o_1pl>
+:          :>ikw            <imp><s_2sg><o_1sp>
+:          :                <imp><s_2sg><o_3sg>
+:          :>u              <imp><s_2pl><o_3sg>
+:          :>aok            <imp><s_2sg><o_3pl>
 
 
 LEXICON VerbInflTASub(3)   # Subordinative
@@ -781,13 +789,13 @@ pap:pap{IU}             <iv><aa> # "play"
 
 # Lesson 7
 këlëks:këlëks{IU}       <iv><aa> # "laugh"
-melimu:melimw{IU}       <iv><aa> # "cry"
+melimu:melim{w}{IU}     <iv><aa> # "cry"
 hakihe:{TH}akihe        <iv><aa> # "plant"
 alakihel:{t}alakihel{Æ} <iv><aa> # "jump around"
 winewe:winewe           <iv><aa> # "beg/ask"
 
 # 
-kenthw:kenthw{IU}       <iv><aa> # "fly"
+kënthw:kënth{w}{IU}     <iv><aa> # "fly"
 pus:pus{IU}             <iv><aa> # "get into a boat"
 shielìntàm:shielìntàm   <iv><aa> # "be sad"
 welelìntàm:{W}{e}lelìntàm <iv><aa> # "be glad"   ! FIXME
@@ -968,6 +976,7 @@ wàni:wàni               <tv><nn> # "forget it"
 kahpàtu:kahpàtu         <tv><nn> # "pull it out of the water"
 mëne:m{_w}ëne           <tv><nn> # "drink it"  # mwënèn
 manitu:m{Å}nitu         <tv><nn> # "make it"
+wtënëm:wtënëm           <tv><nn> # "pull it"
 
 
 
@@ -1017,6 +1026,9 @@ nën:nën                 <tv><aa> # "recognise; know (someone)"
 wùntama:wùntama{w}      <tv><aa> # "teach"
 ulhal:ulhal             <tv><aa> # "have"
 katupw:katup{w}         <tv><aa> # "want to eat"
+pëna:pëna               <tv><aa> # "look at"
+wtëna:wtëna             <tv><aa> # "pull"
+punih:punih             <tv><aa> # "leave someone alone"
 
 
 LEXICON AdjLex

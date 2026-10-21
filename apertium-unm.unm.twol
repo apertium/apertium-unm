@@ -98,8 +98,9 @@ Vx:Vy <=> :Cons _ [ :Cons :Cons ]/[ :0 - [ EpentheticVs: ] ]* ;
 "{A} as u after m"
 %{A%}:ù <=> m:/[ :0 - %{y%}: ]* _ ;
 
-"w{A} coalesces to o"
+"w{A} coalesces to o" ! and w{IU} coalesces to u"
 w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
+!        Cons:/:0* _ %{IU%}:u/:0* ;
 
 "{IU} as i in p1 and p2, u in p3"
 %{IU%}:Vx <=> _ [ :0 - Pers: ]* Px: ;
@@ -114,8 +115,9 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{IU} deletes if between u{w} and {y}"
 %{IU%}:0 <=> :u %{w%}: _ [ :0 - %{y%}: ]* %{y%}: ;
 
-"{IU} as i in 3rd person negative"
+"{IU} as i in 3rd person negative and when no ½, ₃, ³"
 %{IU%}:i => _ %>: %{³%}: %>: %{u%}: %{ʍ%}: %{i%}: ;
+             _ [ :0 - Pers: ]* .#. ;
 
 "{Æ} as a in p1 and p2, e in p3"
 %{Æ%}:Vx <=> _ [ :0 - [ Pers: ] ]* Px: ;
@@ -123,6 +125,10 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
               Vx in (   a     a     e   )   ! talëmsk_a_neyo
               Px in ( %{½%} %{₃%} %{³%} )
           matched ;
+
+"{Æ} as a when no ½, ₃, ³"
+%{Æ%}:a => _ [ :0 - Pers: ]* .#. ;
+
 
 "{t} deletes when word initial etc."
 %{t%}:0 <=> .#. _ ;                      ! but not after {w}>
