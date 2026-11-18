@@ -9,7 +9,8 @@ reGloss = re.compile(r"\"(.*)\"")
 re2ndCol = re.compile(r".*?\s+(<.*>)")
 entryline = "<e><l>{}{}</l><r>{}{}</r></e>"
 tagtemplate = "<s n=\"{}\"/>"
-
+removeWordList = r"someone|something|it|oneself|\?"
+removeWords = re.compile(r"( ("+removeWordList+")|("+removeWordList+") |("+removeWordList+"))")
 taglist = {
 	"AdjMorph": (["adj"], ["adj"]),
 	"Preverb-Lex": (["vaux"], ["vbmod"]),
@@ -72,9 +73,11 @@ with open(os.path.join("../", "apertium-"+lang1+"."+lang1+".lexd"), 'r') as lexd
 							result = reGloss.search(line[1].strip())
 							if result:
 								lang2lemmas = result.group(1)
-								for lemma in re.split("[,;]", lang2lemmas):
+								for lemma in re.split("[,;/]", lang2lemmas):
 									lemma = re.sub(r"\(.*?\)", "", lemma)
 									lemma = lemma.strip(' !')
+									lemma = removeWords.sub("", lemma)
+									#print(lemma)
 									lang2lemma = lemma.replace(" ", "<b/>")
 									outline = entryline.format(lang1lemma, lang1tags, lang2lemma, lang2tags)
 									print(outline)
