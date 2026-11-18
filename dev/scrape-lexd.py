@@ -9,7 +9,7 @@ reGloss = re.compile(r"\"(.*)\"")
 re2ndCol = re.compile(r".*?\s+(<.*>)")
 entryline = "<e><l>{}{}</l><r>{}{}</r></e>"
 tagtemplate = "<s n=\"{}\"/>"
-removeWordList = r"someone|something|it|oneself|\?"
+removeWordList = r"someone|something|(\ it)|oneself|\?"
 removeWords = re.compile(r"( ("+removeWordList+")|("+removeWordList+") |("+removeWordList+"))")
 taglist = {
 	"AdjMorph": (["adj"], ["adj"]),
@@ -63,6 +63,7 @@ with open(os.path.join("../", "apertium-"+lang1+"."+lang1+".lexd"), 'r') as lexd
 					if ":" in lexdline:
 						lang1lemma = uncommentedline.split(':')[0]
 						lang1lemma = lang1lemma.replace("\\ ", "<b/>")
+						lang1lemma = lang1lemma.replace("<vaux>+", "<b/>")
 						if len(line)>1:
 							if lexname in extraTags and " " in line[0]:
 								#print(line[0])
