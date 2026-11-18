@@ -11,6 +11,7 @@ entryline = "<e><l>{}{}</l><r>{}{}</r></e>"
 tagtemplate = "<s n=\"{}\"/>"
 removeWordList = r"someone|something|(\ it)|oneself|\?"
 removeWords = re.compile(r"( ("+removeWordList+")|("+removeWordList+") |("+removeWordList+"))")
+dontParse = re.compile(r"[<>]")
 taglist = {
 	"AdjMorph": (["adj"], ["adj"]),
 	"Preverb-Lex": (["vaux"], ["vbmod"]),
@@ -53,7 +54,7 @@ with open(os.path.join("../", "apertium-"+lang1+"."+lang1+".lexd"), 'r') as lexd
 			elif "PATTERN" in uncommentedline and "PATTERNS" not in uncommentedline:
 				tags = None
 			else:
-				if tags:
+				if tags and "+" not in lexdline:
 					lang1tags = ""
 					lang2tags = ""
 					for tag in tags[0]:
