@@ -461,9 +461,9 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >a>w>aok         <dir><s_2pl><o_3pl>          # Dir/LR CHECK: was >a>w>a
 :{k}{e}>   >a>w>aok         <dir><s_2pl><o_3pl>          # CHECK
 :{w}{e}>   >a>w>oo          <dir><s_3pl>
-:{w}{e}>   >a>w>ao          <dir><s_3pl>                # Dir/LR
+:{w}{e}>   >a>w>ao          <dir><s_3pl>                 # Dir/LR
 
-
+# all subjs are 3rd person
 :{N}{e}>   >ùk>w            <inv><o_1sg><s_sg>
 :{N}{e}>   >ùk              <inv><o_1sg><s_sg>    # Dir/LR
 :{N}{e}>   >{ù}kùk>w        <inv><o_1sg><s_pl>    # -ëk-w-àk -inv-3-pl.anim
@@ -480,7 +480,7 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >ku>nanàk        <inv><o_12pl><s_pl>
 :{k}{e}>   >ku>w>a          <inv><o_2pl><s_sg>
 :{k}{e}>   >ku>w>a>ok       <inv><o_2pl><s_pl>
-:{w}{e}>   >ku>w>oo         <inv><o_3pl>
+:{w}{e}>   >ku>w>oo         <inv><o_3pl>          # sg/pl subject
 
 :{k}{e}>   >el              <dir><s_1sg><o_2sg>
 :{k}{e}>   >el>humo         <dir><s_1sg><o_2pl>
@@ -570,6 +570,7 @@ ketukw:ket{u}kw         # "knee" pl - ketkuk
 chahkol:chahkol         # "frog"
 chulëns:chulëns         # "bird"
 mwekane:mwekane         # "dog"
+mwekanètët:mwekanètët   # "puppy"
 xanikw:xanikw           # "squirrel"
 chinkwe:chinkwe         # "bobcat"
 shkakw:shkakw           # "skunk"
@@ -715,6 +716,9 @@ kenamëwakàn:kenamëwakàn # "thankfulness"
 wëlatenamëwakàn:wëlatenamëwakàn  # "happiness"
 wëlamàlsëwakàn:wëlamàlsëwakàn  # "good health"
 pèmihëlak:pèmihëlak     # "airplane"
+puhùntèk:puhùntèk       # "room; office"
+pampil:pampil           # "paper"
+maehëlan:maehëlan       # "meeting; gathering; assembly"
 
 
 LEXICON NounRoot-Family(2)
@@ -918,6 +922,7 @@ chipànkël:chipànkël     <iv><aa> # "be sick with some strange disease"
 pakuwe:pakuwe           <iv><aa> # "make a lot of noise"
 nshukëlàpònhe:nshukëlàpònhe  <iv><aa> # "bake cake"
 pëmihëla:pëmihëla       <iv><aa> # "fly; go by airplane"
+chaksitèxi:chaksitèxi   <iv><aa> # "bump one's foot"
 
 
 LEXICON VerbRootTI(2)
@@ -1029,6 +1034,8 @@ katupw:katup{w}         <tv><aa> # "want to eat"
 pëna:pëna               <tv><aa> # "look at"
 wtëna:wtëna             <tv><aa> # "pull"
 punih:punih             <tv><aa> # "leave someone alone"
+pèchim:pèchim           <tv><aa> # "call to oneself"
+pahòka:pahòka           <tv><aa> # "be affectionate to someone"
 
 
 LEXICON AdjLex
@@ -1047,6 +1054,8 @@ mamal:mamal            # "be striped"
 sësàp:sësàp            # "be spotted"
 wël:wël                # "be pretty"    wëlesu
 # FIXME: add shiki somehow?
+alàx:alàx              # "be empty"
+xuw:xuw                # "be old"
 
 ahpu:ahpu              # "be baked"
 salà:salà              # "be fried"
@@ -1062,9 +1071,10 @@ chpi:chpi              # "be different; be strange"
 ahw:ahw                # "be a thicket; be timber?"
 làhpiku:làhpiku        # "grow fast"
 
-# Figure out what to do with:
+# FIXME: Figure out what to do with:
 # - mahtapàn - be bad weather
 # - sukëlan - rain
+# - tupàn - to be frost
 
 LEXICON AdjLex-Cooking
 
@@ -1198,7 +1208,7 @@ tpukwe:tpukwe     # "last night"
 chëweyunk:chëweyunk  # "up the hill"
 kwëni:kwëni       # "long; for a long time"
 nochi:nochi       # "since then"
-salàxki:salàxki   # "suddenly"
+salàxki:salàxki   # "suddenly; all at once"
 làhpi:làhpi       # "quickly"
 matanake:matanake # "after a while"
 lahapa:lahapa     # "for a while"
@@ -1206,6 +1216,8 @@ ahsenike:ahsenike # "among the rocks" # FIXME: technically compositional
 
 alàpae:alàpae     # "early in the morning"
 alàpa:alàpa       # "tomorrow"
+xuha:xuha         # "alone"
+wèski:wèski       # "a while back; a while ago; newly"
 
 
 LEXICON CnjLex(2)
