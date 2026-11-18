@@ -443,25 +443,25 @@ LEXICON VerbInflTISubj(2)  # Subjunctive
 
 LEXICON VerbInflTA(3)
 
-:{N}{e}>   >a               <dir><s_1sg><o_3sg>      # -dir-3  -a-w
-:{N}{e}>   >a>o>k           <dir><s_1sg><o_3pl>
-:{k}{e}>   >a               <dir><s_2sg><o_3sg>
-:{k}{e}>   >a>o>k           <dir><s_2sg><o_3pl>
-:{w}{e}>   >a>o             <dir><s_3sg><o_3sg>
-:{w}{e}>   >a>o             <dir><s_3sg><o_3pl>           # Dir/LR
-:{w}{e}>   >a>o>k           <dir><s_3sg><o_3pl>
-:{N}{e}>   >a>w>ëna         <dir><s_11pl><o_3sg>
-:{N}{e}>   >a>w>na          <dir><s_11pl><o_3sg>          # Dir/LR
+:{N}{e}>   >{a}               <dir><s_1sg><o_3sg>      # -dir-3  -a-w
+:{N}{e}>   >{a}>o>k           <dir><s_1sg><o_3pl>
+:{k}{e}>   >{a}               <dir><s_2sg><o_3sg>
+:{k}{e}>   >{a}>o>k           <dir><s_2sg><o_3pl>
+:{w}{e}>   >{a}>o             <dir><s_3sg><o_3sg>
+:{w}{e}>   >{a}>o             <dir><s_3sg><o_3pl>           # Dir/LR
+:{w}{e}>   >{a}>o>k           <dir><s_3sg><o_3pl>
+:{N}{e}>   >{a}>w>ëna         <dir><s_11pl><o_3sg>
+:{N}{e}>   >{a}>w>na          <dir><s_11pl><o_3sg>          # Dir/LR
 #:{N}{e}>   >a>o>hëna        <dir><s_11pl><o_3sg>     # Dir/LR  cf. nëmàxkaohëna (??)
-:{N}{e}>   >a>w>ënanàk      <dir><s_11pl><o_3pl>
-:{k}{e}>   >a>w>ena         <dir><s_12pl><o_3sg>
-:{k}{e}>   >a>w>na          <dir><s_12pl><o_3sg>         # Dir/LR
-:{k}{e}>   >a>w>ënanàk      <dir><s_12pl><o_3pl>
-:{k}{e}>   >a>w>a           <dir><s_2pl><o_3sg>
-:{k}{e}>   >a>w>aok         <dir><s_2pl><o_3pl>          # Dir/LR CHECK: was >a>w>a
-:{k}{e}>   >a>w>aok         <dir><s_2pl><o_3pl>          # CHECK
-:{w}{e}>   >a>w>oo          <dir><s_3pl>
-:{w}{e}>   >a>w>ao          <dir><s_3pl>                 # Dir/LR
+:{N}{e}>   >{a}>w>ënanàk      <dir><s_11pl><o_3pl>
+:{k}{e}>   >{a}>w>ena         <dir><s_12pl><o_3sg>
+:{k}{e}>   >{a}>w>na          <dir><s_12pl><o_3sg>         # Dir/LR
+:{k}{e}>   >{a}>w>ënanàk      <dir><s_12pl><o_3pl>
+:{k}{e}>   >{a}>w>a           <dir><s_2pl><o_3sg>
+:{k}{e}>   >{a}>w>aok         <dir><s_2pl><o_3pl>          # Dir/LR CHECK: was >a>w>a
+:{k}{e}>   >{a}>w>aok         <dir><s_2pl><o_3pl>          # CHECK
+:{w}{e}>   >{a}>w>oo          <dir><s_3pl>
+:{w}{e}>   >{a}>w>ao          <dir><s_3pl>                 # Dir/LR
 
 # all subjs are 3rd person
 :{N}{e}>   >ùk>w            <inv><o_1sg><s_sg>
@@ -482,8 +482,8 @@ LEXICON VerbInflTA(3)
 :{k}{e}>   >ku>w>a>ok       <inv><o_2pl><s_pl>
 :{w}{e}>   >ku>w>oo         <inv><o_3pl>          # sg/pl subject
 
-:{k}{e}>   >el              <dir><s_1sg><o_2sg>
-:{k}{e}>   >el>humo         <dir><s_1sg><o_2pl>
+:{k}{e}>   >{E}l              <dir><s_1sg><o_2sg>
+:{k}{e}>   >{E}l>humo         <dir><s_1sg><o_2pl>
 :{k}{e}>   >i               <dir><s_2sg><o_1sg>
 :{k}{e}>   >i>hëna          <dir><s_2sg><o_1pl>
 :{k}{e}>   >el>uhëna        <dir><s_1pl><o_2sg>
