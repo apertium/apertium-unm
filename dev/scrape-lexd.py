@@ -7,7 +7,7 @@ lang1="unm"
 lang2="eng"
 reGloss = re.compile(r"\"(.*)\"")
 re2ndCol = re.compile(r".*?\s+(<.*>)")
-entryline = "<e><l>{}{}</l><r>{}{}</r></e>"
+entryline = "<e><p><l>{}{}</l><r>{}{}</r></p></e>"
 tagtemplate = "<s n=\"{}\"/>"
 removeWordList = r"someone|something|(\ it)|oneself|\?"
 removeWords = re.compile(r"( ("+removeWordList+")|("+removeWordList+") |("+removeWordList+"))")
