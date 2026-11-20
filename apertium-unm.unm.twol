@@ -156,6 +156,10 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
             :u :0* _ ;
             _ %{e%}:? :0* ConsWithNoW: ;
             _ %{e%}:? :Cons/[ :0 - %{w%}: ]* %{%_w%}: ;
+            _ .#. ;      ! katup
+            _ :0* :u ;   ! katupu
+            _ %>: %{a%}: ;  ! katupo, mimho
+
 
 "realise {w} in metathesised position"
 %{%_w%}:w <=> %{w%}: :Cons/[ :0 - %{%_w%}: ]* _ ;
@@ -215,8 +219,9 @@ a:o <=> %{Y%}: %>: _ ;
 %{a%}:0 <=> _ :0* %{IU%}:u ;
             :Vows %>: _ \.#. ;
 
-"{a} as o when after stem-final a and at end of word"
+"{a} as o when after stem-final a and at end of word and after {w}"
 %{a%}:o <=> :a %>: _ .#. ;
+            %{w%}: %>: _ ;  ! m:m i:i m:m h:h {w}:0 >:0 a:o
 
 "stem-final a deletes before {E}"
 a:0 <=> _ %>: %{E%}: ;
