@@ -196,12 +196,6 @@ w:0 <=> Cons:/:0* _ %{A%}:/:0* ;
 "{K} as k only after n"
 %{K%}:k <=> :n :0* _ ;
 
-"Y as w before a"       ! FIXME: check how neyo/new- works
-%{Y%}:w <=> _ :0* [ :a | :e ] ;
-
-"a as o after {Y}"
-a:o <=> %{Y%}: %>: _ ;
-
 "{i} as a i after {IU} or i-final verb"
 %{i%}:i <=> [ %{IU%}: | i: ] %>: [ %{½%}: | %{³%}: ] %>: %{u%}: %{ʍ%}: _ ;
 
@@ -215,13 +209,32 @@ a:o <=> %{Y%}: %>: _ ;
 "{I} deletes after a vowel"
 %{I%}:0 <=> :Vows :0* _ ;
 
-"{a} deletes before {IU} when it's u (otherwise it's a); also after vowels (across a suffix boundary)"
+"Y as w before a"       ! FIXME: check how neyo/new- works
+%{Y%}:w <=> _ :0* [ :a | :e | :ë ] ;
+            _ .#. ;    ! new
+
+"Y as h before k"
+%{Y%}:h <=> _ :0* :k ;   ! nèhkunkwe
+
+"e as è before %{Y%}:h"
+e:è <=> _ %{Y%}:h ;      ! nèhkòne
+
+"no Y before i"
+%{Y%}:0 <=> _ :0* [ i | è ] ;  ! neite, neinèn, neèkwe
+
+"{a} as o after {Y}"
+%{a%}:o <=> 
+
+"{a} deletes before {IU}:u (otherwise {a}:a); also after vowels (across a suffix boundary)"
 %{a%}:0 <=> _ :0* %{IU%}:u ;
             :Vows %>: _ \.#. ;
+        except
+            [ %{w%}: | %{Y%}: ] %>: _ ; ! avoids conflict with {a}:o
 
 "{a} as o when after stem-final a and at end of word and after {w}"
 %{a%}:o <=> :a %>: _ .#. ;
-            %{w%}: %>: _ ;  ! m:m i:i m:m h:h {w}:0 >:0 a:o
+            %{w%}: %>: _ ;  !@ m:m i:i m:m h:h {w}:0 >:0 a:o
+            %{Y%}: %>: _ ;  !@ {N}:0 {e}:0 >:0 n:n e:e {Y}:y >:0 {a}:o
 
 "stem-final a deletes before {E}"
 a:0 <=> _ %>: %{E%}: ;
