@@ -1013,7 +1013,7 @@ ahkw:ahkw               <tv><aa> # "wear"
 
 wishal:wishal           <tv><aa> # "scare, frighten"
 el:{t}{e}l              <tv><aa> # "say, tell"
-mimh:mimh               <tv><aa> # "eat (experiential)"
+mimhw:mimh{w}           <tv><aa> # "eat (experiential); eat multiple times"
 mhuw:hmuw               <tv><aa> # "eat" Dir/LR
 mhuw:mhuw               <tv><aa> # "eat"
 mhuw:muhw               <tv><aa> # "eat" Dir/LR
